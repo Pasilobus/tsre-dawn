@@ -233,7 +233,7 @@
     "related-products": {
       "type": "related-products",
       "custom_css": [
-        "h2 {text-align: center; }"
+        "h2 {text-align: center;}"
       ],
       "settings": {
         "heading": "<strong>START YOUR FLORIDA REAL ESTATE CAREER<\/strong>",
@@ -443,6 +443,65 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "03871ee9-3224-43f9-9e3b-e3f10e48cf62": {
+      "type": "image-with-text",
+      "blocks": {
+        "3ce0860a-3604-4f86-a38f-fe4e6aa35ca2": {
+          "type": "caption",
+          "settings": {
+            "caption": "RECOMMENDED STRATEGY TO PASS EXAMS ON FIRST TRY",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16705787953404__03871ee9-3224-43f9-9e3b-e3f10e48cf62-1681478257a7bb11ec-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>PASS FIRST TRY STRATEGY<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16705787953404__03871ee9-3224-43f9-9e3b-e3f10e48cf62-1681478257a7bb11ec-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Learn the Information<\/p><p>Review Along the Way<\/p><p>Test Your Knowledge<\/p><p>Be Confident & Prepared<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16705787953404__03871ee9-3224-43f9-9e3b-e3f10e48cf62-1681478257a7bb11ec-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "3ce0860a-3604-4f86-a38f-fe4e6aa35ca2",
+        "template--16705787953404__03871ee9-3224-43f9-9e3b-e3f10e48cf62-1681478257a7bb11ec-0",
+        "template--16705787953404__03871ee9-3224-43f9-9e3b-e3f10e48cf62-1681478257a7bb11ec-1",
+        "template--16705787953404__03871ee9-3224-43f9-9e3b-e3f10e48cf62-1681478257a7bb11ec-2"
+      ],
+      "custom_css": [
+        ".image-with-text {background: #0f4529;}",
+        "h2, p {color: #f4fe53;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Add_the_PassFirstTry.com_Exam_Prep_Bundle_1080x_f754d0da-449a-4244-a591-12d1167532b8.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -454,6 +513,7 @@
     "image-with-text",
     "eedef890-7ec1-4438-9623-85064295f882",
     "68c47d31-68ab-4abf-9c3d-04c8537c1303",
-    "4cedd084-a584-4349-a5c7-48bba3ee06f7"
+    "4cedd084-a584-4349-a5c7-48bba3ee06f7",
+    "03871ee9-3224-43f9-9e3b-e3f10e48cf62"
   ]
 }
