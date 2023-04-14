@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6,
   content: none;
 }
 
-.image-with-text__text--caption.caption-with-letter-spacing,
-.inline-richtext.caption-with-letter-spacing {
+.caption-with-letter-spacing.inline-richtext,
+.caption-with-letter-spacing.image-with-text__text--caption {
   margin-bottom: 1rem;
 }
