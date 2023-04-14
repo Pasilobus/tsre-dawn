@@ -4,7 +4,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .button--primary {
-  --color-button: var(--color-base-accent-1);
+  --color-button: var(--color-base-accent-2);
   --color-button-text: var(--color-base-outline-button-labels);
   
   text-transform: uppercase;
