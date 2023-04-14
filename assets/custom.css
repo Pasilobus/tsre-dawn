@@ -1,28 +1,30 @@
-h1, h2, h3, h4, h5, .h0, .h1, .h2, .h3, .h4, .h5 {
+h1, h2, h3, h4, h5, h6, 
+.h0, .h1, .h2, .h3, .h4, .h5, .h6 {
     letter-spacing: 0px;
+}
+
+.button--primary {
+  --color-button: var(--color-base-accent-1);
+  --color-button-text: var(--color-base-outline-button-labels);
+  
+  text-transform: uppercase;
+}
+
+.media>*:not(.zoom):not(.deferred-media__poster-button), .media model-viewer {
+  display: block;
+  max-width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: auto;
+  width: 100%;
 }
 
 .button--primary::after {
   content: none;
 }
 
-.button--primary {
-  background: #e3ec4d;
-  color: black !important;
-  border: none !important;
-  text-transform: uppercase;
-}
-
-.media>*:not(.zoom):not(.deferred-media__poster-button), .media model-viewer {
-    display: block;
-    max-width: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: auto;
-    width: 100%;
-}
-
-.image-with-text__text--caption, .caption-with-letter-spacing {
-  margin-bottom: 1rem !important;
+.caption-with-letter-spacing,
+.image-with-text__text--caption {
+  margin-bottom: 1rem;
 }
