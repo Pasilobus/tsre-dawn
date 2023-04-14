@@ -400,6 +400,9 @@
         "template--16705787363580__1a79dca4-04c4-4566-a56b-61eaa6718f6e-168144390525dde2fa-1",
         "template--16705787363580__1a79dca4-04c4-4566-a56b-61eaa6718f6e-168144390525dde2fa-2"
       ],
+      "custom_css": [
+        ".media > img {object-fit: contain;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/TSRE_Grads.jpg",
         "height": "adapt",
