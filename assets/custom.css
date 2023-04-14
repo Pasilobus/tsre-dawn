@@ -10,16 +10,6 @@ h1, h2, h3, h4, h5, h6,
   text-transform: uppercase;
 }
 
-.media>*:not(.zoom):not(.deferred-media__poster-button), .media model-viewer {
-  display: block;
-  max-width: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: auto;
-  width: 100%;
-}
-
 .button--primary::after {
   content: none;
 }
