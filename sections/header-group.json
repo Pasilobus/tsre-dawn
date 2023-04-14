@@ -16,8 +16,11 @@
       "block_order": [
         "announcement-bar-0"
       ],
+      "custom_css": [
+        "p {color: #0f4529 ;}"
+      ],
       "settings": {
-        "color_scheme": "background-2",
+        "color_scheme": "accent-2",
         "show_line_separator": true,
         "auto_rotate": false,
         "change_slides_speed": 5
