@@ -296,6 +296,101 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "b002e3c7-3e24-4679-aac9-8a7b4aa8e7ab": {
+      "type": "rich-text",
+      "blocks": {
+        "0e804ba5-22ad-492f-8303-2023b86ea8db": {
+          "type": "caption",
+          "settings": {
+            "caption": "Become the next success story",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--16705787363580__b002e3c7-3e24-4679-aac9-8a7b4aa8e7ab-1681443817d4e91d48-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "TSRE Reviews",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "0e804ba5-22ad-492f-8303-2023b86ea8db",
+        "template--16705787363580__b002e3c7-3e24-4679-aac9-8a7b4aa8e7ab-1681443817d4e91d48-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "422beed6-4b00-4b21-b2ee-245427b6c88b": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script defer async src=\"https:\/\/cdn.trustindex.io\/loader.js?8824a1512a428172f3664d8cda4\"><\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 28,
+        "padding_bottom": 52
+      }
+    },
+    "1a79dca4-04c4-4566-a56b-61eaa6718f6e": {
+      "type": "image-with-text",
+      "blocks": {
+        "44697073-34d1-49de-9efd-3432f4036198": {
+          "type": "caption",
+          "settings": {
+            "caption": "Become a Real State Agent in Florida",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--16705787363580__1a79dca4-04c4-4566-a56b-61eaa6718f6e-168144390525dde2fa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FL Real State License",
+            "heading_size": "h1"
+          }
+        },
+        "template--16705787363580__1a79dca4-04c4-4566-a56b-61eaa6718f6e-168144390525dde2fa-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Ready to become a real estate agent?<\/strong> <\/p><p>Learn the steps and requirements to earn your Florida Real Estate License. Get answers to questions about the courses, fingerprinting, application, exams, and launching your real estate career.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16705787363580__1a79dca4-04c4-4566-a56b-61eaa6718f6e-168144390525dde2fa-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View License Steps",
+            "button_link": "shopify:\/\/pages\/florida-real-estate-license"
+          }
+        }
+      },
+      "block_order": [
+        "44697073-34d1-49de-9efd-3432f4036198",
+        "template--16705787363580__1a79dca4-04c4-4566-a56b-61eaa6718f6e-168144390525dde2fa-0",
+        "template--16705787363580__1a79dca4-04c4-4566-a56b-61eaa6718f6e-168144390525dde2fa-1",
+        "template--16705787363580__1a79dca4-04c4-4566-a56b-61eaa6718f6e-168144390525dde2fa-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/TSRE_Grads.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -307,6 +402,9 @@
     "32c5e410-519b-4259-806f-f0d0724afe16",
     "c683541c-d64e-4561-b9c2-ec8dbd34300a",
     "d51ce574-b4cb-4630-9f1c-418e14aa1c68",
-    "c9c92a5f-daed-4130-b975-a416e8cb2efb"
+    "c9c92a5f-daed-4130-b975-a416e8cb2efb",
+    "b002e3c7-3e24-4679-aac9-8a7b4aa8e7ab",
+    "422beed6-4b00-4b21-b2ee-245427b6c88b",
+    "1a79dca4-04c4-4566-a56b-61eaa6718f6e"
   ]
 }
