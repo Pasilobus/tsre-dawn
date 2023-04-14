@@ -658,85 +658,69 @@
         "padding_bottom": 36
       }
     },
-    "a9e6c672-8cee-47b0-8230-32d7642d90d9": {
-      "type": "image-banner",
+    "5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6": {
+      "type": "newsletter",
       "blocks": {
-        "template--16705787363580__a9e6c672-8cee-47b0-8230-32d7642d90d9-1681444744e3c2dd7d-0": {
+        "template--16705787363580__5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6-1681445926bc637787-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Subscribe to TSRE",
             "heading_size": "h1"
           }
         },
-        "template--16705787363580__a9e6c672-8cee-47b0-8230-32d7642d90d9-1681444744e3c2dd7d-1": {
-          "type": "text",
+        "template--16705787363580__5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6-1681445926bc637787-1": {
+          "type": "paragraph",
           "settings": {
-            "text": "<p>Give customers details about the banner image(s) or content on the template.<\/p>",
-            "text_style": "body"
+            "text": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>"
           }
         },
-        "template--16705787363580__a9e6c672-8cee-47b0-8230-32d7642d90d9-1681444744e3c2dd7d-2": {
-          "type": "buttons",
+        "template--16705787363580__5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6-1681445926bc637787-2": {
+          "type": "email_form",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "template--16705787363580__a9e6c672-8cee-47b0-8230-32d7642d90d9-1681444744e3c2dd7d-0",
-        "template--16705787363580__a9e6c672-8cee-47b0-8230-32d7642d90d9-1681444744e3c2dd7d-1",
-        "template--16705787363580__a9e6c672-8cee-47b0-8230-32d7642d90d9-1681444744e3c2dd7d-2"
+        "template--16705787363580__5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6-1681445926bc637787-0",
+        "template--16705787363580__5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6-1681445926bc637787-1",
+        "template--16705787363580__5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6-1681445926bc637787-2"
       ],
       "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "f5439a72-b673-40a2-80a7-1553851751d9": {
       "type": "rich-text",
       "blocks": {
+        "3c9d51ec-5061-4664-b5a7-79b60f1ee2c3": {
+          "type": "caption",
+          "settings": {
+            "caption": "Set yourself apart as a TSRE alumni",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
         "template--16705787363580__f5439a72-b673-40a2-80a7-1553851751d9-1681443817d4e91d48-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "TSRE Advantage",
             "heading_size": "h1"
           }
         },
         "template--16705787363580__f5439a72-b673-40a2-80a7-1553851751d9-1681443817d4e91d48-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--16705787363580__f5439a72-b673-40a2-80a7-1553851751d9-1681443817d4e91d48-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>Our comprehensive course curriculum covers the topics you need to know in order to become a successful real estate agent and provides ongoing support for any questions you may have.<br\/><br\/>We understand that starting a new career can be intimidating, but there’s no need to worry! The courses are designed with beginners in mind, so even if you don’t have prior experience, you can get the skills and knowledge needed to make a name for yourself in real estate.<br\/><\/p><p>So what are you waiting for? Become a licensed Florida Realtor today and start making an impact on people’s lives! Register now to begin your journey with TSRE! With our knowledgeable community of professionals, you’ll be on your way to success in no time.<\/p><p>We look forward to having you join us. We know that starting a real estate career can seem overwhelming at times. That’s why we provide personalized mentorship and guidance every step of the way.<\/p><p>Our instructors are experienced in the field and passionate about helping others acquire the skills needed to succeed. We pride ourselves on providing quality real estate education so you can feel confident in your investments, decisions, and future success. With our courses, you’ll learn everything from how to find properties and secure deals to managing customers and closing transactions.<\/p><p>Get started with the basics in your pre-licensing course, but as soon as you're licensed, you can enroll in post-licensing to start learning more about building your real estate business.<\/p>"
           }
         }
       },
       "block_order": [
+        "3c9d51ec-5061-4664-b5a7-79b60f1ee2c3",
         "template--16705787363580__f5439a72-b673-40a2-80a7-1553851751d9-1681443817d4e91d48-0",
-        "template--16705787363580__f5439a72-b673-40a2-80a7-1553851751d9-1681443817d4e91d48-1",
-        "template--16705787363580__f5439a72-b673-40a2-80a7-1553851751d9-1681443817d4e91d48-2"
+        "template--16705787363580__f5439a72-b673-40a2-80a7-1553851751d9-1681443817d4e91d48-1"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -767,7 +751,7 @@
     "21eac033-428f-42d9-8a6b-94cf2311d87d",
     "12a8abbf-edf1-4411-b6b5-c194d03cb905",
     "35cec08c-8404-4e96-a5da-458b5490fc29",
-    "a9e6c672-8cee-47b0-8230-32d7642d90d9",
+    "5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6",
     "f5439a72-b673-40a2-80a7-1553851751d9"
   ]
 }
