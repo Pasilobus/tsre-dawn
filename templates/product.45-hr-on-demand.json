@@ -48,7 +48,6 @@
         },
         "description": {
           "type": "description",
-          "disabled": true,
           "settings": {
           }
         },
@@ -502,6 +501,208 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "16b56042-9cf4-42b6-abd4-ddac5ae26abc": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16706509832444__16b56042-9cf4-42b6-abd4-ddac5ae26abc-16815124037d776135-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FAQ",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--16706509832444__16b56042-9cf4-42b6-abd4-ddac5ae26abc-16815124037d776135-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "4c191d3d-fec1-4871-8d75-408f33382ceb": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16706509832444__4c191d3d-fec1-4871-8d75-408f33382ceb-1681512236f2d3d139-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What's required to complete your post license requirement in Florida?",
+            "icon": "question_mark",
+            "row_content": "<p>For your first license renewal, you must complete 45 hours of FREC approved post licensing education. <\/p>",
+            "page": ""
+          }
+        },
+        "f5b2c247-bcc7-4c54-a6cb-7bebe5441c7b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I get my complete my real estate post licensing online?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes. You can complete the course and end of course exam online. We'll report your hours to the DBPR. You'll just need to remember to pay your renewal fee with the DBPR before your license expires.<\/p>",
+            "page": ""
+          }
+        },
+        "3e922800-6995-43f3-9164-9b213ae0a6f1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much does it cost to become a real estate agent in Florida?",
+            "icon": "question_mark",
+            "row_content": "<p>On top of the cost fo your FREC required course, there are a few other expenses to obtain your Florida Real Estate License. <\/p><p><a href=\"https:\/\/fingerprintsbylivescan.com\/products\/new-tampa-real-estate-fingerprinting\" target=\"_blank\" title=\"FL Real Estate License Fingerprinting\"><strong>Fingerprints <\/strong>$85.50<\/a><\/p><p><a href=\"https:\/\/www.myfloridalicense.com\/CheckListDetail.asp?SID=&xactCode=1010&clientCode=2501&XACT_DEFN_ID=744\" target=\"_blank\" title=\"https:\/\/www.myfloridalicense.com\/CheckListDetail.asp?SID=&xactCode=1010&clientCode=2501&XACT_DEFN_ID=744\"><strong>State Application <\/strong>$83.75<\/a><\/p><p><a href=\"https:\/\/home.pearsonvue.com\/fl\/realestate\" target=\"_blank\" title=\"Florida Real Estate License Application\"><strong>State Exam <\/strong>$36.75<\/a><\/p><p><a href=\"\/products\/pass-first-try-exam-prep-package-for-sales-associates\" target=\"_blank\" title=\"Pass First Try Package | Real Estate Exam Prep For Sales Associates\"><strong>Recommended Exam Prep<\/strong><\/a><\/p><p>These amounts are estimates, please contact us for the most up to date state fees and costs.<\/p>",
+            "page": ""
+          }
+        },
+        "40b21378-1300-4f2e-b44a-b34cbc72b956": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does it take to become a real estate agent in Florida?",
+            "icon": "question_mark",
+            "row_content": "<p>Some of our past students have completed the licensing process in as little as 30 days. Especially with the help of the <a href=\"\/products\/pass-first-try-exam-prep-package-for-sales-associates\" target=\"_blank\" title=\"Pass First Try Package | Real Estate Exam Prep For Sales Associates\">Pass First Try Exam Prep Tools<\/a> to streamline your studying, this process can be completed quickly.<\/p><p>Use these tips to expedite the licensing process:<\/p><p>1) Enroll in the course as soon as possible as this typically takes the longest to complete.<\/p><p>2) <a href=\"https:\/\/fingerprintsbylivescan.com\/products\/new-tampa-real-estate-fingerprinting\" target=\"_blank\" title=\"FL Real Estate License Fingerprinting\">Get you fingerprints taken<\/a> either before or as soon as you enroll in a course.<\/p><p>3) Wait 5 days after submitting your fingerprints then <a href=\"https:\/\/www.myfloridalicense.com\/CheckListDetail.asp?SID=&xactCode=1010&clientCode=2501&XACT_DEFN_ID=744\" target=\"_blank\" title=\"FL Real Estate License Application\">submit your application<\/a> for your Florida Real Estate license on the state's website.<\/p><p>4) The application can take up to 90 days but is typically processed in about 7-30 days depending.<\/p><p>5) Once your application is approved you can <a href=\"https:\/\/home.pearsonvue.com\/fl\/realestate\" target=\"_blank\" title=\"Schedule FL Real Estate Exam\">schedule your state exam<\/a>. You do not have to be finished with the course to schedule but you must have your course completion before you will be able to take the exam.<\/p><p>6) Allow at least one day between taking your end of course exam and your state exam.<\/p><p>7) Make sure to study the <a href=\"\/products\/pass-first-try-exam-prep-package-for-sales-associates\" target=\"_blank\" title=\"Pass First Try Package | Real Estate Exam Prep For Sales Associates\">Pass First Try Exam Prep Tools<\/a> as you progress through the course.<\/p><p>8) Review every day leading up to the exam to keep the information fresh.<\/p><p>9) If you don't pass on the first try, don't get discouraged! Get another exam appointment and retake the exam soon before you forget too much.<\/p><p>10) As soon as you're licensed <a href=\"\/products\/video-fl-45-hour-post-license-course\" target=\"_blank\" title=\"Instructor-Led FL 45-HR Post License Course Online (Video Based)\">enroll in post licensing<\/a> to learn more about how to jumpstart your real estate business.<\/p>",
+            "page": ""
+          }
+        },
+        "a0349d72-1de4-4599-9b34-0afc267dcd58": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How difficult is the exam?",
+            "icon": "question_mark",
+            "row_content": "<p>Both the class and state exam are 100 question, 4-option (A, B, C, D) multiple choice. You must score at least 70% on the course exam and 75% on the state exam. There are 10 math quetsions, but you may use a calculator for both exams.You will learn everything you need to know in the course, but to focus in on the most important topics in the most streamlined way, we recommend adding the Pass First Try Exam Prep bundle.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16706509832444__4c191d3d-fec1-4871-8d75-408f33382ceb-1681512236f2d3d139-0",
+        "f5b2c247-bcc7-4c54-a6cb-7bebe5441c7b",
+        "3e922800-6995-43f3-9164-9b213ae0a6f1",
+        "40b21378-1300-4f2e-b44a-b34cbc72b956",
+        "a0349d72-1de4-4599-9b34-0afc267dcd58"
+      ],
+      "custom_css": [
+        ".collapsible-section-layout {padding-top: 1rem; padding-bottom: 1rem;}"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Post licensing",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "section",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f60efdb7-93cb-4899-a69e-eb71d3b342a0": {
+      "type": "collapsible-content",
+      "blocks": {
+        "502c1f0c-5dee-404a-9ff2-c62b950351eb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long before I can access the course?",
+            "icon": "question_mark",
+            "row_content": "<p>Course access is granted within minutes of ordering. You will recieve an email with login information to your online learning portal.<\/p>",
+            "page": ""
+          }
+        },
+        "7604fa53-3862-4d11-8187-a92a970aa35f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is the course narrated?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes, but this isn't like a book on tape! Your course will consist primarily of many short instructor-led videos that cover all of the topics on FREC Syllabus I in a consise and simplified manner. You will encouter case studies as well as other examples along with interactive exercises and practice questions to ensure your comprehension of the material.<\/p>",
+            "page": ""
+          }
+        },
+        "ac363c5e-9eef-4dd2-8a5f-51bb4f58eda5": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long will I have access to the course?",
+            "icon": "question_mark",
+            "row_content": "<p><strong>365 Days. <\/strong>Course access if good for one year even after you complete the course so you may revisit the material as necessary to prepare for your state exam.<\/p>",
+            "page": ""
+          }
+        },
+        "c388670b-2690-413b-8120-a45a1abe1453": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What if I don't pass the end of course exam?",
+            "icon": "question_mark",
+            "row_content": "<p><strong>You're covered by the TSRE 1-Year Retake Guarantee! <\/strong><\/p><p>If you don't pass the end of course exam on the first try, the Florida Real Estate Commission (FREC) requires you to wait 30 days and then attempt exam version B. If you do not pass exam B, the FREC requires you to retake the course in full.<\/p><p>As long as this is done within one year of registration, you may repeat the course as many times as necessary. However, with our high pass rates, this is typically not a concern.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "502c1f0c-5dee-404a-9ff2-c62b950351eb",
+        "7604fa53-3862-4d11-8187-a92a970aa35f",
+        "ac363c5e-9eef-4dd2-8a5f-51bb4f58eda5",
+        "c388670b-2690-413b-8120-a45a1abe1453"
+      ],
+      "custom_css": [
+        ".collapsible-section-layout {padding-top: 1rem; padding-bottom: 1rem;}"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Course",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "section",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f707403b-761d-4b4d-a33b-121d16832c9c": {
+      "type": "collapsible-content",
+      "blocks": {
+        "c78e4efa-750b-417b-87d5-df2b9b238c24": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you ship overseas?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes, we ship all over the world. Shipping costs available at checkout.<\/p>",
+            "page": ""
+          }
+        },
+        "a5f59f0c-ff70-4a18-ad1d-b7cab6020ef1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long will it take to get my book?",
+            "icon": "question_mark",
+            "row_content": "<p>Depending on your location, students close to our HQ in Tampa will typically get their books within 1-2 business days. Expedited and worldwide shipping available.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "c78e4efa-750b-417b-87d5-df2b9b238c24",
+        "a5f59f0c-ff70-4a18-ad1d-b7cab6020ef1"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Course",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "section",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -514,6 +715,10 @@
     "eedef890-7ec1-4438-9623-85064295f882",
     "68c47d31-68ab-4abf-9c3d-04c8537c1303",
     "4cedd084-a584-4349-a5c7-48bba3ee06f7",
-    "03871ee9-3224-43f9-9e3b-e3f10e48cf62"
+    "03871ee9-3224-43f9-9e3b-e3f10e48cf62",
+    "16b56042-9cf4-42b6-abd4-ddac5ae26abc",
+    "4c191d3d-fec1-4871-8d75-408f33382ceb",
+    "f60efdb7-93cb-4899-a69e-eb71d3b342a0",
+    "f707403b-761d-4b4d-a33b-121d16832c9c"
   ]
 }
