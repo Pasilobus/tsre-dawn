@@ -479,71 +479,81 @@
     "39408e0c-072f-4275-8acd-92b8c5858aab": {
       "type": "image-banner",
       "blocks": {
+        "d6a0f6a0-c008-4745-a351-de8be8148a11": {
+          "type": "caption",
+          "settings": {
+            "caption": "OUR RECOMMENDED STRATEGY TO PASS YOUR CLASS & STATE EXAMSON THE FIRST TRY",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
         "template--16705787363580__39408e0c-072f-4275-8acd-92b8c5858aab-1681444744e3c2dd7d-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Pass First Try Exam Prep Tools",
             "heading_size": "h1"
-          }
-        },
-        "template--16705787363580__39408e0c-072f-4275-8acd-92b8c5858aab-1681444744e3c2dd7d-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Give customers details about the banner image(s) or content on the template.<\/p>",
-            "text_style": "body"
           }
         },
         "template--16705787363580__39408e0c-072f-4275-8acd-92b8c5858aab-1681444744e3c2dd7d-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "View exam prep strategy",
+            "button_link_1": "shopify:\/\/pages\/pass-first-try-fl-exam-prep-study-guide",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
+        "d6a0f6a0-c008-4745-a351-de8be8148a11",
         "template--16705787363580__39408e0c-072f-4275-8acd-92b8c5858aab-1681444744e3c2dd7d-0",
-        "template--16705787363580__39408e0c-072f-4275-8acd-92b8c5858aab-1681444744e3c2dd7d-1",
         "template--16705787363580__39408e0c-072f-4275-8acd-92b8c5858aab-1681444744e3c2dd7d-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/exam-prep-banner-desktop.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "image_height": "small",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "21eac033-428f-42d9-8a6b-94cf2311d87d": {
       "type": "rich-text",
       "blocks": {
+        "95c89195-15b6-4bb5-ae48-e0a6e27f58c7": {
+          "type": "caption",
+          "settings": {
+            "caption": "Don't waist time and money retaking exams",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
         "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Pass First Try Exam Prep",
             "heading_size": "h1"
           }
         },
         "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>If you want to become a licensed real estate agent in Florida, the <strong>Tampa School of Real Estate's Pass First Try Exam Prep Bundle is your best option to fast-track your licensing. <\/strong>Our years of experience and knowledge have gone into creating these exam prep tools that will help you get licensed quickly and easily.<\/p><p>Start by watching our <a href=\"https:\/\/tsre-us.myshopify.com\/products\/secrets-of-the-exam\" title=\"Secrets of the Exam\"><strong>Secrets of the Exam<\/strong><\/a> video-based course to learn tips and strategies for passing the state exam. Then use the <a href=\"https:\/\/tsre-us.myshopify.com\/products\/mp3-audio-review\" title=\"MP3 Audio Review\"><strong>MP3 Audio Review<\/strong><\/a> to condense 63 hours of material into just 5 hours of simplified key points.<\/p><p>Test your knowledge with our <a href=\"https:\/\/tsre-us.myshopify.com\/products\/question-simulator\" title=\"Question Simulator\"><strong>Question Simulator<\/strong><\/a> so you can identify which areas you need to focus on further. Finally, feel confident and prepared before taking your exam with the <a href=\"https:\/\/tsre-us.myshopify.com\/products\/weekend-prep-recording\" title=\"Weekend Prep Recording\"><strong>Weekend Prep Recording<\/strong><\/a><strong>.<\/strong><\/p><p><strong>Thousands have used this program to pass their exams on the first try in as little as 30 days<\/strong> - don't miss out on this opportunity! <em>Purchase the Pass First Try Exam Prep bundle today!<\/em><\/p>"
           }
         },
         "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Get the Pass First Try Bundle",
+            "button_link": "shopify:\/\/products\/pass-first-try-exam-prep",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -552,6 +562,7 @@
         }
       },
       "block_order": [
+        "95c89195-15b6-4bb5-ae48-e0a6e27f58c7",
         "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-0",
         "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-1",
         "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-2"
@@ -568,38 +579,82 @@
     "12a8abbf-edf1-4411-b6b5-c194d03cb905": {
       "type": "collage",
       "blocks": {
-        "template--16705787363580__12a8abbf-edf1-4411-b6b5-c194d03cb905-1681444775ee066080-0": {
-          "type": "image",
-          "settings": {
-          }
-        },
         "template--16705787363580__12a8abbf-edf1-4411-b6b5-c194d03cb905-1681444775ee066080-1": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "weekend-prep-workbook",
             "second_image": false
           }
         },
-        "template--16705787363580__12a8abbf-edf1-4411-b6b5-c194d03cb905-1681444775ee066080-2": {
-          "type": "collection",
+        "305bfe24-cdd5-498b-bf44-c8d932fef7a5": {
+          "type": "product",
           "settings": {
-            "collection": ""
+            "product": "weekend-prep-recording",
+            "second_image": false
+          }
+        },
+        "933f7b5b-415d-4ed9-96e5-bb5efa98df69": {
+          "type": "product",
+          "settings": {
+            "product": "question-simulator",
+            "second_image": false
           }
         }
       },
       "block_order": [
-        "template--16705787363580__12a8abbf-edf1-4411-b6b5-c194d03cb905-1681444775ee066080-0",
         "template--16705787363580__12a8abbf-edf1-4411-b6b5-c194d03cb905-1681444775ee066080-1",
-        "template--16705787363580__12a8abbf-edf1-4411-b6b5-c194d03cb905-1681444775ee066080-2"
+        "305bfe24-cdd5-498b-bf44-c8d932fef7a5",
+        "933f7b5b-415d-4ed9-96e5-bb5efa98df69"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "",
         "heading_size": "h1",
         "desktop_layout": "left",
-        "mobile_layout": "column",
-        "card_styles": "product-card-wrapper",
+        "mobile_layout": "collage",
+        "card_styles": "none",
         "color_scheme": "background-1",
         "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "35cec08c-8404-4e96-a5da-458b5490fc29": {
+      "type": "collage",
+      "blocks": {
+        "3eed5a37-268e-4fb4-b804-636b35c338ef": {
+          "type": "product",
+          "settings": {
+            "product": "mp3-audio-review",
+            "second_image": false
+          }
+        },
+        "d0e8b159-a74c-496d-858a-dbd4b9c469de": {
+          "type": "product",
+          "settings": {
+            "product": "secrets-of-the-exam",
+            "second_image": false
+          }
+        },
+        "c99e5e56-1ba4-4280-a1cb-86bcf2377a26": {
+          "type": "product",
+          "settings": {
+            "product": "pass-first-try-exam-prep",
+            "second_image": false
+          }
+        }
+      },
+      "block_order": [
+        "3eed5a37-268e-4fb4-b804-636b35c338ef",
+        "d0e8b159-a74c-496d-858a-dbd4b9c469de",
+        "c99e5e56-1ba4-4280-a1cb-86bcf2377a26"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "right",
+        "mobile_layout": "collage",
+        "card_styles": "none",
+        "color_scheme": "background-1",
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -711,6 +766,7 @@
     "39408e0c-072f-4275-8acd-92b8c5858aab",
     "21eac033-428f-42d9-8a6b-94cf2311d87d",
     "12a8abbf-edf1-4411-b6b5-c194d03cb905",
+    "35cec08c-8404-4e96-a5da-458b5490fc29",
     "a9e6c672-8cee-47b0-8230-32d7642d90d9",
     "f5439a72-b673-40a2-80a7-1553851751d9"
   ]
