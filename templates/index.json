@@ -98,6 +98,23 @@
         "padding_bottom": 0
       }
     },
+    "e5720931-701c-47b4-b013-55598fdf8bfe": {
+      "type": "tabbed-collections",
+      "disabled": true,
+      "blocks": {
+        "1abd3901-2f4f-4670-919e-7573e888339c": {
+          "type": "collection",
+          "settings": {
+            "collection": "en-espanol"
+          }
+        }
+      },
+      "block_order": [
+        "1abd3901-2f4f-4670-919e-7573e888339c"
+      ],
+      "settings": {
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -128,6 +145,7 @@
     },
     "36e69bd3-6da8-43a1-8311-46e7861d9ea1": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "<strong>On Demand<\/strong>",
         "heading_size": "h2",
@@ -156,6 +174,7 @@
     },
     "777d0bbb-5660-4d59-8926-49146595b02c": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "<strong>45-HR: Post License<\/strong>",
         "heading_size": "h2",
@@ -184,6 +203,7 @@
     },
     "32c5e410-519b-4259-806f-f0d0724afe16": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "<strong>72-HR: Broker Pre-License<\/strong>",
         "heading_size": "h2",
@@ -743,6 +763,7 @@
   "order": [
     "image_banner",
     "rich_text",
+    "e5720931-701c-47b4-b013-55598fdf8bfe",
     "featured_collection",
     "36e69bd3-6da8-43a1-8311-46e7861d9ea1",
     "777d0bbb-5660-4d59-8926-49146595b02c",
