@@ -465,7 +465,7 @@
         "template--16705787953404__03871ee9-3224-43f9-9e3b-e3f10e48cf62-1681478257a7bb11ec-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Learn the Information<\/p><p>Review Along the Way<\/p><p>Test Your Knowledge<\/p><p>Be Confident & Prepared<\/p>",
+            "text": "<p>✓ Learn the Information<\/p><p>✓ Review Along the Way<\/p><p>✓ Test Your Knowledge<\/p><p>✓ Be Confident & Prepared<\/p>",
             "text_style": "body"
           }
         },
@@ -486,7 +486,7 @@
       ],
       "custom_css": [
         ".image-with-text {background: #0f4529;}",
-        "h2, p {color: #f4fe53;}"
+        "h2,p {color: #f4fe53;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Add_the_PassFirstTry.com_Exam_Prep_Bundle_1080x_f754d0da-449a-4244-a591-12d1167532b8.webp",
