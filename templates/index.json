@@ -43,7 +43,7 @@
         "button"
       ],
       "custom_css": [
-        ".button {background: #e3ec4d;text-transform: uppercase;}"
+        ".button {background: #e3ec4d; text-transform: uppercase;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/sales-associate-licensing-guide-2160x777.jpg",
@@ -73,7 +73,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Upcoming Classes",
+            "heading": "UPCOMING CLASSES",
             "heading_size": "h1"
           }
         },
@@ -288,7 +288,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/1-YEAR_RETAKE_GUARANTEE.png",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
@@ -383,7 +383,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/TSRE_Grads.jpg",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "center",
@@ -462,10 +462,13 @@
         "template--16705787363580__c37dc7cc-73dc-4287-bcea-741bf6053695-16814445942eed14d9-0",
         "template--16705787363580__c37dc7cc-73dc-4287-bcea-741bf6053695-16814445942eed14d9-1"
       ],
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
       "settings": {
         "title": "FLORIDA REAL ESTATE COMMISSION APPROVED COURSES, INSTRUCTORS & SCHOOL",
         "heading_size": "h2",
-        "image_width": "full",
+        "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 2,
         "column_alignment": "center",
