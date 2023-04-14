@@ -584,6 +584,7 @@
     },
     "12a8abbf-edf1-4411-b6b5-c194d03cb905": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "template--16705787363580__12a8abbf-edf1-4411-b6b5-c194d03cb905-1681444775ee066080-1": {
           "type": "product",
@@ -625,6 +626,7 @@
     },
     "35cec08c-8404-4e96-a5da-458b5490fc29": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "3eed5a37-268e-4fb4-b804-636b35c338ef": {
           "type": "product",
