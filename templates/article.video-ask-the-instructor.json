@@ -5,7 +5,6 @@
       "blocks": {
         "featured_image": {
           "type": "featured_image",
-          "disabled": true,
           "settings": {
             "image_height": "small"
           }
@@ -37,9 +36,128 @@
       ],
       "settings": {
       }
+    },
+    "042a830b-003b-46e1-9ddf-780b74c0be42": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16705888125180__042a830b-003b-46e1-9ddf-780b74c0be42-1681447870079b76b3-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--16705888125180__042a830b-003b-46e1-9ddf-780b74c0be42-1681447870079b76b3-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--16705888125180__042a830b-003b-46e1-9ddf-780b74c0be42-1681447870079b76b3-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--16705888125180__042a830b-003b-46e1-9ddf-780b74c0be42-1681447870079b76b3-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--16705888125180__042a830b-003b-46e1-9ddf-780b74c0be42-1681447870079b76b3-4": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--16705888125180__042a830b-003b-46e1-9ddf-780b74c0be42-1681447870079b76b3-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--16705888125180__042a830b-003b-46e1-9ddf-780b74c0be42-1681447870079b76b3-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--16705888125180__042a830b-003b-46e1-9ddf-780b74c0be42-1681447870079b76b3-0",
+        "template--16705888125180__042a830b-003b-46e1-9ddf-780b74c0be42-1681447870079b76b3-1",
+        "template--16705888125180__042a830b-003b-46e1-9ddf-780b74c0be42-1681447870079b76b3-2",
+        "template--16705888125180__042a830b-003b-46e1-9ddf-780b74c0be42-1681447870079b76b3-3",
+        "template--16705888125180__042a830b-003b-46e1-9ddf-780b74c0be42-1681447870079b76b3-4",
+        "template--16705888125180__042a830b-003b-46e1-9ddf-780b74c0be42-1681447870079b76b3-5",
+        "template--16705888125180__042a830b-003b-46e1-9ddf-780b74c0be42-1681447870079b76b3-6"
+      ],
+      "settings": {
+        "product": "fl-video-63-hr-pre-licensing-class-online",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "bc02154d-0230-4fd7-8173-cea0354812a5": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16705888125180__bc02154d-0230-4fd7-8173-cea0354812a5-1681447981a221dc36-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sl-pre"
+          }
+        },
+        "template--16705888125180__bc02154d-0230-4fd7-8173-cea0354812a5-1681447981a221dc36-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "exam-prep"
+          }
+        },
+        "f24a26be-4c07-4f8d-9535-9ba76b2a1a76": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sales-post-licensing"
+          }
+        },
+        "template--16705888125180__bc02154d-0230-4fd7-8173-cea0354812a5-1681447981a221dc36-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "online-courses"
+          }
+        }
+      },
+      "block_order": [
+        "template--16705888125180__bc02154d-0230-4fd7-8173-cea0354812a5-1681447981a221dc36-0",
+        "template--16705888125180__bc02154d-0230-4fd7-8173-cea0354812a5-1681447981a221dc36-2",
+        "f24a26be-4c07-4f8d-9535-9ba76b2a1a76",
+        "template--16705888125180__bc02154d-0230-4fd7-8173-cea0354812a5-1681447981a221dc36-1"
+      ],
+      "settings": {
+        "title": "Popular Classes",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "042a830b-003b-46e1-9ddf-780b74c0be42",
+    "bc02154d-0230-4fd7-8173-cea0354812a5"
   ]
 }
