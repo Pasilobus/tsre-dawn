@@ -23,6 +23,6 @@ h1, h2, h3, h4, h5, .h0, .h1, .h2, .h3, .h4, .h5 {
     width: 100%;
 }
 
-.caption-with-letter-spacing {
-  margin-bottom: 1rem;
+.image-with-text__text--caption, .caption-with-letter-spacing {
+  margin-bottom: 1rem !important;
 }
