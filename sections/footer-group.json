@@ -5,38 +5,46 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "footer-0": {
-          "type": "link_list",
+        "ce3c5982-e7f2-4475-a116-471842e56c93": {
+          "type": "brand_information",
           "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
-          }
-        },
-        "footer-1": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Info",
-            "menu": "footer"
+            "show_social": true
           }
         },
         "footer-2": {
           "type": "text",
           "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "heading": "FL Licensing",
+            "subtext": "<p><strong>Tampa School of Real Estate <\/strong>is a <strong>Florida Real Estate Commission (FREC) Approved <\/strong>School Licensed by the Florida Department of Business and Professional Regulation (DBPR)<br\/><strong>School License: <\/strong><a href=\"https:\/\/www.myfloridalicense.com\/LicenseDetail.asp?SID=&id=4F3D91AAE03039862C0A9E9F33D69463\" target=\"_blank\" title=\"TSRE | Tampa School of Real Estate Inc License\"><strong>ZH1002233<\/strong><\/a><\/p>"
+          }
+        },
+        "footer-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "TSRE",
+            "menu": "footer"
+          }
+        },
+        "footer-0": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Resources",
+            "menu": "tsre-resources"
           }
         }
       },
       "block_order": [
-        "footer-0",
+        "ce3c5982-e7f2-4475-a116-471842e56c93",
+        "footer-2",
         "footer-1",
-        "footer-2"
+        "footer-0"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "newsletter_enable": true,
-        "newsletter_heading": "Subscribe to our emails",
-        "show_social": true,
+        "newsletter_heading": "Subscribe",
+        "enable_follow_on_shop": true,
+        "show_social": false,
         "enable_country_selector": false,
         "enable_language_selector": false,
         "payment_enable": true,
