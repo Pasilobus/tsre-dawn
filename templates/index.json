@@ -42,6 +42,9 @@
         "text",
         "button"
       ],
+      "custom_css": [
+        ".button {background: #e3ec4d;text-transform: uppercase;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/sales-associate-licensing-guide-2160x777.jpg",
         "image_overlay_opacity": 20,
