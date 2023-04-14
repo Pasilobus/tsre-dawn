@@ -245,7 +245,7 @@
         "25be2bd2-8dc0-4fd8-bd9c-20cda1a455f4": {
           "type": "caption",
           "settings": {
-            "caption": "TRUSTED BY 25,000+ STUDENTS FROM 40+COUNTRIES",
+            "caption": "YOUR ONLINE COMPANION TO THE COURSE",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -253,14 +253,14 @@
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "The Top Real State School in Florida",
+            "heading": "DIGITAL MATERIALS",
             "heading_size": "h2"
           }
         },
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>At TSRE | Tampa School of Real Estate, we're here to be more than just a required class. We want to help you pass on your first try, jumpstart your career and build your real estate empire... your success is our success!<\/p>",
+            "text": "<p>✓ License Steps<\/p><p>✓ Instructor PowerPoint<\/p><p>✓ Digital & Printable Flashcards<\/p><p>✓ Practice Exam & Math Guide<\/p><p>✓ Career Resources & Next Steps<\/p>",
             "text_style": "body"
           }
         }
@@ -269,6 +269,52 @@
         "25be2bd2-8dc0-4fd8-bd9c-20cda1a455f4",
         "image-with-text-0",
         "image-with-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tampa-real-estate-classes_a1af6d84-e21e-4a3c-a49e-7d708f4d7c87.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4cedd084-a584-4349-a5c7-48bba3ee06f7": {
+      "type": "image-with-text",
+      "blocks": {
+        "97b9e0e7-ddd1-434d-a0e3-6ab5a990e7e5": {
+          "type": "caption",
+          "settings": {
+            "caption": "TRUSTED BY 25,000+ STUDENTS FROM 40+COUNTRIES",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "ab472a2b-68c7-4575-b637-ed8396db66bb": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Top Real State School in Florida",
+            "heading_size": "h2"
+          }
+        },
+        "7b19ec37-1619-49e3-a045-0c81e3ca4a55": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At TSRE | Tampa School of Real Estate, we're here to be more than just a required class. We want to help you pass on your first try, jumpstart your career and build your real estate empire... your success is our success!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "97b9e0e7-ddd1-434d-a0e3-6ab5a990e7e5",
+        "ab472a2b-68c7-4575-b637-ed8396db66bb",
+        "7b19ec37-1619-49e3-a045-0c81e3ca4a55"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/tampa-real-estate-classes_a1af6d84-e21e-4a3c-a49e-7d708f4d7c87.jpg",
@@ -310,6 +356,7 @@
     "2684f0e8-68c1-412b-8928-c383065eb440",
     "c28c0f4b-5dda-4362-a625-f732502da065",
     "image-with-text",
+    "4cedd084-a584-4349-a5c7-48bba3ee06f7",
     "related-products"
   ]
 }
