@@ -117,7 +117,7 @@
       "settings": {
         "enable_sticky_info": true,
         "media_size": "small",
-        "constrain_to_viewport": true,
+        "constrain_to_viewport": false,
         "media_fit": "contain",
         "gallery_layout": "thumbnail_slider",
         "media_position": "left",
@@ -312,7 +312,7 @@
         "2f1cc871-2cc3-402b-a834-05c7817f4019": {
           "type": "caption",
           "settings": {
-            "caption": "YOUR ONLINE COMPANION TO THE COURSE",
+            "caption": "FLORIDA REAL ESTATE PRINCIPLES, PRACTICES & LAW",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -320,14 +320,14 @@
         "a6d23577-2a4d-453f-9c43-de0ac50e7f95": {
           "type": "heading",
           "settings": {
-            "heading": "DIGITAL MATERIALS",
+            "heading": "COURSE TEXTBOOK",
             "heading_size": "h2"
           }
         },
         "46279195-e85a-4579-8599-8d9c68b97c77": {
           "type": "text",
           "settings": {
-            "text": "<p>✓ License Steps<\/p><p>✓ Instructor PowerPoint<\/p><p>✓ Digital & Printable Flashcards<\/p><p>✓ Practice Exam & Math Guide<\/p><p>✓ Career Resources & Next Steps<\/p>",
+            "text": "<p>✓ Yours to Keep<\/p><p>✓ Take Notes & Highlight<\/p><p>✓  Reference Laws & Rules Once Licensed<\/p>",
             "text_style": "body"
           }
         }
@@ -338,7 +338,7 @@
         "46279195-e85a-4579-8599-8d9c68b97c77"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/sales-associate-digital-materials-1200-x-600-px.webp",
+        "image": "shopify:\/\/shop_images\/slpre-45th-edition-textbook-included-1200-x-600-px-2_1200x_89f99f28-459b-422a-8147-dd4f1ceabf82.webp",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -358,7 +358,7 @@
         "5a8221cc-c1db-4913-a0ca-5591027f8655": {
           "type": "caption",
           "settings": {
-            "caption": "YOUR ONLINE COMPANION TO THE COURSE",
+            "caption": "LIMITED TIME BONUS WITH REGISTRATION",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -366,14 +366,14 @@
         "bc0c7151-44f8-4cc6-abcd-70c781257c8a": {
           "type": "heading",
           "settings": {
-            "heading": "DIGITAL MATERIALS",
+            "heading": "SECRETS OF THE EXAM",
             "heading_size": "h2"
           }
         },
         "f8db06de-ae5a-4ba3-b22d-bd416fc679a0": {
           "type": "text",
           "settings": {
-            "text": "<p>✓ License Steps<\/p><p>✓ Instructor PowerPoint<\/p><p>✓ Digital & Printable Flashcards<\/p><p>✓ Practice Exam & Math Guide<\/p><p>✓ Career Resources & Next Steps<\/p>",
+            "text": "<p>Use this course to prepare yourself and know what to expect when you take your state exam. Learn tips & tricks to give you an advantage when it's time to take your Florida Real Estate Exam!<\/p>",
             "text_style": "body"
           }
         }
@@ -384,12 +384,12 @@
         "f8db06de-ae5a-4ba3-b22d-bd416fc679a0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/sales-associate-digital-materials-1200-x-600-px.webp",
+        "image": "shopify:\/\/shop_images\/secrets-of-the-exam-included_1200x_64c88b4a-c026-4c94-8ad6-4d7f73c0224f.webp",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "content_layout": "overlap",
         "color_scheme": "background-1",
         "image_behavior": "none",
