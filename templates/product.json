@@ -48,6 +48,7 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
@@ -128,89 +129,105 @@
         "padding_bottom": 12
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
+    "eca65864-63bd-4f8d-ae5e-e34d18fb8169": {
+      "type": "image-with-text",
       "blocks": {
-        "column-0": {
-          "type": "column",
+        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-0": {
+          "type": "heading",
           "settings": {
-            "title": "FREC Approved School",
-            "text": "<p>At TSRE, our school and all of our instructors are Florida Real Estate Commission Approved. <\/p><p>All Pre-Licensing, Post Licensing & Continuing Education course also maintain FREC Approval. <\/p><p><a href=\"https:\/\/www.myfloridalicense.com\/LicenseDetail.asp?SID=&id=4F3D91AAE03039862C0A9E9F33D69463\" target=\"_blank\" title=\"https:\/\/www.myfloridalicense.com\/LicenseDetail.asp?SID=&id=4F3D91AAE03039862C0A9E9F33D69463\">TSRE School License: #<strong>ZH1002233<\/strong><\/a><\/p>",
-            "link_label": "",
-            "link": ""
+            "heading": "<strong>REAL ESTATE LICENSE<\/strong>",
+            "heading_size": "h2"
           }
         },
-        "column-1": {
-          "type": "column",
+        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-1": {
+          "type": "text",
           "settings": {
-            "title": "Trusted by 25,000+",
-            "text": "<p>Since it's founding in 2007 TSRE has been trusted by over 25,000+ past students to launch and build their real estate empires.<\/p><p>At the Tampa School of Real Estate, your success is our success.<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>If you don't pass your end-of-course exam <em><strong>you're backed by our 1-Year Retake Guarantee<\/strong><\/em>. The FREC will require you to wait 30 days before re-testing. If you still don't pass after retesting, you are able to <strong>re-attend a class a no charge within 1-year of your registration date.<\/strong><\/p><p>Trying to pass on the first try? Rest assured, this typically isn't a concern with our <strong>course pass rates above 90%!<\/strong><\/p>",
+            "text_style": "body"
           }
         },
-        "5bdc8b01-356c-44dc-8b1e-3bbb1fc8fbfa": {
-          "type": "column",
+        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-2": {
+          "type": "button",
+          "disabled": true,
           "settings": {
-            "title": "Student Success Team",
-            "text": "<p>Your Success is Our Success<\/p><p>Our Student Success team is here to answer your questions and ensure you get the most out of your courses and study tools. <\/p><p>Available by phone, text, chat or email.<\/p>",
-            "link_label": "",
-            "link": ""
+            "button_label": "Button label",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "column-0",
-        "column-1",
-        "5bdc8b01-356c-44dc-8b1e-3bbb1fc8fbfa"
+        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-0",
+        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-1",
+        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-2"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
+        "image": "shopify:\/\/shop_images\/1-YEAR_RETAKE_GUARANTEE.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "70223b0d-260d-4d52-8191-dc6780b40e8b": {
-      "type": "rich-text",
+    "2684f0e8-68c1-412b-8928-c383065eb440": {
+      "type": "image-with-text",
       "blocks": {
-        "e5e18d32-390b-4609-b91c-64e672a3d1ec": {
+        "32b0a0eb-577a-416a-8d00-f8c9f08cfea2": {
           "type": "caption",
           "settings": {
-            "caption": "How to get your Florida Real State License",
+            "caption": "HOW TO GET YOUR FLORIDA SALES ASSOCIATE",
             "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
+            "text_size": "medium"
           }
         },
-        "template--16705787953404__70223b0d-260d-4d52-8191-dc6780b40e8b-1681443817d4e91d48-0": {
+        "190f0058-a8fb-4367-8448-f9cb823799c0": {
           "type": "heading",
           "settings": {
-            "heading": "FL License Guide",
-            "heading_size": "h1"
+            "heading": "<strong>1-YEAR RETAKE GUARANTEE<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "927e6cad-0ce1-4570-8c5a-04cc279dca11": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✓ 18+ Years Old<\/p><p>✓ High School Diploma or Equivalent<\/p><p>✓ US Social Security Number<\/p><p>✓ Fingerprints & Application Apprvoal<\/p><p>✓ Pass End of Course Exam with 70%<\/p><p>✓ Pass State Exam with 75%<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1d311749-36c0-4f2b-a86f-829b8527c2a3": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "e5e18d32-390b-4609-b91c-64e672a3d1ec",
-        "template--16705787953404__70223b0d-260d-4d52-8191-dc6780b40e8b-1681443817d4e91d48-0"
+        "32b0a0eb-577a-416a-8d00-f8c9f08cfea2",
+        "190f0058-a8fb-4367-8448-f9cb823799c0",
+        "927e6cad-0ce1-4570-8c5a-04cc279dca11",
+        "1d311749-36c0-4f2b-a86f-829b8527c2a3"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 12
+        "image": "shopify:\/\/shop_images\/21fcd92d-90f7-464a-b661-369238197720_458x_1120ca55-8bc1-44f0-9680-33f49015a8bd.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "c28c0f4b-5dda-4362-a625-f732502da065": {
@@ -289,8 +306,8 @@
   },
   "order": [
     "main",
-    "multicolumn",
-    "70223b0d-260d-4d52-8191-dc6780b40e8b",
+    "eca65864-63bd-4f8d-ae5e-e34d18fb8169",
+    "2684f0e8-68c1-412b-8928-c383065eb440",
     "c28c0f4b-5dda-4362-a625-f732502da065",
     "image-with-text",
     "related-products"
