@@ -391,6 +391,306 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "b40ea024-b685-4855-916b-942c87260d31": {
+      "type": "rich-text",
+      "blocks": {
+        "29a9accf-aabe-4c99-a024-f2170b7cedfb": {
+          "type": "caption",
+          "settings": {
+            "caption": "Become a Florida Real State Agent",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--16705787363580__b40ea024-b685-4855-916b-942c87260d31-1681443817d4e91d48-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Start Your Real State Career",
+            "heading_size": "h1"
+          }
+        },
+        "template--16705787363580__b40ea024-b685-4855-916b-942c87260d31-1681443817d4e91d48-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Starting a real estate career can be a life-changing decision and has the potential to <strong>open a world of possibilities for your future. <\/strong>A career in real estate is more than just getting paid for selling homes; it provides an opportunity to <strong>establish financial independence, build relationships and make an impact on people’s lives.<\/strong><\/p><p>You don't need to wait until you have all the answers or hit certain milestones; the best time to start is now! With our online classes, you can undertake your education and get licensed to become a Florida realtor quickly and easily, so take advantage of this opportunity now and <strong>begin writing your success story!<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "29a9accf-aabe-4c99-a024-f2170b7cedfb",
+        "template--16705787363580__b40ea024-b685-4855-916b-942c87260d31-1681443817d4e91d48-0",
+        "template--16705787363580__b40ea024-b685-4855-916b-942c87260d31-1681443817d4e91d48-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "c37dc7cc-73dc-4287-bcea-741bf6053695": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16705787363580__c37dc7cc-73dc-4287-bcea-741bf6053695-16814445942eed14d9-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dbpr.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16705787363580__c37dc7cc-73dc-4287-bcea-741bf6053695-16814445942eed14d9-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/21fcd92d-90f7-464a-b661-369238197720.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16705787363580__c37dc7cc-73dc-4287-bcea-741bf6053695-16814445942eed14d9-0",
+        "template--16705787363580__c37dc7cc-73dc-4287-bcea-741bf6053695-16814445942eed14d9-1"
+      ],
+      "settings": {
+        "title": "FLORIDA REAL ESTATE COMMISSION APPROVED COURSES, INSTRUCTORS & SCHOOL",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "39408e0c-072f-4275-8acd-92b8c5858aab": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16705787363580__39408e0c-072f-4275-8acd-92b8c5858aab-1681444744e3c2dd7d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--16705787363580__39408e0c-072f-4275-8acd-92b8c5858aab-1681444744e3c2dd7d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Give customers details about the banner image(s) or content on the template.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16705787363580__39408e0c-072f-4275-8acd-92b8c5858aab-1681444744e3c2dd7d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16705787363580__39408e0c-072f-4275-8acd-92b8c5858aab-1681444744e3c2dd7d-0",
+        "template--16705787363580__39408e0c-072f-4275-8acd-92b8c5858aab-1681444744e3c2dd7d-1",
+        "template--16705787363580__39408e0c-072f-4275-8acd-92b8c5858aab-1681444744e3c2dd7d-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "21eac033-428f-42d9-8a6b-94cf2311d87d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-0",
+        "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-1",
+        "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "12a8abbf-edf1-4411-b6b5-c194d03cb905": {
+      "type": "collage",
+      "blocks": {
+        "template--16705787363580__12a8abbf-edf1-4411-b6b5-c194d03cb905-1681444775ee066080-0": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "template--16705787363580__12a8abbf-edf1-4411-b6b5-c194d03cb905-1681444775ee066080-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "template--16705787363580__12a8abbf-edf1-4411-b6b5-c194d03cb905-1681444775ee066080-2": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16705787363580__12a8abbf-edf1-4411-b6b5-c194d03cb905-1681444775ee066080-0",
+        "template--16705787363580__12a8abbf-edf1-4411-b6b5-c194d03cb905-1681444775ee066080-1",
+        "template--16705787363580__12a8abbf-edf1-4411-b6b5-c194d03cb905-1681444775ee066080-2"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a9e6c672-8cee-47b0-8230-32d7642d90d9": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16705787363580__a9e6c672-8cee-47b0-8230-32d7642d90d9-1681444744e3c2dd7d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--16705787363580__a9e6c672-8cee-47b0-8230-32d7642d90d9-1681444744e3c2dd7d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Give customers details about the banner image(s) or content on the template.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16705787363580__a9e6c672-8cee-47b0-8230-32d7642d90d9-1681444744e3c2dd7d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16705787363580__a9e6c672-8cee-47b0-8230-32d7642d90d9-1681444744e3c2dd7d-0",
+        "template--16705787363580__a9e6c672-8cee-47b0-8230-32d7642d90d9-1681444744e3c2dd7d-1",
+        "template--16705787363580__a9e6c672-8cee-47b0-8230-32d7642d90d9-1681444744e3c2dd7d-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "f5439a72-b673-40a2-80a7-1553851751d9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16705787363580__f5439a72-b673-40a2-80a7-1553851751d9-1681443817d4e91d48-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--16705787363580__f5439a72-b673-40a2-80a7-1553851751d9-1681443817d4e91d48-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--16705787363580__f5439a72-b673-40a2-80a7-1553851751d9-1681443817d4e91d48-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16705787363580__f5439a72-b673-40a2-80a7-1553851751d9-1681443817d4e91d48-0",
+        "template--16705787363580__f5439a72-b673-40a2-80a7-1553851751d9-1681443817d4e91d48-1",
+        "template--16705787363580__f5439a72-b673-40a2-80a7-1553851751d9-1681443817d4e91d48-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -405,6 +705,13 @@
     "c9c92a5f-daed-4130-b975-a416e8cb2efb",
     "b002e3c7-3e24-4679-aac9-8a7b4aa8e7ab",
     "422beed6-4b00-4b21-b2ee-245427b6c88b",
-    "1a79dca4-04c4-4566-a56b-61eaa6718f6e"
+    "1a79dca4-04c4-4566-a56b-61eaa6718f6e",
+    "b40ea024-b685-4855-916b-942c87260d31",
+    "c37dc7cc-73dc-4287-bcea-741bf6053695",
+    "39408e0c-072f-4275-8acd-92b8c5858aab",
+    "21eac033-428f-42d9-8a6b-94cf2311d87d",
+    "12a8abbf-edf1-4411-b6b5-c194d03cb905",
+    "a9e6c672-8cee-47b0-8230-32d7642d90d9",
+    "f5439a72-b673-40a2-80a7-1553851751d9"
   ]
 }
