@@ -189,6 +189,7 @@
     },
     "eca65864-63bd-4f8d-ae5e-e34d18fb8169": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-0": {
           "type": "heading",
@@ -235,6 +236,7 @@
     },
     "2684f0e8-68c1-412b-8928-c383065eb440": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "32b0a0eb-577a-416a-8d00-f8c9f08cfea2": {
           "type": "caption",
@@ -288,29 +290,9 @@
         "padding_bottom": 36
       }
     },
-    "related-products": {
-      "type": "related-products",
-      "custom_css": [
-        "h2 {text-align: center;}"
-      ],
-      "settings": {
-        "heading": "<strong>START YOUR FLORIDA REAL ESTATE CAREER<\/strong>",
-        "heading_size": "h2",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "color_scheme": "accent-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "1",
-        "padding_top": 36,
-        "padding_bottom": 28
-      }
-    },
     "c28c0f4b-5dda-4362-a625-f732502da065": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div id=\"om-totegcq7wultsrwlwsiu-holder\"><\/div>",
         "color_scheme": "accent-1",
@@ -320,6 +302,7 @@
     },
     "image-with-text": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "25be2bd2-8dc0-4fd8-bd9c-20cda1a455f4": {
           "type": "caption",
@@ -366,6 +349,7 @@
     },
     "eedef890-7ec1-4438-9623-85064295f882": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "2f1cc871-2cc3-402b-a834-05c7817f4019": {
           "type": "caption",
@@ -502,6 +486,27 @@
         "padding_bottom": 36
       }
     },
+    "related-products": {
+      "type": "related-products",
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "heading": "<strong>START YOUR FLORIDA REAL ESTATE CAREER<\/strong>",
+        "heading_size": "h2",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "1",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
     "03871ee9-3224-43f9-9e3b-e3f10e48cf62": {
       "type": "image-with-text",
       "blocks": {
@@ -567,12 +572,12 @@
     "e791962f-c569-4969-ab37-901e8108313d",
     "eca65864-63bd-4f8d-ae5e-e34d18fb8169",
     "2684f0e8-68c1-412b-8928-c383065eb440",
-    "related-products",
     "c28c0f4b-5dda-4362-a625-f732502da065",
     "image-with-text",
     "eedef890-7ec1-4438-9623-85064295f882",
     "68c47d31-68ab-4abf-9c3d-04c8537c1303",
     "4cedd084-a584-4349-a5c7-48bba3ee06f7",
+    "related-products",
     "03871ee9-3224-43f9-9e3b-e3f10e48cf62"
   ]
 }
