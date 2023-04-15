@@ -209,21 +209,12 @@
             "text": "<p>✓ Study while you drive<\/p><p>✓ Segmented by unit<\/p><p>✓ Focuses on key points<\/p><p>✓ Listen again & again!<\/p>",
             "text_style": "body"
           }
-        },
-        "1d311749-36c0-4f2b-a86f-829b8527c2a3": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "32b0a0eb-577a-416a-8d00-f8c9f08cfea2",
         "190f0058-a8fb-4367-8448-f9cb823799c0",
-        "927e6cad-0ce1-4570-8c5a-04cc279dca11",
-        "1d311749-36c0-4f2b-a86f-829b8527c2a3"
+        "927e6cad-0ce1-4570-8c5a-04cc279dca11"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/careers.jpg",
@@ -246,30 +237,21 @@
         "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-0": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>REAL ESTATE LICENSE<\/strong>",
+            "heading": "<strong>Repetition reinforces your learning<\/strong>",
             "heading_size": "h2"
           }
         },
         "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-1": {
           "type": "text",
           "settings": {
-            "text": "<p>✓ 18+ Years Old<\/p><p>✓ High School Diploma or Equivalent<\/p><p>✓ US Social Security Number<\/p><p>✓ Fingerprints & Application Apprvoal<\/p><p>✓ Pass End of Course Exam with 70%<\/p><p>✓ Pass State Exam with 75%<\/p>",
+            "text": "<p>✓ Listen at the gym<\/p><p>✓ Listen before bed<\/p><p>✓ Listen when you wake up<\/p><p>✓ Listen anywhere you have an internet connection!<\/p>",
             "text_style": "body"
-          }
-        },
-        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
           }
         }
       },
       "block_order": [
         "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-0",
-        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-1",
-        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-2"
+        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/1-YEAR_RETAKE_GUARANTEE.png",
