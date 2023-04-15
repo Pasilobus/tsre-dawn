@@ -19,6 +19,11 @@ h1, h2, h3, h4, h5, h6,
   content: none;
 }
 
+.button[data-ribbon] {
+  border-color: rgba(var(--color-button), var(--alpha-button-background));
+  border-width: var(--border-width);
+}
+
 .caption-with-letter-spacing.inline-richtext,
 .caption-with-letter-spacing.image-with-text__text--caption {
   margin-bottom: 1rem;
