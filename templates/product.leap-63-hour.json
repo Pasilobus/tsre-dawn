@@ -519,6 +519,7 @@
     },
     "16b56042-9cf4-42b6-abd4-ddac5ae26abc": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--16706509832444__16b56042-9cf4-42b6-abd4-ddac5ae26abc-16815124037d776135-0": {
           "type": "heading",
@@ -900,9 +901,12 @@
     },
     "a6782747-60a8-41bb-9965-f5383a87bd88": {
       "type": "featured-collection",
+      "custom_css": [
+        ".title {text-align: center;}"
+      ],
       "settings": {
         "title": "Exam prep tools",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
