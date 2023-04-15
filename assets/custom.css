@@ -20,8 +20,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .button[data-ribbon] {
-  border-color: rgba(var(--color-button), var(--alpha-button-background));
-  border-width: var(--border-width);
+  border: var(--border-width) rgb(var(--color-button-text)) solid;
 }
 
 .caption-with-letter-spacing.inline-richtext,
