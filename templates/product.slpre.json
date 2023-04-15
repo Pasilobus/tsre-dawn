@@ -302,6 +302,9 @@
         "190f0058-a8fb-4367-8448-f9cb823799c0",
         "927e6cad-0ce1-4570-8c5a-04cc279dca11"
       ],
+      "custom_css": [
+        ".media > img {object-fit: contain;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/21fcd92d-90f7-464a-b661-369238197720_458x_1120ca55-8bc1-44f0-9680-33f49015a8bd.webp",
         "height": "small",
