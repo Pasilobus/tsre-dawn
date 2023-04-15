@@ -184,6 +184,64 @@
         "padding_bottom": 36
       }
     },
+    "63ae9922-8628-48c2-8dea-60f718fe5f2c": {
+      "type": "rich-text",
+      "blocks": {
+        "68c957c8-b4c1-4d85-b0fb-c1bffed72e03": {
+          "type": "caption",
+          "settings": {
+            "caption": "Get the licensing guide videos free",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16706625896700__63ae9922-8628-48c2-8dea-60f718fe5f2c-16815314938855be0a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FL Real State License",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "68c957c8-b4c1-4d85-b0fb-c1bffed72e03",
+        "template--16706625896700__63ae9922-8628-48c2-8dea-60f718fe5f2c-16815314938855be0a-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "131abab7-dd88-40af-84ea-d224f9a286f0": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16706625896700__131abab7-dd88-40af-84ea-d224f9a286f0-16815313259c0269ac-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<h3>LAUNCH YOUR REAL ESTATE CAREER<\/h3><p>Get our step-by-step guide to obtain your real estate license.<\/p>"
+          }
+        },
+        "template--16706625896700__131abab7-dd88-40af-84ea-d224f9a286f0-16815313259c0269ac-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16706625896700__131abab7-dd88-40af-84ea-d224f9a286f0-16815313259c0269ac-1",
+        "template--16706625896700__131abab7-dd88-40af-84ea-d224f9a286f0-16815313259c0269ac-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 4,
+        "padding_bottom": 52
+      }
+    },
     "eca65864-63bd-4f8d-ae5e-e34d18fb8169": {
       "type": "image-with-text",
       "disabled": true,
@@ -569,6 +627,8 @@
   "order": [
     "main",
     "e791962f-c569-4969-ab37-901e8108313d",
+    "63ae9922-8628-48c2-8dea-60f718fe5f2c",
+    "131abab7-dd88-40af-84ea-d224f9a286f0",
     "eca65864-63bd-4f8d-ae5e-e34d18fb8169",
     "2684f0e8-68c1-412b-8928-c383065eb440",
     "c28c0f4b-5dda-4362-a625-f732502da065",
