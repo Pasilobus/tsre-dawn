@@ -130,6 +130,7 @@
     },
     "e791962f-c569-4969-ab37-901e8108313d": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--16706509832444__e791962f-c569-4969-ab37-901e8108313d-1681517474f61b0990-0": {
           "type": "column",
@@ -200,20 +201,11 @@
             "text": "<p>If you don't pass your end-of-course exam <em><strong>you're backed by our 1-Year Retake Guarantee<\/strong><\/em>. The FREC will require you to wait 30 days before re-testing. If you still don't pass after retesting, you are able to <strong>re-attend a class a no charge within 1-year of your registration date.<\/strong><\/p><p>Trying to pass on the first try? Rest assured, this typically isn't a concern with our <strong>course pass rates above 90%!<\/strong><\/p>",
             "text_style": "body"
           }
-        },
-        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-0",
-        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-1",
-        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-2"
+        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/1-YEAR_RETAKE_GUARANTEE.png",
@@ -228,6 +220,55 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "5bc84c94-85b6-4328-a06a-0522f59deb82": {
+      "type": "image-with-text",
+      "blocks": {
+        "9f5012c3-685d-43ec-9c0e-516db5b4bb2d": {
+          "type": "caption",
+          "settings": {
+            "caption": "Interactive instructor-led online class",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "7692a15b-e111-4cc8-af66-60a437cb878b": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Livestream platform<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "83a746fd-f44a-4ea5-a9ff-18e6d31a52ad": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✓ Live chat with classmates & instructor<\/p><p>✓ Digital whiteboard & slides<\/p><p>✓ US Social Security Number<\/p><p>✓ Mobile and tablet accessible<\/p><p>✓ No downloads, web-based system<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "9f5012c3-685d-43ec-9c0e-516db5b4bb2d",
+        "7692a15b-e111-4cc8-af66-60a437cb878b",
+        "83a746fd-f44a-4ea5-a9ff-18e6d31a52ad"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tsre-livestream-virtual-classroom-small.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "2684f0e8-68c1-412b-8928-c383065eb440": {
@@ -254,21 +295,12 @@
             "text": "<p>✓ 18+ Years Old<\/p><p>✓ High School Diploma or Equivalent<\/p><p>✓ US Social Security Number<\/p><p>✓ Fingerprints & Application Apprvoal<\/p><p>✓ Pass End of Course Exam with 70%<\/p><p>✓ Pass State Exam with 75%<\/p>",
             "text_style": "body"
           }
-        },
-        "1d311749-36c0-4f2b-a86f-829b8527c2a3": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "32b0a0eb-577a-416a-8d00-f8c9f08cfea2",
         "190f0058-a8fb-4367-8448-f9cb823799c0",
-        "927e6cad-0ce1-4570-8c5a-04cc279dca11",
-        "1d311749-36c0-4f2b-a86f-829b8527c2a3"
+        "927e6cad-0ce1-4570-8c5a-04cc279dca11"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/21fcd92d-90f7-464a-b661-369238197720_458x_1120ca55-8bc1-44f0-9680-33f49015a8bd.webp",
@@ -285,34 +317,93 @@
         "padding_bottom": 36
       }
     },
-    "related-products": {
-      "type": "related-products",
-      "custom_css": [
-        "h2 {text-align: center;}"
+    "de3330ab-12db-47ef-9905-5ae410aec7d8": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16706592669948__de3330ab-12db-47ef-9905-5ae410aec7d8-16815196615497c0fd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Start your Florida Real State Career",
+            "heading_size": "h1"
+          }
+        },
+        "template--16706592669948__de3330ab-12db-47ef-9905-5ae410aec7d8-16815196615497c0fd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Choose the right course bundle to start your new career!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16706592669948__de3330ab-12db-47ef-9905-5ae410aec7d8-16815196615497c0fd-0",
+        "template--16706592669948__de3330ab-12db-47ef-9905-5ae410aec7d8-16815196615497c0fd-1"
       ],
       "settings": {
-        "heading": "<strong>START YOUR FLORIDA REAL ESTATE CAREER<\/strong>",
-        "heading_size": "h2",
-        "products_to_show": 3,
-        "columns_desktop": 3,
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "accent-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "1",
-        "padding_top": 36,
-        "padding_bottom": 28
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
-    "c28c0f4b-5dda-4362-a625-f732502da065": {
-      "type": "custom-liquid",
+    "3ed12cd3-b5ac-43ec-99ec-e0d2158a9579": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16706592669948__3ed12cd3-b5ac-43ec-99ec-e0d2158a9579-1681518423160efce1-0": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "Accelerate your Career",
+            "text": "<h2><strong>COMPLETE JUMPSTART BUNDLE<\/strong><\/h2><h6><strong>+ POST LICENSING TO JUMPSTART YOUR CAREER<\/strong><\/h6><h4><strong>$597<\/strong><\/h4><p><em>or 4 Payments of<\/em> <strong>$149.25!<\/strong><\/p><h5><strong>FREC COURSE + JUMPSTART BUNDLE<\/strong><\/h5><ul><li><strong>Video On-Demand FL 63-Hour Sales Associate Pre-Licensing Online Course<\/strong><\/li><li><strong>Short Easy to Follow Videos<\/strong><\/li><li><strong>Desktop or Mobile<\/strong><\/li><li><strong>Textbook Included<\/strong><\/li><li><strong>1-Year Retake Guarantee<\/strong><\/li><\/ul><h5><strong>INCLUDES ALL EXAM PREP<\/strong><\/h5><ul><li><strong>Pass First Try Exam Prep<\/strong><\/li><li><strong>MP3 Online Audio Review<\/strong><\/li><li><strong>Question Simulator<\/strong><\/li><li><strong>Prep Recordings<\/strong><\/li><li><strong>Exam Prep Workbook<\/strong><\/li><li><strong>Secrets of the Exam<\/strong><\/li><\/ul><h5><strong>REQUIRED AFTER LICENSED<\/strong><\/h5><ul><li><strong>Instructor-Led On-Demand FL 45-Hour Sales Associate Post Licensing Online Course<\/strong><\/li><li><strong>Pre-Registration Savings<\/strong><\/li><\/ul>",
+            "link_label": "Jumpstart your career",
+            "link": "\/cart\/33480025636995:1,33097690349699:1,36655747530911:1,43289174835452:1,36758906306719:1,43231747703036:1"
+          }
+        },
+        "b9089a79-e102-4517-af8a-595db37d2492": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "Ace the exams",
+            "text": "<h2><strong>PASS FIRST TRY BUNDLE<\/strong><\/h2><h6><strong>+ PREP TOOLS TO ACE THE EXAM<\/strong><\/h6><h4><strong>$497<\/strong><\/h4><p><em>or 4 Payments of<\/em> <strong>$124.25!<\/strong><\/p><h5><strong>INCLUDES ALL EXAM PREP<\/strong><\/h5><ul><li><strong>Pass First Try Exam Prep<\/strong><\/li><li><strong>MP3 Online Audio Review<\/strong><\/li><li><strong>Question Simulator<\/strong><\/li><li><strong>Prep Recordings<\/strong><\/li><li><strong>Exam Prep Workbook<\/strong><\/li><li><strong>Secrets of the Exam<\/strong><\/li><\/ul><h5><strong>FREC COURSE + JUMPSTART BUNDLE<\/strong><\/h5><ul><li><strong>Video On-Demand FL 63-Hour Sales Associate Pre-Licensing Online Course<\/strong><\/li><li><strong>Desktop or Mobile<\/strong><\/li><li><strong>Textbook Included<\/strong><\/li><\/ul>",
+            "link_label": "Jumpstart your career",
+            "link": "\/cart\/33480025636995:1,33097690349699:1,36655747530911:1,36758906306719:1,43231747703036:1"
+          }
+        },
+        "6d8d9a63-bb89-45ad-a0ac-d8ef8c6831ac": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "Get started",
+            "text": "<h2><strong>COURSE ESSENTIALS<\/strong><\/h2><h6><strong>COURSE + TEXTBOOK<\/strong><\/h6><h4><strong>$347<\/strong><\/h4><p><em>or 4 Payments of<\/em> <strong>$86.75!<\/strong><\/p><h5><strong>FREC COURSE INCLUDED<\/strong><\/h5><ul><li><strong>Video On-Demand FL 63-Hour Sales Associate Pre-Licensing Online Course<\/strong><\/li><li><strong>Desktop or Mobile<\/strong><\/li><li><strong>Textbook Included<\/strong><\/li><\/ul><h5><strong>BONUS EXAM PREP<\/strong><\/h5><ul><li><strong>Secrets of the Exam<\/strong><\/li><\/ul>",
+            "link_label": "Jumpstart your career",
+            "link": "\/cart\/33480025636995:1,33097690349699:1,36655747530911:1,36758906306719:1,43231747703036:1"
+          }
+        }
+      },
+      "block_order": [
+        "template--16706592669948__3ed12cd3-b5ac-43ec-99ec-e0d2158a9579-1681518423160efce1-0",
+        "b9089a79-e102-4517-af8a-595db37d2492",
+        "6d8d9a63-bb89-45ad-a0ac-d8ef8c6831ac"
+      ],
+      "custom_css": [
+        ".rte ul {list-style: outside;}"
+      ],
       "settings": {
-        "custom_liquid": "<div id=\"om-totegcq7wultsrwlwsiu-holder\"><\/div>",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "accent-1",
-        "padding_top": 12,
-        "padding_bottom": 52
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
       }
     },
     "image-with-text": {
@@ -453,97 +544,9 @@
         "padding_bottom": 36
       }
     },
-    "de3330ab-12db-47ef-9905-5ae410aec7d8": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16706592669948__de3330ab-12db-47ef-9905-5ae410aec7d8-16815196615497c0fd-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Start your Florida Real State Career",
-            "heading_size": "h1"
-          }
-        },
-        "template--16706592669948__de3330ab-12db-47ef-9905-5ae410aec7d8-16815196615497c0fd-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Choose the right course bundle to start your new career!<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16706592669948__de3330ab-12db-47ef-9905-5ae410aec7d8-16815196615497c0fd-0",
-        "template--16706592669948__de3330ab-12db-47ef-9905-5ae410aec7d8-16815196615497c0fd-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "3ed12cd3-b5ac-43ec-99ec-e0d2158a9579": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16706592669948__3ed12cd3-b5ac-43ec-99ec-e0d2158a9579-1681518423160efce1-0": {
-          "type": "column",
-          "settings": {
-            "icon": "",
-            "title": "Accelerate your Career",
-            "text": "<h2><strong>COMPLETE JUMPSTART BUNDLE<\/strong><\/h2><h6><strong>+ POST LICENSING TO JUMPSTART YOUR CAREER<\/strong><\/h6><h4><strong>$597<\/strong><\/h4><p><em>or 4 Payments of<\/em> <strong>$149.25!<\/strong><\/p><h5><strong>FREC COURSE + JUMPSTART BUNDLE<\/strong><\/h5><ul><li><strong>Video On-Demand FL 63-Hour Sales Associate Pre-Licensing Online Course<\/strong><\/li><li><strong>Short Easy to Follow Videos<\/strong><\/li><li><strong>Desktop or Mobile<\/strong><\/li><li><strong>Textbook Included<\/strong><\/li><li><strong>1-Year Retake Guarantee<\/strong><\/li><\/ul><h5><strong>INCLUDES ALL EXAM PREP<\/strong><\/h5><ul><li><strong>Pass First Try Exam Prep<\/strong><\/li><li><strong>MP3 Online Audio Review<\/strong><\/li><li><strong>Question Simulator<\/strong><\/li><li><strong>Prep Recordings<\/strong><\/li><li><strong>Exam Prep Workbook<\/strong><\/li><li><strong>Secrets of the Exam<\/strong><\/li><\/ul><h5><strong>REQUIRED AFTER LICENSED<\/strong><\/h5><ul><li><strong>Instructor-Led On-Demand FL 45-Hour Sales Associate Post Licensing Online Course<\/strong><\/li><li><strong>Pre-Registration Savings<\/strong><\/li><\/ul>",
-            "link_label": "Jumpstart your career",
-            "link": "\/cart\/33480025636995:1,33097690349699:1,36655747530911:1,43289174835452:1,36758906306719:1,43231747703036:1"
-          }
-        },
-        "b9089a79-e102-4517-af8a-595db37d2492": {
-          "type": "column",
-          "settings": {
-            "icon": "",
-            "title": "Ace the exams",
-            "text": "<h2><strong>PASS FIRST TRY BUNDLE<\/strong><\/h2><h6><strong>+ PREP TOOLS TO ACE THE EXAM<\/strong><\/h6><h4><strong>$497<\/strong><\/h4><p><em>or 4 Payments of<\/em> <strong>$124.25!<\/strong><\/p><h5><strong>INCLUDES ALL EXAM PREP<\/strong><\/h5><ul><li><strong>Pass First Try Exam Prep<\/strong><\/li><li><strong>MP3 Online Audio Review<\/strong><\/li><li><strong>Question Simulator<\/strong><\/li><li><strong>Prep Recordings<\/strong><\/li><li><strong>Exam Prep Workbook<\/strong><\/li><li><strong>Secrets of the Exam<\/strong><\/li><\/ul><h5><strong>FREC COURSE + JUMPSTART BUNDLE<\/strong><\/h5><ul><li><strong>Video On-Demand FL 63-Hour Sales Associate Pre-Licensing Online Course<\/strong><\/li><li><strong>Desktop or Mobile<\/strong><\/li><li><strong>Textbook Included<\/strong><\/li><\/ul>",
-            "link_label": "Jumpstart your career",
-            "link": "\/cart\/33480025636995:1,33097690349699:1,36655747530911:1,36758906306719:1,43231747703036:1"
-          }
-        },
-        "6d8d9a63-bb89-45ad-a0ac-d8ef8c6831ac": {
-          "type": "column",
-          "settings": {
-            "icon": "",
-            "title": "Get started",
-            "text": "<h2><strong>COURSE ESSENTIALS<\/strong><\/h2><h6><strong>COURSE + TEXTBOOK<\/strong><\/h6><h4><strong>$347<\/strong><\/h4><p><em>or 4 Payments of<\/em> <strong>$86.75!<\/strong><\/p><h5><strong>FREC COURSE INCLUDED<\/strong><\/h5><ul><li><strong>Video On-Demand FL 63-Hour Sales Associate Pre-Licensing Online Course<\/strong><\/li><li><strong>Desktop or Mobile<\/strong><\/li><li><strong>Textbook Included<\/strong><\/li><\/ul><h5><strong>BONUS EXAM PREP<\/strong><\/h5><ul><li><strong>Secrets of the Exam<\/strong><\/li><\/ul>",
-            "link_label": "Jumpstart your career",
-            "link": "\/cart\/33480025636995:1,33097690349699:1,36655747530911:1,36758906306719:1,43231747703036:1"
-          }
-        }
-      },
-      "block_order": [
-        "template--16706592669948__3ed12cd3-b5ac-43ec-99ec-e0d2158a9579-1681518423160efce1-0",
-        "b9089a79-e102-4517-af8a-595db37d2492",
-        "6d8d9a63-bb89-45ad-a0ac-d8ef8c6831ac"
-      ],
-      "custom_css": [
-        ".rte ul {list-style: outside;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "accent-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
     "16b56042-9cf4-42b6-abd4-ddac5ae26abc": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--16706509832444__16b56042-9cf4-42b6-abd4-ddac5ae26abc-16815124037d776135-0": {
           "type": "heading",
@@ -567,6 +570,7 @@
     },
     "4c191d3d-fec1-4871-8d75-408f33382ceb": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "template--16706509832444__4c191d3d-fec1-4871-8d75-408f33382ceb-1681512236f2d3d139-0": {
           "type": "collapsible_row",
@@ -641,6 +645,7 @@
     },
     "f60efdb7-93cb-4899-a69e-eb71d3b342a0": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "502c1f0c-5dee-404a-9ff2-c62b950351eb": {
           "type": "collapsible_row",
@@ -705,6 +710,7 @@
     },
     "f707403b-761d-4b4d-a33b-121d16832c9c": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "c78e4efa-750b-417b-87d5-df2b9b238c24": {
           "type": "collapsible_row",
@@ -793,9 +799,30 @@
         "padding_bottom": 36
       }
     },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "heading": "<strong>START YOUR FLORIDA REAL ESTATE CAREER<\/strong>",
+        "heading_size": "h2",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "color_scheme": "accent-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "1",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
     "03871ee9-3224-43f9-9e3b-e3f10e48cf62": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "3ce0860a-3604-4f86-a38f-fe4e6aa35ca2": {
           "type": "caption",
@@ -858,19 +885,19 @@
     "main",
     "e791962f-c569-4969-ab37-901e8108313d",
     "eca65864-63bd-4f8d-ae5e-e34d18fb8169",
+    "5bc84c94-85b6-4328-a06a-0522f59deb82",
     "2684f0e8-68c1-412b-8928-c383065eb440",
-    "related-products",
-    "c28c0f4b-5dda-4362-a625-f732502da065",
+    "de3330ab-12db-47ef-9905-5ae410aec7d8",
+    "3ed12cd3-b5ac-43ec-99ec-e0d2158a9579",
     "image-with-text",
     "eedef890-7ec1-4438-9623-85064295f882",
     "68c47d31-68ab-4abf-9c3d-04c8537c1303",
-    "de3330ab-12db-47ef-9905-5ae410aec7d8",
-    "3ed12cd3-b5ac-43ec-99ec-e0d2158a9579",
     "16b56042-9cf4-42b6-abd4-ddac5ae26abc",
     "4c191d3d-fec1-4871-8d75-408f33382ceb",
     "f60efdb7-93cb-4899-a69e-eb71d3b342a0",
     "f707403b-761d-4b4d-a33b-121d16832c9c",
     "4cedd084-a584-4349-a5c7-48bba3ee06f7",
+    "related-products",
     "03871ee9-3224-43f9-9e3b-e3f10e48cf62"
   ]
 }
