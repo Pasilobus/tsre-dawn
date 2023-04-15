@@ -151,18 +151,18 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 20
       }
     },
     "8dc6aa09-96ee-41b5-93c8-dbe8cb158f0f": {
       "type": "custom-liquid",
       "custom_css": [
-        "iframe {}"
+        "iframe {aspect-ratio: 1.6; height: 100%; max-width: 1200px; width: 100%;}"
       ],
       "settings": {
         "custom_liquid": "<iframe width=\"100%\" height=\"100%\" src=\"https:\/\/classic.tampaschoolofrealestate.com\/demos\/question-simulator\/index\" data-src=\"https:\/\/classic.tampaschoolofrealestate.com\/demos\/question-simulator\/index\" frameborder=\"0\" allowfullscreen=\"\"><\/iframe>",
         "color_scheme": "background-1",
-        "padding_top": 40,
+        "padding_top": 0,
         "padding_bottom": 52
       }
     },
