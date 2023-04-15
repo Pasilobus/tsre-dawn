@@ -396,6 +396,7 @@
     },
     "68c47d31-68ab-4abf-9c3d-04c8537c1303": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "5a8221cc-c1db-4913-a0ca-5591027f8655": {
           "type": "caption",
