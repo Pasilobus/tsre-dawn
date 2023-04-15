@@ -48,7 +48,6 @@
         },
         "description": {
           "type": "description",
-          "disabled": true,
           "settings": {
           }
         },
@@ -113,6 +112,9 @@
         "collapsible-row-2",
         "collapsible-row-3",
         "share"
+      ],
+      "custom_css": [
+        ".product__info-container iframe {aspect-ratio: 16\/9; height: auto;}"
       ],
       "settings": {
         "enable_sticky_info": true,
