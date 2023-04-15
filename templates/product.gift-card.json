@@ -1,0 +1,576 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Materials",
+            "icon": "leather",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Shipping & Returns",
+            "icon": "truck",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible-row-2": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Dimensions",
+            "icon": "ruler",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible-row-3": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Care Instructions",
+            "icon": "heart",
+            "content": "",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "caption",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "collapsible-row-0",
+        "collapsible-row-1",
+        "collapsible-row-2",
+        "collapsible-row-3",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "small",
+        "constrain_to_viewport": false,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "e791962f-c569-4969-ab37-901e8108313d": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16706509832444__e791962f-c569-4969-ab37-901e8108313d-1681517474f61b0990-0": {
+          "type": "column",
+          "settings": {
+            "icon": "picto-warranty",
+            "title": "FREC Approved School",
+            "text": "<p>At TSRE, our school and all of our instructors are Florida Real Estate Commission Approved. <\/p><p>All Pre-Licensing, Post Licensing & Continuing Education course also maintain FREC Approval. <\/p><p><a href=\"https:\/\/www.myfloridalicense.com\/LicenseDetail.asp?SID=&id=4F3D91AAE03039862C0A9E9F33D69463\" target=\"_blank\" title=\"https:\/\/www.myfloridalicense.com\/LicenseDetail.asp?SID=&id=4F3D91AAE03039862C0A9E9F33D69463\">TSRE School License: #<strong>ZH1002233<\/strong><\/a><\/p><p><\/p><p><\/p><p><\/p><p><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16706509832444__e791962f-c569-4969-ab37-901e8108313d-1681517474f61b0990-1": {
+          "type": "column",
+          "settings": {
+            "icon": "picto-shield",
+            "title": "Trusted by 25,000+",
+            "text": "<p>Since it's founding in 2007 TSRE has been trusted by over 25,000+ past students to launch and build their real estate empires.<\/p><p>At the Tampa School of Real Estate, your success is our success.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16706509832444__e791962f-c569-4969-ab37-901e8108313d-1681517474f61b0990-2": {
+          "type": "column",
+          "settings": {
+            "icon": "picto-operator",
+            "title": "Student Success Team",
+            "text": "<p>Your Success is Our Success<\/p><p>Our Student Success team is here to answer your questions and ensure you get the most out of your courses and study tools. <\/p><p>Available by phone, text, chat or email.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16706509832444__e791962f-c569-4969-ab37-901e8108313d-1681517474f61b0990-0",
+        "template--16706509832444__e791962f-c569-4969-ab37-901e8108313d-1681517474f61b0990-1",
+        "template--16706509832444__e791962f-c569-4969-ab37-901e8108313d-1681517474f61b0990-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "eca65864-63bd-4f8d-ae5e-e34d18fb8169": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>REAL ESTATE LICENSE<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you don't pass your end-of-course exam <em><strong>you're backed by our 1-Year Retake Guarantee<\/strong><\/em>. The FREC will require you to wait 30 days before re-testing. If you still don't pass after retesting, you are able to <strong>re-attend a class a no charge within 1-year of your registration date.<\/strong><\/p><p>Trying to pass on the first try? Rest assured, this typically isn't a concern with our <strong>course pass rates above 90%!<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-0",
+        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-1",
+        "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1-YEAR_RETAKE_GUARANTEE.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2684f0e8-68c1-412b-8928-c383065eb440": {
+      "type": "image-with-text",
+      "blocks": {
+        "32b0a0eb-577a-416a-8d00-f8c9f08cfea2": {
+          "type": "caption",
+          "settings": {
+            "caption": "HOW TO GET YOUR FLORIDA SALES ASSOCIATE",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "190f0058-a8fb-4367-8448-f9cb823799c0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>1-YEAR RETAKE GUARANTEE<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "927e6cad-0ce1-4570-8c5a-04cc279dca11": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✓ 18+ Years Old<\/p><p>✓ High School Diploma or Equivalent<\/p><p>✓ US Social Security Number<\/p><p>✓ Fingerprints & Application Apprvoal<\/p><p>✓ Pass End of Course Exam with 70%<\/p><p>✓ Pass State Exam with 75%<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1d311749-36c0-4f2b-a86f-829b8527c2a3": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "32b0a0eb-577a-416a-8d00-f8c9f08cfea2",
+        "190f0058-a8fb-4367-8448-f9cb823799c0",
+        "927e6cad-0ce1-4570-8c5a-04cc279dca11",
+        "1d311749-36c0-4f2b-a86f-829b8527c2a3"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/21fcd92d-90f7-464a-b661-369238197720_458x_1120ca55-8bc1-44f0-9680-33f49015a8bd.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "heading": "<strong>START YOUR FLORIDA REAL ESTATE CAREER<\/strong>",
+        "heading_size": "h2",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "color_scheme": "accent-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "1",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "c28c0f4b-5dda-4362-a625-f732502da065": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"om-totegcq7wultsrwlwsiu-holder\"><\/div>",
+        "color_scheme": "accent-1",
+        "padding_top": 12,
+        "padding_bottom": 52
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "25be2bd2-8dc0-4fd8-bd9c-20cda1a455f4": {
+          "type": "caption",
+          "settings": {
+            "caption": "YOUR ONLINE COMPANION TO THE COURSE",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "image-with-text-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "DIGITAL MATERIALS",
+            "heading_size": "h2"
+          }
+        },
+        "image-with-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✓ License Steps<\/p><p>✓ Instructor PowerPoint<\/p><p>✓ Digital & Printable Flashcards<\/p><p>✓ Practice Exam & Math Guide<\/p><p>✓ Career Resources & Next Steps<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "25be2bd2-8dc0-4fd8-bd9c-20cda1a455f4",
+        "image-with-text-0",
+        "image-with-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/sales-associate-digital-materials-1200-x-600-px.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "eedef890-7ec1-4438-9623-85064295f882": {
+      "type": "image-with-text",
+      "blocks": {
+        "2f1cc871-2cc3-402b-a834-05c7817f4019": {
+          "type": "caption",
+          "settings": {
+            "caption": "FLORIDA REAL ESTATE PRINCIPLES, PRACTICES & LAW",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "a6d23577-2a4d-453f-9c43-de0ac50e7f95": {
+          "type": "heading",
+          "settings": {
+            "heading": "COURSE TEXTBOOK",
+            "heading_size": "h2"
+          }
+        },
+        "46279195-e85a-4579-8599-8d9c68b97c77": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✓ Yours to Keep<\/p><p>✓ Take Notes & Highlight<\/p><p>✓  Reference Laws & Rules Once Licensed<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "2f1cc871-2cc3-402b-a834-05c7817f4019",
+        "a6d23577-2a4d-453f-9c43-de0ac50e7f95",
+        "46279195-e85a-4579-8599-8d9c68b97c77"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/slpre-45th-edition-textbook-included-1200-x-600-px-2_1200x_89f99f28-459b-422a-8147-dd4f1ceabf82.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "68c47d31-68ab-4abf-9c3d-04c8537c1303": {
+      "type": "image-with-text",
+      "blocks": {
+        "5a8221cc-c1db-4913-a0ca-5591027f8655": {
+          "type": "caption",
+          "settings": {
+            "caption": "LIMITED TIME BONUS WITH REGISTRATION",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "bc0c7151-44f8-4cc6-abcd-70c781257c8a": {
+          "type": "heading",
+          "settings": {
+            "heading": "SECRETS OF THE EXAM",
+            "heading_size": "h2"
+          }
+        },
+        "f8db06de-ae5a-4ba3-b22d-bd416fc679a0": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this course to prepare yourself and know what to expect when you take your state exam. Learn tips & tricks to give you an advantage when it's time to take your Florida Real Estate Exam!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "5a8221cc-c1db-4913-a0ca-5591027f8655",
+        "bc0c7151-44f8-4cc6-abcd-70c781257c8a",
+        "f8db06de-ae5a-4ba3-b22d-bd416fc679a0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/secrets-of-the-exam-included_1200x_64c88b4a-c026-4c94-8ad6-4d7f73c0224f.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4cedd084-a584-4349-a5c7-48bba3ee06f7": {
+      "type": "image-with-text",
+      "blocks": {
+        "97b9e0e7-ddd1-434d-a0e3-6ab5a990e7e5": {
+          "type": "caption",
+          "settings": {
+            "caption": "TRUSTED BY 25,000+ STUDENTS FROM 40+COUNTRIES",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "ab472a2b-68c7-4575-b637-ed8396db66bb": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Top Real State School in Florida",
+            "heading_size": "h2"
+          }
+        },
+        "7b19ec37-1619-49e3-a045-0c81e3ca4a55": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At TSRE | Tampa School of Real Estate, we're here to be more than just a required class. We want to help you pass on your first try, jumpstart your career and build your real estate empire... your success is our success!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "97b9e0e7-ddd1-434d-a0e3-6ab5a990e7e5",
+        "ab472a2b-68c7-4575-b637-ed8396db66bb",
+        "7b19ec37-1619-49e3-a045-0c81e3ca4a55"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tampa-real-estate-classes_a1af6d84-e21e-4a3c-a49e-7d708f4d7c87.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "03871ee9-3224-43f9-9e3b-e3f10e48cf62": {
+      "type": "image-with-text",
+      "blocks": {
+        "3ce0860a-3604-4f86-a38f-fe4e6aa35ca2": {
+          "type": "caption",
+          "settings": {
+            "caption": "RECOMMENDED STRATEGY TO PASS EXAMS ON FIRST TRY",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16705787953404__03871ee9-3224-43f9-9e3b-e3f10e48cf62-1681478257a7bb11ec-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>PASS FIRST TRY STRATEGY<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16705787953404__03871ee9-3224-43f9-9e3b-e3f10e48cf62-1681478257a7bb11ec-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✓ Learn the Information<\/p><p>✓ Review Along the Way<\/p><p>✓ Test Your Knowledge<\/p><p>✓ Be Confident & Prepared<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16705787953404__03871ee9-3224-43f9-9e3b-e3f10e48cf62-1681478257a7bb11ec-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "3ce0860a-3604-4f86-a38f-fe4e6aa35ca2",
+        "template--16705787953404__03871ee9-3224-43f9-9e3b-e3f10e48cf62-1681478257a7bb11ec-0",
+        "template--16705787953404__03871ee9-3224-43f9-9e3b-e3f10e48cf62-1681478257a7bb11ec-1",
+        "template--16705787953404__03871ee9-3224-43f9-9e3b-e3f10e48cf62-1681478257a7bb11ec-2"
+      ],
+      "custom_css": [
+        ".image-with-text {background: #0f4529;}",
+        "h2,p {color: #f4fe53;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Add_the_PassFirstTry.com_Exam_Prep_Bundle_1080x_f754d0da-449a-4244-a591-12d1167532b8.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "e791962f-c569-4969-ab37-901e8108313d",
+    "eca65864-63bd-4f8d-ae5e-e34d18fb8169",
+    "2684f0e8-68c1-412b-8928-c383065eb440",
+    "related-products",
+    "c28c0f4b-5dda-4362-a625-f732502da065",
+    "image-with-text",
+    "eedef890-7ec1-4438-9623-85064295f882",
+    "68c47d31-68ab-4abf-9c3d-04c8537c1303",
+    "4cedd084-a584-4349-a5c7-48bba3ee06f7",
+    "03871ee9-3224-43f9-9e3b-e3f10e48cf62"
+  ]
+}
