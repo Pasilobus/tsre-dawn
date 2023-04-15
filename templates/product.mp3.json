@@ -268,216 +268,49 @@
         "padding_bottom": 36
       }
     },
-    "related-products": {
-      "type": "related-products",
-      "custom_css": [
-        "h2 {text-align: center;}"
+    "b09c2eaa-8bbb-41c5-a82a-8a8bf9db039d": {
+      "type": "rich-text",
+      "blocks": {
+        "04a48168-61f9-42c4-bfa4-7f107a9eb6d4": {
+          "type": "caption",
+          "settings": {
+            "caption": "MP3 Audio Review Timeline & Content Overview",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16706625700092__b09c2eaa-8bbb-41c5-a82a-8a8bf9db039d-168152572391a898bc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Outline of review sections",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "04a48168-61f9-42c4-bfa4-7f107a9eb6d4",
+        "template--16706625700092__b09c2eaa-8bbb-41c5-a82a-8a8bf9db039d-168152572391a898bc-0"
       ],
       "settings": {
-        "heading": "<strong>START YOUR FLORIDA REAL ESTATE CAREER<\/strong>",
-        "heading_size": "h2",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "color_scheme": "accent-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "1",
-        "padding_top": 36,
-        "padding_bottom": 28
-      }
-    },
-    "c28c0f4b-5dda-4362-a625-f732502da065": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div id=\"om-totegcq7wultsrwlwsiu-holder\"><\/div>",
-        "color_scheme": "accent-1",
-        "padding_top": 12,
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
         "padding_bottom": 52
       }
     },
-    "image-with-text": {
-      "type": "image-with-text",
-      "blocks": {
-        "25be2bd2-8dc0-4fd8-bd9c-20cda1a455f4": {
-          "type": "caption",
-          "settings": {
-            "caption": "YOUR ONLINE COMPANION TO THE COURSE",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        },
-        "image-with-text-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "DIGITAL MATERIALS",
-            "heading_size": "h2"
-          }
-        },
-        "image-with-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>✓ License Steps<\/p><p>✓ Instructor PowerPoint<\/p><p>✓ Digital & Printable Flashcards<\/p><p>✓ Practice Exam & Math Guide<\/p><p>✓ Career Resources & Next Steps<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "25be2bd2-8dc0-4fd8-bd9c-20cda1a455f4",
-        "image-with-text-0",
-        "image-with-text-1"
+    "9059543a-91b7-4a8c-9385-7c59bdb2b4d2": {
+      "type": "page",
+      "custom_css": [
+        ".h1 {display: none;}",
+        ".rte table td:not(:nth-child(2)) {width: 5.5em;}",
+        ".rte table td {padding: 0 0.5em;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/sales-associate-digital-materials-1200-x-600-px.webp",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
+        "page": "mp3-audio-review-timeline-content-overview",
+        "heading_size": "h1",
         "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "eedef890-7ec1-4438-9623-85064295f882": {
-      "type": "image-with-text",
-      "blocks": {
-        "2f1cc871-2cc3-402b-a834-05c7817f4019": {
-          "type": "caption",
-          "settings": {
-            "caption": "FLORIDA REAL ESTATE PRINCIPLES, PRACTICES & LAW",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        },
-        "a6d23577-2a4d-453f-9c43-de0ac50e7f95": {
-          "type": "heading",
-          "settings": {
-            "heading": "COURSE TEXTBOOK",
-            "heading_size": "h2"
-          }
-        },
-        "46279195-e85a-4579-8599-8d9c68b97c77": {
-          "type": "text",
-          "settings": {
-            "text": "<p>✓ Yours to Keep<\/p><p>✓ Take Notes & Highlight<\/p><p>✓  Reference Laws & Rules Once Licensed<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "2f1cc871-2cc3-402b-a834-05c7817f4019",
-        "a6d23577-2a4d-453f-9c43-de0ac50e7f95",
-        "46279195-e85a-4579-8599-8d9c68b97c77"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/slpre-45th-edition-textbook-included-1200-x-600-px-2_1200x_89f99f28-459b-422a-8147-dd4f1ceabf82.webp",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "68c47d31-68ab-4abf-9c3d-04c8537c1303": {
-      "type": "image-with-text",
-      "blocks": {
-        "5a8221cc-c1db-4913-a0ca-5591027f8655": {
-          "type": "caption",
-          "settings": {
-            "caption": "LIMITED TIME BONUS WITH REGISTRATION",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        },
-        "bc0c7151-44f8-4cc6-abcd-70c781257c8a": {
-          "type": "heading",
-          "settings": {
-            "heading": "SECRETS OF THE EXAM",
-            "heading_size": "h2"
-          }
-        },
-        "f8db06de-ae5a-4ba3-b22d-bd416fc679a0": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Use this course to prepare yourself and know what to expect when you take your state exam. Learn tips & tricks to give you an advantage when it's time to take your Florida Real Estate Exam!<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "5a8221cc-c1db-4913-a0ca-5591027f8655",
-        "bc0c7151-44f8-4cc6-abcd-70c781257c8a",
-        "f8db06de-ae5a-4ba3-b22d-bd416fc679a0"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/secrets-of-the-exam-included_1200x_64c88b4a-c026-4c94-8ad6-4d7f73c0224f.webp",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "4cedd084-a584-4349-a5c7-48bba3ee06f7": {
-      "type": "image-with-text",
-      "blocks": {
-        "97b9e0e7-ddd1-434d-a0e3-6ab5a990e7e5": {
-          "type": "caption",
-          "settings": {
-            "caption": "TRUSTED BY 25,000+ STUDENTS FROM 40+COUNTRIES",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        },
-        "ab472a2b-68c7-4575-b637-ed8396db66bb": {
-          "type": "heading",
-          "settings": {
-            "heading": "The Top Real State School in Florida",
-            "heading_size": "h2"
-          }
-        },
-        "7b19ec37-1619-49e3-a045-0c81e3ca4a55": {
-          "type": "text",
-          "settings": {
-            "text": "<p>At TSRE | Tampa School of Real Estate, we're here to be more than just a required class. We want to help you pass on your first try, jumpstart your career and build your real estate empire... your success is our success!<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "97b9e0e7-ddd1-434d-a0e3-6ab5a990e7e5",
-        "ab472a2b-68c7-4575-b637-ed8396db66bb",
-        "7b19ec37-1619-49e3-a045-0c81e3ca4a55"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/tampa-real-estate-classes_a1af6d84-e21e-4a3c-a49e-7d708f4d7c87.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "overlap",
-        "color_scheme": "accent-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -540,6 +373,73 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "4cedd084-a584-4349-a5c7-48bba3ee06f7": {
+      "type": "image-with-text",
+      "blocks": {
+        "97b9e0e7-ddd1-434d-a0e3-6ab5a990e7e5": {
+          "type": "caption",
+          "settings": {
+            "caption": "TRUSTED BY 25,000+ STUDENTS FROM 40+COUNTRIES",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "ab472a2b-68c7-4575-b637-ed8396db66bb": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Top Real State School in Florida",
+            "heading_size": "h2"
+          }
+        },
+        "7b19ec37-1619-49e3-a045-0c81e3ca4a55": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At TSRE | Tampa School of Real Estate, we're here to be more than just a required class. We want to help you pass on your first try, jumpstart your career and build your real estate empire... your success is our success!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "97b9e0e7-ddd1-434d-a0e3-6ab5a990e7e5",
+        "ab472a2b-68c7-4575-b637-ed8396db66bb",
+        "7b19ec37-1619-49e3-a045-0c81e3ca4a55"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tampa-real-estate-classes_a1af6d84-e21e-4a3c-a49e-7d708f4d7c87.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "heading": "<strong>You may also like<\/strong>",
+        "heading_size": "h2",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "1",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
     }
   },
   "order": [
@@ -547,12 +447,10 @@
     "e791962f-c569-4969-ab37-901e8108313d",
     "2684f0e8-68c1-412b-8928-c383065eb440",
     "eca65864-63bd-4f8d-ae5e-e34d18fb8169",
-    "related-products",
-    "c28c0f4b-5dda-4362-a625-f732502da065",
-    "image-with-text",
-    "eedef890-7ec1-4438-9623-85064295f882",
-    "68c47d31-68ab-4abf-9c3d-04c8537c1303",
+    "b09c2eaa-8bbb-41c5-a82a-8a8bf9db039d",
+    "9059543a-91b7-4a8c-9385-7c59bdb2b4d2",
+    "03871ee9-3224-43f9-9e3b-e3f10e48cf62",
     "4cedd084-a584-4349-a5c7-48bba3ee06f7",
-    "03871ee9-3224-43f9-9e3b-e3f10e48cf62"
+    "related-products"
   ]
 }
