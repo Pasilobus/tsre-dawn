@@ -209,7 +209,7 @@
         "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-2"
       ],
       "custom_css": [
-        ".rte li::marker {color: blue;}"
+        ".rte ul li::marker {height: \"\\2713\";}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/download_1.webp",
