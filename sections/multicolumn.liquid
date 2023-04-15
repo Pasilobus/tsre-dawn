@@ -110,10 +110,11 @@
                     }}
                   </div>
                 </div>
-              {%- elsif block.settings.icon != blank %}
-                {%- render 'icon' with block.settings.icon -%}
               {%- endif -%}
               <div class="multicolumn-card__info">
+                {%- if block.settings.icon != blank %}
+                  {%- render 'icon' with block.settings.icon -%}
+                {%- endif -%}
                 {%- if block.settings.title != blank -%}
                   <h3 class="inline-richtext">{{ block.settings.title }}</h3>
                 {%- endif -%}
@@ -562,8 +563,7 @@
               "group": "Health"
             }
           ],
-          "default": "",
-          "info": "The image seleced above takes precedence."
+          "default": ""
         },
         {
           "type": "inline_richtext",
