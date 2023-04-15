@@ -131,6 +131,41 @@
         "padding_bottom": 12
       }
     },
+    "79bd7eb7-cc6f-4a27-903d-913368f07297": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16706625863932__79bd7eb7-cc6f-4a27-903d-913368f07297-168152876630ae4149-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "LIVE DEMO - Test Your Knowledge Now",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--16706625863932__79bd7eb7-cc6f-4a27-903d-913368f07297-168152876630ae4149-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "8dc6aa09-96ee-41b5-93c8-dbe8cb158f0f": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "iframe {}"
+      ],
+      "settings": {
+        "custom_liquid": "<iframe width=\"100%\" height=\"100%\" src=\"https:\/\/classic.tampaschoolofrealestate.com\/demos\/question-simulator\/index\" data-src=\"https:\/\/classic.tampaschoolofrealestate.com\/demos\/question-simulator\/index\" frameborder=\"0\" allowfullscreen=\"\"><\/iframe>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "e791962f-c569-4969-ab37-901e8108313d": {
       "type": "multicolumn",
       "blocks": {
@@ -570,6 +605,8 @@
   },
   "order": [
     "main",
+    "79bd7eb7-cc6f-4a27-903d-913368f07297",
+    "8dc6aa09-96ee-41b5-93c8-dbe8cb158f0f",
     "e791962f-c569-4969-ab37-901e8108313d",
     "eca65864-63bd-4f8d-ae5e-e34d18fb8169",
     "2684f0e8-68c1-412b-8928-c383065eb440",
