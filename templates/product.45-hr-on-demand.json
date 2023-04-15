@@ -175,7 +175,7 @@
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
@@ -313,6 +313,144 @@
         "color_scheme": "accent-1",
         "padding_top": 12,
         "padding_bottom": 52
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "25be2bd2-8dc0-4fd8-bd9c-20cda1a455f4": {
+          "type": "caption",
+          "settings": {
+            "caption": "YOUR ONLINE COMPANION TO THE COURSE",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "image-with-text-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "DIGITAL MATERIALS",
+            "heading_size": "h2"
+          }
+        },
+        "image-with-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✓ License Steps<\/p><p>✓ Instructor PowerPoint<\/p><p>✓ Digital & Printable Flashcards<\/p><p>✓ Practice Exam & Math Guide<\/p><p>✓ Career Resources & Next Steps<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "25be2bd2-8dc0-4fd8-bd9c-20cda1a455f4",
+        "image-with-text-0",
+        "image-with-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/sales-associate-digital-materials-1200-x-600-px.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "eedef890-7ec1-4438-9623-85064295f882": {
+      "type": "image-with-text",
+      "blocks": {
+        "2f1cc871-2cc3-402b-a834-05c7817f4019": {
+          "type": "caption",
+          "settings": {
+            "caption": "FLORIDA REAL ESTATE PRINCIPLES, PRACTICES & LAW",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "a6d23577-2a4d-453f-9c43-de0ac50e7f95": {
+          "type": "heading",
+          "settings": {
+            "heading": "COURSE TEXTBOOK",
+            "heading_size": "h2"
+          }
+        },
+        "46279195-e85a-4579-8599-8d9c68b97c77": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✓ Yours to Keep<\/p><p>✓ Take Notes & Highlight<\/p><p>✓  Reference Laws & Rules Once Licensed<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "2f1cc871-2cc3-402b-a834-05c7817f4019",
+        "a6d23577-2a4d-453f-9c43-de0ac50e7f95",
+        "46279195-e85a-4579-8599-8d9c68b97c77"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/slpre-45th-edition-textbook-included-1200-x-600-px-2_1200x_89f99f28-459b-422a-8147-dd4f1ceabf82.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "68c47d31-68ab-4abf-9c3d-04c8537c1303": {
+      "type": "image-with-text",
+      "blocks": {
+        "5a8221cc-c1db-4913-a0ca-5591027f8655": {
+          "type": "caption",
+          "settings": {
+            "caption": "LIMITED TIME BONUS WITH REGISTRATION",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "bc0c7151-44f8-4cc6-abcd-70c781257c8a": {
+          "type": "heading",
+          "settings": {
+            "heading": "SECRETS OF THE EXAM",
+            "heading_size": "h2"
+          }
+        },
+        "f8db06de-ae5a-4ba3-b22d-bd416fc679a0": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this course to prepare yourself and know what to expect when you take your state exam. Learn tips & tricks to give you an advantage when it's time to take your Florida Real Estate Exam!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "5a8221cc-c1db-4913-a0ca-5591027f8655",
+        "bc0c7151-44f8-4cc6-abcd-70c781257c8a",
+        "f8db06de-ae5a-4ba3-b22d-bd416fc679a0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/secrets-of-the-exam-included_1200x_64c88b4a-c026-4c94-8ad6-4d7f73c0224f.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "16b56042-9cf4-42b6-abd4-ddac5ae26abc": {
@@ -634,6 +772,9 @@
     "2684f0e8-68c1-412b-8928-c383065eb440",
     "related-products",
     "c28c0f4b-5dda-4362-a625-f732502da065",
+    "image-with-text",
+    "eedef890-7ec1-4438-9623-85064295f882",
+    "68c47d31-68ab-4abf-9c3d-04c8537c1303",
     "16b56042-9cf4-42b6-abd4-ddac5ae26abc",
     "4c191d3d-fec1-4871-8d75-408f33382ceb",
     "f60efdb7-93cb-4899-a69e-eb71d3b342a0",
