@@ -309,7 +309,7 @@
         "image": "shopify:\/\/shop_images\/21fcd92d-90f7-464a-b661-369238197720_458x_1120ca55-8bc1-44f0-9680-33f49015a8bd.webp",
         "height": "small",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
         "content_layout": "overlap",
@@ -327,7 +327,7 @@
           "type": "heading",
           "settings": {
             "heading": "Start your Florida Real State Career",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "template--16706592669948__de3330ab-12db-47ef-9905-5ae410aec7d8-16815196615497c0fd-1": {
