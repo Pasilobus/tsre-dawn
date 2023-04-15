@@ -447,6 +447,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/dbpr.png",
+            "icon": "picto-customer-support",
             "title": "",
             "text": "",
             "link_label": "",
@@ -457,6 +458,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/21fcd92d-90f7-464a-b661-369238197720.png",
+            "icon": "picto-customer-support",
             "title": "",
             "text": "",
             "link_label": "",
