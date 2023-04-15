@@ -209,7 +209,7 @@
         "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-2"
       ],
       "custom_css": [
-        ".rte ul li::marker {height: \"\\2713\";}"
+
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/download_1.webp",
@@ -229,25 +229,17 @@
     "2684f0e8-68c1-412b-8928-c383065eb440": {
       "type": "image-with-text",
       "blocks": {
-        "32b0a0eb-577a-416a-8d00-f8c9f08cfea2": {
-          "type": "caption",
-          "settings": {
-            "caption": "HOW TO GET YOUR FLORIDA SALES ASSOCIATE",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
         "190f0058-a8fb-4367-8448-f9cb823799c0": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>1-YEAR RETAKE GUARANTEE<\/strong>",
+            "heading": "How does it work?",
             "heading_size": "h2"
           }
         },
         "927e6cad-0ce1-4570-8c5a-04cc279dca11": {
           "type": "text",
           "settings": {
-            "text": "<p>✓ 18+ Years Old<\/p><p>✓ High School Diploma or Equivalent<\/p><p>✓ US Social Security Number<\/p><p>✓ Fingerprints & Application Apprvoal<\/p><p>✓ Pass End of Course Exam with 70%<\/p><p>✓ Pass State Exam with 75%<\/p>",
+            "text": "<p><strong>It's easy to share your gift.<\/strong><\/p><p>You'll get an email with a code that you can forward to the gift recipient, along with instructions to exchange it for any course.<\/p><p><strong>Copy & paste the discount code before checkout<\/strong><\/p><p>The unique 16 digit code on the Gift Card needs to be copied and pasted in the Discount Code box at the checkout page.<\/p><p><strong>You’re all set!<\/strong><\/p><p>Now you can enjoy TSRE Gift Cards!<\/p><p>We can't wait to help your loved one learn all about real estate! Get a TSRE Gift Card Today<\/p>",
             "text_style": "body"
           }
         },
@@ -261,19 +253,18 @@
         }
       },
       "block_order": [
-        "32b0a0eb-577a-416a-8d00-f8c9f08cfea2",
         "190f0058-a8fb-4367-8448-f9cb823799c0",
         "927e6cad-0ce1-4570-8c5a-04cc279dca11",
         "1d311749-36c0-4f2b-a86f-829b8527c2a3"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/21fcd92d-90f7-464a-b661-369238197720_458x_1120ca55-8bc1-44f0-9680-33f49015a8bd.webp",
-        "height": "small",
+        "image": "shopify:\/\/shop_images\/download_2.webp",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "overlap",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
