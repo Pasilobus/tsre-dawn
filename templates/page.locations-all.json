@@ -6,9 +6,77 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "6b4a92f9-7b09-4e73-8669-d2a000f8854f": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"storepoint-container\" data-map-id=\"1620f2b3e980a5\"><\/div><script>(function(){var a=document.createElement(\"script\");a.type=\"text\/javascript\";a.async=!0;a.src=\"https:\/\/cdn.storepoint.co\/api\/v1\/js\/1620f2b3e980a5.js\";var b=document.getElementsByTagName(\"script\")[0];b.parentNode.insertBefore(a,b);}());<\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "a1fc921f-d91f-4472-aa8d-e0ac2e72a157": {
+      "type": "image-banner",
+      "blocks": {
+        "270ebb0c-c411-453f-8f61-f6ee9a967c25": {
+          "type": "caption",
+          "settings": {
+            "caption": "Bring our instructors to you",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Livestream Classes",
+            "heading_size": "h1"
+          }
+        },
+        "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Join a virtual classroom where you can live chat with your instructor and fellow classmates. Access class on the go from any device with an internet connection!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "View livestream classes",
+            "button_link_1": "shopify:\/\/pages\/classes-online",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "270ebb0c-c411-453f-8f61-f6ee9a967c25",
+        "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-0",
+        "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-1",
+        "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/virtual-livestream-classroom.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "6b4a92f9-7b09-4e73-8669-d2a000f8854f",
+    "a1fc921f-d91f-4472-aa8d-e0ac2e72a157"
   ]
 }
