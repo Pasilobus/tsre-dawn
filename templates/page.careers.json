@@ -2,13 +2,108 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "7da792f8-003f-4064-9f55-a24774bc4db9": {
+      "type": "rich-text",
+      "blocks": {
+        "ec06d21a-bed8-4bfe-837a-33b356f86e7e": {
+          "type": "caption",
+          "settings": {
+            "caption": "Now urgently hiring for several positions",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16707904667900__7da792f8-003f-4064-9f55-a24774bc4db9-1681780179e6924fbe-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join the TSRE team",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "ec06d21a-bed8-4bfe-837a-33b356f86e7e",
+        "template--16707904667900__7da792f8-003f-4064-9f55-a24774bc4db9-1681780179e6924fbe-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "8db395b4-5f10-40bc-9355-3d128012bd9f": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/player.vimeo.com\/video\/663757790",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "accent-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6f392651-975c-4278-9ed7-48b99b630b46": {
+      "type": "rich-text",
+      "blocks": {
+        "8e713036-4e5b-4e17-a12c-eeb92c3e6e65": {
+          "type": "caption",
+          "settings": {
+            "caption": "Submit your application below!",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "e518c036-68bd-4ca8-ae55-c4c8eea6b55b": {
+          "type": "heading",
+          "settings": {
+            "heading": "Position & Application",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "8e713036-4e5b-4e17-a12c-eeb92c3e6e65",
+        "e518c036-68bd-4ca8-ae55-c4c8eea6b55b"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "d325a32f-3e4c-43ab-9f67-d166279e7d5e": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "iframe {border: none; width: 100%;}"
+      ],
+      "settings": {
+        "custom_liquid": "<iframe src=\"https:\/\/tampaschool.formstack.com\/forms\/careers\" title=\"Employment Application\"><\/iframe>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "7da792f8-003f-4064-9f55-a24774bc4db9",
+    "8db395b4-5f10-40bc-9355-3d128012bd9f",
+    "6f392651-975c-4278-9ed7-48b99b630b46",
+    "d325a32f-3e4c-43ab-9f67-d166279e7d5e"
   ]
 }
