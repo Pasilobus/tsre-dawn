@@ -166,7 +166,162 @@
         "description": "<h5>LIVE INSTRUCTOR-LED REAL ESTATE CLASSES<\/h5><p>Florida Real Estate Commission (FREC) required course to Earn FL Real Estate License.<\/p><p>Complete the course in a classroom, or bring a LIVE instructor to you through an interactive livestream online class.<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "slpre-livestream-2",
+        "collection": "sl-pre",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8219658e-7d14-4f75-9a95-7ad2c4d53830": {
+      "type": "rich-text",
+      "blocks": {
+        "23132e46-e64f-465b-85a9-e78d910abb3d": {
+          "type": "caption",
+          "settings": {
+            "caption": "Recommended strategy to pass your exams on the first try",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16708516184316__8219658e-7d14-4f75-9a95-7ad2c4d53830-168185405345358713-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pass First Try Exam Prep",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "23132e46-e64f-465b-85a9-e78d910abb3d",
+        "template--16708516184316__8219658e-7d14-4f75-9a95-7ad2c4d53830-168185405345358713-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "b894f74b-e518-4d46-8816-14aaa58d90a8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Pass First Try Strategy Tools",
+        "heading_size": "h1",
+        "description": "<p><em>Bundle & Save with all the Exam Prep Tools or Purchase Just What You Need.<\/em><\/p><p>Take practice exams with the <a href=\"https:\/\/tsre-us.myshopify.com\/products\/question-simulator\" title=\"Question Simulator\"><strong>Question Simulator<\/strong><\/a>. Listen to the <a href=\"https:\/\/tsre-us.myshopify.com\/products\/mp3-audio-review\" title=\"MP3 Audio Review\"><strong>MP3 Audio Review<\/strong><\/a> to reinforce key points while you workout, drive, or even sleep! Pause, skip, speed up or slow down with the on demand <a href=\"https:\/\/tsre-us.myshopify.com\/products\/weekend-prep-recording\" title=\"Weekend Prep Recording\"><strong>Weekend Prep Recording<\/strong><\/a> for a deeper dive into each of the coure units. Get exam prep tips and tricks with the <a href=\"https:\/\/tsre-us.myshopify.com\/products\/secrets-of-the-exam\" title=\"Secrets of the Exam\"><strong>Secrets of the Exam<\/strong><\/a>.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "exam-prep",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "7ad9238f-1695-4c3a-86de-8b60b2ff88f6": {
+      "type": "rich-text",
+      "blocks": {
+        "8fccd8f8-52bb-44b0-bbc0-62ead94bab8a": {
+          "type": "caption",
+          "settings": {
+            "caption": "Required for first renewal & jumpstart your business",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "3281be69-81d9-4425-abb1-5ee45165cdae": {
+          "type": "heading",
+          "settings": {
+            "heading": "48-Hour Post licensing",
+            "heading_size": "h1"
+          }
+        },
+        "cd5d476b-641c-4cfb-a3b2-8a1b1f89dc0b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Self-guided online, instructor-led classroom & livestream courses<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "8fccd8f8-52bb-44b0-bbc0-62ead94bab8a",
+        "3281be69-81d9-4425-abb1-5ee45165cdae",
+        "cd5d476b-641c-4cfb-a3b2-8a1b1f89dc0b"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "76279445-98f0-4028-a342-6b1b889c647f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Instructor-Led",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "sales-post-licensing",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "14faa2a9-e634-4c0e-a8ba-3198c2625a7e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Self-Guided",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "post-licensing",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -193,6 +348,11 @@
     "6bd4c738-f286-45c0-8043-accad6dffabe",
     "1ab51934-b137-431f-a49c-7dfde6b19b35",
     "79b825ab-4bca-4e02-8f0e-00b34a16468a",
-    "ef1e1149-ca2f-443e-a640-e0fc9c0037bb"
+    "ef1e1149-ca2f-443e-a640-e0fc9c0037bb",
+    "8219658e-7d14-4f75-9a95-7ad2c4d53830",
+    "b894f74b-e518-4d46-8816-14aaa58d90a8",
+    "7ad9238f-1695-4c3a-86de-8b60b2ff88f6",
+    "76279445-98f0-4028-a342-6b1b889c647f",
+    "14faa2a9-e634-4c0e-a8ba-3198c2625a7e"
   ]
 }
