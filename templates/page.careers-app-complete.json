@@ -37,70 +37,64 @@
         "padding_bottom": 52
       }
     },
-    "8db395b4-5f10-40bc-9355-3d128012bd9f": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/player.vimeo.com\/video\/663757790",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "accent-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "6f392651-975c-4278-9ed7-48b99b630b46": {
-      "type": "rich-text",
+    "ef2bfb0e-2a20-4515-8823-8cf65c5e6359": {
+      "type": "image-with-text",
       "blocks": {
-        "8e713036-4e5b-4e17-a12c-eeb92c3e6e65": {
+        "2a042e2e-7c3e-4793-99a9-9df4344a04f9": {
           "type": "caption",
           "settings": {
-            "caption": "Submit your application below!",
+            "caption": "Announcing the TSRE affiliate program",
             "text_style": "caption-with-letter-spacing",
             "text_size": "medium"
           }
         },
-        "e518c036-68bd-4ca8-ae55-c4c8eea6b55b": {
+        "template--16707904700668__ef2bfb0e-2a20-4515-8823-8cf65c5e6359-168185344964355545-0": {
           "type": "heading",
           "settings": {
-            "heading": "Position & Application",
+            "heading": "Get rewarded for sharing tsre",
             "heading_size": "h1"
+          }
+        },
+        "template--16707904700668__ef2bfb0e-2a20-4515-8823-8cf65c5e6359-168185344964355545-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Earn commission on sales made from your personalized link! Share on Social, Add to Your Website or Send a Message to Friends and Family.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16707904700668__ef2bfb0e-2a20-4515-8823-8cf65c5e6359-168185344964355545-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get your link",
+            "button_link": "https:\/\/affiliates.tampaschoolofrealestate.com"
           }
         }
       },
       "block_order": [
-        "8e713036-4e5b-4e17-a12c-eeb92c3e6e65",
-        "e518c036-68bd-4ca8-ae55-c4c8eea6b55b"
+        "2a042e2e-7c3e-4793-99a9-9df4344a04f9",
+        "template--16707904700668__ef2bfb0e-2a20-4515-8823-8cf65c5e6359-168185344964355545-0",
+        "template--16707904700668__ef2bfb0e-2a20-4515-8823-8cf65c5e6359-168185344964355545-1",
+        "template--16707904700668__ef2bfb0e-2a20-4515-8823-8cf65c5e6359-168185344964355545-2"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "d325a32f-3e4c-43ab-9f67-d166279e7d5e": {
-      "type": "custom-liquid",
-      "custom_css": [
-        "iframe {border: none; width: 100%;}"
-      ],
-      "settings": {
-        "custom_liquid": "<iframe src=\"https:\/\/tampaschool.formstack.com\/forms\/careers\" title=\"Employment Application\"><\/iframe>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "image": "shopify:\/\/shop_images\/Refer_a_Friend.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
     "7da792f8-003f-4064-9f55-a24774bc4db9",
-    "8db395b4-5f10-40bc-9355-3d128012bd9f",
-    "6f392651-975c-4278-9ed7-48b99b630b46",
-    "d325a32f-3e4c-43ab-9f67-d166279e7d5e"
+    "ef2bfb0e-2a20-4515-8823-8cf65c5e6359"
   ]
 }
