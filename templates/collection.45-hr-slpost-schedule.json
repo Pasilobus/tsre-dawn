@@ -159,6 +159,38 @@
         "padding_bottom": 36
       }
     },
+    "156886c2-ed93-4be0-ac13-5c5b37a495f1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16708547870972__156886c2-ed93-4be0-ac13-5c5b37a495f1-168186114311c7b47a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Post Licensing Schedule",
+            "heading_size": "h1"
+          }
+        },
+        "d141cc9c-bf7e-4c93-ba83-ec7d80c20d32": {
+          "type": "caption",
+          "settings": {
+            "caption": "Limited seating available – reserve your seat now",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "template--16708547870972__156886c2-ed93-4be0-ac13-5c5b37a495f1-168186114311c7b47a-0",
+        "d141cc9c-bf7e-4c93-ba83-ec7d80c20d32"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -184,6 +216,7 @@
     "7e16b57a-8c15-449f-9696-da181d49cfa6",
     "4cedd084-a584-4349-a5c7-48bba3ee06f7",
     "d42e1d33-cfa6-4126-b88a-19f64ee9a25a",
+    "156886c2-ed93-4be0-ac13-5c5b37a495f1",
     "product-grid"
   ]
 }
