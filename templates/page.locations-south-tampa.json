@@ -22,14 +22,14 @@
         "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-0": {
           "type": "heading",
           "settings": {
-            "heading": "New Tampa classroom",
+            "heading": "South Tampa classroom",
             "heading_size": "h1"
           }
         },
         "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-1": {
           "type": "text",
           "settings": {
-            "text": "<p>TSRE Headquarters - Located off Bruce B. Downs Blvd & I-75<br\/>18101 Highwoods Preserve Parkway, Suite 220<br\/>Tampa, Florida 33647<\/p>",
+            "text": "<p>Located on Bay to Bay between Dale Mabry & Bayshore<br\/>3309 West Bay to Bay Boulevard<br\/>Tampa, Florida 33629<\/p>",
             "text_style": "body"
           }
         },
@@ -37,7 +37,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "View map",
-            "button_link_1": "https:\/\/maps.google.com\/maps?ll=28.131609,-82.369133&z=16&t=m&hl=en&gl=US&mapclient=embed&cid=13511680310967692248",
+            "button_link_1": "https:\/\/maps.google.com\/maps?ll=27.920017,-82.497884&z=16&t=m&hl=en&gl=US&mapclient=embed&cid=1228557727609153516",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -74,7 +74,7 @@
         "template--16708516217084__d660a67e-0e67-40b4-a432-c0afe670724c-168185575367bed2e0-0": {
           "type": "heading",
           "settings": {
-            "heading": "New Tampa Classes",
+            "heading": "South Tampa Classes",
             "heading_size": "h1"
           }
         },
@@ -108,7 +108,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "slpre-new-tampa",
+        "collection": "slpre-south-tampa",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
@@ -136,7 +136,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "slpost-new-tampa",
+        "collection": "slpost-south-tampa",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
@@ -158,13 +158,14 @@
     },
     "f51c1179-8029-4c86-9f90-6c38851677f1": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Broker Pre-licensing",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "bkpre-new-tampa",
+        "collection": "bkpre-south-tampa",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
@@ -190,14 +191,14 @@
         "7cf0554b-fcc5-41b1-a3cf-fad1e1beafc4": {
           "type": "heading",
           "settings": {
-            "heading": "Real Estate Classes in New Tampa",
+            "heading": "Real Estate Classes in South Tampa",
             "heading_size": "h2"
           }
         },
         "382151ae-46b6-4650-bccd-0a7bcd210f6c": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Address: <\/strong>18101 Highwoods Preserve Parkway, Suite 220, Tampa, Florida 33647<br\/><strong>Phone:<\/strong> (813) 333-2676<\/p><p>Located off Bruce B Downs Blvd on the corner of Highwoods Preserve Pkwy & Galbraith Rd. The school is located on the second floor. Stairs are available on either side and an elevator is available in the back.<\/p>",
+            "text": "<p><strong>Address: <\/strong>3309 W Bay to Bay Blvd Tampa, Florida 33629<br\/><strong>Phone:<\/strong> (813) 333-2676<\/p><p>This real estate classroom is located off Bay to Bay Blvd in South Tampa. This classroom is just minutes from MacDill Air Force Base, Hyde Park, Downtown Tampa, Davis Island, Bayshore, Westshore, Dale Mabry, the Tampa Airport and more.<\/p>",
             "text_style": "body"
           }
         }
@@ -207,13 +208,13 @@
         "382151ae-46b6-4650-bccd-0a7bcd210f6c"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/lakeland-1000x1000.jpg",
+        "image": "shopify:\/\/shop_images\/southtampa-2.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
@@ -362,67 +363,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "3c4154f7-8a46-49d1-ab93-039c20bfb55b": {
-      "type": "collapsible-content",
-      "blocks": {
-        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Nearby locations",
-            "icon": "map_pin",
-            "row_content": "<p>Our New Tampa classroom is close to Wesley Chapel, Zephyrhills, Temple Terrace, Lutz, Land O' Lakes, Dade City, and Carrolwood.<\/p>",
-            "page": ""
-          }
-        },
-        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Real Estate School Near Wesley Chapel & Zephyrhills",
-            "icon": "map_pin",
-            "row_content": "<p>Our New Tampa classroom is close to Wesley Chapel & Zephyrhills! Just head south on Bruce B Downs Blvd and you'll find our real estate classroom on the right of Bruce B Downs Blvd just before I-75.<\/p>",
-            "page": ""
-          }
-        },
-        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Real Estate School Near Temple Terrace",
-            "icon": "map_pin",
-            "row_content": "<p>Our New Tampa classroom is close to Temple Terrace! Just head North on I-75, we're right off the interstate one exit north of Fletcher Ave.<\/p>",
-            "page": ""
-          }
-        },
-        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Real Estate School Near Lutz & Land O' Lakes",
-            "icon": "map_pin",
-            "row_content": "<p>Our New Tampa classroom is close to Lutz and Land O' Lakes! Just head east on County Line Road, turn right on Bruce B Downs and we'll be on the right just before I-75.<\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-0",
-        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-1",
-        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-2",
-        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-3"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "We're closer than you think!",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": true,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -436,7 +376,6 @@
     "001209b3-f698-4f66-af76-d01eb7ac5b93",
     "a57725c0-81ac-4eca-a97c-597d0dc88a6e",
     "82bb93ca-4704-4544-bc0c-6f302b199572",
-    "4cedd084-a584-4349-a5c7-48bba3ee06f7",
-    "3c4154f7-8a46-49d1-ab93-039c20bfb55b"
+    "4cedd084-a584-4349-a5c7-48bba3ee06f7"
   ]
 }
