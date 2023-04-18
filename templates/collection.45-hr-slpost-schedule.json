@@ -109,16 +109,38 @@
         "template--16708547870972__d42e1d33-cfa6-4126-b88a-19f64ee9a25a-1681860317d7b8a10f-0": {
           "type": "column",
           "settings": {
-            "icon": "",
+            "icon": "quote",
             "title": "",
             "text": "<h6>Six Figures in my first year!<\/h6><h3>If you're looking to get into real estate, I highly recommend it! My instructor made it easy to comprehend.<\/h3><p>- David Cribs<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0e769e98-f557-4357-a418-9d9ec03732a5": {
+          "type": "column",
+          "settings": {
+            "icon": "quote",
+            "title": "",
+            "text": "<h6>Passed my state exam on the first try!<\/h6><h3>Tampa School of Real Estate gave me the knowledge, tools, and the confidence!<\/h3><p>- Rhonda Elias Spurling<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fdfd7915-e882-4d91-8854-4cbc8b0e186d": {
+          "type": "column",
+          "settings": {
+            "icon": "quote",
+            "title": "",
+            "text": "<h6>Passed my state exam today!<\/h6><h3>The instructor kept the material interesting and easy to understand. Highly Recommend!<\/h3><p>- Christopher Foottit<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "template--16708547870972__d42e1d33-cfa6-4126-b88a-19f64ee9a25a-1681860317d7b8a10f-0"
+        "template--16708547870972__d42e1d33-cfa6-4126-b88a-19f64ee9a25a-1681860317d7b8a10f-0",
+        "0e769e98-f557-4357-a418-9d9ec03732a5",
+        "fdfd7915-e882-4d91-8854-4cbc8b0e186d"
       ],
       "settings": {
         "title": "",
