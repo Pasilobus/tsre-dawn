@@ -108,7 +108,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "slpre-channelside",
+        "collection": "slpre-lakeland",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
@@ -136,7 +136,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "slpost-channelside",
+        "collection": "slpost-lakeland",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
@@ -169,7 +169,7 @@
         "382151ae-46b6-4650-bccd-0a7bcd210f6c": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Address: <\/strong>1000 Channelside Drive, Suite D, Tampa, Florida 33602<br\/><strong>Phone:<\/strong> (813) 333-2676<\/p><p>Located on the corner of Channelside Drive and Washington Street in the real etate office. Limited free parking available in downtown, paid parking available immediately next to the building.<\/p>",
+            "text": "<p><strong>Address: <br\/><\/strong>5121 US HWY 98 S, <br\/>Lakeland, Florida 33812<br\/><strong>Phone:<\/strong> (863) 777-4877<\/p><p>Located inside of The Publix Plaza at Highland City Center. Which is located at the Intersection of Highway 98 South and Clubhouse Road.<br\/><br\/>(Next to Linksters Tap Room)<\/p>",
             "text_style": "body"
           }
         }
@@ -179,7 +179,7 @@
         "382151ae-46b6-4650-bccd-0a7bcd210f6c"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/img_2602-2.jpg",
+        "image": "shopify:\/\/shop_images\/lakeland-1000x1000.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
