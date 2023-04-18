@@ -207,6 +207,55 @@
         "padding_bottom": 36
       }
     },
+    "6bd4c738-f286-45c0-8043-accad6dffabe": {
+      "type": "image-with-text",
+      "blocks": {
+        "faa1de5f-bbd0-47fe-8e0f-09bca42e7c53": {
+          "type": "caption",
+          "settings": {
+            "caption": "Backed by the TSRE Retake Guarantee",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "1-Year Retake Guarantee",
+            "heading_size": "h2"
+          }
+        },
+        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you don't pass your end-of-course exam <strong>you're backed by our 1-Year Retake Guarantee. <\/strong>The FREC will require you to wait 30 days before re-testing (no waiting period for post licensing & CE courses!) If you still don't pass after retesting, you are able to retake at no charge within 1-year of your registration date.<br\/><br\/><strong>Trying to pass on the first try? <\/strong>Rest assured, this typically isn't a concern <strong>with our course pass rates above 90%!<\/strong><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "faa1de5f-bbd0-47fe-8e0f-09bca42e7c53",
+        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-0",
+        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-1"
+      ],
+      "custom_css": [
+        ".media > img {object-fit: contain;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1-YEAR_RETAKE_GUARANTEE.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "4cedd084-a584-4349-a5c7-48bba3ee06f7": {
       "type": "image-with-text",
       "blocks": {
@@ -262,6 +311,7 @@
     "168751a1-604a-4208-8975-5de66e91c64e",
     "a57725c0-81ac-4eca-a97c-597d0dc88a6e",
     "e8b9a780-01b6-4b8b-b735-8b3734abb091",
+    "6bd4c738-f286-45c0-8043-accad6dffabe",
     "4cedd084-a584-4349-a5c7-48bba3ee06f7"
   ]
 }
