@@ -22,14 +22,14 @@
         "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-0": {
           "type": "heading",
           "settings": {
-            "heading": "New Tampa classroom",
+            "heading": "Palm Harbor classroom",
             "heading_size": "h1"
           }
         },
         "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-1": {
           "type": "text",
           "settings": {
-            "text": "<p>TSRE Headquarters - Located off Bruce B. Downs Blvd & I-75<br\/>18101 Highwoods Preserve Parkway, Suite 220<br\/>Tampa, Florida 33647<\/p>",
+            "text": "<p>Located on the corner of US-19 & Tampa Road<br\/>32776 US Highway 19 North<br\/>Palm Harbor, Florida 34684<\/p>",
             "text_style": "body"
           }
         },
@@ -37,7 +37,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "View map",
-            "button_link_1": "https:\/\/maps.google.com\/maps?ll=28.131609,-82.369133&z=16&t=m&hl=en&gl=US&mapclient=embed&cid=13511680310967692248",
+            "button_link_1": "https:\/\/maps.google.com\/maps?ll=28.070079,-82.740927&z=14&t=m&hl=en&gl=US&mapclient=embed&cid=2944600477079159140",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
