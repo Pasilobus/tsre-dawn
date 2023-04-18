@@ -130,6 +130,7 @@
     },
     "168751a1-604a-4208-8975-5de66e91c64e": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "45-Hour Sales Post licensing",
         "heading_size": "h2",
