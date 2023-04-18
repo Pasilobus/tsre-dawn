@@ -37,6 +37,22 @@
         "padding_bottom": 52
       }
     },
+    "8712b68b-f845-48f5-80d3-2a432a69d93c": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/new-tampa-classroom.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "ef2bfb0e-2a20-4515-8823-8cf65c5e6359": {
       "type": "image-with-text",
       "blocks": {
@@ -95,6 +111,7 @@
   "order": [
     "main",
     "7da792f8-003f-4064-9f55-a24774bc4db9",
+    "8712b68b-f845-48f5-80d3-2a432a69d93c",
     "ef2bfb0e-2a20-4515-8823-8cf65c5e6359"
   ]
 }
