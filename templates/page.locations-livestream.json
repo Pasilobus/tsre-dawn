@@ -353,6 +353,7 @@
     },
     "4cedd084-a584-4349-a5c7-48bba3ee06f7": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "97b9e0e7-ddd1-434d-a0e3-6ab5a990e7e5": {
           "type": "caption",
