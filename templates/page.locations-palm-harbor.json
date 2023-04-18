@@ -222,6 +222,77 @@
         "padding_bottom": 36
       }
     },
+    "3c4154f7-8a46-49d1-ab93-039c20bfb55b": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Nearby locations",
+            "icon": "map_pin",
+            "row_content": "<p><strong>Address: <\/strong>32776 US Highway 19 North, Palm Harbor, FL 34684<br\/><strong>Phone:<\/strong> (727) 777-4547<\/p><p>Located in the Palm Lake Shopping Center on the corner of US-19 and Tampa Road, behind the Chick-Fil-A.<\/p>",
+            "page": ""
+          }
+        },
+        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Real Estate School Near Clearwater",
+            "icon": "map_pin",
+            "row_content": "<p>Our Palm Harbor classroom is close to Clearwater! Just head north on US 19 and you'll find our real estate classroom on the left at the intersection of US 19 and Tampa Road.<\/p>",
+            "page": ""
+          }
+        },
+        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Real Estate School Near St. Petersburg",
+            "icon": "map_pin",
+            "row_content": "<p>Our Palm Harbor classroom is close to St. Petersburg! Just head north on US 19 and you'll find our real estate classroom on the left at the intersection of US 19 and Tampa Road.<\/p>",
+            "page": ""
+          }
+        },
+        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Real Estate School Near Tarpon Springs",
+            "icon": "map_pin",
+            "row_content": "<p>Our Palm Harbor classroom is close to Tarpon Springs! Just head south on US 19 and you'll find our real estate classroom on the right at the intersection of US 19 and Tampa Road.<\/p>",
+            "page": ""
+          }
+        },
+        "e8e89f8b-4188-4175-bb1b-03ad79044339": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Real Estate School Near Westchase & Oldsmar",
+            "icon": "map_pin",
+            "row_content": "<p>Our Palm Harbor classroom is close to Westchase and Oldsmar! Just head west on Tampa Road and you'll find our real estate classroom on the right at the intersection of US 19 and Tampa Road.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-0",
+        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-1",
+        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-2",
+        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-3",
+        "e8e89f8b-4188-4175-bb1b-03ad79044339"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "We're closer than you think!",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "001209b3-f698-4f66-af76-d01eb7ac5b93": {
       "type": "rich-text",
       "blocks": {
@@ -363,67 +434,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "3c4154f7-8a46-49d1-ab93-039c20bfb55b": {
-      "type": "collapsible-content",
-      "blocks": {
-        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Nearby locations",
-            "icon": "map_pin",
-            "row_content": "<p>Our New Tampa classroom is close to Wesley Chapel, Zephyrhills, Temple Terrace, Lutz, Land O' Lakes, Dade City, and Carrolwood.<\/p>",
-            "page": ""
-          }
-        },
-        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Real Estate School Near Wesley Chapel & Zephyrhills",
-            "icon": "map_pin",
-            "row_content": "<p>Our New Tampa classroom is close to Wesley Chapel & Zephyrhills! Just head south on Bruce B Downs Blvd and you'll find our real estate classroom on the right of Bruce B Downs Blvd just before I-75.<\/p>",
-            "page": ""
-          }
-        },
-        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Real Estate School Near Temple Terrace",
-            "icon": "map_pin",
-            "row_content": "<p>Our New Tampa classroom is close to Temple Terrace! Just head North on I-75, we're right off the interstate one exit north of Fletcher Ave.<\/p>",
-            "page": ""
-          }
-        },
-        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Real Estate School Near Lutz & Land O' Lakes",
-            "icon": "map_pin",
-            "row_content": "<p>Our New Tampa classroom is close to Lutz and Land O' Lakes! Just head east on County Line Road, turn right on Bruce B Downs and we'll be on the right just before I-75.<\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-0",
-        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-1",
-        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-2",
-        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-3"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "We're closer than you think!",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": true,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -434,10 +444,10 @@
     "168751a1-604a-4208-8975-5de66e91c64e",
     "f51c1179-8029-4c86-9f90-6c38851677f1",
     "880ac5df-a5ac-4b3f-8804-26efae332fed",
+    "3c4154f7-8a46-49d1-ab93-039c20bfb55b",
     "001209b3-f698-4f66-af76-d01eb7ac5b93",
     "a57725c0-81ac-4eca-a97c-597d0dc88a6e",
     "82bb93ca-4704-4544-bc0c-6f302b199572",
-    "4cedd084-a584-4349-a5c7-48bba3ee06f7",
-    "3c4154f7-8a46-49d1-ab93-039c20bfb55b"
+    "4cedd084-a584-4349-a5c7-48bba3ee06f7"
   ]
 }
