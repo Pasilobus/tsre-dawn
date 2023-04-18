@@ -1,0 +1,347 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "a1fc921f-d91f-4472-aa8d-e0ac2e72a157": {
+      "type": "image-banner",
+      "blocks": {
+        "270ebb0c-c411-453f-8f61-f6ee9a967c25": {
+          "type": "caption",
+          "settings": {
+            "caption": "Real Estate classes at TSRE",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Channelside classroom",
+            "heading_size": "h1"
+          }
+        },
+        "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In Downtown Tampa by the Cruise Terminals<br\/>1000 Channelside Drive, Suite D<br\/>Tampa, Florida, 33602<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "View map",
+            "button_link_1": "https:\/\/maps.google.com\/maps?ll=27.948919,-82.445867&z=16&t=m&hl=en&gl=US&mapclient=embed&cid=9180550585345759159",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "270ebb0c-c411-453f-8f61-f6ee9a967c25",
+        "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-0",
+        "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-1",
+        "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/channelside-classroom.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "d660a67e-0e67-40b4-a432-c0afe670724c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16708516217084__d660a67e-0e67-40b4-a432-c0afe670724c-168185575367bed2e0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Next Channelside Classes",
+            "heading_size": "h1"
+          }
+        },
+        "502da25c-6ace-4737-9842-fbf4ba0e025e": {
+          "type": "caption",
+          "settings": {
+            "caption": "Instructor-Led Real State Classes",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "template--16708516217084__d660a67e-0e67-40b4-a432-c0afe670724c-168185575367bed2e0-0",
+        "502da25c-6ace-4737-9842-fbf4ba0e025e"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "2ee724cd-e1fd-4094-92a1-e4fe6edacb87": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "63-Hour Sales Pre-licensing",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "slpre-channelside",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "168751a1-604a-4208-8975-5de66e91c64e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "45-Hour Sales Post licensing",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "slpost-channelside",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "880ac5df-a5ac-4b3f-8804-26efae332fed": {
+      "type": "image-with-text",
+      "blocks": {
+        "7cf0554b-fcc5-41b1-a3cf-fad1e1beafc4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Real Estate Classes in Channelside",
+            "heading_size": "h2"
+          }
+        },
+        "382151ae-46b6-4650-bccd-0a7bcd210f6c": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Address: <\/strong>1000 Channelside Drive, Suite D, Tampa, Florida 33602<br\/><strong>Phone:<\/strong> (813) 333-2676<\/p><p>Located on the corner of Channelside Drive and Washington Street in the real etate office. Limited free parking available in downtown, paid parking available immediately next to the building.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "7cf0554b-fcc5-41b1-a3cf-fad1e1beafc4",
+        "382151ae-46b6-4650-bccd-0a7bcd210f6c"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/img_2602-2.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "001209b3-f698-4f66-af76-d01eb7ac5b93": {
+      "type": "rich-text",
+      "blocks": {
+        "75776be1-2ebf-4505-a73b-10a89f8e6caf": {
+          "type": "caption",
+          "settings": {
+            "caption": "Prefer to complete at your own pace",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "aad6e779-522a-4fdd-8c5a-0669a5b1332c": {
+          "type": "heading",
+          "settings": {
+            "heading": "Self-Guided Courses",
+            "heading_size": "h1"
+          }
+        },
+        "836fd8f7-9aed-496b-923d-320ff713db1c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>These courses are not instructor-led like our classroom and livestream options, however it is a much better option if you prefer to complete the material at your own pace!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "75776be1-2ebf-4505-a73b-10a89f8e6caf",
+        "aad6e779-522a-4fdd-8c5a-0669a5b1332c",
+        "836fd8f7-9aed-496b-923d-320ff713db1c"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 20
+      }
+    },
+    "a57725c0-81ac-4eca-a97c-597d0dc88a6e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "FREC Courses",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "online-courses",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "82bb93ca-4704-4544-bc0c-6f302b199572": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Exam Prep",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "exam-prep",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4cedd084-a584-4349-a5c7-48bba3ee06f7": {
+      "type": "image-with-text",
+      "blocks": {
+        "97b9e0e7-ddd1-434d-a0e3-6ab5a990e7e5": {
+          "type": "caption",
+          "settings": {
+            "caption": "TRUSTED BY 25,000+ STUDENTS FROM 40+COUNTRIES",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "ab472a2b-68c7-4575-b637-ed8396db66bb": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Top Real State School in Florida",
+            "heading_size": "h2"
+          }
+        },
+        "7b19ec37-1619-49e3-a045-0c81e3ca4a55": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At TSRE | Tampa School of Real Estate, we're here to be more than just a required class. We want to help you pass on your first try, jumpstart your career and build your real estate empire... your success is our success!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "97b9e0e7-ddd1-434d-a0e3-6ab5a990e7e5",
+        "ab472a2b-68c7-4575-b637-ed8396db66bb",
+        "7b19ec37-1619-49e3-a045-0c81e3ca4a55"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tampa-real-estate-classes_a1af6d84-e21e-4a3c-a49e-7d708f4d7c87.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a1fc921f-d91f-4472-aa8d-e0ac2e72a157",
+    "d660a67e-0e67-40b4-a432-c0afe670724c",
+    "2ee724cd-e1fd-4094-92a1-e4fe6edacb87",
+    "168751a1-604a-4208-8975-5de66e91c64e",
+    "880ac5df-a5ac-4b3f-8804-26efae332fed",
+    "001209b3-f698-4f66-af76-d01eb7ac5b93",
+    "a57725c0-81ac-4eca-a97c-597d0dc88a6e",
+    "82bb93ca-4704-4544-bc0c-6f302b199572",
+    "4cedd084-a584-4349-a5c7-48bba3ee06f7"
+  ]
+}
