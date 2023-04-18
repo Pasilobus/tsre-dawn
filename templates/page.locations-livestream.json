@@ -8,38 +8,6 @@
         "padding_bottom": 28
       }
     },
-    "55824b85-48f8-4d73-a29e-be0451d26b63": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16708516217084__55824b85-48f8-4d73-a29e-be0451d26b63-168185575367bed2e0-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "TSRE Locations",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "template--16708516217084__55824b85-48f8-4d73-a29e-be0451d26b63-168185575367bed2e0-0"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "6b4a92f9-7b09-4e73-8669-d2a000f8854f": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"page-width\"><div id=\"storepoint-container\" data-map-id=\"1620f2b3e980a5\"><\/div><\/div><script>(function(){var a=document.createElement(\"script\");a.type=\"text\/javascript\";a.async=!0;a.src=\"https:\/\/cdn.storepoint.co\/api\/v1\/js\/1620f2b3e980a5.js\";var b=document.getElementsByTagName(\"script\")[0];b.parentNode.insertBefore(a,b);}());<\/script>",
-        "color_scheme": "accent-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "a1fc921f-d91f-4472-aa8d-e0ac2e72a157": {
       "type": "image-banner",
       "blocks": {
@@ -54,34 +22,25 @@
         "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-0": {
           "type": "heading",
           "settings": {
-            "heading": "Livestream Classes",
+            "heading": "Live Real Estate Classes Online",
             "heading_size": "h1"
           }
         },
         "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Join a virtual classroom where you can live chat with your instructor and fellow classmates. Access class on the go from any device with an internet connection!<\/p>",
+            "text": "<p><strong>Bring our classroom to you! <\/strong>With our <strong>best instructors<\/strong> leading you through the content. <\/p><p><strong>Live chat <\/strong>to interact with the instructor and your fellow classmates and <strong>digital study materials<\/strong> to help you follow the material. <\/p><p><strong>Limited Availability - Reserve Your Virtual Seat Now<\/strong><\/p>",
             "text_style": "body"
-          }
-        },
-        "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "View livestream classes",
-            "button_link_1": "shopify:\/\/pages\/classes-online",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
         "270ebb0c-c411-453f-8f61-f6ee9a967c25",
         "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-0",
-        "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-1",
-        "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-2"
+        "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-1"
+      ],
+      "custom_css": [
+        ".banner__box {max-width: 65rem;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/virtual-livestream-classroom.jpg",
@@ -262,8 +221,6 @@
   },
   "order": [
     "main",
-    "55824b85-48f8-4d73-a29e-be0451d26b63",
-    "6b4a92f9-7b09-4e73-8669-d2a000f8854f",
     "a1fc921f-d91f-4472-aa8d-e0ac2e72a157",
     "d660a67e-0e67-40b4-a432-c0afe670724c",
     "2ee724cd-e1fd-4094-92a1-e4fe6edacb87",
