@@ -51,6 +51,9 @@
         "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-1",
         "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-2"
       ],
+      "custom_css": [
+        ".banner__box {max-width: 65rem;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/channelside-classroom.jpg",
         "image_overlay_opacity": 20,
