@@ -256,6 +256,101 @@
         "padding_bottom": 36
       }
     },
+    "001209b3-f698-4f66-af76-d01eb7ac5b93": {
+      "type": "rich-text",
+      "blocks": {
+        "75776be1-2ebf-4505-a73b-10a89f8e6caf": {
+          "type": "caption",
+          "settings": {
+            "caption": "Prefer to complete at your own pace",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "aad6e779-522a-4fdd-8c5a-0669a5b1332c": {
+          "type": "heading",
+          "settings": {
+            "heading": "Self-Guided Courses",
+            "heading_size": "h1"
+          }
+        },
+        "836fd8f7-9aed-496b-923d-320ff713db1c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>These courses are not instructor-led like our classroom and livestream options, however it is a much better option if you prefer to complete the material at your own pace!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "75776be1-2ebf-4505-a73b-10a89f8e6caf",
+        "aad6e779-522a-4fdd-8c5a-0669a5b1332c",
+        "836fd8f7-9aed-496b-923d-320ff713db1c"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 20
+      }
+    },
+    "a57725c0-81ac-4eca-a97c-597d0dc88a6f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "FREC Courses",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "online-courses",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "82bb93ca-4704-4544-bc0c-6f302b199572": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Exam Prep",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "exam-prep",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "4cedd084-a584-4349-a5c7-48bba3ee06f7": {
       "type": "image-with-text",
       "blocks": {
@@ -312,6 +407,9 @@
     "a57725c0-81ac-4eca-a97c-597d0dc88a6e",
     "e8b9a780-01b6-4b8b-b735-8b3734abb091",
     "6bd4c738-f286-45c0-8043-accad6dffabe",
+    "001209b3-f698-4f66-af76-d01eb7ac5b93",
+    "a57725c0-81ac-4eca-a97c-597d0dc88a6f",
+    "82bb93ca-4704-4544-bc0c-6f302b199572",
     "4cedd084-a584-4349-a5c7-48bba3ee06f7"
   ]
 }
