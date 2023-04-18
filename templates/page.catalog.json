@@ -2,13 +2,197 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "c4c5b0f0-a98d-4673-9d03-2aeb8ce43b56": {
+      "type": "image-banner",
+      "blocks": {
+        "10004b51-bf67-47d5-84bf-eefaf392814f": {
+          "type": "caption",
+          "settings": {
+            "caption": "The leading Florida real state school",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16708516184316__c4c5b0f0-a98d-4673-9d03-2aeb8ce43b56-1681854363db05e716-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Real state classes",
+            "heading_size": "h1"
+          }
+        },
+        "template--16708516184316__c4c5b0f0-a98d-4673-9d03-2aeb8ce43b56-1681854363db05e716-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>TSRE | Tampa School of Real Estate is Florida's Leader in Real Estate Education.<\/strong><\/p><p>With In-Person Classes, LIVE Online Classes, On-Demand Instructor-Led Courses and Self Guided Programs, TSRE has several options to complete your FREC required courses and beyond.<\/p><p><strong>Browse the TSRE Catalog Below<\/strong><\/p><p><strong>SALES ASSOCIATE<\/strong><br\/><a href=\"#63-hr-sales-associate-pre-licensing\" title=\"#63-hr-sales-associate-pre-licensing\">Pre-Licensing<\/a> | <a href=\"#practice-exam-prep-study-tools\" title=\"#practice-exam-prep-study-tools\">Exam Prep<\/a> | <a href=\"#45-hr-sales-associate-post-licensing\" title=\"#45-hr-sales-associate-post-licensing\">Post Licensing<\/a> | <a href=\"\/products\/14-hour-fl-continuing-education-for-sales-associates-brokers\" title=\"14 Hour FL Continuing Education for Sales Associates & Brokers\">Continuing Education<br\/><\/a><br\/><strong>BROKER<\/strong><br\/>Pre-Licensing | Exam Prep | Post Licensing | <a href=\"\/products\/14-hour-fl-continuing-education-for-sales-associates-brokers\" title=\"14 Hour FL Continuing Education for Sales Associates & Brokers\">Continuing Education<\/a><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "10004b51-bf67-47d5-84bf-eefaf392814f",
+        "template--16708516184316__c4c5b0f0-a98d-4673-9d03-2aeb8ce43b56-1681854363db05e716-0",
+        "template--16708516184316__c4c5b0f0-a98d-4673-9d03-2aeb8ce43b56-1681854363db05e716-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tampa-real-estate-classes_a1af6d84-e21e-4a3c-a49e-7d708f4d7c87.jpg",
+        "image_overlay_opacity": 80,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "6bd4c738-f286-45c0-8043-accad6dffabe": {
+      "type": "image-with-text",
+      "blocks": {
+        "faa1de5f-bbd0-47fe-8e0f-09bca42e7c53": {
+          "type": "caption",
+          "settings": {
+            "caption": "Backed by the TSRE Retake Guarantee",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "1-Year Retake Guarantee",
+            "heading_size": "h2"
+          }
+        },
+        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you don't pass your end-of-course exam <strong>you're backed by our 1-Year Retake Guarantee. <\/strong>The FREC will require you to wait 30 days before re-testing (no waiting period for post licensing & CE courses!) If you still don't pass after retesting, you are able to retake at no charge within 1-year of your registration date.<br\/><br\/><strong>Trying to pass on the first try? <\/strong>Rest assured, this typically isn't a concern <strong>with our course pass rates above 90%!<\/strong><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "faa1de5f-bbd0-47fe-8e0f-09bca42e7c53",
+        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-0",
+        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-1"
+      ],
+      "custom_css": [
+        ".media > img {object-fit: contain;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1-YEAR_RETAKE_GUARANTEE.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1ab51934-b137-431f-a49c-7dfde6b19b35": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "On-Demand & On Your Schedule",
+        "heading_size": "h1",
+        "description": "<p>Online Florida real estate pre-licencing classes - 63 Hours<\/p>",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "pre-licensing",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "79b825ab-4bca-4e02-8f0e-00b34a16468a": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Live Real Estate Classes Online",
+        "heading_size": "h1",
+        "description": "<p>Bring a live instructor to you – No webcam required<\/p>",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "slpre-livestream-2",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ef1e1149-ca2f-443e-a640-e0fc9c0037bb": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "63-Hour Pre-Licencing Schedule",
+        "heading_size": "h1",
+        "description": "<h5>LIVE INSTRUCTOR-LED REAL ESTATE CLASSES<\/h5><p>Florida Real Estate Commission (FREC) required course to Earn FL Real Estate License.<\/p><p>Complete the course in a classroom, or bring a LIVE instructor to you through an interactive livestream online class.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "slpre-livestream-2",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "c4c5b0f0-a98d-4673-9d03-2aeb8ce43b56",
+    "6bd4c738-f286-45c0-8043-accad6dffabe",
+    "1ab51934-b137-431f-a49c-7dfde6b19b35",
+    "79b825ab-4bca-4e02-8f0e-00b34a16468a",
+    "ef1e1149-ca2f-443e-a640-e0fc9c0037bb"
   ]
 }
