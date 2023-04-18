@@ -71,14 +71,14 @@
         "ab472a2b-68c7-4575-b637-ed8396db66bb": {
           "type": "heading",
           "settings": {
-            "heading": "The Top Real State School in Florida",
+            "heading": "#1-Rated Real State School in The Tampa Bay Area",
             "heading_size": "h2"
           }
         },
         "7b19ec37-1619-49e3-a045-0c81e3ca4a55": {
           "type": "text",
           "settings": {
-            "text": "<p>At TSRE | Tampa School of Real Estate, we're here to be more than just a required class. We want to help you pass on your first try, jumpstart your career and build your real estate empire... your success is our success!<\/p>",
+            "text": "<p>At the Tampa School of Real Estate, we're here to be more than just a required class. We want to help you pass on your first try, jumpstart your career and build your real estate empire... your success is our success!<\/p>",
             "text_style": "body"
           }
         }
@@ -96,9 +96,43 @@
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
         "content_layout": "overlap",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d42e1d33-cfa6-4126-b88a-19f64ee9a25a": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16708547870972__d42e1d33-cfa6-4126-b88a-19f64ee9a25a-1681860317d7b8a10f-0": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "",
+            "text": "<h6>Six Figures in my first year!<\/h6><h3>If you're looking to get into real estate, I highly recommend it! My instructor made it easy to comprehend.<\/h3><p>- David Cribs<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16708547870972__d42e1d33-cfa6-4126-b88a-19f64ee9a25a-1681860317d7b8a10f-0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -127,6 +161,7 @@
     "banner",
     "7e16b57a-8c15-449f-9696-da181d49cfa6",
     "4cedd084-a584-4349-a5c7-48bba3ee06f7",
+    "d42e1d33-cfa6-4126-b88a-19f64ee9a25a",
     "product-grid"
   ]
 }
