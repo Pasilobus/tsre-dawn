@@ -318,6 +318,7 @@
     },
     "4cedd084-a584-4349-a5c7-48bba3ee06f7": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "97b9e0e7-ddd1-434d-a0e3-6ab5a990e7e5": {
           "type": "caption",
@@ -361,6 +362,67 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "3c4154f7-8a46-49d1-ab93-039c20bfb55b": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Nearby locations",
+            "icon": "map_pin",
+            "row_content": "<p>Our New Tampa classroom is close to Wesley Chapel, Zephyrhills, Temple Terrace, Lutz, Land O' Lakes, Dade City, and Carrolwood.<\/p>",
+            "page": ""
+          }
+        },
+        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Real Estate School Near Wesley Chapel & Zephyrhills",
+            "icon": "map_pin",
+            "row_content": "<p>Our New Tampa classroom is close to Wesley Chapel & Zephyrhills! Just head south on Bruce B Downs Blvd and you'll find our real estate classroom on the right of Bruce B Downs Blvd just before I-75.<\/p>",
+            "page": ""
+          }
+        },
+        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Real Estate School Near Temple Terrace",
+            "icon": "map_pin",
+            "row_content": "<p>Our New Tampa classroom is close to Temple Terrace! Just head North on I-75, we're right off the interstate one exit north of Fletcher Ave.<\/p>",
+            "page": ""
+          }
+        },
+        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Real Estate School Near Lutz & Land O' Lakes",
+            "icon": "map_pin",
+            "row_content": "<p>Our New Tampa classroom is close to Lutz and Land O' Lakes! Just head east on County Line Road, turn right on Bruce B Downs and we'll be on the right just before I-75.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-0",
+        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-1",
+        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-2",
+        "template--16708533256444__3c4154f7-8a46-49d1-ab93-039c20bfb55b-1681858624e30992ad-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "We're closer than you think!",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -374,6 +436,7 @@
     "001209b3-f698-4f66-af76-d01eb7ac5b93",
     "a57725c0-81ac-4eca-a97c-597d0dc88a6e",
     "82bb93ca-4704-4544-bc0c-6f302b199572",
-    "4cedd084-a584-4349-a5c7-48bba3ee06f7"
+    "4cedd084-a584-4349-a5c7-48bba3ee06f7",
+    "3c4154f7-8a46-49d1-ab93-039c20bfb55b"
   ]
 }
