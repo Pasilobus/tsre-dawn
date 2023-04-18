@@ -68,7 +68,7 @@
           "type": "heading",
           "settings": {
             "heading": "Get rewarded for sharing tsre",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "template--16707904700668__ef2bfb0e-2a20-4515-8823-8cf65c5e6359-168185344964355545-1": {
@@ -98,9 +98,9 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Refer_a_Friend.png",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
         "content_layout": "overlap",
         "color_scheme": "background-2",
