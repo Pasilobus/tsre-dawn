@@ -73,7 +73,31 @@
         {%- assign collection = block.settings.collection -%}
 
         <div class="page-width{% if section.settings.full_width == false %} page-width-desktop{% endif %}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
-          
+          {%- if block.settings.show_filters -%}
+            <div class="featured-collection-filter-wrapper">
+              <label>Select Locations:</label>
+              <div class='select'>
+                <select class="featured-collection-filter select__select">
+                  <option value="all">All</option>
+                  {%- assign collection_tags = '' -%}
+                  {%- for product in collection.products  -%}
+                    {%- for tag in product.tags -%}
+                      {%- capture collection_tags -%}{% unless collection_tags == blank %}{{ collection_tags }}|{% endunless %}{{ tag }}{%- endcapture -%}
+                    {%- endfor -%}
+                  {%- endfor -%}
+                  {%- assign collection_tags_array = collection_tags | split: '|' | uniq -%}
+                  {%- for tag in collection_tags_array -%} 
+                    {%- if current_tags contains tag -%}
+                      <option value="{{ tag }}" selected>{{ tag }}</option>
+                    {%- else -%}
+                      <option value="{{ tag }}">{{ tag }}</option>
+                    {%- endif -%} 
+                  {%- endfor -%}
+                </select>
+                {%- render 'icon-caret' -%}
+              </div>
+            </div>
+          {%- endif -%}
 
           {%- if collection.all_products_count > 0 -%}
             <ul
