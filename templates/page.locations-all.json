@@ -2,16 +2,40 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
     },
+    "55824b85-48f8-4d73-a29e-be0451d26b63": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16708516217084__55824b85-48f8-4d73-a29e-be0451d26b63-168185575367bed2e0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "TSRE Locations",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--16708516217084__55824b85-48f8-4d73-a29e-be0451d26b63-168185575367bed2e0-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "6b4a92f9-7b09-4e73-8669-d2a000f8854f": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div id=\"storepoint-container\" data-map-id=\"1620f2b3e980a5\"><\/div><script>(function(){var a=document.createElement(\"script\");a.type=\"text\/javascript\";a.async=!0;a.src=\"https:\/\/cdn.storepoint.co\/api\/v1\/js\/1620f2b3e980a5.js\";var b=document.getElementsByTagName(\"script\")[0];b.parentNode.insertBefore(a,b);}());<\/script>",
-        "color_scheme": "background-1",
+        "custom_liquid": "<div id=\"storepoint-container\" class=\"page-width\" data-map-id=\"1620f2b3e980a5\"><\/div><script>(function(){var a=document.createElement(\"script\");a.type=\"text\/javascript\";a.async=!0;a.src=\"https:\/\/cdn.storepoint.co\/api\/v1\/js\/1620f2b3e980a5.js\";var b=document.getElementsByTagName(\"script\")[0];b.parentNode.insertBefore(a,b);}());<\/script>",
+        "color_scheme": "accent-1",
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -122,6 +146,7 @@
   },
   "order": [
     "main",
+    "55824b85-48f8-4d73-a29e-be0451d26b63",
     "6b4a92f9-7b09-4e73-8669-d2a000f8854f",
     "a1fc921f-d91f-4472-aa8d-e0ac2e72a157",
     "4cedd084-a584-4349-a5c7-48bba3ee06f7"
