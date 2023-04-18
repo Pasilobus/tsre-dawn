@@ -2,10 +2,59 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
         "color_scheme": "background-1"
+      }
+    },
+    "7e16b57a-8c15-449f-9696-da181d49cfa6": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sales Associate Post Licensing",
+            "heading_size": "h1"
+          }
+        },
+        "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Florida Real Estate Commission (FREC) Approved Course Required for the First Renewal of Your Florida Real Estate License. In-Person Classrooms & Online Virtual Livestreams - Enroll Today.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-0",
+        "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-1",
+        "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/post-licensing-banner-desktop.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "product-grid": {
@@ -20,8 +69,8 @@
         "show_rating": false,
         "enable_quick_add": false,
         "enable_filtering": true,
-        "filter_type": "vertical",
-        "enable_sorting": true,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36
@@ -30,6 +79,7 @@
   },
   "order": [
     "banner",
+    "7e16b57a-8c15-449f-9696-da181d49cfa6",
     "product-grid"
   ]
 }
