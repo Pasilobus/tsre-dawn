@@ -22,14 +22,14 @@
         "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-0": {
           "type": "heading",
           "settings": {
-            "heading": "Lakeland classroom",
+            "heading": "New Tampa classroom",
             "heading_size": "h1"
           }
         },
         "template--16708516217084__a1fc921f-d91f-4472-aa8d-e0ac2e72a157-1681854363db05e716-1": {
           "type": "text",
           "settings": {
-            "text": "<p>In South Lakeland Near Highland City<br\/>5121 US HWY 98 S<br\/>Lakeland, Florida, 33812<\/p>",
+            "text": "<p>TSRE Headquarters - Located off Bruce B. Downs Blvd & I-75<br\/>18101 Highwoods Preserve Parkway, Suite 220<br\/>Tampa, Florida 33647<\/p>",
             "text_style": "body"
           }
         },
@@ -37,7 +37,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "View map",
-            "button_link_1": "https:\/\/maps.google.com\/maps?ll=27.970936,-81.882471&z=14&t=m&hl=en&gl=US&mapclient=embed&cid=13112754289113252675",
+            "button_link_1": "https:\/\/maps.google.com\/maps?ll=28.131609,-82.369133&z=16&t=m&hl=en&gl=US&mapclient=embed&cid=13511680310967692248",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -74,7 +74,7 @@
         "template--16708516217084__d660a67e-0e67-40b4-a432-c0afe670724c-168185575367bed2e0-0": {
           "type": "heading",
           "settings": {
-            "heading": "Next Channelside Classes",
+            "heading": "New Tampa Classes",
             "heading_size": "h1"
           }
         },
@@ -97,7 +97,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 0
       }
     },
     "2ee724cd-e1fd-4094-92a1-e4fe6edacb87": {
@@ -162,14 +162,14 @@
         "7cf0554b-fcc5-41b1-a3cf-fad1e1beafc4": {
           "type": "heading",
           "settings": {
-            "heading": "Real Estate Classes in Channelside",
+            "heading": "Real Estate Classes in New Tampa",
             "heading_size": "h2"
           }
         },
         "382151ae-46b6-4650-bccd-0a7bcd210f6c": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Address: <br\/><\/strong>5121 US HWY 98 S, <br\/>Lakeland, Florida 33812<br\/><strong>Phone:<\/strong> (863) 777-4877<\/p><p>Located inside of The Publix Plaza at Highland City Center. Which is located at the Intersection of Highway 98 South and Clubhouse Road.<br\/><br\/>(Next to Linksters Tap Room)<\/p>",
+            "text": "<p><strong>Address: <\/strong>18101 Highwoods Preserve Parkway, Suite 220, Tampa, Florida 33647<br\/><strong>Phone:<\/strong> (813) 333-2676<\/p><p>Located off Bruce B Downs Blvd on the corner of Highwoods Preserve Pkwy & Galbraith Rd. The school is located on the second floor. Stairs are available on either side and an elevator is available in the back.<\/p>",
             "text_style": "body"
           }
         }
