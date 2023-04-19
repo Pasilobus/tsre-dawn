@@ -201,7 +201,7 @@
             {% render 'price', product: card_product, price_class: '' %}
 
             <div class="card__description rte">
-              {{ product.description | split: '<div class="more-detail">' | first }}
+              {{ card_product.description | split: '<div class="more-detail">' | first }}
             </div>
           </div>
         </div>
