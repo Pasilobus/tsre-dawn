@@ -199,6 +199,10 @@
             {%- endif -%}
 
             {% render 'price', product: card_product, price_class: '' %}
+
+            <div class="card__description rte">
+              {{ prod_desc = product.description | split: '<div class="more-detail">' | first }}
+            </div>
           </div>
         </div>
         {%- if show_quick_add -%}
