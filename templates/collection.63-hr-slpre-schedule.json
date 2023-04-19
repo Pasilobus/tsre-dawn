@@ -66,13 +66,59 @@
         "show_text_below": true
       }
     },
+    "fb558bb9-22af-4dd3-8456-1b7229e75fe2": {
+      "type": "image-with-text",
+      "blocks": {
+        "8a4e1f25-4ad0-4fed-ba80-8574e265218b": {
+          "type": "caption",
+          "settings": {
+            "caption": "Florida Real State Commission",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "dae2c75a-490a-4020-b707-fde3786b5a16": {
+          "type": "heading",
+          "settings": {
+            "heading": "License Requirements",
+            "heading_size": "h2"
+          }
+        },
+        "69048707-f7b5-444f-b609-1452eca9802f": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>✓ At Least 18 Years Old<\/strong><\/p><p><strong>✓ High School Diploma or Equivalent<\/strong><\/p><p><strong>✓ US Social Security Number <\/strong><em>(<\/em><a href=\"https:\/\/www.ssa.gov\/forms\/ss-5.pdf\" target=\"_blank\" title=\"https:\/\/www.ssa.gov\/forms\/ss-5.pdf\"><em>Apply for US SSN Here<\/em><\/a><em>)<\/em><\/p><p><strong>✓ Fulfill Licensing Requirements<\/strong><\/p><p><strong>✓ <\/strong>Florida Residency <strong>NOT<\/strong> Required<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "8a4e1f25-4ad0-4fed-ba80-8574e265218b",
+        "dae2c75a-490a-4020-b707-fde3786b5a16",
+        "69048707-f7b5-444f-b609-1452eca9802f"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/TSRE_Grads.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "4cedd084-a584-4349-a5c7-48bba3ee06f7": {
       "type": "image-with-text",
       "blocks": {
         "97b9e0e7-ddd1-434d-a0e3-6ab5a990e7e5": {
           "type": "caption",
           "settings": {
-            "caption": "TRUSTED BY 25,000+ STUDENTS FROM 40+COUNTRIES",
+            "caption": "Trusted by 25,000+ studenrt from 40+ countries",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -80,34 +126,101 @@
         "ab472a2b-68c7-4575-b637-ed8396db66bb": {
           "type": "heading",
           "settings": {
-            "heading": "#1-Rated Real State School in The Tampa Bay Area",
+            "heading": "The Top Real State School in Florida",
             "heading_size": "h2"
           }
         },
         "7b19ec37-1619-49e3-a045-0c81e3ca4a55": {
           "type": "text",
           "settings": {
-            "text": "<p>At the Tampa School of Real Estate, we're here to be more than just a required class. We want to help you pass on your first try, jumpstart your career and build your real estate empire... your success is our success!<\/p>",
+            "text": "<p><strong>At TSRE, we're more than a required class. <\/strong><\/p><p>We want to help you pass your exams on your first try, jumpstart your real estate career and build your empire. Your success is our success!<\/p><p><strong>Call or Text our Advisors Now at <\/strong><a href=\"tel:18133332676\" title=\"tel:18133332676\"><strong>(813) 333-2676<\/strong><\/a><\/p>",
             "text_style": "body"
+          }
+        },
+        "925f4b35-dde2-453b-bed6-3be669d3eb10": {
+          "type": "button",
+          "settings": {
+            "button_label": "📞 Call TSRE",
+            "button_link": "tel:18133332676"
           }
         }
       },
       "block_order": [
         "97b9e0e7-ddd1-434d-a0e3-6ab5a990e7e5",
         "ab472a2b-68c7-4575-b637-ed8396db66bb",
-        "7b19ec37-1619-49e3-a045-0c81e3ca4a55"
+        "7b19ec37-1619-49e3-a045-0c81e3ca4a55",
+        "925f4b35-dde2-453b-bed6-3be669d3eb10"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/tampa-real-estate-classes_a1af6d84-e21e-4a3c-a49e-7d708f4d7c87.jpg",
         "height": "small",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "8f9600e6-79bb-4f46-9839-60060e6c13e2": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slpre-45th-edition-textbook-included-1200-x-600-px-2_1200x_89f99f28-459b-422a-8147-dd4f1ceabf82.webp",
+            "icon": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sales-associate-digital-materials-1200-x-600-px.webp",
+            "icon": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/secrets-of-the-exam-included_1200x_64c88b4a-c026-4c94-8ad6-4d7f73c0224f.webp",
+            "icon": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-0",
+        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-1",
+        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-2"
+      ],
+      "settings": {
+        "title": "What's Included?",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -280,7 +393,9 @@
   "order": [
     "banner",
     "7e16b57a-8c15-449f-9696-da181d49cfa6",
+    "fb558bb9-22af-4dd3-8456-1b7229e75fe2",
     "4cedd084-a584-4349-a5c7-48bba3ee06f7",
+    "8f9600e6-79bb-4f46-9839-60060e6c13e2",
     "d42e1d33-cfa6-4126-b88a-19f64ee9a25a",
     "156886c2-ed93-4be0-ac13-5c5b37a495f1",
     "product-grid",
