@@ -15,14 +15,14 @@
         "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-0": {
           "type": "heading",
           "settings": {
-            "heading": "Sales Associate Post Licensing",
+            "heading": "Broker Post Licensing",
             "heading_size": "h1"
           }
         },
         "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Florida Real Estate Commission (FREC) Approved Course Required for the First Renewal of Your Florida Real Estate License. In-Person Classrooms & Online Virtual Livestreams - Enroll Today.<\/p>",
+            "text": "<p>Florida Real Estate Commission (FREC) Approved Course Required Obtain Your Florida Real Estate Broker License. In-Person Classrooms & Online Virtual Livestreams - Enroll Today.<\/p>",
             "text_style": "body"
           }
         },
@@ -231,7 +231,7 @@
         "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Try our online real estate post license course instead.<\/p><p>This will provide the 45 hour credit required by the Florida Real Estate Commission for a first time renewal of a Florida real estate sales associate license.<\/p>",
+            "text": "<p>Try our online real estate broker post license course instead.<\/p><p>Our self paced and on demand online broker post license course provides the FREC required 60 hour credit necessary for the first renewal of a Florida broker license. The course is broken into 2 mini courses that will teach you real world real estate knowledge that you can apply to your business.<\/p>",
             "text_style": "body"
           }
         },
@@ -253,7 +253,7 @@
         ".image-with-text__media-item {z-index: 2;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/fl-45-hour-sales-associate-post-licensing-online-course-slpost-online-leap-111456_1000x_f2fe699e-14ca-4d41-a038-b81b8dabcec3.webp",
+        "image": "shopify:\/\/shop_images\/fl-60-hour-broker-post-licensing-online-course-leap-792173_1000x_fbad4719-eca2-40f3-b704-b211f4dd8fa4.webp",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
