@@ -225,13 +225,13 @@
           "type": "heading",
           "settings": {
             "heading": "Self-Guided Online Course",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Try our 45-Hour, text-based our online real estate post license course instead.<\/p>",
+            "text": "<p>Try our 45-hour, text-based our online real estate post license course instead.<\/p>",
             "text_style": "body"
           }
         },
