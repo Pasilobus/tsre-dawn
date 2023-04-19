@@ -15,7 +15,7 @@
         "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-0": {
           "type": "heading",
           "settings": {
-            "heading": "Broker Post Licensing",
+            "heading": "Broker Pre-Licensing",
             "heading_size": "h1"
           }
         },
@@ -165,7 +165,7 @@
         "template--16708547870972__156886c2-ed93-4be0-ac13-5c5b37a495f1-168186114311c7b47a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Post Licensing Schedule",
+            "heading": "Pre-Licensing Schedule",
             "heading_size": "h1"
           }
         },
@@ -212,6 +212,7 @@
     },
     "32ba5ff4-c6d3-48ad-b68e-2e31f71c3423": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "f5a8de3d-b36a-4ead-b042-23f725486b27": {
           "type": "caption",
