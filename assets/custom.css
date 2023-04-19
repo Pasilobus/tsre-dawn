@@ -30,9 +30,10 @@ h1, h2, h3, h4, h5, h6,
 
 @media screen and (min-width: 750px) {
   .product-card-wrapper--wide .card:not(.ratio) {
+    --text-alignment: left;
+    
     flex-direction: row;
     gap: calc(var(--grid-desktop-vertical-spacing) / 2);
-    text-align: left;
   }
   
   .product-card-wrapper--wide .card__inner {
