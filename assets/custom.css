@@ -37,10 +37,14 @@ h1, h2, h3, h4, h5, h6,
   }
   
   .product-card-wrapper--wide .card__inner {
-    width: 25%;
+    max-width: 25%;
   }
   
   .product-card-wrapper--wide .card__information {
     grid-row-start: 1;
+  }
+  
+  .product-card-wrapper--wide .quick-add {
+    flex: 1 0 auto;
   }
 }
