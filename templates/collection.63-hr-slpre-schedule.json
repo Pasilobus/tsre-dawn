@@ -1,0 +1,281 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "7e16b57a-8c15-449f-9696-da181d49cfa6": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Broker Pre-Licensing",
+            "heading_size": "h1"
+          }
+        },
+        "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Florida Real Estate Commission (FREC) Approved Course Required Obtain Your Florida Real Estate Broker License. In-Person Classrooms & Online Virtual Livestreams - Enroll Today.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-0",
+        "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-1",
+        "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/post-licensing-banner-desktop.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "4cedd084-a584-4349-a5c7-48bba3ee06f7": {
+      "type": "image-with-text",
+      "blocks": {
+        "97b9e0e7-ddd1-434d-a0e3-6ab5a990e7e5": {
+          "type": "caption",
+          "settings": {
+            "caption": "TRUSTED BY 25,000+ STUDENTS FROM 40+COUNTRIES",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "ab472a2b-68c7-4575-b637-ed8396db66bb": {
+          "type": "heading",
+          "settings": {
+            "heading": "#1-Rated Real State School in The Tampa Bay Area",
+            "heading_size": "h2"
+          }
+        },
+        "7b19ec37-1619-49e3-a045-0c81e3ca4a55": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At the Tampa School of Real Estate, we're here to be more than just a required class. We want to help you pass on your first try, jumpstart your career and build your real estate empire... your success is our success!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "97b9e0e7-ddd1-434d-a0e3-6ab5a990e7e5",
+        "ab472a2b-68c7-4575-b637-ed8396db66bb",
+        "7b19ec37-1619-49e3-a045-0c81e3ca4a55"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tampa-real-estate-classes_a1af6d84-e21e-4a3c-a49e-7d708f4d7c87.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d42e1d33-cfa6-4126-b88a-19f64ee9a25a": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16708547870972__d42e1d33-cfa6-4126-b88a-19f64ee9a25a-1681860317d7b8a10f-0": {
+          "type": "column",
+          "settings": {
+            "icon": "quote",
+            "title": "",
+            "text": "<h6>Six Figures in my first year!<\/h6><h3>If you're looking to get into real estate, I highly recommend it! My instructor made it easy to comprehend.<\/h3><p>- David Cribs<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0e769e98-f557-4357-a418-9d9ec03732a5": {
+          "type": "column",
+          "settings": {
+            "icon": "quote",
+            "title": "",
+            "text": "<h6>Passed my state exam on the first try!<\/h6><h3>Tampa School of Real Estate gave me the knowledge, tools, and the confidence!<\/h3><p>- Rhonda Elias Spurling<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fdfd7915-e882-4d91-8854-4cbc8b0e186d": {
+          "type": "column",
+          "settings": {
+            "icon": "quote",
+            "title": "",
+            "text": "<h6>Passed my state exam today!<\/h6><h3>The instructor kept the material interesting and easy to understand. Highly Recommend!<\/h3><p>- Christopher Foottit<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16708547870972__d42e1d33-cfa6-4126-b88a-19f64ee9a25a-1681860317d7b8a10f-0",
+        "0e769e98-f557-4357-a418-9d9ec03732a5",
+        "fdfd7915-e882-4d91-8854-4cbc8b0e186d"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "alternate",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "156886c2-ed93-4be0-ac13-5c5b37a495f1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16708547870972__156886c2-ed93-4be0-ac13-5c5b37a495f1-168186114311c7b47a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pre-Licensing Schedule",
+            "heading_size": "h1"
+          }
+        },
+        "d141cc9c-bf7e-4c93-ba83-ec7d80c20d32": {
+          "type": "caption",
+          "settings": {
+            "caption": "Limited seating available – reserve your seat now",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "template--16708547870972__156886c2-ed93-4be0-ac13-5c5b37a495f1-168186114311c7b47a-0",
+        "d141cc9c-bf7e-4c93-ba83-ec7d80c20d32"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 1,
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "32ba5ff4-c6d3-48ad-b68e-2e31f71c3423": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "f5a8de3d-b36a-4ead-b042-23f725486b27": {
+          "type": "caption",
+          "settings": {
+            "caption": "Would you rather complete the course at your own pace?",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Self-Guided Online Course",
+            "heading_size": "h2"
+          }
+        },
+        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Try our online real estate broker post license course instead.<\/p><p>Our self paced and on demand online broker post license course provides the FREC required 60 hour credit necessary for the first renewal of a Florida broker license. The course is broken into 2 mini courses that will teach you real world real estate knowledge that you can apply to your business.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn more",
+            "button_link": "shopify:\/\/products\/sales-associate-45-hour-post-licensing"
+          }
+        }
+      },
+      "block_order": [
+        "f5a8de3d-b36a-4ead-b042-23f725486b27",
+        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-0",
+        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-1",
+        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-2"
+      ],
+      "custom_css": [
+        ".image-with-text__media-item {z-index: 2;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/fl-60-hour-broker-post-licensing-online-course-leap-792173_1000x_fbad4719-eca2-40f3-b704-b211f4dd8fa4.webp",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "7e16b57a-8c15-449f-9696-da181d49cfa6",
+    "4cedd084-a584-4349-a5c7-48bba3ee06f7",
+    "d42e1d33-cfa6-4126-b88a-19f64ee9a25a",
+    "156886c2-ed93-4be0-ac13-5c5b37a495f1",
+    "product-grid",
+    "32ba5ff4-c6d3-48ad-b68e-2e31f71c3423"
+  ]
+}
