@@ -43,16 +43,4 @@ h1, h2, h3, h4, h5, h6,
   .product-card-wrapper--wide .card__information {
     grid-row-start: 1;
   }
-  
-  .product-card-wrapper--wide .quick-add {
-    flex: 1 0 auto;
-  }
-
-  .product-card-wrapper--wide .card__heading a {
-    position: relative;
-  }
-
-  .product-card-wrapper--wide:hover .button {
-    text-decoration: none;
-  }
 }
