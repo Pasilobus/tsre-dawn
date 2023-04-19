@@ -1,0 +1,455 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "7e16b57a-8c15-449f-9696-da181d49cfa6": {
+      "type": "image-banner",
+      "blocks": {
+        "06b2bbca-70d8-481c-a9a5-690cf66085f2": {
+          "type": "caption",
+          "settings": {
+            "caption": "Become a real estate agent in Florida",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FL Real Estate Classes",
+            "heading_size": "h1"
+          }
+        },
+        "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Florida Real Estate Commission (FREC) Required Classes<\/strong> to Obtain Your <strong>FL Real Estate License.<\/strong><\/p><p>In-Person, LIVE Online, On-Demand & Self Guided Class Options Available.<\/p><p><strong>Reserve Your Seat with a $57 Deposit.<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "06b2bbca-70d8-481c-a9a5-690cf66085f2",
+        "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-0",
+        "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-1",
+        "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/sales-associate-licensing-guide-2160x777.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "fb558bb9-22af-4dd3-8456-1b7229e75fe2": {
+      "type": "image-with-text",
+      "blocks": {
+        "8a4e1f25-4ad0-4fed-ba80-8574e265218b": {
+          "type": "caption",
+          "settings": {
+            "caption": "Florida Real State Commission",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "dae2c75a-490a-4020-b707-fde3786b5a16": {
+          "type": "heading",
+          "settings": {
+            "heading": "License Requirements",
+            "heading_size": "h2"
+          }
+        },
+        "69048707-f7b5-444f-b609-1452eca9802f": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>✓ At Least 18 Years Old<\/strong><\/p><p><strong>✓ High School Diploma or Equivalent<\/strong><\/p><p><strong>✓ US Social Security Number <\/strong><em>(<\/em><a href=\"https:\/\/www.ssa.gov\/forms\/ss-5.pdf\" target=\"_blank\" title=\"https:\/\/www.ssa.gov\/forms\/ss-5.pdf\"><em>Apply for US SSN Here<\/em><\/a><em>)<\/em><\/p><p><strong>✓ Fulfill Licensing Requirements<\/strong><\/p><p><strong>✓ <\/strong>Florida Residency <strong>NOT<\/strong> Required<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "8a4e1f25-4ad0-4fed-ba80-8574e265218b",
+        "dae2c75a-490a-4020-b707-fde3786b5a16",
+        "69048707-f7b5-444f-b609-1452eca9802f"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/TSRE_Grads.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "4cedd084-a584-4349-a5c7-48bba3ee06f7": {
+      "type": "image-with-text",
+      "blocks": {
+        "97b9e0e7-ddd1-434d-a0e3-6ab5a990e7e5": {
+          "type": "caption",
+          "settings": {
+            "caption": "Trusted by 25,000+ studenrt from 40+ countries",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "ab472a2b-68c7-4575-b637-ed8396db66bb": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Top Real State School in Florida",
+            "heading_size": "h2"
+          }
+        },
+        "7b19ec37-1619-49e3-a045-0c81e3ca4a55": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>At TSRE, we're more than a required class. <\/strong><\/p><p>We want to help you pass your exams on your first try, jumpstart your real estate career and build your empire. Your success is our success!<\/p><p><strong>Call or Text our Advisors Now at <\/strong><a href=\"tel:18133332676\" title=\"tel:18133332676\"><strong>(813) 333-2676<\/strong><\/a><\/p>",
+            "text_style": "body"
+          }
+        },
+        "925f4b35-dde2-453b-bed6-3be669d3eb10": {
+          "type": "button",
+          "settings": {
+            "button_label": "📞 Call TSRE",
+            "button_link": "tel:18133332676"
+          }
+        }
+      },
+      "block_order": [
+        "97b9e0e7-ddd1-434d-a0e3-6ab5a990e7e5",
+        "ab472a2b-68c7-4575-b637-ed8396db66bb",
+        "7b19ec37-1619-49e3-a045-0c81e3ca4a55",
+        "925f4b35-dde2-453b-bed6-3be669d3eb10"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tampa-real-estate-classes_a1af6d84-e21e-4a3c-a49e-7d708f4d7c87.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "8f9600e6-79bb-4f46-9839-60060e6c13e2": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slpre-45th-edition-textbook-included-1200-x-600-px-2_1200x_89f99f28-459b-422a-8147-dd4f1ceabf82.webp",
+            "icon": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sales-associate-digital-materials-1200-x-600-px.webp",
+            "icon": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/secrets-of-the-exam-included_1200x_64c88b4a-c026-4c94-8ad6-4d7f73c0224f.webp",
+            "icon": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-0",
+        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-1",
+        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-2"
+      ],
+      "settings": {
+        "title": "What's Included?",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "d42e1d33-cfa6-4126-b88a-19f64ee9a25a": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--16708547870972__d42e1d33-cfa6-4126-b88a-19f64ee9a25a-1681860317d7b8a10f-0": {
+          "type": "column",
+          "settings": {
+            "icon": "quote",
+            "title": "",
+            "text": "<h6>Six Figures in my first year!<\/h6><h3>If you're looking to get into real estate, I highly recommend it! My instructor made it easy to comprehend.<\/h3><p>- David Cribs<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0e769e98-f557-4357-a418-9d9ec03732a5": {
+          "type": "column",
+          "settings": {
+            "icon": "quote",
+            "title": "",
+            "text": "<h6>Passed my state exam on the first try!<\/h6><h3>Tampa School of Real Estate gave me the knowledge, tools, and the confidence!<\/h3><p>- Rhonda Elias Spurling<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fdfd7915-e882-4d91-8854-4cbc8b0e186d": {
+          "type": "column",
+          "settings": {
+            "icon": "quote",
+            "title": "",
+            "text": "<h6>Passed my state exam today!<\/h6><h3>The instructor kept the material interesting and easy to understand. Highly Recommend!<\/h3><p>- Christopher Foottit<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16708547870972__d42e1d33-cfa6-4126-b88a-19f64ee9a25a-1681860317d7b8a10f-0",
+        "0e769e98-f557-4357-a418-9d9ec03732a5",
+        "fdfd7915-e882-4d91-8854-4cbc8b0e186d"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "alternate",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6bd4c738-f286-45c0-8043-accad6dffabe": {
+      "type": "image-with-text",
+      "blocks": {
+        "faa1de5f-bbd0-47fe-8e0f-09bca42e7c53": {
+          "type": "caption",
+          "settings": {
+            "caption": "Backed by the TSRE Retake Guarantee",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "1-Year Retake Guarantee",
+            "heading_size": "h2"
+          }
+        },
+        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you don't pass your end-of-course exam <strong>you're backed by our 1-Year Retake Guarantee. <\/strong>The FREC will require you to wait 30 days before re-testing (no waiting period for post licensing & CE courses!) If you still don't pass after retesting, you are able to retake at no charge within 1-year of your registration date.<br\/><br\/><strong>Trying to pass on the first try? <\/strong>Rest assured, this typically isn't a concern <strong>with our course pass rates above 90%!<\/strong><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "faa1de5f-bbd0-47fe-8e0f-09bca42e7c53",
+        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-0",
+        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-1"
+      ],
+      "custom_css": [
+        ".media > img {object-fit: contain;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1-YEAR_RETAKE_GUARANTEE.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "156886c2-ed93-4be0-ac13-5c5b37a495f1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16708547870972__156886c2-ed93-4be0-ac13-5c5b37a495f1-168186114311c7b47a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pre-Licensing Class Schedule",
+            "heading_size": "h1"
+          }
+        },
+        "d141cc9c-bf7e-4c93-ba83-ec7d80c20d32": {
+          "type": "caption",
+          "settings": {
+            "caption": "Limited seating available – reserve your seat now",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "template--16708547870972__156886c2-ed93-4be0-ac13-5c5b37a495f1-168186114311c7b47a-0",
+        "d141cc9c-bf7e-4c93-ba83-ec7d80c20d32"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 1,
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "32ba5ff4-c6d3-48ad-b68e-2e31f71c3423": {
+      "type": "image-with-text",
+      "blocks": {
+        "f5a8de3d-b36a-4ead-b042-23f725486b27": {
+          "type": "caption",
+          "settings": {
+            "caption": "Would you rather complete the course at your own pace?",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "On-Demand Online Class",
+            "heading_size": "h2"
+          }
+        },
+        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Complete the course <strong>on your own schedule <\/strong>with Instructor <strong>Jon Carissimo <\/strong>as he guides you through the <strong>essential topics <\/strong>for your new career and exam.<\/p><p>This course satisfies the <strong>Florida Real Estate Commission (FREC) 63 Hour Sales Associate<\/strong> requirement to sit for the state exam.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn more",
+            "button_link": "shopify:\/\/products\/fl-video-63-hr-pre-licensing-class-online"
+          }
+        }
+      },
+      "block_order": [
+        "f5a8de3d-b36a-4ead-b042-23f725486b27",
+        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-0",
+        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-1",
+        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-2"
+      ],
+      "custom_css": [
+        ".image-with-text__media-item {z-index: 2;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/on-demand-self-guided-slpre-1000-x-1000-px-750-x-5.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "7e16b57a-8c15-449f-9696-da181d49cfa6",
+    "fb558bb9-22af-4dd3-8456-1b7229e75fe2",
+    "4cedd084-a584-4349-a5c7-48bba3ee06f7",
+    "8f9600e6-79bb-4f46-9839-60060e6c13e2",
+    "d42e1d33-cfa6-4126-b88a-19f64ee9a25a",
+    "6bd4c738-f286-45c0-8043-accad6dffabe",
+    "156886c2-ed93-4be0-ac13-5c5b37a495f1",
+    "product-grid",
+    "32ba5ff4-c6d3-48ad-b68e-2e31f71c3423"
+  ]
+}
