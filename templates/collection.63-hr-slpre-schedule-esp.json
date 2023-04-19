@@ -12,25 +12,25 @@
     "7e16b57a-8c15-449f-9696-da181d49cfa6": {
       "type": "image-banner",
       "blocks": {
-        "06b2bbca-70d8-481c-a9a5-690cf66085f2": {
-          "type": "caption",
-          "settings": {
-            "caption": "Become a real estate agent in Florida",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
         "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-0": {
           "type": "heading",
           "settings": {
-            "heading": "FL Real Estate Classes",
+            "heading": "Licencia de Vendedores Asociados de Bienes Raíces",
             "heading_size": "h1"
+          }
+        },
+        "06b2bbca-70d8-481c-a9a5-690cf66085f2": {
+          "type": "caption",
+          "settings": {
+            "caption": "Curso de 63 Horas de Florida para la licencia de vendedores asociados de bienes raíces",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
           }
         },
         "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Florida Real Estate Commission (FREC) Required Classes<\/strong> to Obtain Your <strong>FL Real Estate License.<\/strong><\/p><p>In-Person, LIVE Online, On-Demand & Self Guided Class Options Available.<\/p><p><strong>Reserve Your Seat with a $57 Deposit.<\/strong><\/p>",
+            "text": "<p>Reserve su asiento con un depósito de $57 hoy.<\/p>",
             "text_style": "body"
           }
         },
@@ -47,8 +47,8 @@
         }
       },
       "block_order": [
-        "06b2bbca-70d8-481c-a9a5-690cf66085f2",
         "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-0",
+        "06b2bbca-70d8-481c-a9a5-690cf66085f2",
         "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-1",
         "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-2"
       ],
@@ -68,6 +68,7 @@
     },
     "fb558bb9-22af-4dd3-8456-1b7229e75fe2": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "8a4e1f25-4ad0-4fed-ba80-8574e265218b": {
           "type": "caption",
@@ -118,7 +119,7 @@
         "97b9e0e7-ddd1-434d-a0e3-6ab5a990e7e5": {
           "type": "caption",
           "settings": {
-            "caption": "Trusted by 25,000+ studenrt from 40+ countries",
+            "caption": "Confiado por miles de estudiantes",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -126,21 +127,22 @@
         "ab472a2b-68c7-4575-b637-ed8396db66bb": {
           "type": "heading",
           "settings": {
-            "heading": "The Top Real State School in Florida",
+            "heading": "La escuela mejor calificada de tampa",
             "heading_size": "h2"
           }
         },
         "7b19ec37-1619-49e3-a045-0c81e3ca4a55": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>At TSRE, we're more than a required class. <\/strong><\/p><p>We want to help you pass your exams on your first try, jumpstart your real estate career and build your empire. Your success is our success!<\/p><p><strong>Call or Text our Advisors Now at <\/strong><a href=\"tel:18133332676\" title=\"tel:18133332676\"><strong>(813) 333-2676<\/strong><\/a><\/p>",
+            "text": "<p>En la Escuela de Bienes Raíces de Tampa, estamos aquí para ser más que una clase obligatoria. Queremos ayudarlo a aprobar su primer intento, impulsar su carrera y construir su imperio inmobiliario ... ¡su éxito es nuestro éxito!<\/p>",
             "text_style": "body"
           }
         },
         "925f4b35-dde2-453b-bed6-3be669d3eb10": {
           "type": "button",
+          "disabled": true,
           "settings": {
-            "button_label": "📞 Call TSRE",
+            "button_label": "📞 Llama a TSRE",
             "button_link": "tel:18133332676"
           }
         }
@@ -168,6 +170,7 @@
     },
     "8f9600e6-79bb-4f46-9839-60060e6c13e2": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-0": {
           "type": "column",
@@ -284,6 +287,7 @@
     },
     "6bd4c738-f286-45c0-8043-accad6dffabe": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "faa1de5f-bbd0-47fe-8e0f-09bca42e7c53": {
           "type": "caption",
@@ -337,14 +341,14 @@
         "template--16708547870972__156886c2-ed93-4be0-ac13-5c5b37a495f1-168186114311c7b47a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Pre-Licensing Class Schedule",
+            "heading": "Horarios de Clases",
             "heading_size": "h1"
           }
         },
         "d141cc9c-bf7e-4c93-ba83-ec7d80c20d32": {
           "type": "caption",
           "settings": {
-            "caption": "Limited seating available – reserve your seat now",
+            "caption": "Asientos limitados disponibles – Reserve su asiento ahora",
             "text_style": "caption-with-letter-spacing",
             "text_size": "medium"
           }
@@ -384,6 +388,7 @@
     },
     "32ba5ff4-c6d3-48ad-b68e-2e31f71c3423": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "f5a8de3d-b36a-4ead-b042-23f725486b27": {
           "type": "caption",
