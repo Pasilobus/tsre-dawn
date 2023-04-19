@@ -12,17 +12,25 @@
     "7e16b57a-8c15-449f-9696-da181d49cfa6": {
       "type": "image-banner",
       "blocks": {
+        "06b2bbca-70d8-481c-a9a5-690cf66085f2": {
+          "type": "caption",
+          "settings": {
+            "caption": "Become a real estate agent in Florida",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
         "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-0": {
           "type": "heading",
           "settings": {
-            "heading": "Broker Pre-Licensing",
+            "heading": "FL Real Estate Classes",
             "heading_size": "h1"
           }
         },
         "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Florida Real Estate Commission (FREC) Approved Course Required Obtain Your Florida Real Estate Broker License. In-Person Classrooms & Online Virtual Livestreams - Enroll Today.<\/p>",
+            "text": "<p><strong>Florida Real Estate Commission (FREC) Required Classes<\/strong> to Obtain Your <strong>FL Real Estate License.<\/strong><\/p><p>In-Person, LIVE Online, On-Demand & Self Guided Class Options Available.<\/p><p><strong>Reserve Your Seat with a $57 Deposit.<\/strong><\/p>",
             "text_style": "body"
           }
         },
@@ -39,17 +47,18 @@
         }
       },
       "block_order": [
+        "06b2bbca-70d8-481c-a9a5-690cf66085f2",
         "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-0",
         "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-1",
         "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/post-licensing-banner-desktop.jpg",
+        "image": "shopify:\/\/shop_images\/sales-associate-licensing-guide-2160x777.jpg",
         "image_overlay_opacity": 30,
         "image_height": "small",
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "middle-left",
         "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
