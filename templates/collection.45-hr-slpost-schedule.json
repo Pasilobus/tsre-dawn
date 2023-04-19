@@ -225,13 +225,13 @@
           "type": "heading",
           "settings": {
             "heading": "Self-Guided Online Course",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Try our 45-hour, text-based our online real estate post license course instead.<\/p>",
+            "text": "<p>Try our online real estate post license course instead.<\/p><p>This will provide the 45 hour credit required by the Florida Real Estate Commission for a first time renewal of a Florida real estate sales associate license.<\/p>",
             "text_style": "body"
           }
         },
