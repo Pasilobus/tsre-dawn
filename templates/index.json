@@ -103,7 +103,7 @@
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
-        "show_view_all": false,
+        "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
@@ -131,7 +131,7 @@
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
-        "show_view_all": false,
+        "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
@@ -317,7 +317,7 @@
         "template--16705787363580__1a79dca4-04c4-4566-a56b-61eaa6718f6e-168144390525dde2fa-0": {
           "type": "heading",
           "settings": {
-            "heading": "FL Real State License",
+            "heading": "FL Real Estate License",
             "heading_size": "h1"
           }
         },
@@ -374,7 +374,7 @@
         "template--16705787363580__b40ea024-b685-4855-916b-942c87260d31-1681443817d4e91d48-0": {
           "type": "heading",
           "settings": {
-            "heading": "Start Your Real State Career",
+            "heading": "Start Your Real Estate Career",
             "heading_size": "h1"
           }
         },
