@@ -59,6 +59,34 @@
         "show_text_below": false
       }
     },
+    "36e69bd3-6da8-43a1-8311-46e7861d9ea1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>On Demand<\/strong>",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "online-courses",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -80,7 +108,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Whether you're new to real estate or need to complete your renewal requirements, <strong>TSRE has more course options than any other Florida real estate school.<\/strong> Better yet, all of our classes are backed by our 1-Year Retake Guarantee.<\/p><p>Reserve Your Seat in an upcoming class with a $57 deposit, or take advantage of financing options to fund your real estate education!<\/p>"
+            "text": "<p>Reserve Your Seat in an upcoming class with a $57 deposit, or take advantage of financing options to fund your real estate education!<\/p>"
           }
         }
       },
@@ -126,38 +154,40 @@
         "padding_bottom": 0
       }
     },
-    "36e69bd3-6da8-43a1-8311-46e7861d9ea1": {
-      "type": "featured-collection",
-      "disabled": true,
+    "c683541c-d64e-4561-b9c2-ec8dbd34300a": {
+      "type": "rich-text",
+      "blocks": {
+        "aa76d70d-1832-414f-9fd9-3ac0b193c651": {
+          "type": "caption",
+          "settings": {
+            "caption": "How to Become a Real State Agent",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--16705787363580__c683541c-d64e-4561-b9c2-ec8dbd34300a-1681443817d4e91d48-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FL Real Estate License Guide",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "aa76d70d-1832-414f-9fd9-3ac0b193c651",
+        "template--16705787363580__c683541c-d64e-4561-b9c2-ec8dbd34300a-1681443817d4e91d48-0"
+      ],
       "settings": {
-        "title": "<strong>On Demand<\/strong>",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "online-courses",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 28,
-        "padding_bottom": 0
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 28
       }
     },
     "777d0bbb-5660-4d59-8926-49146595b02c": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "<strong>45-HR: Post License<\/strong>",
         "heading_size": "h2",
@@ -186,7 +216,6 @@
     },
     "32c5e410-519b-4259-806f-f0d0724afe16": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "<strong>72-HR: Broker Pre-License<\/strong>",
         "heading_size": "h2",
@@ -210,39 +239,6 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
-    "c683541c-d64e-4561-b9c2-ec8dbd34300a": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "aa76d70d-1832-414f-9fd9-3ac0b193c651": {
-          "type": "caption",
-          "settings": {
-            "caption": "How to Become a Real State Agent",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        },
-        "template--16705787363580__c683541c-d64e-4561-b9c2-ec8dbd34300a-1681443817d4e91d48-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "FL Real Estate License Guide",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "aa76d70d-1832-414f-9fd9-3ac0b193c651",
-        "template--16705787363580__c683541c-d64e-4561-b9c2-ec8dbd34300a-1681443817d4e91d48-0"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
         "padding_bottom": 28
       }
     },
@@ -752,12 +748,12 @@
   },
   "order": [
     "image_banner",
+    "36e69bd3-6da8-43a1-8311-46e7861d9ea1",
     "rich_text",
     "featured_collection",
-    "36e69bd3-6da8-43a1-8311-46e7861d9ea1",
+    "c683541c-d64e-4561-b9c2-ec8dbd34300a",
     "777d0bbb-5660-4d59-8926-49146595b02c",
     "32c5e410-519b-4259-806f-f0d0724afe16",
-    "c683541c-d64e-4561-b9c2-ec8dbd34300a",
     "d51ce574-b4cb-4630-9f1c-418e14aa1c68",
     "c9c92a5f-daed-4130-b975-a416e8cb2efb",
     "b002e3c7-3e24-4679-aac9-8a7b4aa8e7ab",
