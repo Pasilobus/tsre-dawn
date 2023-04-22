@@ -62,9 +62,9 @@
     "36e69bd3-6da8-43a1-8311-46e7861d9ea1": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>On Demand<\/strong>",
+        "title": "<strong>On-Demand Online Courses<\/strong>",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p>Whether you're new to real estate or need to complete your renewal requirements, <strong>TSRE has more course options than any other Florida real estate school.<\/strong> Better yet, all of our classes are backed by our 1-Year Retake Guarantee.<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "online-courses",
@@ -87,51 +87,12 @@
         "padding_bottom": 0
       }
     },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "9d38dc1c-389f-4c47-90dc-10a9b12f9022": {
-          "type": "caption",
-          "settings": {
-            "caption": "Limited Availability - Reserve Now",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "UPCOMING CLASSES",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Reserve Your Seat in an upcoming class with a $57 deposit, or take advantage of financing options to fund your real estate education!<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "9d38dc1c-389f-4c47-90dc-10a9b12f9022",
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>63-HR: FL Real State License<\/strong>",
+        "title": "<strong>Florida Real Estate License Classes<\/strong>",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p>Reserve Your Seat in an upcoming class with a $57 deposit, or take advantage of financing options to fund your real estate education!<br\/><strong>Limited Class Sizes - Reserve Now<\/strong><\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "sl-pre",
@@ -749,7 +710,6 @@
   "order": [
     "image_banner",
     "36e69bd3-6da8-43a1-8311-46e7861d9ea1",
-    "rich_text",
     "featured_collection",
     "c683541c-d64e-4561-b9c2-ec8dbd34300a",
     "777d0bbb-5660-4d59-8926-49146595b02c",
