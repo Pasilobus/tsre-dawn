@@ -6,7 +6,7 @@
         "454ef1be-6f4b-4385-b2da-53796917e86a": {
           "type": "text",
           "settings": {
-            "text": "<h5>Real Estate License Classes Online + LIVE<\/h5>",
+            "text": "<h5>Real Estate Classes Online + LIVE<\/h5>",
             "text_style": "caption-with-letter-spacing"
           }
         },
@@ -20,14 +20,14 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<h3>A Career in Real Estate, Easy as 1, 2, 3! <\/h3><p>View our Step by Step Guide to Become a Real Estate Agent in Florida.<\/p><p><strong>Have Questions?<\/strong> Chat with an Advisor<br\/>Call or Text <a href=\"tel:18133332676\" title=\"tel:18133332676\">(813) 333-2676<\/a><\/p>",
+            "text": "<h3>A Career in Real Estate, Easy as 1, 2, 3! <\/h3>",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "How to Get a Real Estate License",
+            "button_label_1": "Become a Real Estate Agent",
             "button_link_1": "shopify:\/\/pages\/florida-real-estate-license",
             "button_style_secondary_1": false,
             "button_label_2": "",
