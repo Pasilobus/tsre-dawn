@@ -21,10 +21,6 @@ h1, h2, h3, h4, h5, h6,
   --color-button-text: var(--color-base-text);
 }
 
-.button--primary::after {
-  content: none;
-}
-
 .button[data-ribbon] {
   border: var(--buttons-border-width) rgb(var(--color-button-text)) solid;
 }
