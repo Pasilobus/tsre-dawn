@@ -49,23 +49,294 @@
     },
     "b133ceff-f543-4da9-8c9c-6d485e82c45f": {
       "type": "video",
+      "disabled": true,
       "settings": {
-        "heading": "Video",
+        "heading": "",
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https:\/\/youtu.be\/-nSd8e5AYO4",
-        "cover_image": "shopify:\/\/shop_images\/sales-associate-licensing-guide-1000-x-1000-px-3.jpg",
+        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-05-01_at_6.13.08_PM.jpg",
         "description": "",
         "full_width": false,
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "894f917a-0f3d-4577-bce0-b6a783b5128c": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16714837590268__894f917a-0f3d-4577-bce0-b6a783b5128c-168298285514fbdc8c-1": {
+          "type": "title",
+          "disabled": true,
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--16714837590268__894f917a-0f3d-4577-bce0-b6a783b5128c-168298285514fbdc8c-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--16714837590268__894f917a-0f3d-4577-bce0-b6a783b5128c-168298285514fbdc8c-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--16714837590268__894f917a-0f3d-4577-bce0-b6a783b5128c-168298285514fbdc8c-4": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--16714837590268__894f917a-0f3d-4577-bce0-b6a783b5128c-168298285514fbdc8c-6": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "b26fbc21-db0c-4e72-a5a3-cad08ca38737": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Why Get This Guide Now:<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "ef97c070-daae-497c-bdd5-5e7191615491": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Simplified Videos",
+            "text_style": "body"
+          }
+        },
+        "c6f2b862-f46e-4496-9e1d-8fece46ad802": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Important Links & Phone Numbers",
+            "text_style": "body"
+          }
+        },
+        "template--16714837590268__894f917a-0f3d-4577-bce0-b6a783b5128c-168298285514fbdc8c-0": {
+          "type": "text",
+          "settings": {
+            "text": "✅ 100% Mobile Compatible",
+            "text_style": "body"
+          }
+        },
+        "78e78c7f-85ee-4b2f-bde2-d2fe9522ca4b": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Great Way to Demo App & Video Courses",
+            "text_style": "body"
+          }
+        },
+        "template--16714837590268__894f917a-0f3d-4577-bce0-b6a783b5128c-168298285514fbdc8c-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        }
+      },
+      "block_order": [
+        "template--16714837590268__894f917a-0f3d-4577-bce0-b6a783b5128c-168298285514fbdc8c-1",
+        "template--16714837590268__894f917a-0f3d-4577-bce0-b6a783b5128c-168298285514fbdc8c-2",
+        "template--16714837590268__894f917a-0f3d-4577-bce0-b6a783b5128c-168298285514fbdc8c-3",
+        "template--16714837590268__894f917a-0f3d-4577-bce0-b6a783b5128c-168298285514fbdc8c-4",
+        "template--16714837590268__894f917a-0f3d-4577-bce0-b6a783b5128c-168298285514fbdc8c-6",
+        "b26fbc21-db0c-4e72-a5a3-cad08ca38737",
+        "ef97c070-daae-497c-bdd5-5e7191615491",
+        "c6f2b862-f46e-4496-9e1d-8fece46ad802",
+        "template--16714837590268__894f917a-0f3d-4577-bce0-b6a783b5128c-168298285514fbdc8c-0",
+        "78e78c7f-85ee-4b2f-bde2-d2fe9522ca4b",
+        "template--16714837590268__894f917a-0f3d-4577-bce0-b6a783b5128c-168298285514fbdc8c-5"
+      ],
+      "settings": {
+        "product": "real-estate-licensing-guide-for-sales-associates",
+        "color_scheme": "accent-1",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "cover",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "f9ac8695-4266-4c5a-969a-73084eade605": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16714837590268__f9ac8695-4266-4c5a-969a-73084eade605-1682983121c9e42f58-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Find out how to turn your dreams of becoming a real estate agent into reality <\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "4a965fcb-3ce2-485b-987c-730f5d48762a": {
+          "type": "caption",
+          "settings": {
+            "caption": "Enroll in the Licensing Guide Now",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--16714837590268__f9ac8695-4266-4c5a-969a-73084eade605-1682983121c9e42f58-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The step by step process to obtaining your Florida Real Estate Sales Associate License. Complete steps in the licensing process to launch your real estate career!<\/p><p>Video based course presented by FREC Instructor Jon Carissimo.<\/p><p><strong>To help you launch your real estate career, we're offering the course for only $1!<\/strong><\/p><p>We designed this course to help our students understand exactly what to do to expedite the licensing process and launching your real estate career.<\/p><p><\/p><p>On top of offering the course for only $1 as a launch promo, <strong>we'll even credit the dollar back to you on any future purchases!<\/strong><\/p><p>So what do you have to lose?<\/p><p>If the dollar feels like it doesn't go as far as it used to, we're hoping this special will help you <strong>get the most value EVER from a single dollar.<\/strong><\/p><p>Enroll in the Florida Real Estate Licensing Guide for Sales Associates now and <strong>get instant access to login<\/strong> and further understand completing the licensing process.<\/p><p>The course is <strong>video based<\/strong>, but also includes <strong>direct links<\/strong> and <strong>phone numbers<\/strong> to <strong>essential points of contact<\/strong> for completing the <strong>licensing process.<\/strong><\/p><p><strong>Register now<\/strong> and your TSRE Learn Portal Account will be created for access to the course!<\/p>"
+          }
+        },
+        "template--16714837590268__f9ac8695-4266-4c5a-969a-73084eade605-1682983121c9e42f58-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get the limited offer guide!",
+            "button_link": "shopify:\/\/products\/real-estate-licensing-guide-for-sales-associates",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16714837590268__f9ac8695-4266-4c5a-969a-73084eade605-1682983121c9e42f58-0",
+        "4a965fcb-3ce2-485b-987c-730f5d48762a",
+        "template--16714837590268__f9ac8695-4266-4c5a-969a-73084eade605-1682983121c9e42f58-1",
+        "template--16714837590268__f9ac8695-4266-4c5a-969a-73084eade605-1682983121c9e42f58-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "66a36b87-c25a-4f4b-900b-0fdfe26d7f16": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16714837590268__66a36b87-c25a-4f4b-900b-0fdfe26d7f16-1682983213062b9e96-0": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "",
+            "text": "<p>Streamline your learning wherever you are with its on-the-go setup.<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "template--16714837590268__66a36b87-c25a-4f4b-900b-0fdfe26d7f16-1682983213062b9e96-1": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "",
+            "text": "<p>Enjoy its 24\/7 access so you can learn any time of the day.<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "template--16714837590268__66a36b87-c25a-4f4b-900b-0fdfe26d7f16-1682983213062b9e96-2": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "",
+            "text": "<p>Accessible from any device to make learning easy.<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "85812e4c-e735-46f3-b628-197173163c72": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "",
+            "text": "<p>Empower your confidence as it comes with downloadable PDFs and additional resources.<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714837590268__66a36b87-c25a-4f4b-900b-0fdfe26d7f16-1682983213062b9e96-0",
+        "template--16714837590268__66a36b87-c25a-4f4b-900b-0fdfe26d7f16-1682983213062b9e96-1",
+        "template--16714837590268__66a36b87-c25a-4f4b-900b-0fdfe26d7f16-1682983213062b9e96-2",
+        "85812e4c-e735-46f3-b628-197173163c72"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4db65423-3982-4037-944f-2e38c3e8b322": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16714837590268__4db65423-3982-4037-944f-2e38c3e8b322-1682983121c9e42f58-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Join 40,000+ From 40+Countries Who Have TRUSTED TSRE<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16714837590268__4db65423-3982-4037-944f-2e38c3e8b322-1682983121c9e42f58-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Make a small decision today that will change the direction of your future.<\/p><p>Tampa School of Real Estate will <strong>help you begin your best career<\/strong> in real estate.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714837590268__4db65423-3982-4037-944f-2e38c3e8b322-1682983121c9e42f58-0",
+        "template--16714837590268__4db65423-3982-4037-944f-2e38c3e8b322-1682983121c9e42f58-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "d8aefc82-e36a-4761-8980-665d6e331cc6": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
     "cf50bd67-2243-45e8-8bd9-e2c75dfef6b6",
-    "b133ceff-f543-4da9-8c9c-6d485e82c45f"
+    "b133ceff-f543-4da9-8c9c-6d485e82c45f",
+    "894f917a-0f3d-4577-bce0-b6a783b5128c",
+    "f9ac8695-4266-4c5a-969a-73084eade605",
+    "66a36b87-c25a-4f4b-900b-0fdfe26d7f16",
+    "4db65423-3982-4037-944f-2e38c3e8b322",
+    "d8aefc82-e36a-4761-8980-665d6e331cc6"
   ]
 }
