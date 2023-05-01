@@ -2,13 +2,178 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "38762309-a662-40a1-8206-7add39064272": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16714814357756__38762309-a662-40a1-8206-7add39064272-1682975474ee65e84c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "How to get a Florida Real State License",
+            "heading_size": "h1"
+          }
+        },
+        "template--16714814357756__38762309-a662-40a1-8206-7add39064272-1682975474ee65e84c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Start your real state career today!<\/p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714814357756__38762309-a662-40a1-8206-7add39064272-1682975474ee65e84c-0",
+        "template--16714814357756__38762309-a662-40a1-8206-7add39064272-1682975474ee65e84c-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/download_cb55f624-6a8e-47a4-98bd-041748340b17.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "5a84e523-f81b-4c2b-aaf0-14711abc974a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16714814357756__5a84e523-f81b-4c2b-aaf0-14711abc974a-168297579912adcd86-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Requirements",
+            "heading_size": "h1"
+          }
+        },
+        "template--16714814357756__5a84e523-f81b-4c2b-aaf0-14711abc974a-168297579912adcd86-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>✓ <\/strong>Complete Pre-Licensing Course<\/p><p><strong>✓ <\/strong>18 Years or Older<\/p><p><strong>✓ <\/strong>High School Diploma or Equivalent*<\/p><p><strong>✓ <\/strong><a href=\"https:\/\/www.ssa.gov\/forms\/ss-5.pdf\" title=\"Apply for US Social Security Number\">US Social Security Number<\/a>**<\/p><p><strong>✓ <\/strong><a href=\"https:\/\/fingerprintsbylivescan.com\/products\/real-estate-fingerprinting-kit\" target=\"_blank\" title=\"Real Estate License Fingerprinting\">Fingerprinting<\/a> (Before Application)<\/p><p><strong>✓ <\/strong><a href=\"https:\/\/www.myfloridalicense.com\/CheckListDetail.asp?SID=&xactCode=1010&clientCode=2501&XACT_DEFN_ID=744\" target=\"_blank\" title=\"FL Real Estate Licnense Application - Department of Business & Professional Regulation\">FL Real Estate License Application<\/a><\/p><p><strong>✓ <\/strong>Pass Course Exam (70%)<\/p><p><strong>✓ <\/strong>Pass State Exam (75%)<\/p><p><em>* Any Equivalency - Yes or No on State Application<br\/>** US Citizenship & Florida Residency are NOT Required. <br\/>(<\/em><a href=\"https:\/\/www.ssa.gov\/forms\/ss-5.pdf\"><em>Apply for US Social Security Number<\/em><\/a><em>)<\/em><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714814357756__5a84e523-f81b-4c2b-aaf0-14711abc974a-168297579912adcd86-0",
+        "template--16714814357756__5a84e523-f81b-4c2b-aaf0-14711abc974a-168297579912adcd86-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/download_1_ee4c769c-36e6-459c-9165-fd509e7de2bf.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "de77b70d-7caf-4c8c-b605-d1e9c2c667af": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16714814357756__de77b70d-7caf-4c8c-b605-d1e9c2c667af-16829758858ab77829-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_2_a1f1c7c1-f158-4381-b7d5-a67e8cd0e2ab.webp",
+            "icon": "",
+            "title": "Unlimited Income Potential",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "7a6c8c67-bb34-4e76-87af-ad8b5bda005f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_3.webp",
+            "icon": "",
+            "title": "Be your own boss",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "e0f8beaf-df5f-4255-87ca-e065aa93c201": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_4.webp",
+            "icon": "",
+            "title": "Schedule flexibility",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "ad9ebb24-3550-40c1-bb6f-e81f2d76e86f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_5.webp",
+            "icon": "",
+            "title": "Investment opportunities",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "2b20e498-c28c-49a4-8258-4ce080a970fa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_6.webp",
+            "icon": "",
+            "title": "Full time or part time",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714814357756__de77b70d-7caf-4c8c-b605-d1e9c2c667af-16829758858ab77829-0",
+        "7a6c8c67-bb34-4e76-87af-ad8b5bda005f",
+        "e0f8beaf-df5f-4255-87ca-e065aa93c201",
+        "ad9ebb24-3550-40c1-bb6f-e81f2d76e86f",
+        "2b20e498-c28c-49a4-8258-4ce080a970fa"
+      ],
+      "settings": {
+        "title": "A career in real estate",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "38762309-a662-40a1-8206-7add39064272",
+    "5a84e523-f81b-4c2b-aaf0-14711abc974a",
+    "de77b70d-7caf-4c8c-b605-d1e9c2c667af"
   ]
 }
