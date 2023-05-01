@@ -1,5 +1,44 @@
 {
   "sections": {
+    "cf50bd67-2243-45e8-8bd9-e2c75dfef6b6": {
+      "type": "rich-text",
+      "blocks": {
+        "975b92a8-ff94-4656-9dcf-f401f1bfa555": {
+          "type": "caption",
+          "settings": {
+            "caption": "How to Get Your Real Estate License in Florida Without Being Misled by Incorrect Information.",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--16712638890236__cf50bd67-2243-45e8-8bd9-e2c75dfef6b6-1682980290d5739721-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "REAL ESTATE LICENSING GUIDE FORSALES ASSOCIATES",
+            "heading_size": "h1"
+          }
+        },
+        "template--16712638890236__cf50bd67-2243-45e8-8bd9-e2c75dfef6b6-1682980290d5739721-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>100% Online Course on How to Become a Real Estate Agent in Florida.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "975b92a8-ff94-4656-9dcf-f401f1bfa555",
+        "template--16712638890236__cf50bd67-2243-45e8-8bd9-e2c75dfef6b6-1682980290d5739721-0",
+        "template--16712638890236__cf50bd67-2243-45e8-8bd9-e2c75dfef6b6-1682980290d5739721-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -625,6 +664,7 @@
     }
   },
   "order": [
+    "cf50bd67-2243-45e8-8bd9-e2c75dfef6b6",
     "main",
     "e791962f-c569-4969-ab37-901e8108313d",
     "63ae9922-8628-48c2-8dea-60f718fe5f2c",
