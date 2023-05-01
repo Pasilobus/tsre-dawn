@@ -327,6 +327,42 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "c29574fa-556f-47b4-bd06-2c7ddf7c0437": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16714837590268__c29574fa-556f-47b4-bd06-2c7ddf7c0437-1682983213062b9e96-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_1b99d828-e783-4554-b488-3c6b74d4490e.webp",
+            "icon": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714837590268__c29574fa-556f-47b4-bd06-2c7ddf7c0437-1682983213062b9e96-0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Get the limited offer guide!",
+        "button_link": "shopify:\/\/products\/real-estate-licensing-guide-for-sales-associates",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -337,6 +373,7 @@
     "f9ac8695-4266-4c5a-969a-73084eade605",
     "66a36b87-c25a-4f4b-900b-0fdfe26d7f16",
     "4db65423-3982-4037-944f-2e38c3e8b322",
-    "d8aefc82-e36a-4761-8980-665d6e331cc6"
+    "d8aefc82-e36a-4761-8980-665d6e331cc6",
+    "c29574fa-556f-47b4-bd06-2c7ddf7c0437"
   ]
 }
