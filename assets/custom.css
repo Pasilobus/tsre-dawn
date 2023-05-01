@@ -12,15 +12,13 @@ h1, h2, h3, h4, h5, h6,
   list-style: outside;
 }
 
-.button--primary {
-  --color-button: var(--color-base-accent-2);
-  --color-button-text: var(--color-base-text);
-  
+.button {
   text-transform: uppercase;
 }
 
-.button--primary::after {
-  content: none;
+.button--primary {
+  --color-button: var(--color-base-accent-2);
+  --color-button-text: var(--color-base-text);
 }
 
 .button[data-ribbon] {
