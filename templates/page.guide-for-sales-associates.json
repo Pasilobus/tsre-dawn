@@ -322,7 +322,7 @@
     "d8aefc82-e36a-4761-8980-665d6e331cc6": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "",
+        "custom_liquid": "<script defer async src=\"https:\/\/cdn.trustindex.io\/loader.js?8824a1512a428172f3664d8cda4\"><\/script>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
