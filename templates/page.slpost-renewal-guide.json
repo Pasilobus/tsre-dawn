@@ -2,13 +2,390 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "3952433b-161c-45fb-add4-2aee2a6bec2e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16714870161660__3952433b-161c-45fb-add4-2aee2a6bec2e-1682983121c9e42f58-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Step-by-step guide to sales associate",
+            "heading_size": "h1"
+          }
+        },
+        "13e4b314-6561-4988-815b-2eb22ceb2fb3": {
+          "type": "heading",
+          "settings": {
+            "heading": "post licensing renewal",
+            "heading_size": "h1"
+          }
+        },
+        "f9600351-36d2-4a79-9a14-7765cf21fd54": {
+          "type": "caption",
+          "settings": {
+            "caption": "With Our Complete Guide For Florida 45 Hour Post Licensing Course for Real Estate Sales Associates.",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__3952433b-161c-45fb-add4-2aee2a6bec2e-1682983121c9e42f58-0",
+        "13e4b314-6561-4988-815b-2eb22ceb2fb3",
+        "f9600351-36d2-4a79-9a14-7765cf21fd54"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "30a46a07-42ae-434c-abb8-39a15c55cee8": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/youtu.be\/vax61uLL-nk",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "accent-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "69d2b457-24c9-4c02-ba2f-434e73ca8fba": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-0": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "2,000+",
+            "text": "<p>5 Star Reviews<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-1": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "25,000+",
+            "text": "<p>Trusted by 25K+ Past Students<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-0",
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9e81a78f-4044-4425-af02-99f4acd12a79": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your Florida Real Estate License Renewal Is More Accessible Than Most Think",
+            "heading_size": "h2"
+          }
+        },
+        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With the recent surge of real estate course providers and curriculums, finding a school that will best fit your needs can be a confusing process.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-0",
+        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "17d48368-71e1-4e96-b00d-431a8b63a632": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16714870161660__17d48368-71e1-4e96-b00d-431a8b63a632-16830390201a7a9c91-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✓ Learn Usable Business Information<\/p><p>✓ Grow Your Business Knowledge<\/p><p>✓  Better Understand Everyday Contracts<\/p><p>✓ Plan Your Real Estate Business<\/p><p>✓ Increase Your Real Estate Knowledge<\/p><p>✓ Take Your Business to the Next Level<\/p><p>✓ Meets FREC 45 Hour Requirement<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__17d48368-71e1-4e96-b00d-431a8b63a632-16830390201a7a9c91-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/download_0cddc292-b722-4fa4-af62-23a043a161cf.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d717de3f-b891-4f60-b5cd-a28bcd944e09": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What Will You Learn in Our Post Licensing Course?",
+            "heading_size": "h1"
+          }
+        },
+        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Post Licensing course is designed to help you advance your career while meeting the FREC requirements.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-0",
+        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16714870161660__0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5-1682983213062b9e96-0": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "<strong>You will Learn:<\/strong>",
+            "text": "<p>✓ Start a Florida Real Estate Career<\/p><p>✓ Business Planning<\/p><p>✓ Time Management<\/p><p>✓ Farming (Advertising)<\/p><p>✓ Prospecting for Listings<\/p><p>✓ Pricing Property to Sell<\/p><p>✓ Listing Presentations<\/p><p>✓ Presenting Offers<\/p><p>✓ And Even More Real World Topics!<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "template--16714870161660__0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5-1682983213062b9e96-1": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "Plus:",
+            "text": "<p>✓ State Certified Florida Real Estate Instructor Support<\/p><p>✓ Start a Florida Real Estate Career<\/p><p>✓ FREC Certified Instructors<\/p><p>✓ Florida Specific Expertise<\/p><p>✓ Available via Phone or Email<\/p><p>✓ 1-Year of Instructor Support<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5-1682983213062b9e96-0",
+        "template--16714870161660__0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5-1682983213062b9e96-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1b0aa6c4-64c0-4aee-9c1a-ab98554b3172": {
+      "type": "image-with-text",
+      "blocks": {
+        "88aa3b35-467f-4e90-84e1-e8b407a0d44c": {
+          "type": "heading",
+          "settings": {
+            "heading": "When do I need 45-Hour Post Licensing?",
+            "heading_size": "h2"
+          }
+        },
+        "535af5d8-497d-4554-a1c4-a8dd1b2daa4c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✓ Recommended As Soon As Licensed<\/p><p>✓ How to Make Money in Real Estate<\/p><p>✓ Learn Early & Avoid Mistakes<\/p><p>✓ Required by 1st Renewal Deadline<\/p><p>✓  Null & Void if Deadline Missed<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "88aa3b35-467f-4e90-84e1-e8b407a0d44c",
+        "535af5d8-497d-4554-a1c4-a8dd1b2daa4c"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/download_1_c763bf9c-905f-4349-8bbe-467312a558ab.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f818b4e0-9f64-4235-88bf-782b075813f2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Completing Your Florida Post-licensing Requirement Can Be Easy!",
+            "heading_size": "h1"
+          }
+        },
+        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Step 1: Complete FREC Required Post Licensing Course<br\/><\/h2><p>Active or inactive, you're required to complete post-licensing by your first renewal deadline (18-24 months from licensure). Failure to complete the FREC required Post Licensing course by midnight of your expiration will cause your license to become NULL & VOID!<\/p><h2>Step 2: Pass End of Course Exam<br\/><\/h2><p>There is no state exam required for the Post Licensing course. However, you must successfully pass the end-of-course exam with a 75% or higher.<\/p><p>Once you pass the end-of-course exam, we will file your completion with the Florida DBPR. It may take up to 72 hours for completed hours to show in your DBPR portal. Please contact us if your hours are not showing after 72 hours.<\/p><h2>Step 3: Pay Your State Renewal Fee<br\/><\/h2><p>The final step of your license renewal is to pay your renewal fee. The fee is currently $64 to renew your license and can be completed through your online account on the DBPR Website.<\/p><p><strong>Maintain your real estate license and better understand how to practice real estate legally and ethically!<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-0",
+        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "2b83fb1f-3d38-419a-8908-78b59879fdab": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16714870161660__2b83fb1f-3d38-419a-8908-78b59879fdab-1682983213062b9e96-0": {
+          "type": "column",
+          "settings": {
+            "icon": "quote",
+            "title": "I had an absolutely amazing experience",
+            "text": "<p>I feel so prepared for the State exam now! I recommend Tampa School of Real Estate to anyone who wants to pursue their license.<\/p><p><strong>– Robert Williams<\/strong><\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "template--16714870161660__2b83fb1f-3d38-419a-8908-78b59879fdab-1682983213062b9e96-1": {
+          "type": "column",
+          "settings": {
+            "icon": "quote",
+            "title": "Passed my exam today!",
+            "text": "<p>The instructor kept the material interesting and easy to understand. I also purchased the online question simulator and I highly recommend it.<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "template--16714870161660__2b83fb1f-3d38-419a-8908-78b59879fdab-1682983213062b9e96-2": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__2b83fb1f-3d38-419a-8908-78b59879fdab-1682983213062b9e96-0",
+        "template--16714870161660__2b83fb1f-3d38-419a-8908-78b59879fdab-1682983213062b9e96-1",
+        "template--16714870161660__2b83fb1f-3d38-419a-8908-78b59879fdab-1682983213062b9e96-2"
+      ],
+      "settings": {
+        "title": "See what our past students have to say",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "alternate",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "3952433b-161c-45fb-add4-2aee2a6bec2e",
+    "30a46a07-42ae-434c-abb8-39a15c55cee8",
+    "69d2b457-24c9-4c02-ba2f-434e73ca8fba",
+    "9e81a78f-4044-4425-af02-99f4acd12a79",
+    "17d48368-71e1-4e96-b00d-431a8b63a632",
+    "d717de3f-b891-4f60-b5cd-a28bcd944e09",
+    "0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5",
+    "1b0aa6c4-64c0-4aee-9c1a-ab98554b3172",
+    "f818b4e0-9f64-4235-88bf-782b075813f2",
+    "2b83fb1f-3d38-419a-8908-78b59879fdab"
   ]
 }
