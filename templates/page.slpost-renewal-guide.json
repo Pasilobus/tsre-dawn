@@ -315,63 +315,116 @@
         "padding_bottom": 52
       }
     },
-    "2b83fb1f-3d38-419a-8908-78b59879fdab": {
-      "type": "multicolumn",
+    "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb": {
+      "type": "rich-text",
       "blocks": {
-        "template--16714870161660__2b83fb1f-3d38-419a-8908-78b59879fdab-1682983213062b9e96-0": {
-          "type": "column",
+        "b6e581ef-32c1-431e-9f87-18d189bbd46d": {
+          "type": "heading",
           "settings": {
-            "icon": "quote",
-            "title": "I had an absolutely amazing experience",
-            "text": "<p>I feel so prepared for the State exam now! I recommend Tampa School of Real Estate to anyone who wants to pursue their license.<\/p><p><strong>– Robert Williams<\/strong><\/p>",
-            "link_label": "",
-            "link": "",
-            "link_style": "primary"
-          }
-        },
-        "template--16714870161660__2b83fb1f-3d38-419a-8908-78b59879fdab-1682983213062b9e96-1": {
-          "type": "column",
-          "settings": {
-            "icon": "quote",
-            "title": "Passed my exam today!",
-            "text": "<p>The instructor kept the material interesting and easy to understand. I also purchased the online question simulator and I highly recommend it.<\/p>",
-            "link_label": "",
-            "link": "",
-            "link_style": "primary"
-          }
-        },
-        "template--16714870161660__2b83fb1f-3d38-419a-8908-78b59879fdab-1682983213062b9e96-2": {
-          "type": "column",
-          "settings": {
-            "icon": "",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": "",
-            "link_style": "primary"
+            "heading": "See what our past students have to say",
+            "heading_size": "h1"
           }
         }
       },
       "block_order": [
-        "template--16714870161660__2b83fb1f-3d38-419a-8908-78b59879fdab-1682983213062b9e96-0",
-        "template--16714870161660__2b83fb1f-3d38-419a-8908-78b59879fdab-1682983213062b9e96-1",
-        "template--16714870161660__2b83fb1f-3d38-419a-8908-78b59879fdab-1682983213062b9e96-2"
+        "b6e581ef-32c1-431e-9f87-18d189bbd46d"
       ],
       "settings": {
-        "title": "See what our past students have to say",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "alternate",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_2_0f0688c8-8c56-4022-adee-2b3ec03a21be.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_3_8f92c16e-4f85-46cc-aebb-bd266fdcc0b8.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "50046425-cda1-4c50-9de0-1b17302ec03d": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_4_d775dfd6-863f-41a9-b658-6ddb43862c06.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-0",
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-1",
+        "50046425-cda1-4c50-9de0-1b17302ec03d"
+      ],
+      "custom_css": [
+        ".media {background: transparent;}",
+        ".media > img {object-fit: contain;}"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "00a63c68-9f60-46e6-8b52-68edd97d9e6d": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     }
   },
@@ -386,6 +439,8 @@
     "0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5",
     "1b0aa6c4-64c0-4aee-9c1a-ab98554b3172",
     "f818b4e0-9f64-4235-88bf-782b075813f2",
-    "2b83fb1f-3d38-419a-8908-78b59879fdab"
+    "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb",
+    "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7",
+    "00a63c68-9f60-46e6-8b52-68edd97d9e6d"
   ]
 }
