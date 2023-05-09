@@ -207,6 +207,94 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "5387481c-839b-49cf-8e23-92570e7e65e2": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16719048114428__5387481c-839b-49cf-8e23-92570e7e65e2-168366919085f596b6-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Shop Pay Installments elegibility",
+            "icon": "none",
+            "row_content": "<p>When choosing Shop Pay Installments, the following limitations apply:<\/p><ul><li>You can't pay for an order if the order includes currency in any form, including virtual and digital currency, like gift cards.<\/li><li>Orders need to be between 50 USD and 17,500 USD, including shipping and taxes.<\/li><li>If you change your Shop Pay phone number, then you also need to update your phone number with Affirm before you can pay for another purchase using Shop Pay Installments.<\/li><li>Shop Pay Installments doesn't accept Capital One cards, prepaid debit cards, or prepaid credit cards.<\/li><li>If you split your order into four bi-weekly payments, then you can pay with a credit card or debit card.<\/li><li>If you pay for your order in monthly payments, then you can only pay with a debit card.<\/li><\/ul><p>To use Shop Pay Installments, you need to have a United States billing address, and be signed up for Shop Pay. For physical products that require shipping, a US shipping address must be provided. If your cart only has digital products, then a US shipping address isn't required.<\/p>",
+            "page": ""
+          }
+        },
+        "template--16719048114428__5387481c-839b-49cf-8e23-92570e7e65e2-168366919085f596b6-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Shop Pay Installments overview",
+            "icon": "none",
+            "row_content": "<p>Shop Pay gives you the option to pay in full at checkout, or to pay for your order over time. When available, Shop Pay Installments is a great option to help you maximize your budget for orders between 50 USD and 17,500 USD.Depending on your purchase amount, there are two ways that you can pay for your order in installments.<\/p><ul><li>For orders between 50 USD to 999.99 USD, you can split your purchase into four bi-weekly, interest-free installment payments. There are no additional charges, interest rates, or late fees for this option, and your credit score isn't affected.<\/li><li>For orders between 150 USD to 17,500 USD, you can split your purchase into monthly installment payments. While there are no late fees for monthly installment payments, your order is subject to interest fees. Your credit score isn't affected when you apply, but it can change if you don't make your payments on time.<\/li><\/ul><p>After you make your first payment at checkout, you'll be charged either biweekly or monthly, depending on the installment payment option you chose. You'll be reminded by email and SMS text (if applicable) before each payment is charged to your card. You can also <a href=\"https:\/\/help.shop.app\/hc\/en-us\/articles\/4406646481812\" target=\"_blank\">turn on push notifications in the Shop app<\/a> to be reminded. However, you can't customize your payment schedule.<\/p>",
+            "page": ""
+          }
+        },
+        "template--16719048114428__5387481c-839b-49cf-8e23-92570e7e65e2-168366919085f596b6-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Manage your automatic payment settings",
+            "icon": "none",
+            "row_content": "<p>After your first payment, Shop Pay automatically charges your method of payment for installment payments going forward, either bi-weekly, or monthly.<\/p><h5>Change your automatic payment (autopay) method for an existing Shop Pay Installments order<\/h5><p>You can change your automatic payment method on a Shop Pay Installments order while it's in repayment. However, you can't use Capital One cards or prepaid debit cards as a payment method. If you've opted into monthly payments, then you can only pay with a debit card.<\/p><p>Going forward, the new payment method will be used for payments on this order. If you want to update your payment method or multiple Shop Pay Installments orders, then you need to change your automatic payment method for each order.<\/p><h5>Change your automatic payment method in the Shop app<\/h5><ol><li>From the Home tab in the Shop app, tap the order that you want to change the payment method for.<\/li><li>Tap View Installments, and then tap Manage.<\/li><li>Select the new payment method that you want to use. If you need to add a new payment method, then tap Add card, and complete the required fields.<\/li><\/ol><h5>Change your automatic payment method on a web browser<\/h5><ol><li>Sign into your <a href=\"https:\/\/shop.app\/pay\/authentication\/login\" target=\"_blank\">Shop Pay account<\/a>.<\/li><li>In the overflow menu in the top right corner, click Orders.<\/li><li>Select the order that you want to update your payment method for.<\/li><li>In the Automatic payments section, click Edit.<\/li><li>Select a payment method from the drop-down menu, or use a different card.<\/li><li>Click Update.<\/li><li>Click Continue.<\/li><\/ol>",
+            "page": ""
+          }
+        },
+        "template--16719048114428__5387481c-839b-49cf-8e23-92570e7e65e2-168366919085f596b6-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Make a manual installments payment for your order",
+            "icon": "none",
+            "row_content": "<p>If you want to make an early payment, late payment, or pay off your remaining balance on an order, then you can do it manually.<\/p><p>There are no penalties for making an early installment payment. For interest-bearing loans, you can save on interest fees when you pay off the remaining balance early. However, while there are no late fees, late payments might affect your eligibility to pay for orders with Shop Pay Installments in the future.<\/p><h5>Make a manual payment in the Shop app<\/h5><ol><li>In the <strong>Home<\/strong> tab of the Shop app, tap the order you want to pay.<\/li><li>Tap <strong>View Installment<\/strong>s, and then tap<strong> Make payment<\/strong>.<\/li><li>Select an option in the <strong>Make payment<\/strong> section.<br\/>: If you type a custom amount, then it needs to be more than one dollar and less than or equal to the total remaining amount.<\/li><li>In the <strong>Card<\/strong> section, select the card you want to pay with.<\/li><li>Tap <strong>Pay now<\/strong>, and then tap <strong>Continue<\/strong>.<\/li><\/ol><h5>Make a manual payment on a web browser<\/h5><ol><li>Sign in to your <a href=\"https:\/\/shop.app\/pay\/authentication\/login\" target=\"_blank\">Shop Pay account.<\/a><\/li><li>In the overflow menu in the top right corner, click <strong>Orders<\/strong>.<\/li><li>Click the order that you want to pay.<\/li><li>Click <strong>Make payment<\/strong>.<\/li><li>Select an option in the <strong>Amount to pay<\/strong> section.<br\/>: If you type a custom amount, then it needs to be more than one dollar and less than or equal to the total remaining amount.<\/li><li>In the <strong>Card<\/strong> section, use the drop-down arrow to select your preferred payment method.<\/li><li>Click <strong>Pay now<\/strong>.<\/li><li>Click <strong>Continue<\/strong>.<\/li><\/ol>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16719048114428__5387481c-839b-49cf-8e23-92570e7e65e2-168366919085f596b6-0",
+        "template--16719048114428__5387481c-839b-49cf-8e23-92570e7e65e2-168366919085f596b6-1",
+        "template--16719048114428__5387481c-839b-49cf-8e23-92570e7e65e2-168366919085f596b6-2",
+        "template--16719048114428__5387481c-839b-49cf-8e23-92570e7e65e2-168366919085f596b6-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "accent-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f76e3d4f-c70a-446c-9532-1bec7452e418": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16719048114428__f76e3d4f-c70a-446c-9532-1bec7452e418-16836671906ff9e0c1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find out more about Shop Pay Installments here",
+            "button_link": "https:\/\/help.shop.app\/hc\/en-us\/sections\/360013315752-Learn-about-Shop-Pay-Installments",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16719048114428__f76e3d4f-c70a-446c-9532-1bec7452e418-16836671906ff9e0c1-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -214,6 +302,8 @@
     "92867fc5-424f-400c-aa9c-9b1fef42e660",
     "c21bcc16-76ea-4820-8cf5-8d165256c610",
     "9b9e0f19-8a86-4c39-81bd-756ba25a8b5b",
-    "89e3bd13-6aa7-42d2-badd-3c96d9809157"
+    "89e3bd13-6aa7-42d2-badd-3c96d9809157",
+    "5387481c-839b-49cf-8e23-92570e7e65e2",
+    "f76e3d4f-c70a-446c-9532-1bec7452e418"
   ]
 }
