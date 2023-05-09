@@ -96,11 +96,124 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "9b9e0f19-8a86-4c39-81bd-756ba25a8b5b": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16719048114428__9b9e0f19-8a86-4c39-81bd-756ba25a8b5b-16836673196b875b48-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_2_5fb0bf6c-874d-4ab0-b137-ace13d9f09b8.webp",
+            "icon": "",
+            "title": "Shop at Tampa School of Real Estate",
+            "text": "<p>Choose from our array of courses that will surely propel your path to build your real estate empire.<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "template--16719048114428__9b9e0f19-8a86-4c39-81bd-756ba25a8b5b-16836673196b875b48-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_3_9ac5310f-c3cc-4c07-ad0a-96d1de82e55b.webp",
+            "icon": "",
+            "title": "Choose how you pay",
+            "text": "<p>Shop Pay gives you the option to pay in full at checkout, or to pay for your order over time.<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "template--16719048114428__9b9e0f19-8a86-4c39-81bd-756ba25a8b5b-16836673196b875b48-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_4_ea0ea67e-9d08-4a40-88c8-761723171d2a.webp",
+            "icon": "",
+            "title": "Place your order",
+            "text": "<p>After you make your first payment at checkout, you'll be charged either biweekly or monthly, depending on the installment payment option you chose.<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16719048114428__9b9e0f19-8a86-4c39-81bd-756ba25a8b5b-16836673196b875b48-0",
+        "template--16719048114428__9b9e0f19-8a86-4c39-81bd-756ba25a8b5b-16836673196b875b48-1",
+        "template--16719048114428__9b9e0f19-8a86-4c39-81bd-756ba25a8b5b-16836673196b875b48-2"
+      ],
+      "settings": {
+        "title": "How does it work?",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "89e3bd13-6aa7-42d2-badd-3c96d9809157": {
+      "type": "image-with-text",
+      "blocks": {
+        "1fc2c973-912a-460e-9caf-9de2ecd9e616": {
+          "type": "caption",
+          "settings": {
+            "caption": "A brand new way to shop",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16719048114428__89e3bd13-6aa7-42d2-badd-3c96d9809157-16836690233cf4330e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pay with Shop Pay",
+            "heading_size": "h2"
+          }
+        },
+        "template--16719048114428__89e3bd13-6aa7-42d2-badd-3c96d9809157-16836690233cf4330e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Shop Pay Installments is a flexible payment option that can help you invest in larger purchases up to 3000 USD by dividing your purchase amount into four equal, biweekly, and interest-free payments. There are no additional fees.<br\/><\/p><p>If you want to make an early payment, late payment, or pay off your remaining balance on an order, then you can do it manually.<\/p><p>There are no penalties for making an early installment payment. For interest-bearing loans, you can save on interest fees when you pay off the remaining balance early.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1fc2c973-912a-460e-9caf-9de2ecd9e616",
+        "template--16719048114428__89e3bd13-6aa7-42d2-badd-3c96d9809157-16836690233cf4330e-0",
+        "template--16719048114428__89e3bd13-6aa7-42d2-badd-3c96d9809157-16836690233cf4330e-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/download_5_93d5d321-1ad1-4633-b8c7-e622b12c58d6.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "92867fc5-424f-400c-aa9c-9b1fef42e660",
-    "c21bcc16-76ea-4820-8cf5-8d165256c610"
+    "c21bcc16-76ea-4820-8cf5-8d165256c610",
+    "9b9e0f19-8a86-4c39-81bd-756ba25a8b5b",
+    "89e3bd13-6aa7-42d2-badd-3c96d9809157"
   ]
 }
