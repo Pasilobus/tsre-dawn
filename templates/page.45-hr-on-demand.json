@@ -11,41 +11,138 @@
     "3952433b-161c-45fb-add4-2aee2a6bec2e": {
       "type": "rich-text",
       "blocks": {
-        "template--16714870161660__3952433b-161c-45fb-add4-2aee2a6bec2e-1682983121c9e42f58-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Step-by-step guide to sales associate",
-            "heading_size": "h1"
-          }
-        },
-        "13e4b314-6561-4988-815b-2eb22ceb2fb3": {
-          "type": "heading",
-          "settings": {
-            "heading": "post licensing renewal",
-            "heading_size": "h1"
-          }
-        },
         "f9600351-36d2-4a79-9a14-7765cf21fd54": {
           "type": "caption",
           "settings": {
-            "caption": "With Our Complete Guide For Florida 45 Hour Post Licensing Course for Real Estate Sales Associates.",
+            "caption": "Instructor-led On-demand FL Real Estate License Online",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
+          }
+        },
+        "template--16714870161660__3952433b-161c-45fb-add4-2aee2a6bec2e-1682983121c9e42f58-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "45-Hour Post License Course Online (Video based)",
+            "heading_size": "h1"
+          }
+        },
+        "babf7c0e-846b-4c56-98cb-bf1ea22b2a95": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Enroll now to secure the discount and launch your new career!<\/p>"
           }
         }
       },
       "block_order": [
+        "f9600351-36d2-4a79-9a14-7765cf21fd54",
         "template--16714870161660__3952433b-161c-45fb-add4-2aee2a6bec2e-1682983121c9e42f58-0",
-        "13e4b314-6561-4988-815b-2eb22ceb2fb3",
-        "f9600351-36d2-4a79-9a14-7765cf21fd54"
+        "babf7c0e-846b-4c56-98cb-bf1ea22b2a95"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "889404a3-018d-4fa6-bdf3-b55964bcdeb8": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16719100018940__889404a3-018d-4fa6-bdf3-b55964bcdeb8-16836713978fe608bb-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--16719100018940__889404a3-018d-4fa6-bdf3-b55964bcdeb8-16836713978fe608bb-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "518bc357-e001-4d03-b697-32b89f74fcb9": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>This course includes:<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "9d550b3d-be7f-463f-9918-b5a932da328c": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>✅ <\/strong>FL Sales Associate Textbook",
+            "text_style": "body"
+          }
+        },
+        "6b870f9c-c26c-47f9-84fe-60fe858dee42": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Short Easy To Follow Videos",
+            "text_style": "body"
+          }
+        },
+        "5f879945-5f94-44a2-b890-1a5abadb4220": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Quick Knowledge Checkpoints",
+            "text_style": "body"
+          }
+        },
+        "ebadac68-d759-4ab9-980e-7ffe37ca3380": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Practice Exam & Online Final",
+            "text_style": "body"
+          }
+        },
+        "a5190dc0-3449-4eaf-9cce-c8f61fbd489d": {
+          "type": "text",
+          "settings": {
+            "text": "✅ 100% Mobile Compatible",
+            "text_style": "body"
+          }
+        },
+        "be4dd48a-652e-4f88-b360-a2a0afc1404c": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Student Support Team",
+            "text_style": "body"
+          }
+        },
+        "927679d6-c13a-4eed-b256-f441e56cad44": {
+          "type": "text",
+          "settings": {
+            "text": "✅ 365 Days of Access",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16719100018940__889404a3-018d-4fa6-bdf3-b55964bcdeb8-16836713978fe608bb-2",
+        "template--16719100018940__889404a3-018d-4fa6-bdf3-b55964bcdeb8-16836713978fe608bb-5",
+        "518bc357-e001-4d03-b697-32b89f74fcb9",
+        "9d550b3d-be7f-463f-9918-b5a932da328c",
+        "6b870f9c-c26c-47f9-84fe-60fe858dee42",
+        "5f879945-5f94-44a2-b890-1a5abadb4220",
+        "ebadac68-d759-4ab9-980e-7ffe37ca3380",
+        "a5190dc0-3449-4eaf-9cce-c8f61fbd489d",
+        "be4dd48a-652e-4f88-b360-a2a0afc1404c",
+        "927679d6-c13a-4eed-b256-f441e56cad44"
+      ],
+      "settings": {
+        "product": "video-fl-45-hour-post-license-course",
+        "color_scheme": "accent-1",
+        "secondary_background": true,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "cover",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "30a46a07-42ae-434c-abb8-39a15c55cee8": {
@@ -415,22 +512,12 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
-    },
-    "00a63c68-9f60-46e6-8b52-68edd97d9e6d": {
-      "type": "rich-text",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
     }
   },
   "order": [
     "main",
     "3952433b-161c-45fb-add4-2aee2a6bec2e",
+    "889404a3-018d-4fa6-bdf3-b55964bcdeb8",
     "30a46a07-42ae-434c-abb8-39a15c55cee8",
     "69d2b457-24c9-4c02-ba2f-434e73ca8fba",
     "9e81a78f-4044-4425-af02-99f4acd12a79",
@@ -440,7 +527,6 @@
     "1b0aa6c4-64c0-4aee-9c1a-ab98554b3172",
     "f818b4e0-9f64-4235-88bf-782b075813f2",
     "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb",
-    "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7",
-    "00a63c68-9f60-46e6-8b52-68edd97d9e6d"
+    "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7"
   ]
 }
