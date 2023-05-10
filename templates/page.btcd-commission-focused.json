@@ -388,8 +388,8 @@
             "icon": "",
             "title": "",
             "text": "<p>Discover another way of putting your revenue line in a higher elevation with ZERO knowledge, ZERO risk, and ZERO boss with this FREE PDF.<\/p>",
-            "link_label": "",
-            "link": "",
+            "link_label": "Download my copy today!",
+            "link": "shopify:\/\/pages\/beyond-the-closed-deals-commission-focused",
             "link_style": "primary"
           }
         }
@@ -405,8 +405,8 @@
         "columns_desktop": 1,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Download my copy today!",
-        "button_link": "shopify:\/\/pages\/beyond-the-closed-deals-commission-focused",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "accent-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
