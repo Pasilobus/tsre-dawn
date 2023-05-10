@@ -316,6 +316,15 @@
         "padding_bottom": 0
       }
     },
+    "26ebadea-61b3-47fc-a1f4-ae9d1c471e19": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script defer async src=\"https:\/\/cdn.trustindex.io\/loader.js?8824a1512a428172f3664d8cda4\"><\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "17d48368-71e1-4e96-b00d-431a8b63a632": {
       "type": "image-with-text",
       "blocks": {
@@ -471,6 +480,7 @@
     "f818b4e0-9f64-4235-88bf-782b075813f2",
     "69d2b457-24c9-4c02-ba2f-434e73ca8fba",
     "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb",
+    "26ebadea-61b3-47fc-a1f4-ae9d1c471e19",
     "17d48368-71e1-4e96-b00d-431a8b63a632",
     "d717de3f-b891-4f60-b5cd-a28bcd944e09",
     "0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5",
