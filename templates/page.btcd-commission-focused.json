@@ -14,14 +14,14 @@
         "eadff49b-cbdc-4402-8938-5dad8992ee08": {
           "type": "heading",
           "settings": {
-            "heading": "Let's make real estate work for you",
+            "heading": "Achieve an Evergreen Income Stream Through Commissions",
             "heading_size": "h1"
           }
         },
         "template--16714870161660__17d48368-71e1-4e96-b00d-431a8b63a632-16830390201a7a9c91-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Squashing all the juicy bits of the real estate industry into one piece of reading material would be a tall order. Send me your email so you could download your FREE pdf copy and discover if real estate is right for you.<\/p>",
+            "text": "<p>Learn the math of estimating commissions for realtors like you with this FREE pdf- Beyond The Closed Deals.<\/p>",
             "text_style": "body"
           }
         }
@@ -101,14 +101,14 @@
         "13e4b314-6561-4988-815b-2eb22ceb2fb3": {
           "type": "heading",
           "settings": {
-            "heading": "Close Deals in 365 Days with Zero-Experience",
+            "heading": "Exponentially increase your income through commissions",
             "heading_size": "h1"
           }
         },
         "f4c21b1d-1d01-4d16-b085-d248a6bfbee1": {
           "type": "text",
           "settings": {
-            "text": "<p>Entering real estate without preparation can be hard. You may find yourself dealing with heated personalities or for the very least sense- get yourself dried up. Now, what if there’s a way for you to get yourself prepared, with all of your worries covered up. Presenting the Beyond the Closed Deals - Your Real Estate Beginner’s Guide.<\/p>"
+            "text": "<p>Commission is a source of angst for many real estate agents. When they are sitting at their computer, trying to figure out their commission, they don’t know how it’s calculated and they can’t be sure that the numbers they calculate are right.<\/p><p>In real estate, the commission represents 50%-75% of sales revenue. You make more money when you sell or buy a home or property.<\/p><p>Imagine if you would know how it is being calculated to strategize it as another financial stream.<\/p><p>Real Estate is a commission-based business, for example, currently, the average sale price in the Tampa Bay Area is about $458,000.<\/p><p>Commissions are negotiable, but for example at only 3% commission that's $13,740 in gross commission!<\/p><p><em>($13,470 Gross Commission x 70% Commission Split = $9,618 Payable to the Sales Associate )<\/em><\/p>"
           }
         }
       },
@@ -118,7 +118,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 40,
@@ -134,7 +134,7 @@
             "image": "shopify:\/\/shop_images\/download_9_2c373041-571a-4c16-beca-87971463e5ab.webp",
             "icon": "",
             "title": "",
-            "text": "<p>This 66-paged pdf contains different lessons to help you understand real estate even if you don’t know anything about it. You’ll uncover different topics that will give you a head start to your real estate career:<\/p>",
+            "text": "",
             "link_label": "",
             "link": "",
             "link_style": "primary"
@@ -161,85 +161,74 @@
         "padding_bottom": 0
       }
     },
-    "fd7555db-764f-4ef9-869c-8f2ec69609b4": {
-      "type": "multicolumn",
+    "8287f0de-899e-4307-996c-ff3374688b4c": {
+      "type": "rich-text",
       "blocks": {
-        "e15e703a-39bf-4629-a94b-74aa66aeb0f4": {
-          "type": "column",
+        "dc552384-b2a6-4800-a5a0-4d115d4926bf": {
+          "type": "text",
           "settings": {
-            "icon": "",
-            "title": "",
-            "text": "<p><strong>✓ <\/strong>Why Choose Real Estate?<\/p><p><strong>✓ <\/strong>Who Can Do It?<\/p><p><strong>✓ <\/strong>Passing the Exams<\/p><p><strong>✓ <\/strong>Getting Started in Real Estate<\/p>",
-            "link_label": "",
-            "link": "",
-            "link_style": "primary"
+            "text": "<p>According to the National Association of Realtors (NAR), the average realtor takes 24 hours of working time to get a buyer to the closing which is when the sales associate gets paid. When we divide $9,618 by 24 hours your gross earnings are $400 per hour!<\/p><p><strong>$9,618 ÷ 24 hour = $400.75 per hour<\/strong><\/p><p>If that blows your mind wait to hear this, the NAR also has found that the average Realtor takes only 8 hours of working time to close a seller!<\/p><p>The math for your commission would be the same, but if it only takes 8 hours of work, you're earning 3x as much per hour! When we divide $9,618 by 8 hours we get $1,200 per hour!<\/p><p><strong>$9,618 ÷ 8 = $1,202.25 per hour<\/strong><\/p><p>Now of course there are expenses to run your business, but now with so much in the cloud, it's never been easier to get started building your real estate empire.<\/p><p>If you want to master these commission systems and MORE for your career, download this BEYOND THE CLOSED DEALS PDF For FREE!<\/p>"
           }
         },
-        "b54dab32-a04c-459b-9fe8-5330baed96ed": {
-          "type": "column",
+        "d2fbea36-50b5-40b6-8105-d7ce1028054c": {
+          "type": "button",
           "settings": {
-            "icon": "",
-            "title": "",
-            "text": "<p><strong>✓ <\/strong>How to be Successful as an Agent<\/p><p><strong>✓ <\/strong>Becoming a Broker<\/p><p><strong>✓ <\/strong>Why Tampa School of Real Estate?<\/p>",
-            "link_label": "",
-            "link": "",
-            "link_style": "primary"
+            "button_label": "Download my copy today",
+            "button_link": "shopify:\/\/pages\/beyond-the-closed-deals-commission-focused",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "e15e703a-39bf-4629-a94b-74aa66aeb0f4",
-        "b54dab32-a04c-459b-9fe8-5330baed96ed"
+        "dc552384-b2a6-4800-a5a0-4d115d4926bf",
+        "d2fbea36-50b5-40b6-8105-d7ce1028054c"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
+        "desktop_content_position": "center",
+        "content_alignment": "left",
         "color_scheme": "background-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
-    "fb56c835-096f-4548-9c5b-d4895004b868": {
-      "type": "multicolumn",
+    "1b23f5f7-b2a4-4c4c-8e32-6d537f1aa393": {
+      "type": "image-with-text",
       "blocks": {
-        "2b9b5958-4123-40fd-a25a-b4b4b70c8ec9": {
-          "type": "column",
+        "template--16719143305468__1b23f5f7-b2a4-4c4c-8e32-6d537f1aa393-168369264817ddd21f-0": {
+          "type": "heading",
           "settings": {
-            "icon": "",
-            "title": "",
-            "text": "<p>Getting your feet wet in real estate can be frightening but having a guide work to lean on thickens your chances of succeeding in this new career of yours.<\/p>",
-            "link_label": "",
-            "link": "",
-            "link_style": "primary"
+            "heading": "About the author",
+            "heading_size": "h2"
+          }
+        },
+        "template--16719143305468__1b23f5f7-b2a4-4c4c-8e32-6d537f1aa393-168369264817ddd21f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Jon Carissimo’s extensive knowledge and experience in Tampa, Florida provides him a unique view of real estate market trends that he shares with his clients to help them make the best decisions for their needs and desires. A native resident of Tampa, Jon is the expert to help you with all your buying and selling needs in South Tampa, Downtown Tampa, Hyde Park and Seminole Heights.<\/p><p>Whether you’re a first time home buyer, looking for a new construction home, or want to add an investment property to your portfolio, Jon has the expertise necessary to assist his clients as they realize their real estate goals. As a Florida state certified real estate instructor, Jon deeply understands the dynamics of the Tampa real estate market and is an expert at educating his students and clients alike so they can make the best decisions for their needs.<\/p><p>Jon is the Tampa Bay area’s tech savvy agent who utilizes innovative Internet marketing and search techniques.<\/p>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "2b9b5958-4123-40fd-a25a-b4b4b70c8ec9"
+        "template--16719143305468__1b23f5f7-b2a4-4c4c-8e32-6d537f1aa393-168369264817ddd21f-0",
+        "template--16719143305468__1b23f5f7-b2a4-4c4c-8e32-6d537f1aa393-168369264817ddd21f-1"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "Send me my copy",
-        "button_link": "shopify:\/\/pages\/beyond-the-closed-deals",
-        "color_scheme": "background-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
+        "image": "shopify:\/\/shop_images\/download_10_11ce77db-e311-4bbc-a03a-2796b7d245fb.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -252,17 +241,10 @@
             "heading": "Get To Know The Ins And Outs",
             "heading_size": "h1"
           }
-        },
-        "4c68efe7-ee4e-4598-8adc-561e16ae0075": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Entering real estate without preparation can be hard. You may find yourself dealing with heated personalities or for the very least sense- get yourself dried up. Now, what if there’s a way for you to get yourself prepared, with all of your worries covered up. Presenting the Beyond the Closed Deals - Your Real Estate Beginner’s Guide.<\/p>"
-          }
         }
       },
       "block_order": [
-        "332aae2b-97bb-4283-b2fc-1d3a5c41b42e",
-        "4c68efe7-ee4e-4598-8adc-561e16ae0075"
+        "332aae2b-97bb-4283-b2fc-1d3a5c41b42e"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -270,7 +252,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 28
       }
     },
     "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7": {
@@ -342,7 +324,7 @@
       ],
       "settings": {
         "layout": "grid",
-        "slide_height": "medium",
+        "slide_height": "small",
         "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
@@ -363,8 +345,8 @@
         "c3b9d5f8-d21c-4ef2-8447-a7ceda471cf9": {
           "type": "button",
           "settings": {
-            "button_label": "Send me my copy",
-            "button_link": "shopify:\/\/pages\/beyond-the-closed-deals",
+            "button_label": "Download your copy today!",
+            "button_link": "shopify:\/\/pages\/beyond-the-closed-deals-commission-focused",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -395,6 +377,42 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "64446a14-e6d5-486a-9e6f-aeb4a3266062": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16719143305468__64446a14-e6d5-486a-9e6f-aeb4a3266062-1683692771956ac78c-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_11_cfc1746f-e6ab-4005-9757-4bc88cb6bde3.webp",
+            "icon": "",
+            "title": "",
+            "text": "<p>Discover another way of putting your revenue line in a higher elevation with ZERO knowledge, ZERO risk, and ZERO boss with this FREE PDF.<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16719143305468__64446a14-e6d5-486a-9e6f-aeb4a3266062-1683692771956ac78c-0"
+      ],
+      "settings": {
+        "title": "Start getting commission today",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Download my copy today!",
+        "button_link": "shopify:\/\/pages\/beyond-the-closed-deals-commission-focused",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -403,11 +421,12 @@
     "69d2b457-24c9-4c02-ba2f-434e73ca8fba",
     "3952433b-161c-45fb-add4-2aee2a6bec2e",
     "0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5",
-    "fd7555db-764f-4ef9-869c-8f2ec69609b4",
-    "fb56c835-096f-4548-9c5b-d4895004b868",
+    "8287f0de-899e-4307-996c-ff3374688b4c",
+    "1b23f5f7-b2a4-4c4c-8e32-6d537f1aa393",
     "dfc0ea01-8b73-47de-991b-e72b6fe117db",
     "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7",
     "9e81a78f-4044-4425-af02-99f4acd12a79",
-    "00a63c68-9f60-46e6-8b52-68edd97d9e6d"
+    "00a63c68-9f60-46e6-8b52-68edd97d9e6d",
+    "64446a14-e6d5-486a-9e6f-aeb4a3266062"
   ]
 }
