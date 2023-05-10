@@ -365,13 +365,13 @@
       "type": "video",
       "settings": {
         "heading": "Meet your instructor: Jon Carissimo",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "enable_video_looping": false,
         "video_url": "https:\/\/vimeo.com\/726059613",
         "cover_image": "shopify:\/\/shop_images\/1461550954-f2a23f5e446b0111ab303832a4459f103657a349a35651bc421920b5e1fa839d-d.jpg",
         "description": "",
         "full_width": false,
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
