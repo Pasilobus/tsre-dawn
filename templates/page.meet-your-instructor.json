@@ -11,30 +11,21 @@
     "3952433b-161c-45fb-add4-2aee2a6bec2e": {
       "type": "rich-text",
       "blocks": {
-        "f9600351-36d2-4a79-9a14-7765cf21fd54": {
-          "type": "caption",
-          "settings": {
-            "caption": "Instructor-led On-demand FL Real Estate License Online",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        },
         "template--16714870161660__3952433b-161c-45fb-add4-2aee2a6bec2e-1682983121c9e42f58-0": {
           "type": "heading",
           "settings": {
-            "heading": "45-Hour Post License Course Online (Video based)",
+            "heading": "Meet John Carissimo",
             "heading_size": "h1"
           }
         },
         "babf7c0e-846b-4c56-98cb-bf1ea22b2a95": {
           "type": "text",
           "settings": {
-            "text": "<p>Enroll now to secure the discount and launch your new career!<\/p>"
+            "text": "<p>FREC Instructor & TSRE Director<\/p>"
           }
         }
       },
       "block_order": [
-        "f9600351-36d2-4a79-9a14-7765cf21fd54",
         "template--16714870161660__3952433b-161c-45fb-add4-2aee2a6bec2e-1682983121c9e42f58-0",
         "babf7c0e-846b-4c56-98cb-bf1ea22b2a95"
       ],
@@ -43,8 +34,23 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 52,
+        "padding_bottom": 0
+      }
+    },
+    "d6e03212-d60d-4c0a-9d40-237c801953c5": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/vimeo.com\/726059613",
+        "cover_image": "shopify:\/\/shop_images\/1461550954-f2a23f5e446b0111ab303832a4459f103657a349a35651bc421920b5e1fa839d-d.jpg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "889404a3-018d-4fa6-bdf3-b55964bcdeb8": {
@@ -361,21 +367,6 @@
         "padding_bottom": 36
       }
     },
-    "d6e03212-d60d-4c0a-9d40-237c801953c5": {
-      "type": "video",
-      "settings": {
-        "heading": "Meet your instructor: Jon Carissimo",
-        "heading_size": "h2",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/vimeo.com\/726059613",
-        "cover_image": "shopify:\/\/shop_images\/1461550954-f2a23f5e446b0111ab303832a4459f103657a349a35651bc421920b5e1fa839d-d.jpg",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "6cd79e97-9e45-49ff-898a-668826b6e10d": {
       "type": "rich-text",
       "blocks": {
@@ -468,6 +459,7 @@
   "order": [
     "main",
     "3952433b-161c-45fb-add4-2aee2a6bec2e",
+    "d6e03212-d60d-4c0a-9d40-237c801953c5",
     "889404a3-018d-4fa6-bdf3-b55964bcdeb8",
     "30a46a07-42ae-434c-abb8-39a15c55cee8",
     "f818b4e0-9f64-4235-88bf-782b075813f2",
@@ -475,7 +467,6 @@
     "69d2b457-24c9-4c02-ba2f-434e73ca8fba",
     "26ebadea-61b3-47fc-a1f4-ae9d1c471e19",
     "c29574fa-556f-47b4-bd06-2c7ddf7c0437",
-    "d6e03212-d60d-4c0a-9d40-237c801953c5",
     "6cd79e97-9e45-49ff-898a-668826b6e10d",
     "5387481c-839b-49cf-8e23-92570e7e65e2"
   ]
