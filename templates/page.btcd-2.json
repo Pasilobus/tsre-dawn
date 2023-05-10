@@ -1,0 +1,413 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "17d48368-71e1-4e96-b00d-431a8b63a632": {
+      "type": "image-with-text",
+      "blocks": {
+        "eadff49b-cbdc-4402-8938-5dad8992ee08": {
+          "type": "heading",
+          "settings": {
+            "heading": "Let's make real estate work for you",
+            "heading_size": "h1"
+          }
+        },
+        "template--16714870161660__17d48368-71e1-4e96-b00d-431a8b63a632-16830390201a7a9c91-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Squashing all the juicy bits of the real estate industry into one piece of reading material would be a tall order. Send me your email so you could download your FREE pdf copy and discover if real estate is right for you.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "eadff49b-cbdc-4402-8938-5dad8992ee08",
+        "template--16714870161660__17d48368-71e1-4e96-b00d-431a8b63a632-16830390201a7a9c91-1"
+      ],
+      "custom_css": [
+        ".image-with-text__media {z-index: 2;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/download_8.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "69d2b457-24c9-4c02-ba2f-434e73ca8fba": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-0": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "2,000+",
+            "text": "<p>5 Star Reviews<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-1": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "25,000+",
+            "text": "<p>Trusted by 25K+ Past Students<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-0",
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3952433b-161c-45fb-add4-2aee2a6bec2e": {
+      "type": "rich-text",
+      "blocks": {
+        "13e4b314-6561-4988-815b-2eb22ceb2fb3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Close Deals in 365 Days with Zero-Experience",
+            "heading_size": "h1"
+          }
+        },
+        "f4c21b1d-1d01-4d16-b085-d248a6bfbee1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Entering real estate without preparation can be hard. You may find yourself dealing with heated personalities or for the very least sense- get yourself dried up. Now, what if there’s a way for you to get yourself prepared, with all of your worries covered up. Presenting the Beyond the Closed Deals - Your Real Estate Beginner’s Guide.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "13e4b314-6561-4988-815b-2eb22ceb2fb3",
+        "f4c21b1d-1d01-4d16-b085-d248a6bfbee1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16714870161660__0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5-1682983213062b9e96-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_9_2c373041-571a-4c16-beca-87971463e5ab.webp",
+            "icon": "",
+            "title": "",
+            "text": "<p>This 66-paged pdf contains different lessons to help you understand real estate even if you don’t know anything about it. You’ll uncover different topics that will give you a head start to your real estate career:<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5-1682983213062b9e96-0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "fd7555db-764f-4ef9-869c-8f2ec69609b4": {
+      "type": "multicolumn",
+      "blocks": {
+        "e15e703a-39bf-4629-a94b-74aa66aeb0f4": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "",
+            "text": "<p><strong>✓ <\/strong>Why Choose Real Estate?<\/p><p><strong>✓ <\/strong>Who Can Do It?<\/p><p><strong>✓ <\/strong>Passing the Exams<\/p><p><strong>✓ <\/strong>Getting Started in Real Estate<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "b54dab32-a04c-459b-9fe8-5330baed96ed": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "",
+            "text": "<p><strong>✓ <\/strong>How to be Successful as an Agent<\/p><p><strong>✓ <\/strong>Becoming a Broker<\/p><p><strong>✓ <\/strong>Why Tampa School of Real Estate?<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "e15e703a-39bf-4629-a94b-74aa66aeb0f4",
+        "b54dab32-a04c-459b-9fe8-5330baed96ed"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "fb56c835-096f-4548-9c5b-d4895004b868": {
+      "type": "multicolumn",
+      "blocks": {
+        "2b9b5958-4123-40fd-a25a-b4b4b70c8ec9": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "",
+            "text": "<p>Getting your feet wet in real estate can be frightening but having a guide work to lean on thickens your chances of succeeding in this new career of yours.<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "2b9b5958-4123-40fd-a25a-b4b4b70c8ec9"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "Send me my copy",
+        "button_link": "shopify:\/\/pages\/beyond-the-closed-deals",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "dfc0ea01-8b73-47de-991b-e72b6fe117db": {
+      "type": "rich-text",
+      "blocks": {
+        "332aae2b-97bb-4283-b2fc-1d3a5c41b42e": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get To Know The Ins And Outs",
+            "heading_size": "h1"
+          }
+        },
+        "4c68efe7-ee4e-4598-8adc-561e16ae0075": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Entering real estate without preparation can be hard. You may find yourself dealing with heated personalities or for the very least sense- get yourself dried up. Now, what if there’s a way for you to get yourself prepared, with all of your worries covered up. Presenting the Beyond the Closed Deals - Your Real Estate Beginner’s Guide.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "332aae2b-97bb-4283-b2fc-1d3a5c41b42e",
+        "4c68efe7-ee4e-4598-8adc-561e16ae0075"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_2_0f0688c8-8c56-4022-adee-2b3ec03a21be.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_3_8f92c16e-4f85-46cc-aebb-bd266fdcc0b8.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "50046425-cda1-4c50-9de0-1b17302ec03d": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_4_d775dfd6-863f-41a9-b658-6ddb43862c06.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-0",
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-1",
+        "50046425-cda1-4c50-9de0-1b17302ec03d"
+      ],
+      "custom_css": [
+        ".media {background: transparent;}",
+        ".media > img {object-fit: contain;}"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "9e81a78f-4044-4425-af02-99f4acd12a79": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you are ready to step into the world of a successful real estate business, then download your copy of Beyond the Closed Deals - Your Real Estate Beginner’s Guide.<\/p>"
+          }
+        },
+        "c3b9d5f8-d21c-4ef2-8447-a7ceda471cf9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Send me my copy",
+            "button_link": "shopify:\/\/pages\/beyond-the-closed-deals",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-1",
+        "c3b9d5f8-d21c-4ef2-8447-a7ceda471cf9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "00a63c68-9f60-46e6-8b52-68edd97d9e6d": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "main",
+    "17d48368-71e1-4e96-b00d-431a8b63a632",
+    "69d2b457-24c9-4c02-ba2f-434e73ca8fba",
+    "3952433b-161c-45fb-add4-2aee2a6bec2e",
+    "0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5",
+    "fd7555db-764f-4ef9-869c-8f2ec69609b4",
+    "fb56c835-096f-4548-9c5b-d4895004b868",
+    "dfc0ea01-8b73-47de-991b-e72b6fe117db",
+    "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7",
+    "9e81a78f-4044-4425-af02-99f4acd12a79",
+    "00a63c68-9f60-46e6-8b52-68edd97d9e6d"
+  ]
+}
