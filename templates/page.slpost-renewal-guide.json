@@ -55,6 +55,7 @@
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https:\/\/youtu.be\/vax61uLL-nk",
+        "cover_image": "shopify:\/\/shop_images\/hqdefault.jpg",
         "description": "",
         "full_width": false,
         "color_scheme": "accent-1",
