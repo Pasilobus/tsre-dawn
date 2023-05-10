@@ -14,20 +14,28 @@
         "template--16719132688636__13613b9e-246e-4183-8537-80f7f348cb3e-168368531468a583be-0": {
           "type": "heading",
           "settings": {
-            "heading": "Tampa School of Real Estate Riverview",
+            "heading": "Tampa School of Real Estate",
+            "heading_size": "h1"
+          }
+        },
+        "4398480f-bf9d-4e3c-939a-5c7b437f15af": {
+          "type": "heading",
+          "settings": {
+            "heading": "Palm Harbor",
             "heading_size": "h1"
           }
         },
         "template--16719132688636__13613b9e-246e-4183-8537-80f7f348cb3e-168368531468a583be-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>10833 Park Dr, Riverview, FL 33569, United States<\/strong><\/p>",
+            "text": "<p><strong>32776 US Hwy 19 N, Palm Harbor, FL 34684, United States<\/strong><\/p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
         "template--16719132688636__13613b9e-246e-4183-8537-80f7f348cb3e-168368531468a583be-0",
+        "4398480f-bf9d-4e3c-939a-5c7b437f15af",
         "template--16719132688636__13613b9e-246e-4183-8537-80f7f348cb3e-168368531468a583be-1"
       ],
       "settings": {
