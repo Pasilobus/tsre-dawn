@@ -86,6 +86,10 @@
                   {{ block.settings.button_label | escape }}
                 </a>
               {%- endif -%}
+            {%- when 'custom_liquid' -%}
+              <div class="image-with-text__custom-liquid" {{ block.shopify_attributes }}>
+                {{ block.settings.custom_liquid }}
+              </div>
           {%- endcase -%}
         {%- endfor -%}
       </div>
@@ -449,6 +453,19 @@
           "type": "url",
           "id": "button_link",
           "label": "t:sections.image-with-text.blocks.button.settings.button_link.label"
+        }
+      ]
+    },
+    {
+      "type": "custom_liquid",
+      "name": "t:sections.custom-liquid.settings.custom_liquid.label",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "liquid",
+          "id": "custom_liquid",
+          "label": "t:sections.custom-liquid.settings.custom_liquid.label",
+          "info": "t:sections.custom-liquid.settings.custom_liquid.info"
         }
       ]
     }
