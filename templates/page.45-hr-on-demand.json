@@ -409,45 +409,55 @@
         "template--16719048114428__5387481c-839b-49cf-8e23-92570e7e65e2-168366919085f596b6-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Shop Pay Installments elegibility",
-            "icon": "none",
-            "row_content": "<p>When choosing Shop Pay Installments, the following limitations apply:<\/p><ul><li>You can't pay for an order if the order includes currency in any form, including virtual and digital currency, like gift cards.<\/li><li>Orders need to be between 50 USD and 17,500 USD, including shipping and taxes.<\/li><li>If you change your Shop Pay phone number, then you also need to update your phone number with Affirm before you can pay for another purchase using Shop Pay Installments.<\/li><li>Shop Pay Installments doesn't accept Capital One cards, prepaid debit cards, or prepaid credit cards.<\/li><li>If you split your order into four bi-weekly payments, then you can pay with a credit card or debit card.<\/li><li>If you pay for your order in monthly payments, then you can only pay with a debit card.<\/li><\/ul><p>To use Shop Pay Installments, you need to have a United States billing address, and be signed up for Shop Pay. For physical products that require shipping, a US shipping address must be provided. If your cart only has digital products, then a US shipping address isn't required.<\/p>",
+            "heading": "Is the exam in this course almost the same as the actual exam?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes, through our resources, you’ll be prepared to see what the actual exam looks like and how it is being formatted. The level of difficulty of the questions is also aligned with the ones you’ll be seeing on the exam.<\/p>",
             "page": ""
           }
         },
-        "template--16719048114428__5387481c-839b-49cf-8e23-92570e7e65e2-168366919085f596b6-1": {
+        "9f54d99f-b1e7-4439-ab26-345448866d85": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Shop Pay Installments overview",
-            "icon": "none",
-            "row_content": "<p>Shop Pay gives you the option to pay in full at checkout, or to pay for your order over time. When available, Shop Pay Installments is a great option to help you maximize your budget for orders between 50 USD and 17,500 USD.Depending on your purchase amount, there are two ways that you can pay for your order in installments.<\/p><ul><li>For orders between 50 USD to 999.99 USD, you can split your purchase into four bi-weekly, interest-free installment payments. There are no additional charges, interest rates, or late fees for this option, and your credit score isn't affected.<\/li><li>For orders between 150 USD to 17,500 USD, you can split your purchase into monthly installment payments. While there are no late fees for monthly installment payments, your order is subject to interest fees. Your credit score isn't affected when you apply, but it can change if you don't make your payments on time.<\/li><\/ul><p>After you make your first payment at checkout, you'll be charged either biweekly or monthly, depending on the installment payment option you chose. You'll be reminded by email and SMS text (if applicable) before each payment is charged to your card. You can also <a href=\"https:\/\/help.shop.app\/hc\/en-us\/articles\/4406646481812\" target=\"_blank\">turn on push notifications in the Shop app<\/a> to be reminded. However, you can't customize your payment schedule.<\/p>",
+            "heading": "How can I view my exam results?",
+            "icon": "question_mark",
+            "row_content": "<p>Your exam results are recorded when you take it. On your account page, you may get a list of all of your active exams.<\/p>",
             "page": ""
           }
         },
-        "template--16719048114428__5387481c-839b-49cf-8e23-92570e7e65e2-168366919085f596b6-2": {
+        "affc4828-cf5e-477c-96ec-8d0604317d6c": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Manage your automatic payment settings",
-            "icon": "none",
-            "row_content": "<p>After your first payment, Shop Pay automatically charges your method of payment for installment payments going forward, either bi-weekly, or monthly.<\/p><h5>Change your automatic payment (autopay) method for an existing Shop Pay Installments order<\/h5><p>You can change your automatic payment method on a Shop Pay Installments order while it's in repayment. However, you can't use Capital One cards or prepaid debit cards as a payment method. If you've opted into monthly payments, then you can only pay with a debit card.<\/p><p>Going forward, the new payment method will be used for payments on this order. If you want to update your payment method or multiple Shop Pay Installments orders, then you need to change your automatic payment method for each order.<\/p><h5>Change your automatic payment method in the Shop app<\/h5><ol><li>From the Home tab in the Shop app, tap the order that you want to change the payment method for.<\/li><li>Tap View Installments, and then tap Manage.<\/li><li>Select the new payment method that you want to use. If you need to add a new payment method, then tap Add card, and complete the required fields.<\/li><\/ol><h5>Change your automatic payment method on a web browser<\/h5><ol><li>Sign into your <a href=\"https:\/\/shop.app\/pay\/authentication\/login\" target=\"_blank\">Shop Pay account<\/a>.<\/li><li>In the overflow menu in the top right corner, click Orders.<\/li><li>Select the order that you want to update your payment method for.<\/li><li>In the Automatic payments section, click Edit.<\/li><li>Select a payment method from the drop-down menu, or use a different card.<\/li><li>Click Update.<\/li><li>Click Continue.<\/li><\/ol>",
+            "heading": "Do I need to install any software to my computer?",
+            "icon": "question_mark",
+            "row_content": "<p>No. Never will you have to install a CD, download anything, or use any other software that could slow down your computer. All you need is a connection and an internet browser. Any modern computer, tablet, or smartphone can be used to access your account.<\/p>",
             "page": ""
           }
         },
-        "template--16719048114428__5387481c-839b-49cf-8e23-92570e7e65e2-168366919085f596b6-3": {
+        "425df2c5-e4be-4195-adbc-3b77ca2b950b": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Make a manual installments payment for your order",
-            "icon": "none",
-            "row_content": "<p>If you want to make an early payment, late payment, or pay off your remaining balance on an order, then you can do it manually.<\/p><p>There are no penalties for making an early installment payment. For interest-bearing loans, you can save on interest fees when you pay off the remaining balance early. However, while there are no late fees, late payments might affect your eligibility to pay for orders with Shop Pay Installments in the future.<\/p><h5>Make a manual payment in the Shop app<\/h5><ol><li>In the <strong>Home<\/strong> tab of the Shop app, tap the order you want to pay.<\/li><li>Tap <strong>View Installment<\/strong>s, and then tap<strong> Make payment<\/strong>.<\/li><li>Select an option in the <strong>Make payment<\/strong> section.<br\/>: If you type a custom amount, then it needs to be more than one dollar and less than or equal to the total remaining amount.<\/li><li>In the <strong>Card<\/strong> section, select the card you want to pay with.<\/li><li>Tap <strong>Pay now<\/strong>, and then tap <strong>Continue<\/strong>.<\/li><\/ol><h5>Make a manual payment on a web browser<\/h5><ol><li>Sign in to your <a href=\"https:\/\/shop.app\/pay\/authentication\/login\" target=\"_blank\">Shop Pay account.<\/a><\/li><li>In the overflow menu in the top right corner, click <strong>Orders<\/strong>.<\/li><li>Click the order that you want to pay.<\/li><li>Click <strong>Make payment<\/strong>.<\/li><li>Select an option in the <strong>Amount to pay<\/strong> section.<br\/>: If you type a custom amount, then it needs to be more than one dollar and less than or equal to the total remaining amount.<\/li><li>In the <strong>Card<\/strong> section, use the drop-down arrow to select your preferred payment method.<\/li><li>Click <strong>Pay now<\/strong>.<\/li><li>Click <strong>Continue<\/strong>.<\/li><\/ol>",
+            "heading": "How long does it take after I make a purchase for my account to be activated?",
+            "icon": "question_mark",
+            "row_content": "<p>Once you've made your purchase, you'll have immediate access to your account.<\/p>",
+            "page": ""
+          }
+        },
+        "4143e7f0-c303-40e3-9679-480ce1378112": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "After my subscription has ended, will the program still charge my credit card?",
+            "icon": "question_mark",
+            "row_content": "<p>No. Never will you be charged automatically.<\/p>",
             "page": ""
           }
         }
       },
       "block_order": [
         "template--16719048114428__5387481c-839b-49cf-8e23-92570e7e65e2-168366919085f596b6-0",
-        "template--16719048114428__5387481c-839b-49cf-8e23-92570e7e65e2-168366919085f596b6-1",
-        "template--16719048114428__5387481c-839b-49cf-8e23-92570e7e65e2-168366919085f596b6-2",
-        "template--16719048114428__5387481c-839b-49cf-8e23-92570e7e65e2-168366919085f596b6-3"
+        "9f54d99f-b1e7-4439-ab26-345448866d85",
+        "affc4828-cf5e-477c-96ec-8d0604317d6c",
+        "425df2c5-e4be-4195-adbc-3b77ca2b950b",
+        "4143e7f0-c303-40e3-9679-480ce1378112"
       ],
       "settings": {
         "caption": "",
@@ -463,6 +473,33 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "6fe1cc15-9124-4526-8e14-c36c8eb441b9": {
+      "type": "rich-text",
+      "blocks": {
+        "39a8b559-3305-4232-97be-42cd36cf8cd2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get the limited offer course",
+            "button_link": "\/cart\/43665948311804:1",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "39a8b559-3305-4232-97be-42cd36cf8cd2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -477,6 +514,7 @@
     "c29574fa-556f-47b4-bd06-2c7ddf7c0437",
     "d6e03212-d60d-4c0a-9d40-237c801953c5",
     "6cd79e97-9e45-49ff-898a-668826b6e10d",
-    "5387481c-839b-49cf-8e23-92570e7e65e2"
+    "5387481c-839b-49cf-8e23-92570e7e65e2",
+    "6fe1cc15-9124-4526-8e14-c36c8eb441b9"
   ]
 }
