@@ -21,14 +21,14 @@
         "4398480f-bf9d-4e3c-939a-5c7b437f15af": {
           "type": "heading",
           "settings": {
-            "heading": "Channelside",
+            "heading": "Highwoods Preserve",
             "heading_size": "h1"
           }
         },
         "template--16719132688636__13613b9e-246e-4183-8537-80f7f348cb3e-168368531468a583be-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>1000 Channelside Dr Suite E, Tampa, FL 33602, United States<\/strong><\/p>",
+            "text": "<p><strong>18101 Highwoods Preserve Pkwy 220 2nd Floor, Tampa, FL 33647, United States<\/strong><\/p>",
             "text_style": "body"
           }
         }
@@ -39,7 +39,7 @@
         "template--16719132688636__13613b9e-246e-4183-8537-80f7f348cb3e-168368531468a583be-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/channelside-classroom.jpg",
+        "image": "shopify:\/\/shop_images\/highwoods-preserve-classroom.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
