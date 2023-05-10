@@ -8,13 +8,80 @@
         "padding_bottom": 28
       }
     },
+    "7f25d279-9817-4e48-8431-079b27d81de9": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16719126462716__7f25d279-9817-4e48-8431-079b27d81de9-1683682486f44efe67-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https:\/\/tampaschoolofrealestate.com\/pages\/independence-sale#self-63\">Self Guided 63 Hour Pre-Licensing<\/a><\/p><p><a href=\"https:\/\/tampaschoolofrealestate.com\/pages\/independence-sale#instructor-63\">Instructor-Led On Demand 63 Hour Pre-Licensing<\/a><\/p><p><a href=\"https:\/\/tampaschoolofrealestate.com\/pages\/independence-sale#pass-first-try\">Exam Prep Tools<\/a><\/p><p><a href=\"https:\/\/tampaschoolofrealestate.com\/pages\/independence-sale#self-45\">Self Guided 45-Hour Post Licensing<\/a><\/p><p><a href=\"https:\/\/tampaschoolofrealestate.com\/pages\/independence-sale#self-72\">72 Hour Broker Pre-Licensing<\/a><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16719126462716__7f25d279-9817-4e48-8431-079b27d81de9-1683682486f44efe67-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Group_1_019fc9b8-abb0-47c7-8b25-15bae8c02aa2.png",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "f818b4e0-9f64-4235-88bf-782b075813f2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "This weekend only – Save now",
+            "heading_size": "h1"
+          }
+        },
+        "7824603b-aa0e-48dd-979b-c66e6e8f6b16": {
+          "type": "caption",
+          "settings": {
+            "caption": "Saving to help the next step",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Why did we want independence so many years ago? Why did we want to live free?<\/p><p>The same reasons we all want to be free today. But despite living in America, you might not feel like you experience true freedom.<\/p><p>It's comes at a price. We had to fight for our freedom 246 years ago, and we need to fight for it today.<\/p><p>Maybe you want to be more in control of your schedule with the option of unlimited income potential if you want to go all in. Either way you need to take action to make it happen!<\/p><p>Take advantage of these savings and specials available this weekend only on the entire catalog at TampaSchoolofRealEstate.com to help you gain your independece!<\/p><p>We've included the best deals below:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-0",
+        "7824603b-aa0e-48dd-979b-c66e6e8f6b16",
+        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "3952433b-161c-45fb-add4-2aee2a6bec2e": {
       "type": "rich-text",
       "blocks": {
         "f9600351-36d2-4a79-9a14-7765cf21fd54": {
           "type": "caption",
           "settings": {
-            "caption": "Instructor-led On-demand FL Real Estate License Online",
+            "caption": "Self-Guided 63-Hour FL Real Estate",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -22,14 +89,14 @@
         "template--16714870161660__3952433b-161c-45fb-add4-2aee2a6bec2e-1682983121c9e42f58-0": {
           "type": "heading",
           "settings": {
-            "heading": "45-Hour Post License Course Online (Video based)",
+            "heading": "Our biggest savings",
             "heading_size": "h1"
           }
         },
         "babf7c0e-846b-4c56-98cb-bf1ea22b2a95": {
           "type": "text",
           "settings": {
-            "text": "<p>Enroll now to secure the discount and launch your new career!<\/p>"
+            "text": "<p>100% Online FREC Required Course Required to Earn Your Florida Real Estate License<\/p>"
           }
         }
       },
@@ -41,10 +108,10 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 0
       }
     },
     "889404a3-018d-4fa6-bdf3-b55964bcdeb8": {
@@ -71,21 +138,14 @@
         "9d550b3d-be7f-463f-9918-b5a932da328c": {
           "type": "text",
           "settings": {
-            "text": "<strong>✅ <\/strong>FL Sales Associate Textbook",
+            "text": "✅ Concise Text-based Info",
             "text_style": "body"
           }
         },
         "6b870f9c-c26c-47f9-84fe-60fe858dee42": {
           "type": "text",
           "settings": {
-            "text": "✅ Short Easy To Follow Videos",
-            "text_style": "body"
-          }
-        },
-        "5f879945-5f94-44a2-b890-1a5abadb4220": {
-          "type": "text",
-          "settings": {
-            "text": "✅ Quick Knowledge Checkpoints",
+            "text": "✅ Interactive Exercises",
             "text_style": "body"
           }
         },
@@ -124,16 +184,15 @@
         "518bc357-e001-4d03-b697-32b89f74fcb9",
         "9d550b3d-be7f-463f-9918-b5a932da328c",
         "6b870f9c-c26c-47f9-84fe-60fe858dee42",
-        "5f879945-5f94-44a2-b890-1a5abadb4220",
         "ebadac68-d759-4ab9-980e-7ffe37ca3380",
         "a5190dc0-3449-4eaf-9cce-c8f61fbd489d",
         "be4dd48a-652e-4f88-b360-a2a0afc1404c",
         "927679d6-c13a-4eed-b256-f441e56cad44"
       ],
       "settings": {
-        "product": "video-fl-45-hour-post-license-course",
+        "product": "fl-video-63-hr-pre-licensing-class-online",
         "color_scheme": "accent-1",
-        "secondary_background": true,
+        "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "cover",
@@ -143,72 +202,6 @@
         "enable_video_looping": true,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "30a46a07-42ae-434c-abb8-39a15c55cee8": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/vimeo.com\/744208880",
-        "cover_image": "shopify:\/\/shop_images\/1497185621-c559b4a803dad6f65ba976c0ef48781aab457ee2d2db2025893feb6f6d666d81-d.jpg",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "accent-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "f818b4e0-9f64-4235-88bf-782b075813f2": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "An Instructor-led course on your schedule",
-            "heading_size": "h1"
-          }
-        },
-        "7824603b-aa0e-48dd-979b-c66e6e8f6b16": {
-          "type": "caption",
-          "settings": {
-            "caption": "365 Days Access – Textbook Included",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        },
-        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Have you just obtained your real estate license, and are ready to take the next steps?<\/p><p>Or maybe you're just here for the renewal requirement...<\/p><p>Either way enrolling in a good Post Licensing Program can be the make it or break it for your real estate career.<\/p><p>Take the TSRE Instructor-Led 45 Hour Sales Associate Post Licensing Curriculum at your own pace!<br\/>Complete the course <strong>on your own schedule<\/strong> with Instructor <strong>Jon Carissimo<\/strong> as he guides you through the <strong>essential topics<\/strong> for jumpstarting your new career.<\/p><p>This course satisfies the <strong>Florida Real Estate Commission (FREC) 45 Hour Sales Associate<\/strong> requirement for your first renewal.<\/p><p><strong>Have a question?<\/strong> We're only a message or phone call away. As a Tampa School of Real Estate student you have access to our <strong>student support team of Florida Licensed professionals.<\/strong><\/p><p>This course includes knowledge checks to ensure your retention of material along the way, access to the course Digital Materials, and even a print textbook to follow along and highlight.<\/p><p>Since there is no state exam, all you have to do is complete the online end of course exam and we will report your completion directly to the DBPR! Just don't forget to pay your license renewal fee with the state.<\/p><p>365 Days Access So You Have Plenty of Time to Complete... As long as your renewal doesn't come first!<\/p><p>Make sure this course is done as soon as possible!<\/p><p><strong>Enroll Now to Secure Discount<\/strong><\/p>"
-          }
-        },
-        "3352cc82-e303-4125-ae2e-8a018168ce04": {
-          "type": "button",
-          "settings": {
-            "button_label": "Get the limited offer course",
-            "button_link": "\/cart\/43665948311804:1",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-0",
-        "7824603b-aa0e-48dd-979b-c66e6e8f6b16",
-        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-1",
-        "3352cc82-e303-4125-ae2e-8a018168ce04"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-2",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb": {
@@ -504,10 +497,10 @@
   },
   "order": [
     "main",
+    "7f25d279-9817-4e48-8431-079b27d81de9",
+    "f818b4e0-9f64-4235-88bf-782b075813f2",
     "3952433b-161c-45fb-add4-2aee2a6bec2e",
     "889404a3-018d-4fa6-bdf3-b55964bcdeb8",
-    "30a46a07-42ae-434c-abb8-39a15c55cee8",
-    "f818b4e0-9f64-4235-88bf-782b075813f2",
     "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb",
     "69d2b457-24c9-4c02-ba2f-434e73ca8fba",
     "26ebadea-61b3-47fc-a1f4-ae9d1c471e19",
