@@ -193,7 +193,144 @@
         "product": "fl-video-63-hr-pre-licensing-class-online",
         "color_scheme": "accent-1",
         "secondary_background": false,
-        "media_size": "medium",
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "cover",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "306ad6fa-393a-461f-93e4-8304e5689b01": {
+      "type": "rich-text",
+      "blocks": {
+        "5bddfe7f-13b9-4c13-9289-ff658293a250": {
+          "type": "caption",
+          "settings": {
+            "caption": "Instructor-led 63-Hour FL Real Estate",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "141115f5-a662-4261-a295-9eab87a09466": {
+          "type": "heading",
+          "settings": {
+            "heading": "An instructor on your schedule",
+            "heading_size": "h1"
+          }
+        },
+        "f32ab6db-0456-4bc4-8b3e-8b7dac17cc60": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Now you can complete the course in an instructor guided format, online and on your schedule<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "5bddfe7f-13b9-4c13-9289-ff658293a250",
+        "141115f5-a662-4261-a295-9eab87a09466",
+        "f32ab6db-0456-4bc4-8b3e-8b7dac17cc60"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "ce268627-e02a-409e-94fa-9c5eb85ce876": {
+      "type": "featured-product",
+      "blocks": {
+        "28e4cdd7-4622-459e-a208-5fc8370cce6d": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "5a1ba1d2-d418-4c9b-9df8-8c38577cd7cc": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "f86df6cf-65f8-46df-9440-a7a5f53ed212": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>This course includes:<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "5cce919e-48f7-4e51-85fd-29dfda0fe818": {
+          "type": "text",
+          "settings": {
+            "text": "✅ FL Sales Associate Textbook",
+            "text_style": "body"
+          }
+        },
+        "8f79a470-8a0b-4324-98e3-2ce91bb9fdde": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Short, Easy to Follow Videos",
+            "text_style": "body"
+          }
+        },
+        "5b6c96a4-2cea-4cd7-b062-9ba42284c64a": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Quick Knowledge Checkpoints",
+            "text_style": "body"
+          }
+        },
+        "c96e9598-ed42-4577-8584-0b25a354beef": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Practice Exam & Online Final",
+            "text_style": "body"
+          }
+        },
+        "1bb32de9-0e52-4f61-b773-0fceec9f545f": {
+          "type": "text",
+          "settings": {
+            "text": "✅ 100% Mobile Compatible",
+            "text_style": "body"
+          }
+        },
+        "f4fa498d-8a86-4f1b-8f96-d641e422d1bd": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Student Support Team",
+            "text_style": "body"
+          }
+        },
+        "f81f10c4-c34f-4c0a-b7ec-3d04341bd795": {
+          "type": "text",
+          "settings": {
+            "text": "✅ 365 Days of Access",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "28e4cdd7-4622-459e-a208-5fc8370cce6d",
+        "5a1ba1d2-d418-4c9b-9df8-8c38577cd7cc",
+        "f86df6cf-65f8-46df-9440-a7a5f53ed212",
+        "5cce919e-48f7-4e51-85fd-29dfda0fe818",
+        "8f79a470-8a0b-4324-98e3-2ce91bb9fdde",
+        "5b6c96a4-2cea-4cd7-b062-9ba42284c64a",
+        "c96e9598-ed42-4577-8584-0b25a354beef",
+        "1bb32de9-0e52-4f61-b773-0fceec9f545f",
+        "f4fa498d-8a86-4f1b-8f96-d641e422d1bd",
+        "f81f10c4-c34f-4c0a-b7ec-3d04341bd795"
+      ],
+      "settings": {
+        "product": "in-person-or-livestream-sales-associate-pre-licensing-deposit",
+        "color_scheme": "accent-1",
+        "secondary_background": false,
+        "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "cover",
         "media_position": "left",
@@ -286,6 +423,8 @@
     "f818b4e0-9f64-4235-88bf-782b075813f2",
     "3952433b-161c-45fb-add4-2aee2a6bec2e",
     "889404a3-018d-4fa6-bdf3-b55964bcdeb8",
+    "306ad6fa-393a-461f-93e4-8304e5689b01",
+    "ce268627-e02a-409e-94fa-9c5eb85ce876",
     "69d2b457-24c9-4c02-ba2f-434e73ca8fba"
   ]
 }
