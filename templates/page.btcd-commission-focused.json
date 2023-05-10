@@ -8,57 +8,42 @@
         "padding_bottom": 28
       }
     },
-    "3952433b-161c-45fb-add4-2aee2a6bec2e": {
-      "type": "rich-text",
+    "17d48368-71e1-4e96-b00d-431a8b63a632": {
+      "type": "image-with-text",
       "blocks": {
-        "template--16714870161660__3952433b-161c-45fb-add4-2aee2a6bec2e-1682983121c9e42f58-0": {
+        "eadff49b-cbdc-4402-8938-5dad8992ee08": {
           "type": "heading",
           "settings": {
-            "heading": "Step-by-step guide to sales associate",
+            "heading": "Let's make real estate work for you",
             "heading_size": "h1"
           }
         },
-        "13e4b314-6561-4988-815b-2eb22ceb2fb3": {
-          "type": "heading",
+        "template--16714870161660__17d48368-71e1-4e96-b00d-431a8b63a632-16830390201a7a9c91-1": {
+          "type": "text",
           "settings": {
-            "heading": "post licensing renewal",
-            "heading_size": "h1"
-          }
-        },
-        "f9600351-36d2-4a79-9a14-7765cf21fd54": {
-          "type": "caption",
-          "settings": {
-            "caption": "With Our Complete Guide For Florida 45 Hour Post Licensing Course for Real Estate Sales Associates.",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
+            "text": "<p>Squashing all the juicy bits of the real estate industry into one piece of reading material would be a tall order. Send me your email so you could download your FREE pdf copy and discover if real estate is right for you.<\/p>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "template--16714870161660__3952433b-161c-45fb-add4-2aee2a6bec2e-1682983121c9e42f58-0",
-        "13e4b314-6561-4988-815b-2eb22ceb2fb3",
-        "f9600351-36d2-4a79-9a14-7765cf21fd54"
+        "eadff49b-cbdc-4402-8938-5dad8992ee08",
+        "template--16714870161660__17d48368-71e1-4e96-b00d-431a8b63a632-16830390201a7a9c91-1"
+      ],
+      "custom_css": [
+        ".image-with-text__media {z-index: 2;}"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "30a46a07-42ae-434c-abb8-39a15c55cee8": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/youtu.be\/vax61uLL-nk",
-        "cover_image": "shopify:\/\/shop_images\/hqdefault.jpg",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "accent-1",
+        "image": "shopify:\/\/shop_images\/download_8.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -103,95 +88,33 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
+        "color_scheme": "accent-1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "9e81a78f-4044-4425-af02-99f4acd12a79": {
+    "3952433b-161c-45fb-add4-2aee2a6bec2e": {
       "type": "rich-text",
       "blocks": {
-        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-0": {
+        "13e4b314-6561-4988-815b-2eb22ceb2fb3": {
           "type": "heading",
           "settings": {
-            "heading": "Your Florida Real Estate License Renewal Is More Accessible Than Most Think",
-            "heading_size": "h2"
-          }
-        },
-        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>With the recent surge of real estate course providers and curriculums, finding a school that will best fit your needs can be a confusing process.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-0",
-        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "17d48368-71e1-4e96-b00d-431a8b63a632": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16714870161660__17d48368-71e1-4e96-b00d-431a8b63a632-16830390201a7a9c91-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>✓ Learn Usable Business Information<\/p><p>✓ Grow Your Business Knowledge<\/p><p>✓  Better Understand Everyday Contracts<\/p><p>✓ Plan Your Real Estate Business<\/p><p>✓ Increase Your Real Estate Knowledge<\/p><p>✓ Take Your Business to the Next Level<\/p><p>✓ Meets FREC 45 Hour Requirement<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--16714870161660__17d48368-71e1-4e96-b00d-431a8b63a632-16830390201a7a9c91-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/download_0cddc292-b722-4fa4-af62-23a043a161cf.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "d717de3f-b891-4f60-b5cd-a28bcd944e09": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "What Will You Learn in Our Post Licensing Course?",
+            "heading": "Close Deals in 365 Days with Zero-Experience",
             "heading_size": "h1"
           }
         },
-        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-1": {
+        "f4c21b1d-1d01-4d16-b085-d248a6bfbee1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our Post Licensing course is designed to help you advance your career while meeting the FREC requirements.<\/p>"
+            "text": "<p>Entering real estate without preparation can be hard. You may find yourself dealing with heated personalities or for the very least sense- get yourself dried up. Now, what if there’s a way for you to get yourself prepared, with all of your worries covered up. Presenting the Beyond the Closed Deals - Your Real Estate Beginner’s Guide.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-0",
-        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-1"
-      ],
-      "custom_css": [
-
+        "13e4b314-6561-4988-815b-2eb22ceb2fb3",
+        "f4c21b1d-1d01-4d16-b085-d248a6bfbee1"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -208,20 +131,10 @@
         "template--16714870161660__0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5-1682983213062b9e96-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/download_9_2c373041-571a-4c16-beca-87971463e5ab.webp",
             "icon": "",
-            "title": "<strong>You will Learn:<\/strong>",
-            "text": "<p>✓ Start a Florida Real Estate Career<\/p><p>✓ Business Planning<\/p><p>✓ Time Management<\/p><p>✓ Farming (Advertising)<\/p><p>✓ Prospecting for Listings<\/p><p>✓ Pricing Property to Sell<\/p><p>✓ Listing Presentations<\/p><p>✓ Presenting Offers<\/p><p>✓ And Even More Real World Topics!<\/p>",
-            "link_label": "",
-            "link": "",
-            "link_style": "primary"
-          }
-        },
-        "template--16714870161660__0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5-1682983213062b9e96-1": {
-          "type": "column",
-          "settings": {
-            "icon": "",
-            "title": "Plus:",
-            "text": "<p>✓ State Certified Florida Real Estate Instructor Support<\/p><p>✓ Start a Florida Real Estate Career<\/p><p>✓ FREC Certified Instructors<\/p><p>✓ Florida Specific Expertise<\/p><p>✓ Available via Phone or Email<\/p><p>✓ 1-Year of Instructor Support<\/p>",
+            "title": "",
+            "text": "<p>This 66-paged pdf contains different lessons to help you understand real estate even if you don’t know anything about it. You’ll uncover different topics that will give you a head start to your real estate career:<\/p>",
             "link_label": "",
             "link": "",
             "link_style": "primary"
@@ -229,8 +142,54 @@
         }
       },
       "block_order": [
-        "template--16714870161660__0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5-1682983213062b9e96-0",
-        "template--16714870161660__0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5-1682983213062b9e96-1"
+        "template--16714870161660__0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5-1682983213062b9e96-0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "fd7555db-764f-4ef9-869c-8f2ec69609b4": {
+      "type": "multicolumn",
+      "blocks": {
+        "e15e703a-39bf-4629-a94b-74aa66aeb0f4": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "",
+            "text": "<p><strong>✓ <\/strong>Why Choose Real Estate?<\/p><p><strong>✓ <\/strong>Who Can Do It?<\/p><p><strong>✓ <\/strong>Passing the Exams<\/p><p><strong>✓ <\/strong>Getting Started in Real Estate<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "b54dab32-a04c-459b-9fe8-5330baed96ed": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "",
+            "text": "<p><strong>✓ <\/strong>How to be Successful as an Agent<\/p><p><strong>✓ <\/strong>Becoming a Broker<\/p><p><strong>✓ <\/strong>Why Tampa School of Real Estate?<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "e15e703a-39bf-4629-a94b-74aa66aeb0f4",
+        "b54dab32-a04c-459b-9fe8-5330baed96ed"
       ],
       "settings": {
         "title": "",
@@ -245,90 +204,65 @@
         "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
-    "1b0aa6c4-64c0-4aee-9c1a-ab98554b3172": {
-      "type": "image-with-text",
+    "fb56c835-096f-4548-9c5b-d4895004b868": {
+      "type": "multicolumn",
       "blocks": {
-        "88aa3b35-467f-4e90-84e1-e8b407a0d44c": {
-          "type": "heading",
+        "2b9b5958-4123-40fd-a25a-b4b4b70c8ec9": {
+          "type": "column",
           "settings": {
-            "heading": "When do I need 45-Hour Post Licensing?",
-            "heading_size": "h2"
-          }
-        },
-        "535af5d8-497d-4554-a1c4-a8dd1b2daa4c": {
-          "type": "text",
-          "settings": {
-            "text": "<p>✓ Recommended As Soon As Licensed<\/p><p>✓ How to Make Money in Real Estate<\/p><p>✓ Learn Early & Avoid Mistakes<\/p><p>✓ Required by 1st Renewal Deadline<\/p><p>✓  Null & Void if Deadline Missed<\/p>",
-            "text_style": "body"
+            "icon": "",
+            "title": "",
+            "text": "<p>Getting your feet wet in real estate can be frightening but having a guide work to lean on thickens your chances of succeeding in this new career of yours.<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
           }
         }
       },
       "block_order": [
-        "88aa3b35-467f-4e90-84e1-e8b407a0d44c",
-        "535af5d8-497d-4554-a1c4-a8dd1b2daa4c"
+        "2b9b5958-4123-40fd-a25a-b4b4b70c8ec9"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/download_1_c763bf9c-905f-4349-8bbe-467312a558ab.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "f818b4e0-9f64-4235-88bf-782b075813f2": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Completing Your Florida Post-licensing Requirement Can Be Easy!",
-            "heading_size": "h1"
-          }
-        },
-        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Step 1: Complete FREC Required Post Licensing Course<br\/><\/h2><p>Active or inactive, you're required to complete post-licensing by your first renewal deadline (18-24 months from licensure). Failure to complete the FREC required Post Licensing course by midnight of your expiration will cause your license to become NULL & VOID!<\/p><h2>Step 2: Pass End of Course Exam<br\/><\/h2><p>There is no state exam required for the Post Licensing course. However, you must successfully pass the end-of-course exam with a 75% or higher.<\/p><p>Once you pass the end-of-course exam, we will file your completion with the Florida DBPR. It may take up to 72 hours for completed hours to show in your DBPR portal. Please contact us if your hours are not showing after 72 hours.<\/p><h2>Step 3: Pay Your State Renewal Fee<br\/><\/h2><p>The final step of your license renewal is to pay your renewal fee. The fee is currently $64 to renew your license and can be completed through your online account on the DBPR Website.<\/p><p><strong>Maintain your real estate license and better understand how to practice real estate legally and ethically!<\/strong><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-0",
-        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "Send me my copy",
+        "button_link": "shopify:\/\/pages\/beyond-the-closed-deals",
         "color_scheme": "background-2",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
       }
     },
-    "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb": {
+    "dfc0ea01-8b73-47de-991b-e72b6fe117db": {
       "type": "rich-text",
       "blocks": {
-        "b6e581ef-32c1-431e-9f87-18d189bbd46d": {
+        "332aae2b-97bb-4283-b2fc-1d3a5c41b42e": {
           "type": "heading",
           "settings": {
-            "heading": "See what our past students have to say",
+            "heading": "Get To Know The Ins And Outs",
             "heading_size": "h1"
+          }
+        },
+        "4c68efe7-ee4e-4598-8adc-561e16ae0075": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Entering real estate without preparation can be hard. You may find yourself dealing with heated personalities or for the very least sense- get yourself dried up. Now, what if there’s a way for you to get yourself prepared, with all of your worries covered up. Presenting the Beyond the Closed Deals - Your Real Estate Beginner’s Guide.<\/p>"
           }
         }
       },
       "block_order": [
-        "b6e581ef-32c1-431e-9f87-18d189bbd46d"
+        "332aae2b-97bb-4283-b2fc-1d3a5c41b42e",
+        "4c68efe7-ee4e-4598-8adc-561e16ae0075"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -336,7 +270,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 0
+        "padding_bottom": 52
       }
     },
     "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7": {
@@ -356,7 +290,7 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "accent-1",
             "text_alignment_mobile": "center"
           }
         },
@@ -374,7 +308,7 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "accent-1",
             "text_alignment_mobile": "center"
           }
         },
@@ -392,7 +326,7 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "accent-1",
             "text_alignment_mobile": "center"
           }
         }
@@ -417,6 +351,40 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "9e81a78f-4044-4425-af02-99f4acd12a79": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you are ready to step into the world of a successful real estate business, then download your copy of Beyond the Closed Deals - Your Real Estate Beginner’s Guide.<\/p>"
+          }
+        },
+        "c3b9d5f8-d21c-4ef2-8447-a7ceda471cf9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Send me my copy",
+            "button_link": "shopify:\/\/pages\/beyond-the-closed-deals",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-1",
+        "c3b9d5f8-d21c-4ef2-8447-a7ceda471cf9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "00a63c68-9f60-46e6-8b52-68edd97d9e6d": {
       "type": "rich-text",
       "settings": {
@@ -431,17 +399,15 @@
   },
   "order": [
     "main",
-    "3952433b-161c-45fb-add4-2aee2a6bec2e",
-    "30a46a07-42ae-434c-abb8-39a15c55cee8",
-    "69d2b457-24c9-4c02-ba2f-434e73ca8fba",
-    "9e81a78f-4044-4425-af02-99f4acd12a79",
     "17d48368-71e1-4e96-b00d-431a8b63a632",
-    "d717de3f-b891-4f60-b5cd-a28bcd944e09",
+    "69d2b457-24c9-4c02-ba2f-434e73ca8fba",
+    "3952433b-161c-45fb-add4-2aee2a6bec2e",
     "0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5",
-    "1b0aa6c4-64c0-4aee-9c1a-ab98554b3172",
-    "f818b4e0-9f64-4235-88bf-782b075813f2",
-    "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb",
+    "fd7555db-764f-4ef9-869c-8f2ec69609b4",
+    "fb56c835-096f-4548-9c5b-d4895004b868",
+    "dfc0ea01-8b73-47de-991b-e72b6fe117db",
     "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7",
+    "9e81a78f-4044-4425-af02-99f4acd12a79",
     "00a63c68-9f60-46e6-8b52-68edd97d9e6d"
   ]
 }
