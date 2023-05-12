@@ -147,6 +147,34 @@
         "padding_bottom": 28
       }
     },
+    "54014787-4d67-449d-9028-a85d1558d513": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Exam Prep – Pass First Try",
+        "heading_size": "h1",
+        "description": "<p>Take time out of the equation with the tools trusted by thousands to pass on their first try.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "exam-prep",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "777d0bbb-5660-4d59-8926-49146595b02c": {
       "type": "featured-collection",
       "settings": {
@@ -707,34 +735,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "54014787-4d67-449d-9028-a85d1558d513": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Exam Prep – Pass First Try",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "exam-prep",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -742,6 +742,7 @@
     "featured_collection",
     "36e69bd3-6da8-43a1-8311-46e7861d9ea1",
     "c683541c-d64e-4561-b9c2-ec8dbd34300a",
+    "54014787-4d67-449d-9028-a85d1558d513",
     "777d0bbb-5660-4d59-8926-49146595b02c",
     "32c5e410-519b-4259-806f-f0d0724afe16",
     "d51ce574-b4cb-4630-9f1c-418e14aa1c68",
@@ -756,7 +757,6 @@
     "12a8abbf-edf1-4411-b6b5-c194d03cb905",
     "35cec08c-8404-4e96-a5da-458b5490fc29",
     "5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6",
-    "f5439a72-b673-40a2-80a7-1553851751d9",
-    "54014787-4d67-449d-9028-a85d1558d513"
+    "f5439a72-b673-40a2-80a7-1553851751d9"
   ]
 }
