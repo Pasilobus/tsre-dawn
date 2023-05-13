@@ -297,6 +297,99 @@
         "padding_bottom": 36
       }
     },
+    "90b3339b-93f9-41ef-839b-bf9953ddab77": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16721221615868__90b3339b-93f9-41ef-839b-bf9953ddab77-1684019573db844f2b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "How much of does a Florida real estate license cost?",
+            "heading_size": "h1"
+          }
+        },
+        "template--16721221615868__90b3339b-93f9-41ef-839b-bf9953ddab77-1684019573db844f2b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This is not a one-time payment. You can start your licensure process by enrolling first on the required pre-license course and pay the necessary fees as you go through on other steps.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16721221615868__90b3339b-93f9-41ef-839b-bf9953ddab77-1684019573db844f2b-0",
+        "template--16721221615868__90b3339b-93f9-41ef-839b-bf9953ddab77-1684019573db844f2b-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "877975d4-00f8-4aff-9db3-391c3e04cec1": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16721221615868__877975d4-00f8-4aff-9db3-391c3e04cec1-16840196441d737add-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_2_db6ba0e6-b301-47f7-9873-4bca4a6cc20a.webp",
+            "icon": "",
+            "title": "",
+            "text": "<p><em>Licensing fees may change periodically.<\/em><\/p><p><em>Please contact us to verify current licensing costs.<\/em><\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16721221615868__877975d4-00f8-4aff-9db3-391c3e04cec1-16840196441d737add-0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "4f338e9e-1222-4188-b85d-8d81fcaf8559": {
+      "type": "rich-text",
+      "blocks": {
+        "714b22ba-bf62-4d9a-8bde-ca12e6bd111b": {
+          "type": "button",
+          "settings": {
+            "button_label": "Enroll for a live scheduled class",
+            "button_link": "shopify:\/\/collections\/broker-licensing",
+            "button_style_secondary": false,
+            "button_label_2": "Enroll for a self-guided online course",
+            "button_link_2": "shopify:\/\/products\/fl-72-hr-broker-licensing-self-guided-online-course",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "714b22ba-bf62-4d9a-8bde-ca12e6bd111b"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb": {
       "type": "rich-text",
       "blocks": {
@@ -456,6 +549,61 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "46ac0a42-fe86-4721-be44-8af50d534685": {
+      "type": "multirow",
+      "blocks": {
+        "template--16721221615868__46ac0a42-fe86-4721-be44-8af50d534685-16840197301c29d263-0": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--16721221615868__46ac0a42-fe86-4721-be44-8af50d534685-16840197301c29d263-1": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--16721221615868__46ac0a42-fe86-4721-be44-8af50d534685-16840197301c29d263-2": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16721221615868__46ac0a42-fe86-4721-be44-8af50d534685-16840197301c29d263-0",
+        "template--16721221615868__46ac0a42-fe86-4721-be44-8af50d534685-16840197301c29d263-1",
+        "template--16721221615868__46ac0a42-fe86-4721-be44-8af50d534685-16840197301c29d263-2"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -468,10 +616,14 @@
     "1b0aa6c4-64c0-4aee-9c1a-ab98554b3172",
     "1925f4d6-dc22-4dfe-be3f-b096e5057a02",
     "17d48368-71e1-4e96-b00d-431a8b63a632",
+    "90b3339b-93f9-41ef-839b-bf9953ddab77",
+    "877975d4-00f8-4aff-9db3-391c3e04cec1",
+    "4f338e9e-1222-4188-b85d-8d81fcaf8559",
     "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb",
     "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7",
     "08ded176-e8c0-43e0-9153-7727c0bdc715",
     "00a63c68-9f60-46e6-8b52-68edd97d9e6d",
-    "b43b5a5d-3ca7-41a3-9398-b1a16bd079e0"
+    "b43b5a5d-3ca7-41a3-9398-b1a16bd079e0",
+    "46ac0a42-fe86-4721-be44-8af50d534685"
   ]
 }
