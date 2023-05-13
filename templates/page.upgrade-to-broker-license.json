@@ -625,11 +625,10 @@
         "6721704c-bb98-44a6-bb5e-57dca3c593d1"
       ],
       "custom_css": [
-        ".media {padding-bottom: 100% !important;}",
         ".media > img {object-fit: contain;}"
       ],
       "settings": {
-        "image_height": "adapt",
+        "image_height": "small",
         "desktop_image_width": "small",
         "heading_size": "h2",
         "text_style": "body",
