@@ -14,30 +14,21 @@
         "template--16714870161660__3952433b-161c-45fb-add4-2aee2a6bec2e-1682983121c9e42f58-0": {
           "type": "heading",
           "settings": {
-            "heading": "Step-by-step guide to sales associate",
+            "heading": "Start your own brokerage",
             "heading_size": "h1"
           }
         },
         "13e4b314-6561-4988-815b-2eb22ceb2fb3": {
           "type": "heading",
           "settings": {
-            "heading": "post licensing renewal",
-            "heading_size": "h1"
-          }
-        },
-        "f9600351-36d2-4a79-9a14-7765cf21fd54": {
-          "type": "caption",
-          "settings": {
-            "caption": "With Our Complete Guide For Florida 45 Hour Post Licensing Course for Real Estate Sales Associates.",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
+            "heading": "OBTAIN YOUR FLORIDA BROKER LICENSE",
+            "heading_size": "h2"
           }
         }
       },
       "block_order": [
         "template--16714870161660__3952433b-161c-45fb-add4-2aee2a6bec2e-1682983121c9e42f58-0",
-        "13e4b314-6561-4988-815b-2eb22ceb2fb3",
-        "f9600351-36d2-4a79-9a14-7765cf21fd54"
+        "13e4b314-6561-4988-815b-2eb22ceb2fb3"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -61,6 +52,40 @@
         "color_scheme": "accent-1",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "61c0a84d-0c40-4205-95dc-0917e3309992": {
+      "type": "rich-text",
+      "blocks": {
+        "7987b906-3d50-4e93-81e1-dad3edbfa476": {
+          "type": "text",
+          "settings": {
+            "text": "<p>TSRE | Tampa School of Real Estate offers courses required to obtain your Florida real estate broker license.<br\/><br\/>Our courses are approved by the Florida Real Estate Commission to satisfy all pre-licensing education requirements.<\/p>"
+          }
+        },
+        "d820f7b0-b5c5-4ef3-8b76-8bc1bab3120f": {
+          "type": "button",
+          "settings": {
+            "button_label": "Enroll for a live scheduled class",
+            "button_link": "shopify:\/\/pages\/broker-72-hour-pre-licensing",
+            "button_style_secondary": false,
+            "button_label_2": "Enroll for a self-guided online course",
+            "button_link_2": "shopify:\/\/products\/fl-72-hr-broker-licensing-self-guided-online-course",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "7987b906-3d50-4e93-81e1-dad3edbfa476",
+        "d820f7b0-b5c5-4ef3-8b76-8bc1bab3120f"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "69d2b457-24c9-4c02-ba2f-434e73ca8fba": {
@@ -433,6 +458,7 @@
     "main",
     "3952433b-161c-45fb-add4-2aee2a6bec2e",
     "30a46a07-42ae-434c-abb8-39a15c55cee8",
+    "61c0a84d-0c40-4205-95dc-0917e3309992",
     "69d2b457-24c9-4c02-ba2f-434e73ca8fba",
     "9e81a78f-4044-4425-af02-99f4acd12a79",
     "17d48368-71e1-4e96-b00d-431a8b63a632",
