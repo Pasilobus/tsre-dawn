@@ -244,6 +244,29 @@
         "padding_bottom": 52
       }
     },
+    "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb": {
+      "type": "rich-text",
+      "blocks": {
+        "b6e581ef-32c1-431e-9f87-18d189bbd46d": {
+          "type": "heading",
+          "settings": {
+            "heading": "See what our past students have to say",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "b6e581ef-32c1-431e-9f87-18d189bbd46d"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "17d48368-71e1-4e96-b00d-431a8b63a632": {
       "type": "image-with-text",
       "blocks": {
@@ -268,10 +291,10 @@
             "button_link": "shopify:\/\/collections\/broker-licensing"
           }
         },
-        "9d5215a5-401b-4d63-b94a-6124760254e1": {
+        "ee0c1dd3-2869-4be0-ae14-1eaa77c075bf": {
           "type": "button",
           "settings": {
-            "button_label": "Enroll in a self-guided online course",
+            "button_label": "Enroll for a self-guided online course",
             "button_link": "shopify:\/\/products\/fl-72-hr-broker-licensing-self-guided-online-course"
           }
         }
@@ -280,7 +303,7 @@
         "c0b7beb1-04f5-433a-bfc8-9f829be82e26",
         "template--16714870161660__17d48368-71e1-4e96-b00d-431a8b63a632-16830390201a7a9c91-1",
         "5942cde5-f79a-47b6-9a74-7d97665c86a0",
-        "9d5215a5-401b-4d63-b94a-6124760254e1"
+        "ee0c1dd3-2869-4be0-ae14-1eaa77c075bf"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/download_1_95cc079f-9d97-4af0-ac75-66caeb318683.webp",
@@ -297,17 +320,17 @@
         "padding_bottom": 36
       }
     },
-    "90b3339b-93f9-41ef-839b-bf9953ddab77": {
+    "00a63c68-9f60-46e6-8b52-68edd97d9e6d": {
       "type": "rich-text",
       "blocks": {
-        "template--16721221615868__90b3339b-93f9-41ef-839b-bf9953ddab77-1684019573db844f2b-0": {
+        "f75affb4-4402-4ac4-a4f9-10bef556baf1": {
           "type": "heading",
           "settings": {
-            "heading": "How much of does a Florida real estate license cost?",
+            "heading": "How much does a real estate license cost?",
             "heading_size": "h1"
           }
         },
-        "template--16721221615868__90b3339b-93f9-41ef-839b-bf9953ddab77-1684019573db844f2b-1": {
+        "4ac746ae-14d4-4918-99c4-d59b56e94a4c": {
           "type": "text",
           "settings": {
             "text": "<p>This is not a one-time payment. You can start your licensure process by enrolling first on the required pre-license course and pay the necessary fees as you go through on other steps.<\/p>"
@@ -315,8 +338,8 @@
         }
       },
       "block_order": [
-        "template--16721221615868__90b3339b-93f9-41ef-839b-bf9953ddab77-1684019573db844f2b-0",
-        "template--16721221615868__90b3339b-93f9-41ef-839b-bf9953ddab77-1684019573db844f2b-1"
+        "f75affb4-4402-4ac4-a4f9-10bef556baf1",
+        "4ac746ae-14d4-4918-99c4-d59b56e94a4c"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -324,13 +347,13 @@
         "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 20,
-        "padding_bottom": 20
+        "padding_bottom": 0
       }
     },
-    "877975d4-00f8-4aff-9db3-391c3e04cec1": {
+    "7c2b1bc3-7e22-4019-8e08-353c06a76b15": {
       "type": "multicolumn",
       "blocks": {
-        "template--16721221615868__877975d4-00f8-4aff-9db3-391c3e04cec1-16840196441d737add-0": {
+        "template--16721221615868__7c2b1bc3-7e22-4019-8e08-353c06a76b15-1684018372559f2014-0": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/download_2_db6ba0e6-b301-47f7-9873-4bca4a6cc20a.webp",
@@ -344,7 +367,7 @@
         }
       },
       "block_order": [
-        "template--16721221615868__877975d4-00f8-4aff-9db3-391c3e04cec1-16840196441d737add-0"
+        "template--16721221615868__7c2b1bc3-7e22-4019-8e08-353c06a76b15-1684018372559f2014-0"
       ],
       "settings": {
         "title": "",
@@ -359,14 +382,14 @@
         "color_scheme": "accent-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
-    "4f338e9e-1222-4188-b85d-8d81fcaf8559": {
+    "a572f4d0-9605-4016-a06b-22bf4f985c88": {
       "type": "rich-text",
       "blocks": {
-        "714b22ba-bf62-4d9a-8bde-ca12e6bd111b": {
+        "8c373869-b2b1-4b9b-a01f-59e0384bde7c": {
           "type": "button",
           "settings": {
             "button_label": "Enroll for a live scheduled class",
@@ -379,30 +402,30 @@
         }
       },
       "block_order": [
-        "714b22ba-bf62-4d9a-8bde-ca12e6bd111b"
+        "8c373869-b2b1-4b9b-a01f-59e0384bde7c"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "accent-1",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 0,
         "padding_bottom": 52
       }
     },
-    "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb": {
+    "09070eea-4000-491d-b4ae-bb0b32413374": {
       "type": "rich-text",
       "blocks": {
-        "b6e581ef-32c1-431e-9f87-18d189bbd46d": {
+        "template--16721221615868__09070eea-4000-491d-b4ae-bb0b32413374-1684018605221e39f2-0": {
           "type": "heading",
           "settings": {
-            "heading": "See what our past students have to say",
+            "heading": "See what our past licensees have to say",
             "heading_size": "h1"
           }
         }
       },
       "block_order": [
-        "b6e581ef-32c1-431e-9f87-18d189bbd46d"
+        "template--16721221615868__09070eea-4000-491d-b4ae-bb0b32413374-1684018605221e39f2-0"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -491,7 +514,7 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "08ded176-e8c0-43e0-9153-7727c0bdc715": {
+    "63b2512f-43cf-4051-b6d9-4aec028ecbce": {
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "",
@@ -500,46 +523,19 @@
         "padding_bottom": 52
       }
     },
-    "00a63c68-9f60-46e6-8b52-68edd97d9e6d": {
+    "6b4459c4-9c67-485f-99d8-e71cc6d215ea": {
       "type": "rich-text",
       "blocks": {
-        "90c8ca7b-8ca0-4234-8f12-2b3fc01a0f85": {
+        "de0710c0-e7c5-4ff0-83a4-08fd37898cfb": {
           "type": "heading",
           "settings": {
-            "heading": "Why choose Tampa School of Real Estate",
+            "heading": "Why choose Tampa School of Real Estate?",
             "heading_size": "h1"
           }
         }
       },
       "block_order": [
-        "90c8ca7b-8ca0-4234-8f12-2b3fc01a0f85"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-2",
-        "full_width": true,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
-    "b43b5a5d-3ca7-41a3-9398-b1a16bd079e0": {
-      "type": "rich-text",
-      "blocks": {
-        "a503f244-190d-4ac6-b4ba-494d2f365159": {
-          "type": "button",
-          "settings": {
-            "button_label": "Enroll for a live scheduled class",
-            "button_link": "shopify:\/\/collections\/broker-licensing",
-            "button_style_secondary": false,
-            "button_label_2": "Enroll for a self-guided online course",
-            "button_link_2": "shopify:\/\/products\/fl-72-hr-broker-licensing-self-guided-online-course",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "a503f244-190d-4ac6-b4ba-494d2f365159"
+        "de0710c0-e7c5-4ff0-83a4-08fd37898cfb"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -547,13 +543,13 @@
         "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 0
       }
     },
-    "46ac0a42-fe86-4721-be44-8af50d534685": {
+    "c4757ff1-d6d6-4299-be62-ef6994e1c1c8": {
       "type": "multirow",
       "blocks": {
-        "template--16721221615868__46ac0a42-fe86-4721-be44-8af50d534685-16840197301c29d263-0": {
+        "template--16721221615868__c4757ff1-d6d6-4299-be62-ef6994e1c1c8-1684018682c5bdee71-0": {
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/download_3f507306-cbfe-4d77-b042-6b9bb76788d6.webp",
@@ -563,10 +559,70 @@
             "button_label": "",
             "button_link": ""
           }
+        },
+        "5934a974-2742-428a-9414-714fb1903264": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_1_9a2cac1b-e0e2-416b-bb0b-a31290e7aaa8.webp",
+            "caption": "",
+            "heading": "1 Year retake guarantee",
+            "text": "<p>If you do not score at least 70% on the end-of-course exam, FREC rules require that you wait 30 days before you can retake a different version of the exam. If you do not pass on the second attempt of your exam, FREC rules require that you retake the course in full. Under our 1-Year Retake Guarantee, as long as you retake the course within 1-year of the start date of your course, we do not charge any retake fees. Retakes are subject to space availability.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "5c087153-4498-4cb3-a431-44756989ba09": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_2_357a2bfe-7760-4bb8-b900-29fbec52866f.webp",
+            "caption": "",
+            "heading": "Online and classroom",
+            "text": "<p>Classroom Courses and Online Courses. We’ve built LEAP, our custom online learning solution, to engage students with interactive content featuring real-world scenarios.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "d2b2d1c5-5f93-4a1a-998c-4c02fa61b1a3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_3_a5e0085d-4275-4a4c-afd2-d09a3166a866.webp",
+            "caption": "",
+            "heading": "Schedule",
+            "text": "<p>We know life can get busy. By learning online, you can access your course whenever you want, wherever you are. Have time first thing in the morning? That’s great. Awake at 2 AM? Hop online and pick up where you left off!<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "e93aa4f0-d560-4444-abc1-983c0dcc063a": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_4_6514dc4b-a3d0-4b36-b6c0-5748e227855a.webp",
+            "caption": "",
+            "heading": "Customer service",
+            "text": "<p>Learning online means you can take your course whenever you have the time, so shouldn’t you have support when you need it? We’re here for you 7 days a week via phone, chat, and email.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "6721704c-bb98-44a6-bb5e-57dca3c593d1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_5_44776eea-c887-463b-8a6c-73fd36bc21a4.webp",
+            "caption": "",
+            "heading": "Pass rates",
+            "text": "<p>Most providers don’t publish their students' pass rates. We pride ourselves on having some of the highest pass rates in the industry.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
-        "template--16721221615868__46ac0a42-fe86-4721-be44-8af50d534685-16840197301c29d263-0"
+        "template--16721221615868__c4757ff1-d6d6-4299-be62-ef6994e1c1c8-1684018682c5bdee71-0",
+        "5934a974-2742-428a-9414-714fb1903264",
+        "5c087153-4498-4cb3-a431-44756989ba09",
+        "d2b2d1c5-5f93-4a1a-998c-4c02fa61b1a3",
+        "e93aa4f0-d560-4444-abc1-983c0dcc063a",
+        "6721704c-bb98-44a6-bb5e-57dca3c593d1"
       ],
       "custom_css": [
         ".media > img {object-fit: contain;}"
@@ -586,6 +642,33 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "a887752b-7095-4abf-8e80-25d69da0f3e4": {
+      "type": "rich-text",
+      "blocks": {
+        "d8d607b1-f9ce-457c-9e97-fde3c29f3383": {
+          "type": "button",
+          "settings": {
+            "button_label": "Enroll for a live scheduled class",
+            "button_link": "shopify:\/\/collections\/broker-licensing",
+            "button_style_secondary": false,
+            "button_label_2": "Enroll for a self-guided online course",
+            "button_link_2": "shopify:\/\/products\/fl-72-hr-broker-licensing-self-guided-online-course",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "d8d607b1-f9ce-457c-9e97-fde3c29f3383"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -597,15 +680,16 @@
     "9e81a78f-4044-4425-af02-99f4acd12a79",
     "1b0aa6c4-64c0-4aee-9c1a-ab98554b3172",
     "1925f4d6-dc22-4dfe-be3f-b096e5057a02",
-    "17d48368-71e1-4e96-b00d-431a8b63a632",
-    "90b3339b-93f9-41ef-839b-bf9953ddab77",
-    "877975d4-00f8-4aff-9db3-391c3e04cec1",
-    "4f338e9e-1222-4188-b85d-8d81fcaf8559",
     "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb",
-    "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7",
-    "08ded176-e8c0-43e0-9153-7727c0bdc715",
+    "17d48368-71e1-4e96-b00d-431a8b63a632",
     "00a63c68-9f60-46e6-8b52-68edd97d9e6d",
-    "b43b5a5d-3ca7-41a3-9398-b1a16bd079e0",
-    "46ac0a42-fe86-4721-be44-8af50d534685"
+    "7c2b1bc3-7e22-4019-8e08-353c06a76b15",
+    "a572f4d0-9605-4016-a06b-22bf4f985c88",
+    "09070eea-4000-491d-b4ae-bb0b32413374",
+    "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7",
+    "63b2512f-43cf-4051-b6d9-4aec028ecbce",
+    "6b4459c4-9c67-485f-99d8-e71cc6d215ea",
+    "c4757ff1-d6d6-4299-be62-ef6994e1c1c8",
+    "a887752b-7095-4abf-8e80-25d69da0f3e4"
   ]
 }
