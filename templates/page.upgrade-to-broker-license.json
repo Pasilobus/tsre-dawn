@@ -141,14 +141,14 @@
         "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-0": {
           "type": "heading",
           "settings": {
-            "heading": "Your Florida Real Estate License Renewal Is More Accessible Than Most Think",
+            "heading": "Uprade to a real estate broker license",
             "heading_size": "h2"
           }
         },
         "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-1": {
           "type": "text",
           "settings": {
-            "text": "<p>With the recent surge of real estate course providers and curriculums, finding a school that will best fit your needs can be a confusing process.<\/p>"
+            "text": "<p>If you're a real estate agent in Florida, you may be wondering if it's time to upgrade your license. Even if you're not ready to open your own brokerage, you can elevate your status to broker associate at your current firm. We're here to guide you through the Florida Real Estate Commission (FREC) licensing requirements for a broker's license.<\/p><p>To open your own brokerage in Florida or become aa broker associate you'll need a broker licene, which leads us to your next question.<\/p>"
           }
         }
       },
@@ -224,54 +224,7 @@
         "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16714870161660__0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5-1682983213062b9e96-0": {
-          "type": "column",
-          "settings": {
-            "icon": "",
-            "title": "<strong>You will Learn:<\/strong>",
-            "text": "<p>✓ Start a Florida Real Estate Career<\/p><p>✓ Business Planning<\/p><p>✓ Time Management<\/p><p>✓ Farming (Advertising)<\/p><p>✓ Prospecting for Listings<\/p><p>✓ Pricing Property to Sell<\/p><p>✓ Listing Presentations<\/p><p>✓ Presenting Offers<\/p><p>✓ And Even More Real World Topics!<\/p>",
-            "link_label": "",
-            "link": "",
-            "link_style": "primary"
-          }
-        },
-        "template--16714870161660__0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5-1682983213062b9e96-1": {
-          "type": "column",
-          "settings": {
-            "icon": "",
-            "title": "Plus:",
-            "text": "<p>✓ State Certified Florida Real Estate Instructor Support<\/p><p>✓ Start a Florida Real Estate Career<\/p><p>✓ FREC Certified Instructors<\/p><p>✓ Florida Specific Expertise<\/p><p>✓ Available via Phone or Email<\/p><p>✓ 1-Year of Instructor Support<\/p>",
-            "link_label": "",
-            "link": "",
-            "link_style": "primary"
-          }
-        }
-      },
-      "block_order": [
-        "template--16714870161660__0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5-1682983213062b9e96-0",
-        "template--16714870161660__0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5-1682983213062b9e96-1"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "1b0aa6c4-64c0-4aee-9c1a-ab98554b3172": {
@@ -280,14 +233,14 @@
         "88aa3b35-467f-4e90-84e1-e8b407a0d44c": {
           "type": "heading",
           "settings": {
-            "heading": "When do I need 45-Hour Post Licensing?",
+            "heading": "Requirements needed:",
             "heading_size": "h2"
           }
         },
         "535af5d8-497d-4554-a1c4-a8dd1b2daa4c": {
           "type": "text",
           "settings": {
-            "text": "<p>✓ Recommended As Soon As Licensed<\/p><p>✓ How to Make Money in Real Estate<\/p><p>✓ Learn Early & Avoid Mistakes<\/p><p>✓ Required by 1st Renewal Deadline<\/p><p>✓  Null & Void if Deadline Missed<\/p>",
+            "text": "<p><strong>✓ <\/strong>2 Years Experience<\/p><p><strong>✓ <\/strong>18 Years Old<\/p><p><strong>✓ <\/strong>High School Diploma or Equivalent<\/p><p><strong>✓ <\/strong>US Social Security Number<\/p><p><strong>✓ <\/strong>Approval of FL Application<\/p><p><strong>✓ <\/strong>Complete Pre-License Course<\/p><p><strong>✓ <\/strong>Pass Course Exam (70%)<\/p><p><strong>✓ <\/strong>Pass State Exam (75%)<\/p><p><strong>**<\/strong>2 Years of Active License Under Broker within the Last 5 Years. Out-of-State Experience Also Applies!<\/p>",
             "text_style": "body"
           }
         }
@@ -297,7 +250,7 @@
         "535af5d8-497d-4554-a1c4-a8dd1b2daa4c"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/download_1_c763bf9c-905f-4349-8bbe-467312a558ab.webp",
+        "image": "shopify:\/\/shop_images\/download_13ea2f88-06d1-40d4-a120-5cf067711c05.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -463,7 +416,6 @@
     "9e81a78f-4044-4425-af02-99f4acd12a79",
     "17d48368-71e1-4e96-b00d-431a8b63a632",
     "d717de3f-b891-4f60-b5cd-a28bcd944e09",
-    "0ea86d2b-f2c9-4fa2-bc47-3d577e3e2af5",
     "1b0aa6c4-64c0-4aee-9c1a-ab98554b3172",
     "f818b4e0-9f64-4235-88bf-782b075813f2",
     "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb",
