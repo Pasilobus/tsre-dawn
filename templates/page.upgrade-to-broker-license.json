@@ -67,7 +67,7 @@
           "type": "button",
           "settings": {
             "button_label": "Enroll for a live scheduled class",
-            "button_link": "shopify:\/\/pages\/broker-72-hour-pre-licensing",
+            "button_link": "shopify:\/\/collections\/broker-licensing",
             "button_style_secondary": false,
             "button_label_2": "Enroll for a self-guided online course",
             "button_link_2": "shopify:\/\/products\/fl-72-hr-broker-licensing-self-guided-online-course",
