@@ -556,49 +556,31 @@
         "template--16721221615868__46ac0a42-fe86-4721-be44-8af50d534685-16840197301c29d263-0": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
-        "template--16721221615868__46ac0a42-fe86-4721-be44-8af50d534685-16840197301c29d263-1": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
-        "template--16721221615868__46ac0a42-fe86-4721-be44-8af50d534685-16840197301c29d263-2": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "image": "shopify:\/\/shop_images\/download_3f507306-cbfe-4d77-b042-6b9bb76788d6.webp",
+            "caption": "",
+            "heading": "Up-to-date content and platform",
+            "text": "<p>Content is the key to your success, and we’re constantly updating our courses to keep up with industry changes. We want you to learn, grow, and succeed through the most revolutionary ideas in education.<\/p>",
+            "button_label": "",
             "button_link": ""
           }
         }
       },
       "block_order": [
-        "template--16721221615868__46ac0a42-fe86-4721-be44-8af50d534685-16840197301c29d263-0",
-        "template--16721221615868__46ac0a42-fe86-4721-be44-8af50d534685-16840197301c29d263-1",
-        "template--16721221615868__46ac0a42-fe86-4721-be44-8af50d534685-16840197301c29d263-2"
+        "template--16721221615868__46ac0a42-fe86-4721-be44-8af50d534685-16840197301c29d263-0"
+      ],
+      "custom_css": [
+        ".media > img {object-fit: contain;}"
       ],
       "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
-        "heading_size": "h1",
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h2",
         "text_style": "body",
         "button_style": "secondary",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "background-1",
+        "image_layout": "align-left",
+        "section_color_scheme": "background-2",
         "row_color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 36,
