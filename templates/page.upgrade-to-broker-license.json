@@ -142,7 +142,7 @@
           "type": "heading",
           "settings": {
             "heading": "Uprade to a real estate broker license",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-1": {
@@ -163,68 +163,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "17d48368-71e1-4e96-b00d-431a8b63a632": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16714870161660__17d48368-71e1-4e96-b00d-431a8b63a632-16830390201a7a9c91-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>✓ Learn Usable Business Information<\/p><p>✓ Grow Your Business Knowledge<\/p><p>✓  Better Understand Everyday Contracts<\/p><p>✓ Plan Your Real Estate Business<\/p><p>✓ Increase Your Real Estate Knowledge<\/p><p>✓ Take Your Business to the Next Level<\/p><p>✓ Meets FREC 45 Hour Requirement<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--16714870161660__17d48368-71e1-4e96-b00d-431a8b63a632-16830390201a7a9c91-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/download_0cddc292-b722-4fa4-af62-23a043a161cf.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "d717de3f-b891-4f60-b5cd-a28bcd944e09": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "What Will You Learn in Our Post Licensing Course?",
-            "heading_size": "h1"
-          }
-        },
-        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our Post Licensing course is designed to help you advance your career while meeting the FREC requirements.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-0",
-        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-1"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-2",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
       }
     },
     "1b0aa6c4-64c0-4aee-9c1a-ab98554b3172": {
@@ -264,34 +202,79 @@
         "padding_bottom": 36
       }
     },
-    "f818b4e0-9f64-4235-88bf-782b075813f2": {
+    "1925f4d6-dc22-4dfe-be3f-b096e5057a02": {
       "type": "rich-text",
       "blocks": {
-        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-0": {
+        "e6632359-b227-4482-a26f-54851d78f937": {
           "type": "heading",
           "settings": {
-            "heading": "Completing Your Florida Post-licensing Requirement Can Be Easy!",
+            "heading": "Completing These Steps Will Ensure You Get A Florida Real Estate Brokers License:",
             "heading_size": "h1"
           }
         },
-        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-1": {
+        "6cee5432-d21c-4bb7-aec2-e90c9b74fb87": {
           "type": "text",
           "settings": {
-            "text": "<h2>Step 1: Complete FREC Required Post Licensing Course<br\/><\/h2><p>Active or inactive, you're required to complete post-licensing by your first renewal deadline (18-24 months from licensure). Failure to complete the FREC required Post Licensing course by midnight of your expiration will cause your license to become NULL & VOID!<\/p><h2>Step 2: Pass End of Course Exam<br\/><\/h2><p>There is no state exam required for the Post Licensing course. However, you must successfully pass the end-of-course exam with a 75% or higher.<\/p><p>Once you pass the end-of-course exam, we will file your completion with the Florida DBPR. It may take up to 72 hours for completed hours to show in your DBPR portal. Please contact us if your hours are not showing after 72 hours.<\/p><h2>Step 3: Pay Your State Renewal Fee<br\/><\/h2><p>The final step of your license renewal is to pay your renewal fee. The fee is currently $64 to renew your license and can be completed through your online account on the DBPR Website.<\/p><p><strong>Maintain your real estate license and better understand how to practice real estate legally and ethically!<\/strong><\/p>"
+            "text": "<h3>1. Enroll in the Broker Pre-Licensing Course<br\/><\/h3><p>The Florida Real Estate Commission (FREC) requires you to complete the 72-hour Florida broker pre-licensing course. This course can be taken online or in a classroom.<\/p><h3>2. Complete Fingerprinting<br\/><\/h3><p>The FREC will conduct a criminal background check using your fingerprints. Having a criminal history does not immediately disqualify you from licensure. Your application may be reviewed by the FREC.<\/p><h3>3. File DBPR License Application<br\/><\/h3><p>You must apply for your Florida broker license with the Department of Business & Professional Regulation (DBPR).<\/p><h3>4. Schedule State Exam<br\/><\/h3><p>Once your DBPR application is approved, you may schedule your state exam. You'll receive an email from Pearson VUE with your FLREAPP number. You may schedule your exam before you have completed the course.<\/p><h3>5. Pass End of Course Exam<br\/><\/h3><p>The end-of-course exam consists of 100 multiple-choice questions. You must score at least 70% to pass. Upon passing you will be issued the completion certificate required for your state exam.<\/p><h3>6. Pass State Exam<br\/><\/h3><p>The state exam consists of 100 multiple-choice questions. You must score at least 75% to pass. Upon passing you will immediately be issued your Florida real estate broker license.<\/p>"
+          }
+        },
+        "dd4c3e16-f852-4170-a879-d133ba0b1e90": {
+          "type": "button",
+          "settings": {
+            "button_label": "Enroll for a live scheduled class",
+            "button_link": "shopify:\/\/collections\/broker-licensing",
+            "button_style_secondary": false,
+            "button_label_2": "Enroll for a self-guided online course",
+            "button_link_2": "shopify:\/\/products\/fl-72-hr-broker-licensing-self-guided-online-course",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-0",
-        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-1"
+        "e6632359-b227-4482-a26f-54851d78f937",
+        "6cee5432-d21c-4bb7-aec2-e90c9b74fb87",
+        "dd4c3e16-f852-4170-a879-d133ba0b1e90"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "d717de3f-b891-4f60-b5cd-a28bcd944e09": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What Will You Learn in Our Post Licensing Course?",
+            "heading_size": "h1"
+          }
+        },
+        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Post Licensing course is designed to help you advance your career while meeting the FREC requirements.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-0",
+        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
       }
     },
     "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb": {
@@ -315,6 +298,51 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 0
+      }
+    },
+    "17d48368-71e1-4e96-b00d-431a8b63a632": {
+      "type": "image-with-text",
+      "blocks": {
+        "c0b7beb1-04f5-433a-bfc8-9f829be82e26": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get your Broker's License fast & Easy!",
+            "heading_size": "h1"
+          }
+        },
+        "template--16714870161660__17d48368-71e1-4e96-b00d-431a8b63a632-16830390201a7a9c91-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Tampa School of Real Estate offers the perfect solution for those looking to obtain their broker's license. Our courses are approved by the Florida Real Estate Commission, and we offer a variety of options that will fit your needs.<br\/><br\/>Whether you need to complete a 72-hour broker pre-licensing course or just need a refresher course, we have the perfect solution for you!<br\/><br\/>The course can be taken in a classroom or online. You will learn everything you need to know to pass your exams as well as valuable information for starting your new career!<br\/><br\/>Complete the pre-licensing course in LESS THAN 72-hours!<br\/><br\/>Even though the FREC requires a \"72-hour\" pre-licensing course, most students complete the required course in less time. We've seen students fly through the course in less than 40 hours, or you can take up to one year to complete. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "5942cde5-f79a-47b6-9a74-7d97665c86a0": {
+          "type": "button",
+          "settings": {
+            "button_label": "Enroll for a live scheduled class",
+            "button_link": "shopify:\/\/collections\/broker-licensing"
+          }
+        }
+      },
+      "block_order": [
+        "c0b7beb1-04f5-433a-bfc8-9f829be82e26",
+        "template--16714870161660__17d48368-71e1-4e96-b00d-431a8b63a632-16830390201a7a9c91-1",
+        "5942cde5-f79a-47b6-9a74-7d97665c86a0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/download_0cddc292-b722-4fa4-af62-23a043a161cf.webp",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7": {
@@ -414,11 +442,11 @@
     "61c0a84d-0c40-4205-95dc-0917e3309992",
     "69d2b457-24c9-4c02-ba2f-434e73ca8fba",
     "9e81a78f-4044-4425-af02-99f4acd12a79",
-    "17d48368-71e1-4e96-b00d-431a8b63a632",
-    "d717de3f-b891-4f60-b5cd-a28bcd944e09",
     "1b0aa6c4-64c0-4aee-9c1a-ab98554b3172",
-    "f818b4e0-9f64-4235-88bf-782b075813f2",
+    "1925f4d6-dc22-4dfe-be3f-b096e5057a02",
+    "d717de3f-b891-4f60-b5cd-a28bcd944e09",
     "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb",
+    "17d48368-71e1-4e96-b00d-431a8b63a632",
     "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7",
     "00a63c68-9f60-46e6-8b52-68edd97d9e6d"
   ]
