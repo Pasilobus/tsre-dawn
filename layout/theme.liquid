@@ -241,11 +241,14 @@
       document.documentElement.classList.add('shopify-design-mode');
     }
     </script>
-  <!--Gem_Page_Header_Script-->
-{% render 'gem-app-header-scripts' %}
-<!--End_Gem_Page_Header_Script-->
-
-  {% render 'shogun-head' %}
+    
+    {% comment %}
+    <!--Gem_Page_Header_Script-->
+    {% render 'gem-app-header-scripts' %}
+    <!--End_Gem_Page_Header_Script-->
+  
+    {% render 'shogun-head' %}
+    {% endcomment %}
 </head>
 
   <body class="gradient">
@@ -303,8 +306,11 @@
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
-  <!--Gem_Page_Footer_Script-->
-{% render 'gem-app-footer-scripts', GEM_FOOTER_SCRIPT: GEM_FOOTER_SCRIPT %}
-<!--End_Gem_Page_Footer_Script-->
+
+    {% comment %}
+    <!--Gem_Page_Footer_Script-->
+    {% render 'gem-app-footer-scripts', GEM_FOOTER_SCRIPT: GEM_FOOTER_SCRIPT %}
+    <!--End_Gem_Page_Footer_Script-->
+    {% endcomment %}
 </body>
 </html>
