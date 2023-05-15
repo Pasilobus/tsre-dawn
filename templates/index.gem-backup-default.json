@@ -67,7 +67,7 @@
         "description": "<p>Reserve Your Seat in an upcoming class with a $57 deposit, or take advantage of financing options to fund your real estate education!<br\/><strong>Limited Class Sizes - Reserve Now<\/strong><\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "sl-pre",
+        "collection": "license-classes",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
