@@ -241,6 +241,15 @@
         "padding_bottom": 36
       }
     },
+    "238316d6-6d63-4f22-949e-a9af05d52d80": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?8824a1512a428172f3664d8cda4'><\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "fb558bb9-22af-4dd3-8456-1b7229e75fe2": {
       "type": "image-with-text",
       "blocks": {
@@ -449,15 +458,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "238316d6-6d63-4f22-949e-a9af05d52d80": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?8824a1512a428172f3664d8cda4'><\/script>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -467,10 +467,10 @@
     "156886c2-ed93-4be0-ac13-5c5b37a495f1",
     "product-grid",
     "32ba5ff4-c6d3-48ad-b68e-2e31f71c3423",
+    "238316d6-6d63-4f22-949e-a9af05d52d80",
     "fb558bb9-22af-4dd3-8456-1b7229e75fe2",
     "6bd4c738-f286-45c0-8043-accad6dffabe",
     "4cedd084-a584-4349-a5c7-48bba3ee06f7",
-    "d42e1d33-cfa6-4126-b88a-19f64ee9a25a",
-    "238316d6-6d63-4f22-949e-a9af05d52d80"
+    "d42e1d33-cfa6-4126-b88a-19f64ee9a25a"
   ]
 }
