@@ -144,17 +144,17 @@
 
     ],
     "blocks": {
-      "11656770355074664061": {
-        "type": "shopify:\/\/apps\/pasilobus-google-analytics-4\/blocks\/ga4\/a193266a-8f65-4da8-bcba-d9df8d371e21",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "10605408327587305396": {
         "type": "shopify:\/\/apps\/easygift\/blocks\/app-embed\/0f7d4f74-1e89-4820-aec4-6564d7e535d2",
         "disabled": false,
         "settings": {
           "version": "v3"
+        }
+      },
+      "11656770355074664061": {
+        "type": "shopify:\/\/apps\/pasilobus-google-analytics-4\/blocks\/ga4\/a193266a-8f65-4da8-bcba-d9df8d371e21",
+        "disabled": true,
+        "settings": {
         }
       }
     }
