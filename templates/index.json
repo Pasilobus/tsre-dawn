@@ -150,8 +150,8 @@
     "54014787-4d67-449d-9028-a85d1558d513": {
       "type": "featured-collection",
       "settings": {
-        "title": "Exam Prep – Pass First Try",
-        "heading_size": "h1",
+        "title": "Exam Prep – Pass First Try Strategy",
+        "heading_size": "h2",
         "description": "<p>Take time out of the equation with the tools trusted by thousands to pass on their first try.<\/p>",
         "show_description": false,
         "description_style": "body",
@@ -178,9 +178,9 @@
     "777d0bbb-5660-4d59-8926-49146595b02c": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>45-HR: Post License<\/strong>",
+        "title": "<strong>45-Hour Post Licensing<\/strong>",
         "heading_size": "h2",
-        "description": "<p>Required for your first license renewal as a sales associate. Take as soon as you're licensed to learn real-world business information and jumpstart your career.<\/p>",
+        "description": "<p><strong>Required for first license renewal<\/strong> as a sales associate. <strong>Enroll as soon as you're licensed<\/strong> to learn real-world business information and jumpstart your career.<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "sales-post-licensing",
@@ -206,9 +206,9 @@
     "32c5e410-519b-4259-806f-f0d0724afe16": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>72-HR: Broker Pre-License<\/strong>",
+        "title": "<strong>72-Hour Broker Pre-Licensing<\/strong>",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p><strong>Have an active license for at least 2 years in the last 5?<\/strong><br\/>Upgrade to a broker license with the option to stay with your current office as a broker associate or open your own real estate office.<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "broker-licensing",
