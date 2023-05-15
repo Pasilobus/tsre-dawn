@@ -248,9 +248,15 @@ This file can be re-written at any time.
       document.documentElement.classList.add('shopify-design-mode');
     }
     </script>
+    
+    {% comment %}
+    <!--Gem_Page_Header_Script-->
+    {% render 'gem-app-header-scripts' %}
+    <!--End_Gem_Page_Header_Script-->
   
+    {% render 'shogun-head' %}
+    {% endcomment %}
 
-  {% render 'shogun-head' %}
 </head>
 
 
