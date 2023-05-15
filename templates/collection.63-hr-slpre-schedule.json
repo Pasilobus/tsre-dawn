@@ -54,6 +54,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/sales-associate-licensing-guide-2160x777.jpg",
+        "image_2": "shopify:\/\/shop_images\/Real_Estate_School_Tampa_Florida_1a82eae9-d41a-48af-9581-e1a6eb32424a.jpg",
         "image_overlay_opacity": 30,
         "image_height": "small",
         "desktop_content_position": "middle-left",
@@ -64,6 +65,81 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
+      }
+    },
+    "8f9600e6-79bb-4f46-9839-60060e6c13e2": {
+      "type": "multicolumn",
+      "blocks": {
+        "087d2b43-f4d2-4763-8712-028aea59c817": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-YEAR_RETAKE_GUARANTEE.png",
+            "icon": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slpre-45th-edition-textbook-included-1200-x-600-px-2_1200x_89f99f28-459b-422a-8147-dd4f1ceabf82.webp",
+            "icon": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sales-associate-digital-materials-1200-x-600-px.webp",
+            "icon": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/secrets-of-the-exam-included_1200x_64c88b4a-c026-4c94-8ad6-4d7f73c0224f.webp",
+            "icon": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "087d2b43-f4d2-4763-8712-028aea59c817",
+        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-0",
+        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-1",
+        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-2"
+      ],
+      "settings": {
+        "title": "What's Included?",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     },
     "156886c2-ed93-4be0-ac13-5c5b37a495f1": {
@@ -93,7 +169,7 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
-        "products_per_page": 16,
+        "products_per_page": 12,
         "columns_desktop": 1,
         "image_ratio": "square",
         "image_shape": "default",
@@ -258,69 +334,6 @@
         "padding_bottom": 36
       }
     },
-    "8f9600e6-79bb-4f46-9839-60060e6c13e2": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/slpre-45th-edition-textbook-included-1200-x-600-px-2_1200x_89f99f28-459b-422a-8147-dd4f1ceabf82.webp",
-            "icon": "",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "link_style": "primary"
-          }
-        },
-        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/sales-associate-digital-materials-1200-x-600-px.webp",
-            "icon": "",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "link_style": "primary"
-          }
-        },
-        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/secrets-of-the-exam-included_1200x_64c88b4a-c026-4c94-8ad6-4d7f73c0224f.webp",
-            "icon": "",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "link_style": "primary"
-          }
-        }
-      },
-      "block_order": [
-        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-0",
-        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-1",
-        "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-2"
-      ],
-      "settings": {
-        "title": "What's Included?",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
     "d42e1d33-cfa6-4126-b88a-19f64ee9a25a": {
       "type": "multicolumn",
       "disabled": true,
@@ -442,12 +455,12 @@
   "order": [
     "banner",
     "7e16b57a-8c15-449f-9696-da181d49cfa6",
+    "8f9600e6-79bb-4f46-9839-60060e6c13e2",
     "156886c2-ed93-4be0-ac13-5c5b37a495f1",
     "product-grid",
     "6bd4c738-f286-45c0-8043-accad6dffabe",
     "fb558bb9-22af-4dd3-8456-1b7229e75fe2",
     "4cedd084-a584-4349-a5c7-48bba3ee06f7",
-    "8f9600e6-79bb-4f46-9839-60060e6c13e2",
     "d42e1d33-cfa6-4126-b88a-19f64ee9a25a",
     "32ba5ff4-c6d3-48ad-b68e-2e31f71c3423"
   ]
