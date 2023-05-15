@@ -53,9 +53,8 @@
         "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/sales-associate-licensing-guide-2160x777.jpg",
-        "image_2": "shopify:\/\/shop_images\/Real_Estate_School_Tampa_Florida_1a82eae9-d41a-48af-9581-e1a6eb32424a.jpg",
-        "image_overlay_opacity": 30,
+        "image": "shopify:\/\/shop_images\/Real_Estate_School_Tampa_Florida_1a82eae9-d41a-48af-9581-e1a6eb32424a.jpg",
+        "image_overlay_opacity": 50,
         "image_height": "small",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
@@ -127,7 +126,7 @@
       ],
       "settings": {
         "title": "What's Included?",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -185,48 +184,56 @@
         "padding_bottom": 36
       }
     },
-    "6bd4c738-f286-45c0-8043-accad6dffabe": {
+    "32ba5ff4-c6d3-48ad-b68e-2e31f71c3423": {
       "type": "image-with-text",
       "blocks": {
-        "faa1de5f-bbd0-47fe-8e0f-09bca42e7c53": {
+        "f5a8de3d-b36a-4ead-b042-23f725486b27": {
           "type": "caption",
           "settings": {
-            "caption": "Backed by the TSRE Retake Guarantee",
+            "caption": "Rather complete the course at your own pace?",
             "text_style": "caption-with-letter-spacing",
             "text_size": "medium"
           }
         },
-        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-0": {
+        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-0": {
           "type": "heading",
           "settings": {
-            "heading": "1-Year Retake Guarantee",
+            "heading": "On-Demand Online Class",
             "heading_size": "h2"
           }
         },
-        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-1": {
+        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-1": {
           "type": "text",
           "settings": {
-            "text": "<p>If you don't pass your end-of-course exam <strong>you're backed by our 1-Year Retake Guarantee. <\/strong>The FREC will require you to wait 30 days before re-testing (no waiting period for post licensing & CE courses!) If you still don't pass after retesting, you are able to retake at no charge within 1-year of your registration date.<br\/><br\/><strong>Trying to pass on the first try? <\/strong>Rest assured, this typically isn't a concern <strong>with our course pass rates above 90%!<\/strong><\/p>",
+            "text": "<p>Complete the course <strong>on your own schedule <\/strong>with Instructor <strong>Jon Carissimo <\/strong>as he guides you through the <strong>essential topics <\/strong>for your new career and exam.<\/p>",
             "text_style": "body"
+          }
+        },
+        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View On Demand Course",
+            "button_link": "shopify:\/\/products\/fl-video-63-hr-pre-licensing-class-online"
           }
         }
       },
       "block_order": [
-        "faa1de5f-bbd0-47fe-8e0f-09bca42e7c53",
-        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-0",
-        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-1"
+        "f5a8de3d-b36a-4ead-b042-23f725486b27",
+        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-0",
+        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-1",
+        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-2"
       ],
       "custom_css": [
-        ".media > img {object-fit: contain;}"
+        ".image-with-text__media-item {z-index: 2;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1-YEAR_RETAKE_GUARANTEE.png",
+        "image": "shopify:\/\/shop_images\/on-demand-self-guided-slpre-1000-x-1000-px-750-x-5.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
         "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
@@ -278,6 +285,55 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 0
+      }
+    },
+    "6bd4c738-f286-45c0-8043-accad6dffabe": {
+      "type": "image-with-text",
+      "blocks": {
+        "faa1de5f-bbd0-47fe-8e0f-09bca42e7c53": {
+          "type": "caption",
+          "settings": {
+            "caption": "Backed by the TSRE Retake Guarantee",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "1-Year Retake Guarantee",
+            "heading_size": "h2"
+          }
+        },
+        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you don't pass your end-of-course exam <strong>you're backed by our 1-Year Retake Guarantee. <\/strong>The FREC will require you to wait 30 days before re-testing (no waiting period for post licensing & CE courses!) If you still don't pass after retesting, you are able to retake at no charge within 1-year of your registration date.<br\/><br\/><strong>Trying to pass on the first try? <\/strong>Rest assured, this typically isn't a concern <strong>with our course pass rates above 90%!<\/strong><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "faa1de5f-bbd0-47fe-8e0f-09bca42e7c53",
+        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-0",
+        "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-1"
+      ],
+      "custom_css": [
+        ".media > img {object-fit: contain;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1-YEAR_RETAKE_GUARANTEE.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "4cedd084-a584-4349-a5c7-48bba3ee06f7": {
@@ -393,63 +449,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "32ba5ff4-c6d3-48ad-b68e-2e31f71c3423": {
-      "type": "image-with-text",
-      "blocks": {
-        "f5a8de3d-b36a-4ead-b042-23f725486b27": {
-          "type": "caption",
-          "settings": {
-            "caption": "Would you rather complete the course at your own pace?",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "On-Demand Online Class",
-            "heading_size": "h2"
-          }
-        },
-        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Complete the course <strong>on your own schedule <\/strong>with Instructor <strong>Jon Carissimo <\/strong>as he guides you through the <strong>essential topics <\/strong>for your new career and exam.<\/p><p>This course satisfies the <strong>Florida Real Estate Commission (FREC) 63 Hour Sales Associate<\/strong> requirement to sit for the state exam.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Learn more",
-            "button_link": "shopify:\/\/products\/fl-video-63-hr-pre-licensing-class-online"
-          }
-        }
-      },
-      "block_order": [
-        "f5a8de3d-b36a-4ead-b042-23f725486b27",
-        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-0",
-        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-1",
-        "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-2"
-      ],
-      "custom_css": [
-        ".image-with-text__media-item {z-index: 2;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/on-demand-self-guided-slpre-1000-x-1000-px-750-x-5.jpg",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -458,10 +457,10 @@
     "8f9600e6-79bb-4f46-9839-60060e6c13e2",
     "156886c2-ed93-4be0-ac13-5c5b37a495f1",
     "product-grid",
-    "6bd4c738-f286-45c0-8043-accad6dffabe",
+    "32ba5ff4-c6d3-48ad-b68e-2e31f71c3423",
     "fb558bb9-22af-4dd3-8456-1b7229e75fe2",
+    "6bd4c738-f286-45c0-8043-accad6dffabe",
     "4cedd084-a584-4349-a5c7-48bba3ee06f7",
-    "d42e1d33-cfa6-4126-b88a-19f64ee9a25a",
-    "32ba5ff4-c6d3-48ad-b68e-2e31f71c3423"
+    "d42e1d33-cfa6-4126-b88a-19f64ee9a25a"
   ]
 }
