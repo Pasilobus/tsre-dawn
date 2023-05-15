@@ -166,7 +166,7 @@
         "description": "<h5>LIVE INSTRUCTOR-LED REAL ESTATE CLASSES<\/h5><p>Florida Real Estate Commission (FREC) required course to Earn FL Real Estate License.<\/p><p>Complete the course in a classroom, or bring a LIVE instructor to you through an interactive livestream online class.<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "sl-pre",
+        "collection": "license-classes",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
