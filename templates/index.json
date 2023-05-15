@@ -48,7 +48,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Real_Estate_School_Tampa_Florida_1a82eae9-d41a-48af-9581-e1a6eb32424a.jpg",
         "image_overlay_opacity": 20,
-        "image_height": "adapt",
+        "image_height": "small",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
