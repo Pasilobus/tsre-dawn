@@ -27,7 +27,7 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Become a Real Estate Agent",
+            "button_label_1": "Become Real Estate Agent",
             "button_link_1": "shopify:\/\/pages\/florida-real-estate-license",
             "button_style_secondary_1": false,
             "button_label_2": "",
