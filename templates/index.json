@@ -64,7 +64,7 @@
       "settings": {
         "title": "<strong>Florida Real Estate License Classes<\/strong>",
         "heading_size": "h2",
-        "description": "<p>Reserve Your Seat in an upcoming class with a $57 deposit, or take advantage of financing options to fund your real estate education!<br\/><strong>Limited Class Sizes - Reserve Now<\/strong><\/p>",
+        "description": "<p>Reserve Your Seat in a class with a $57 deposit, or use financing options to fund your real estate education!<br\/><strong>Limited Class Sizes - Reserve Now<\/strong><\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "sl-pre",
@@ -180,7 +180,7 @@
       "settings": {
         "title": "<strong>45-HR: Post License<\/strong>",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p>Required for your first license renewal as a sales associate. Take as soon as you're licensed to learn real-world business information and jumpstart your career.<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "sales-post-licensing",
