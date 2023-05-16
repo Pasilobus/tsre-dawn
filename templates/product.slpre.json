@@ -15,12 +15,6 @@
           "settings": {
           }
         },
-        "586745e2-4d3f-40a5-9b30-a7487f97eaf1": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?689125e15290349be666ad8057c'><\/script>"
-          }
-        },
         "caption": {
           "type": "text",
           "settings": {
@@ -37,6 +31,12 @@
         "price": {
           "type": "price",
           "settings": {
+          }
+        },
+        "586745e2-4d3f-40a5-9b30-a7487f97eaf1": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?689125e15290349be666ad8057c'><\/script>"
           }
         },
         "share": {
@@ -113,10 +113,10 @@
       "block_order": [
         "vendor",
         "title",
-        "586745e2-4d3f-40a5-9b30-a7487f97eaf1",
         "caption",
         "ba97551a-9e52-49c7-801e-8f0ff0458d77",
         "price",
+        "586745e2-4d3f-40a5-9b30-a7487f97eaf1",
         "share",
         "variant_picker",
         "quantity_selector",
