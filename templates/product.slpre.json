@@ -3,12 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -37,6 +31,12 @@
           "type": "sku",
           "settings": {
             "text_style": "uppercase"
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
           }
         },
         "variant_picker": {
@@ -105,12 +105,12 @@
         }
       },
       "block_order": [
-        "share",
         "vendor",
         "title",
         "caption",
         "price",
         "ba97551a-9e52-49c7-801e-8f0ff0458d77",
+        "share",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
