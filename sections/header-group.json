@@ -28,6 +28,9 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [
+        ".header__inline-menu {margin-top: 0!important;}"
+      ],
       "settings": {
         "logo_position": "top-center",
         "menu": "main-menu",
