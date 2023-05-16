@@ -27,6 +27,12 @@
           "settings": {
           }
         },
+        "f046c38d-e8e7-457d-8554-665fc837eec5": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?689125e15290349be666ad8057c'><\/script>"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -103,6 +109,7 @@
         "title",
         "caption",
         "price",
+        "f046c38d-e8e7-457d-8554-665fc837eec5",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
@@ -274,7 +281,7 @@
         "1d311749-36c0-4f2b-a86f-829b8527c2a3"
       ],
       "custom_css": [
-        ".media > img {object-fit: contain}"
+        ".media > img {object-fit: contain;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/21fcd92d-90f7-464a-b661-369238197720_458x_1120ca55-8bc1-44f0-9680-33f49015a8bd.webp",
@@ -314,6 +321,7 @@
     },
     "c28c0f4b-5dda-4362-a625-f732502da065": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div id=\"om-totegcq7wultsrwlwsiu-holder\"><\/div>",
         "color_scheme": "accent-1",
@@ -323,6 +331,7 @@
     },
     "image-with-text": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "25be2bd2-8dc0-4fd8-bd9c-20cda1a455f4": {
           "type": "caption",
@@ -369,6 +378,7 @@
     },
     "eedef890-7ec1-4438-9623-85064295f882": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "2f1cc871-2cc3-402b-a834-05c7817f4019": {
           "type": "caption",
@@ -415,6 +425,7 @@
     },
     "68c47d31-68ab-4abf-9c3d-04c8537c1303": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "5a8221cc-c1db-4913-a0ca-5591027f8655": {
           "type": "caption",
