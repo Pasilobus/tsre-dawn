@@ -387,7 +387,7 @@
       "guest_continue": "Continue",
       "guest_title": "Continue as a guest",
       "password": "Password",
-      "title": "Login",
+      "title": "Store Login",
       "sign_in": "Sign in",
       "submit": "Submit"
     },
@@ -474,13 +474,6 @@
       "message_label": "Message (optional)",
       "message": "Message",
       "max_characters": "{{ max_chars }} characters max"
-    }
-  },
-  "shopify": {
-    "checkout": {
-      "thank_you": {
-        "login": "Store Login"
-      }
     }
   }
 }
