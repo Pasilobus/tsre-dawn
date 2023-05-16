@@ -13,6 +13,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -106,15 +112,10 @@
             "content": "",
             "page": ""
           }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
+        "share",
         "vendor",
         "title",
         "caption",
@@ -127,8 +128,7 @@
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
-        "collapsible-row-3",
-        "share"
+        "collapsible-row-3"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -163,8 +163,8 @@
           "type": "column",
           "settings": {
             "icon": "picto-shield",
-            "title": "Trusted by 25,000+",
-            "text": "<p>Since it's founding in 2007 TSRE has been trusted by over 25,000+ past students to launch and build their real estate empires.<\/p><p>At the Tampa School of Real Estate, your success is our success.<\/p>",
+            "title": "Trusted by 41,000+",
+            "text": "<p>Since it's founding in 2007 TSRE has been trusted by over 41,000+ past students to launch and build their real estate careers.<\/p><p>At the Tampa School of Real Estate, your success is our success.<\/p>",
             "link_label": "",
             "link": "",
             "link_style": "primary"
