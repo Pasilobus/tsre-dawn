@@ -282,55 +282,6 @@
         "padding_bottom": 0
       }
     },
-    "2684f0e8-68c1-412b-8928-c383065eb440": {
-      "type": "image-with-text",
-      "blocks": {
-        "32b0a0eb-577a-416a-8d00-f8c9f08cfea2": {
-          "type": "caption",
-          "settings": {
-            "caption": "HOW TO GET YOUR FLORIDA SALES ASSOCIATE",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "190f0058-a8fb-4367-8448-f9cb823799c0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>REAL ESTATE LICENSE<\/strong>",
-            "heading_size": "h2"
-          }
-        },
-        "927e6cad-0ce1-4570-8c5a-04cc279dca11": {
-          "type": "text",
-          "settings": {
-            "text": "<p>✓ 18+ Years Old<\/p><p>✓ High School Diploma or Equivalent<\/p><p>✓ US Social Security Number<\/p><p>✓ Fingerprints & Application Apprvoal<\/p><p>✓ Pass End of Course Exam with 70%<\/p><p>✓ Pass State Exam with 75%<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "32b0a0eb-577a-416a-8d00-f8c9f08cfea2",
-        "190f0058-a8fb-4367-8448-f9cb823799c0",
-        "927e6cad-0ce1-4570-8c5a-04cc279dca11"
-      ],
-      "custom_css": [
-        ".media > img {object-fit: contain;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/21fcd92d-90f7-464a-b661-369238197720_458x_1120ca55-8bc1-44f0-9680-33f49015a8bd.webp",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "de3330ab-12db-47ef-9905-5ae410aec7d8": {
       "type": "rich-text",
       "blocks": {
@@ -423,6 +374,55 @@
         "padding_bottom": 36
       }
     },
+    "2684f0e8-68c1-412b-8928-c383065eb440": {
+      "type": "image-with-text",
+      "blocks": {
+        "32b0a0eb-577a-416a-8d00-f8c9f08cfea2": {
+          "type": "caption",
+          "settings": {
+            "caption": "HOW TO GET YOUR FLORIDA SALES ASSOCIATE",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "190f0058-a8fb-4367-8448-f9cb823799c0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>REAL ESTATE LICENSE<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "927e6cad-0ce1-4570-8c5a-04cc279dca11": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✓ 18+ Years Old<\/p><p>✓ High School Diploma or Equivalent<\/p><p>✓ US Social Security Number<\/p><p>✓ Fingerprints & Application Apprvoal<\/p><p>✓ Pass End of Course Exam with 70%<\/p><p>✓ Pass State Exam with 75%<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "32b0a0eb-577a-416a-8d00-f8c9f08cfea2",
+        "190f0058-a8fb-4367-8448-f9cb823799c0",
+        "927e6cad-0ce1-4570-8c5a-04cc279dca11"
+      ],
+      "custom_css": [
+        ".media > img {object-fit: contain;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/21fcd92d-90f7-464a-b661-369238197720_458x_1120ca55-8bc1-44f0-9680-33f49015a8bd.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "63ae9922-8628-48c2-8dea-60f718fe5f2c": {
       "type": "rich-text",
       "blocks": {
@@ -437,7 +437,7 @@
         "template--16706625896700__63ae9922-8628-48c2-8dea-60f718fe5f2c-16815314938855be0a-0": {
           "type": "heading",
           "settings": {
-            "heading": "FL Real State License",
+            "heading": "FL Real Estate License",
             "heading_size": "h1"
           }
         }
@@ -997,9 +997,9 @@
     "e791962f-c569-4969-ab37-901e8108313d",
     "eca65864-63bd-4f8d-ae5e-e34d18fb8169",
     "5bc84c94-85b6-4328-a06a-0522f59deb82",
-    "2684f0e8-68c1-412b-8928-c383065eb440",
     "de3330ab-12db-47ef-9905-5ae410aec7d8",
     "3ed12cd3-b5ac-43ec-99ec-e0d2158a9579",
+    "2684f0e8-68c1-412b-8928-c383065eb440",
     "63ae9922-8628-48c2-8dea-60f718fe5f2c",
     "131abab7-dd88-40af-84ea-d224f9a286f0",
     "image-with-text",
