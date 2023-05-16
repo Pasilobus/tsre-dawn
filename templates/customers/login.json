@@ -1,10 +1,64 @@
 {
   "sections": {
     "main": {
-      "type": "main-login"
+      "type": "main-login",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1f7e22d0-f6e5-4efb-90fc-cd7fb7f2fbf6": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16712638693628__1f7e22d0-f6e5-4efb-90fc-cd7fb7f2fbf6-1684259542d222107c-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/learnattsreus_login.jpg",
+            "icon": "",
+            "title": "Learn.at.TSRE.us",
+            "text": "<p><a href=\"https:\/\/learn.at.tsre.us\/dashboard\/?ref=mkdir3j9sj\" target=\"_blank\">LIVESTREAM Classes<br\/>Video-Based On-Demand<br\/>Classroom Digital MaterialsSecrets of The Real Estate Exam<br\/>MP3 Audio Review<br\/>Question Simulator<br\/>Weekend Prep Recording<\/a><\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "template--16712638693628__1f7e22d0-f6e5-4efb-90fc-cd7fb7f2fbf6-1684259542d222107c-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tsre_leap_login.jpg",
+            "icon": "",
+            "title": "LEAP",
+            "text": "<p>Sales Associate Pre-Licensing<br\/>Sales Associate Post Licensing<br\/>Broker Pre-Licensing<br\/>Broker Post Licensing<br\/>Continuing Education<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16712638693628__1f7e22d0-f6e5-4efb-90fc-cd7fb7f2fbf6-1684259542d222107c-0",
+        "template--16712638693628__1f7e22d0-f6e5-4efb-90fc-cd7fb7f2fbf6-1684259542d222107c-1"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1f7e22d0-f6e5-4efb-90fc-cd7fb7f2fbf6"
   ]
 }
