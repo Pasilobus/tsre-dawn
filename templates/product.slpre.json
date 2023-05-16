@@ -22,15 +22,15 @@
             "text_style": "subtitle"
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {
-          }
-        },
         "ba97551a-9e52-49c7-801e-8f0ff0458d77": {
           "type": "sku",
           "settings": {
             "text_style": "uppercase"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
           }
         },
         "share": {
@@ -108,8 +108,8 @@
         "vendor",
         "title",
         "caption",
-        "price",
         "ba97551a-9e52-49c7-801e-8f0ff0458d77",
+        "price",
         "share",
         "variant_picker",
         "quantity_selector",
