@@ -137,6 +137,10 @@
         {%- endif -%}
       {% endpaginate %}
     </div>
+                          {% if customer %}
+                <iframe src="https://affiliates.tampaschoolofrealestate.com/shopify-login/{{ customer.id }}" id="affiliate_page"></iframe>
+                <script type="text/javascript" src="https://static.goaffpro.com/embed.js"></script>
+            {% endif %}
 
     <div>
       <h2>{{ 'customer.account.details' | t }}</h2>
