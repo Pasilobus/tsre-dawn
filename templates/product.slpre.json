@@ -201,7 +201,7 @@
         "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-0": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>REAL ESTATE LICENSE<\/strong>",
+            "heading": "<strong>1-Year Retake Guarantee<\/strong>",
             "heading_size": "h2"
           }
         },
@@ -234,6 +234,7 @@
     },
     "5bc84c94-85b6-4328-a06a-0522f59deb82": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "9f5012c3-685d-43ec-9c0e-516db5b4bb2d": {
           "type": "caption",
@@ -295,7 +296,7 @@
         "190f0058-a8fb-4367-8448-f9cb823799c0": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>1-YEAR RETAKE GUARANTEE<\/strong>",
+            "heading": "<strong>REAL ESTATE LICENSE<\/strong>",
             "heading_size": "h2"
           }
         },
