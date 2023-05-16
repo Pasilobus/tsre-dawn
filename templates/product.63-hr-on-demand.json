@@ -1,5 +1,15 @@
 {
   "sections": {
+    "shogun-helper": {
+      "type": "shogun-helper",
+      "settings": {
+      }
+    },
+    "shogun-above": {
+      "type": "shogun-above",
+      "settings": {
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -25,6 +35,12 @@
         "price": {
           "type": "price",
           "settings": {
+          }
+        },
+        "c0b8d2bc-4774-4007-86ce-35032e4835fe": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?689125e15290349be666ad8057c'><\/script>"
           }
         },
         "variant_picker": {
@@ -103,6 +119,7 @@
         "title",
         "caption",
         "price",
+        "c0b8d2bc-4774-4007-86ce-35032e4835fe",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
@@ -854,18 +871,8 @@
         "padding_bottom": 28
       }
     },
-    "shogun-above": {
-      "type": "shogun-above",
-      "settings": {
-      }
-    },
     "shogun-below": {
       "type": "shogun-below",
-      "settings": {
-      }
-    },
-    "shogun-helper": {
-      "type": "shogun-helper",
       "settings": {
       }
     }
