@@ -15,6 +15,12 @@
           "settings": {
           }
         },
+        "586745e2-4d3f-40a5-9b30-a7487f97eaf1": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?d86b7ab15ff7348709866d469ad'><\/script>"
+          }
+        },
         "caption": {
           "type": "text",
           "settings": {
@@ -107,6 +113,7 @@
       "block_order": [
         "vendor",
         "title",
+        "586745e2-4d3f-40a5-9b30-a7487f97eaf1",
         "caption",
         "ba97551a-9e52-49c7-801e-8f0ff0458d77",
         "price",
