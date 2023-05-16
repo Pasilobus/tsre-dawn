@@ -1,5 +1,15 @@
 {
   "sections": {
+    "shogun-helper": {
+      "type": "shogun-helper",
+      "settings": {
+      }
+    },
+    "shogun-above": {
+      "type": "shogun-above",
+      "settings": {
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -25,6 +35,12 @@
         "price": {
           "type": "price",
           "settings": {
+          }
+        },
+        "eb7dbef1-e3db-49f5-b3b1-25618889c02b": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
           }
         },
         "variant_picker": {
@@ -103,6 +119,7 @@
         "title",
         "caption",
         "price",
+        "eb7dbef1-e3db-49f5-b3b1-25618889c02b",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
@@ -138,7 +155,8 @@
             "title": "FREC Approved School",
             "text": "<p>At TSRE, our school and all of our instructors are Florida Real Estate Commission Approved. <\/p><p>All Pre-Licensing, Post Licensing & Continuing Education course also maintain FREC Approval. <\/p><p><a href=\"https:\/\/www.myfloridalicense.com\/LicenseDetail.asp?SID=&id=4F3D91AAE03039862C0A9E9F33D69463\" target=\"_blank\" title=\"https:\/\/www.myfloridalicense.com\/LicenseDetail.asp?SID=&id=4F3D91AAE03039862C0A9E9F33D69463\">TSRE School License: #<strong>ZH1002233<\/strong><\/a><\/p><p><\/p><p><\/p><p><\/p><p><\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         },
         "template--16706509832444__e791962f-c569-4969-ab37-901e8108313d-1681517474f61b0990-1": {
@@ -148,7 +166,8 @@
             "title": "Trusted by 25,000+",
             "text": "<p>Since it's founding in 2007 TSRE has been trusted by over 25,000+ past students to launch and build their real estate empires.<\/p><p>At the Tampa School of Real Estate, your success is our success.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         },
         "template--16706509832444__e791962f-c569-4969-ab37-901e8108313d-1681517474f61b0990-2": {
@@ -158,7 +177,8 @@
             "title": "Student Success Team",
             "text": "<p>Your Success is Our Success<\/p><p>Our Student Success team is here to answer your questions and ensure you get the most out of your courses and study tools. <\/p><p>Available by phone, text, chat or email.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         }
       },
@@ -623,18 +643,8 @@
         "padding_bottom": 28
       }
     },
-    "shogun-above": {
-      "type": "shogun-above",
-      "settings": {
-      }
-    },
     "shogun-below": {
       "type": "shogun-below",
-      "settings": {
-      }
-    },
-    "shogun-helper": {
-      "type": "shogun-helper",
       "settings": {
       }
     }
