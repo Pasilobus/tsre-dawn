@@ -131,7 +131,7 @@
         "collapsible-row-3"
       ],
       "custom_css": [
-        ".product__title {font-size: medium;}"
+        ".product__title {font-size: small;}"
       ],
       "settings": {
         "enable_sticky_info": true,
