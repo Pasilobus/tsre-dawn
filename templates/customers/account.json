@@ -7,18 +7,42 @@
         "padding_bottom": 36
       }
     },
+    "39da0423-cc2f-4fdd-b4d8-150c240c92eb": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16712638431484__39da0423-cc2f-4fdd-b4d8-150c240c92eb-16842831035241e5b4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "TSRE Affiliate Program",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--16712638431484__39da0423-cc2f-4fdd-b4d8-150c240c92eb-16842831035241e5b4-0"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "e4dd736e-1ced-4b75-a032-b73eaf8ee7e3": {
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "{% if customer %}\n                <iframe src=\"https:\/\/affiliates.tampaschoolofrealestate.com\/shopify-login\/{{ customer.id }}\" id=\"affiliate_page\"><\/iframe>\n                <script type=\"text\/javascript\" src=\"https:\/\/static.goaffpro.com\/embed.js\"><\/script>\n            {% endif %}",
         "color_scheme": "background-1",
-        "padding_top": 40,
+        "padding_top": 0,
         "padding_bottom": 44
       }
     }
   },
   "order": [
     "main",
+    "39da0423-cc2f-4fdd-b4d8-150c240c92eb",
     "e4dd736e-1ced-4b75-a032-b73eaf8ee7e3"
   ]
 }
