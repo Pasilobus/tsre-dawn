@@ -39,6 +39,29 @@
         "padding_bottom": 44
       }
     },
+    "2edc55dd-bcd4-4e8f-8a31-09da8fa98d9c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16712638431484__2edc55dd-bcd4-4e8f-8a31-09da8fa98d9c-1684320985fc36dec1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Online Course Login",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--16712638431484__2edc55dd-bcd4-4e8f-8a31-09da8fa98d9c-1684320985fc36dec1-0"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 8
+      }
+    },
     "3e7ba614-4ae1-42aa-b38b-bb0e62afc7da": {
       "type": "multicolumn",
       "blocks": {
@@ -93,6 +116,7 @@
     "main",
     "39da0423-cc2f-4fdd-b4d8-150c240c92eb",
     "e4dd736e-1ced-4b75-a032-b73eaf8ee7e3",
+    "2edc55dd-bcd4-4e8f-8a31-09da8fa98d9c",
     "3e7ba614-4ae1-42aa-b38b-bb0e62afc7da"
   ]
 }
