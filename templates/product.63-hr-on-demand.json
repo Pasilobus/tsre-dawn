@@ -55,6 +55,13 @@
             "picker_type": "dropdown"
           }
         },
+        "2267bf7f-bd10-4c73-951a-78c7d8dd2df0": {
+          "type": "text",
+          "settings": {
+            "text": "Use promo code <a href=\"https:\/\/tampaschoolofrealestate.com\/cart\/33097690349699:1,36655747530911:1,43231747703036:1?discount=VIDEO\" title=\"Register Now for Video On-Demand Real Estate Class with Promo Code Video\"><strong>VIDEO<\/strong><\/a> to save 15%",
+            "text_style": "body"
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "disabled": true,
@@ -122,6 +129,7 @@
         "price",
         "c0b8d2bc-4774-4007-86ce-35032e4835fe",
         "variant_picker",
+        "2267bf7f-bd10-4c73-951a-78c7d8dd2df0",
         "quantity_selector",
         "buy_buttons",
         "description",
@@ -132,8 +140,7 @@
       ],
       "custom_css": [
         ".product__title h1 {font-size: xx-large;}",
-        ".share-button {margin-top: 0px;}",
-        ".product__tax {display:none;}"
+        ".share-button {margin-top: 0px;}"
       ],
       "settings": {
         "enable_sticky_info": true,
