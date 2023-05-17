@@ -129,8 +129,7 @@
       ],
       "custom_css": [
         ".product__title h1 {font-size: x-large;}",
-        ".share-button {margin-top: 0px;}",
-        ".product__tax {display: none;}"
+        ".share-button {margin-top: 0px;}"
       ],
       "settings": {
         "enable_sticky_info": true,

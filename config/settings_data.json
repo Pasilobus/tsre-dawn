@@ -302,7 +302,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".cart__checkout-button {background-color: #eaef43; color: #000000; font-weight: bolder; font-style: italic; --buttons-border-width:0px;}"
+      ".cart__checkout-button {background-color: #eaef43; color: #000000; font-weight: bolder; font-style: italic; --buttons-border-width: 0px;}",
+      ".product__tax {display: none;}"
     ]
   }
 }
