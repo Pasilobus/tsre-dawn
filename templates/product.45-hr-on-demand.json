@@ -120,6 +120,11 @@
         "collapsible-row-2",
         "collapsible-row-3"
       ],
+      "custom_css": [
+        ".product__title h1 {font-size: xx-large;}",
+        ".share-button {margin-top: 0px;}",
+        ".product__tax {display: none;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "media_size": "small",
