@@ -305,7 +305,7 @@
       ".cart__checkout-button {background-color: #eaef43; color: #000000; font-weight: bolder; font-style: italic; --buttons-border-width: 0px;}",
       ".product__tax {display: none;}",
       ".tax-note {display: none;}",
-      ".cart__ctas {margin-top:10px; margin-bottom:20px;}"
+      ".cart__ctas {margin-top: 20px; margin-bottom: 30px;}"
     ]
   }
 }
