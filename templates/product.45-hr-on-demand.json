@@ -65,6 +65,21 @@
             "show_gift_card_recipient": true
           }
         },
+        "3ca8c8d7-60f4-48e2-b059-db22b226fd1c": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "heart",
+            "image_1": "shopify:\/\/shop_images\/1-Year_Reake_Guarantee.png",
+            "heading_1": "1-Year Retake Guarantee",
+            "icon_2": "return",
+            "image_2": "shopify:\/\/shop_images\/TSRE_App.png",
+            "heading_2": "TSRE Mobile App",
+            "icon_3": "truck",
+            "image_3": "shopify:\/\/shop_images\/Textbook_Included.png",
+            "heading_3": "Textbook Included"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -91,6 +106,7 @@
         "quantity_selector",
         "cd91acc8-c1af-4779-8dd3-f926b1b04fca",
         "buy_buttons",
+        "3ca8c8d7-60f4-48e2-b059-db22b226fd1c",
         "description",
         "collapsible-row-1"
       ],
