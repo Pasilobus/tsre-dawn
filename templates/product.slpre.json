@@ -128,7 +128,7 @@
         "collapsible-row-3"
       ],
       "custom_css": [
-        ".product__title h1 {font-size: x-large; color: #014627;}",
+        ".product__title h1 {font-size: large; color: #014627;}",
         ".share-button {margin: 0px; font-weight: 500;}",
         ".installment {margin-top: -17px; margin-bottom: 30px;}",
         ".price-item--sale {font-weight: bold; font-size: x-large;}"
