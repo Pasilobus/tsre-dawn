@@ -14,6 +14,7 @@
         },
         "208eed6c-dbcd-46d2-a13e-a06d130e0e1f": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "SALE: 15% off Video On-Demand",
             "link": "shopify:\/\/products\/fl-video-63-hr-pre-licensing-class-online"
@@ -21,6 +22,7 @@
         },
         "218f560b-ecb1-4332-b62d-70dfff2618c7": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "SALE: 20% off Exam Prep",
             "link": "shopify:\/\/collections\/exam-prep"
@@ -30,7 +32,7 @@
           "type": "announcement",
           "settings": {
             "text": "Register Before Midnight to Save",
-            "link": ""
+            "link": "shopify:\/\/pages\/sale"
           }
         }
       },
