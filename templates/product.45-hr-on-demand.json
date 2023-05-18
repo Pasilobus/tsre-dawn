@@ -51,6 +51,13 @@
           "settings": {
           }
         },
+        "cd91acc8-c1af-4779-8dd3-f926b1b04fca": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>SALE:<\/strong> Use promo code <a href=\"https:\/\/tampaschoolofrealestate.com\/cart\/43665948311804:1,36564962836639:1?discount=VIDEO\" title=\"https:\/\/tampaschoolofrealestate.com\/cart\/43665948311804:1,36564962836639:1?discount=VIDEO\"><strong>VIDEO<\/strong><\/a> to <strong>Save 15%<\/strong>",
+            "text_style": "body"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -113,6 +120,7 @@
         "f046c38d-e8e7-457d-8554-665fc837eec5",
         "variant_picker",
         "quantity_selector",
+        "cd91acc8-c1af-4779-8dd3-f926b1b04fca",
         "buy_buttons",
         "description",
         "collapsible-row-0",
