@@ -307,7 +307,7 @@
       ".tax-note {display: none;}",
       ".cart__ctas {margin-top: 20px; margin-bottom: 30px;}",
       ".price__badge-sale {background-color: red; border: none;}",
-      ".badge {background-color: red; border: none;}"
+      ".badge {background-color: white; border: none; color:red; font-weight:bold;}"
     ]
   }
 }
