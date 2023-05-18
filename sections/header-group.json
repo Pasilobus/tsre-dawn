@@ -18,11 +18,19 @@
             "text": "SALE: 15% off Video On-Demand",
             "link": "shopify:\/\/products\/fl-video-63-hr-pre-licensing-class-online"
           }
+        },
+        "218f560b-ecb1-4332-b62d-70dfff2618c7": {
+          "type": "announcement",
+          "settings": {
+            "text": "SALE: 20% off Exam Prep",
+            "link": "shopify:\/\/collections\/exam-prep"
+          }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "208eed6c-dbcd-46d2-a13e-a06d130e0e1f"
+        "208eed6c-dbcd-46d2-a13e-a06d130e0e1f",
+        "218f560b-ecb1-4332-b62d-70dfff2618c7"
       ],
       "custom_css": [
 
@@ -31,7 +39,7 @@
         "color_scheme": "accent-1",
         "show_line_separator": true,
         "auto_rotate": false,
-        "change_slides_speed": 5
+        "change_slides_speed": 3
       }
     },
     "header": {
