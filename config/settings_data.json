@@ -308,7 +308,9 @@
       ".cart__ctas {margin-top: 20px; margin-bottom: 30px;}",
       ".price__badge-sale {background-color: red; border: none;}",
       ".badge {background-color: red; border: none; font-weight: bold; text-transform: uppercase;}",
-      ".product-form__buttons {font-weight: bolder; font-style: italic;}"
+      ".product-form__buttons {font-weight: bolder; font-style: italic;}",
+      ".card__heading {font-family: sans-serif; font-weight: 600; color: #014627;}",
+      ".card__content {padding: 0;}"
     ]
   }
 }
