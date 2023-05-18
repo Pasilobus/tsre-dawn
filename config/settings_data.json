@@ -309,7 +309,7 @@
       ".price__badge-sale {background-color: red; border: none;}",
       ".badge {background-color: red; border: none; font-weight: bold; text-transform: uppercase;}",
       ".product-form__buttons {font-weight: bolder; font-style: italic;}",
-      ".card__heading {color: #014627; font-size: 8.5pt;}",
+      ".card__heading {color: #014627;}",
       ".card__content {padding: 0;}"
     ]
   }
