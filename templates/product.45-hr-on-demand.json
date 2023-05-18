@@ -114,8 +114,7 @@
         ".product__title h1 {font-size: x-large; color: #014627;}",
         ".share-button {margin: 0px; font-weight: 500;}",
         ".installment {margin-top: -10px;}",
-        ".price-item--sale {font-weight: bold; font-size: x-large;}",
-        ".icon-with-text__item h4 {font-size: xx-small;}"
+        ".price-item--sale {font-weight: bold; font-size: x-large;}"
       ],
       "settings": {
         "enable_sticky_info": true,
