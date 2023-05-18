@@ -11,10 +11,18 @@
             "text": "Payment Plans Available",
             "link": "shopify:\/\/pages\/shop-pay"
           }
+        },
+        "208eed6c-dbcd-46d2-a13e-a06d130e0e1f": {
+          "type": "announcement",
+          "settings": {
+            "text": "SALE: 15% off Video On-Demand",
+            "link": "shopify:\/\/products\/fl-video-63-hr-pre-licensing-class-online"
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "208eed6c-dbcd-46d2-a13e-a06d130e0e1f"
       ],
       "custom_css": [
 
