@@ -311,7 +311,7 @@
       ".product-form__buttons {font-weight: bolder; font-style: italic;}",
       ".card__heading {color: #014627;}",
       ".card__content {padding: 0;}",
-      ".banner__buttons {font-weight: 600;}"
+      ".banner__buttons .button--primary{font-weight: 700; padding-left:20px; padding-right:20px;}"
     ]
   }
 }
