@@ -121,7 +121,7 @@
         "aa76d70d-1832-414f-9fd9-3ac0b193c651": {
           "type": "caption",
           "settings": {
-            "caption": "How to Become a Real State Agent",
+            "caption": "How to Become a Real Estate Agent",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -130,7 +130,7 @@
           "type": "heading",
           "settings": {
             "heading": "FL Real Estate License Guide",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         }
       },
@@ -144,7 +144,16 @@
         "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 28
+        "padding_bottom": 0
+      }
+    },
+    "f238a154-f771-4262-b3dd-405b8acd6953": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"om-totegcq7wultsrwlwsiu-holder\"><\/div>",
+        "color_scheme": "accent-1",
+        "padding_top": 0,
+        "padding_bottom": 52
       }
     },
     "54014787-4d67-449d-9028-a85d1558d513": {
@@ -735,15 +744,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "f238a154-f771-4262-b3dd-405b8acd6953": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div id=\"om-totegcq7wultsrwlwsiu-holder\"><\/div>",
-        "color_scheme": "accent-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -751,6 +751,7 @@
     "featured_collection",
     "36e69bd3-6da8-43a1-8311-46e7861d9ea1",
     "c683541c-d64e-4561-b9c2-ec8dbd34300a",
+    "f238a154-f771-4262-b3dd-405b8acd6953",
     "54014787-4d67-449d-9028-a85d1558d513",
     "777d0bbb-5660-4d59-8926-49146595b02c",
     "32c5e410-519b-4259-806f-f0d0724afe16",
@@ -766,7 +767,6 @@
     "12a8abbf-edf1-4411-b6b5-c194d03cb905",
     "35cec08c-8404-4e96-a5da-458b5490fc29",
     "5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6",
-    "f5439a72-b673-40a2-80a7-1553851751d9",
-    "f238a154-f771-4262-b3dd-405b8acd6953"
+    "f5439a72-b673-40a2-80a7-1553851751d9"
   ]
 }
