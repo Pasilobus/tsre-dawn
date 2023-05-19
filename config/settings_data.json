@@ -310,7 +310,8 @@
       ".badge {background-color: red; border: none; font-weight: bold; text-transform: uppercase;}",
       ".product-form__buttons {font-weight: bolder; font-style: italic;}",
       ".card__heading {color: #014627;}",
-      ".card__content {padding: 0;}"
+      ".card__content {padding: 0;}",
+      ".banner__buttons {font-weight: 600;}"
     ]
   }
 }
