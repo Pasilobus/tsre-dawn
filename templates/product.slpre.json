@@ -42,13 +42,20 @@
         "586745e2-4d3f-40a5-9b30-a7487f97eaf1": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?689125e15290349be666ad8057c'><\/script>"
+            "custom_liquid": "<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?689125e15290349be666ad8057c'><\/script>\n<div style=\"font-size: small;margin-top: -20px;padding-left:7px;\"><a href=\"#reviews\" >View Reviews<\/a><\/div>"
           }
         },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
             "picker_type": "dropdown"
+          }
+        },
+        "97d69151-3a06-4c5b-a98a-266c76d716d7": {
+          "type": "text",
+          "settings": {
+            "text": "<a href=\"#packages\" title=\"#packages\">View Bundle Packages<\/a>",
+            "text_style": "uppercase"
           }
         },
         "quantity_selector": {
@@ -119,6 +126,7 @@
         "price",
         "586745e2-4d3f-40a5-9b30-a7487f97eaf1",
         "variant_picker",
+        "97d69151-3a06-4c5b-a98a-266c76d716d7",
         "quantity_selector",
         "buy_buttons",
         "description",
