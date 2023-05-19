@@ -180,7 +180,8 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         },
         "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-1": {
@@ -191,7 +192,8 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         },
         "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-2": {
@@ -202,7 +204,8 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         }
       },
@@ -239,7 +242,8 @@
             "title": "",
             "text": "<h6>Six Figures in my first year!<\/h6><h3>If you're looking to get into real estate, I highly recommend it! My instructor made it easy to comprehend.<\/h3><p>- David Cribs<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         },
         "0e769e98-f557-4357-a418-9d9ec03732a5": {
@@ -249,7 +253,8 @@
             "title": "",
             "text": "<h6>Passed my state exam on the first try!<\/h6><h3>Tampa School of Real Estate gave me the knowledge, tools, and the confidence!<\/h3><p>- Rhonda Elias Spurling<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         },
         "fdfd7915-e882-4d91-8854-4cbc8b0e186d": {
@@ -259,7 +264,8 @@
             "title": "",
             "text": "<h6>Passed my state exam today!<\/h6><h3>The instructor kept the material interesting and easy to understand. Highly Recommend!<\/h3><p>- Christopher Foottit<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         }
       },
@@ -369,6 +375,9 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "custom_css": [
+        ".quick-add {display: none;}"
+      ],
       "settings": {
         "products_per_page": 16,
         "columns_desktop": 1,
