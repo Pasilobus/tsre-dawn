@@ -1,5 +1,15 @@
 {
   "sections": {
+    "shogun-helper": {
+      "type": "shogun-helper",
+      "settings": {
+      }
+    },
+    "shogun-above": {
+      "type": "shogun-above",
+      "settings": {
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -42,7 +52,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false,
+            "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
           }
         },
@@ -114,7 +124,12 @@
         "share"
       ],
       "custom_css": [
-        ".product__info-container iframe {aspect-ratio: 16\/9; height: auto;}"
+        ".product__info-container iframe {aspect-ratio: 16\/9; height: auto;}",
+        ".product__title h1 {font-size: x-large; color: #014627;}",
+        ".share-button {margin-top: -15px; font-weight: 500;}",
+        ".installment {margin-top: -17px;}",
+        ".price-item--sale {font-weight: bold; font-size: x-large;}",
+        ".product-form__submit {background-color: #eaef43; --color-base-outline-button-labels: #eaef43; color: #000; font-size: large;}"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -142,7 +157,8 @@
             "title": "FREC Approved School",
             "text": "<p>At TSRE, our school and all of our instructors are Florida Real Estate Commission Approved. <\/p><p>All Pre-Licensing, Post Licensing & Continuing Education course also maintain FREC Approval. <\/p><p><a href=\"https:\/\/www.myfloridalicense.com\/LicenseDetail.asp?SID=&id=4F3D91AAE03039862C0A9E9F33D69463\" target=\"_blank\" title=\"https:\/\/www.myfloridalicense.com\/LicenseDetail.asp?SID=&id=4F3D91AAE03039862C0A9E9F33D69463\">TSRE School License: #<strong>ZH1002233<\/strong><\/a><\/p><p><\/p><p><\/p><p><\/p><p><\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         },
         "template--16706509832444__e791962f-c569-4969-ab37-901e8108313d-1681517474f61b0990-1": {
@@ -152,7 +168,8 @@
             "title": "Trusted by 25,000+",
             "text": "<p>Since it's founding in 2007 TSRE has been trusted by over 25,000+ past students to launch and build their real estate empires.<\/p><p>At the Tampa School of Real Estate, your success is our success.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         },
         "template--16706509832444__e791962f-c569-4969-ab37-901e8108313d-1681517474f61b0990-2": {
@@ -162,7 +179,8 @@
             "title": "Student Success Team",
             "text": "<p>Your Success is Our Success<\/p><p>Our Student Success team is here to answer your questions and ensure you get the most out of your courses and study tools. <\/p><p>Available by phone, text, chat or email.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         }
       },
@@ -568,18 +586,8 @@
         "padding_bottom": 36
       }
     },
-    "shogun-above": {
-      "type": "shogun-above",
-      "settings": {
-      }
-    },
     "shogun-below": {
       "type": "shogun-below",
-      "settings": {
-      }
-    },
-    "shogun-helper": {
-      "type": "shogun-helper",
       "settings": {
       }
     }
