@@ -183,6 +183,15 @@
         "padding_bottom": 8
       }
     },
+    "4345ea86-bd75-4bb4-b7d9-ecd4ab3e499e": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"om-totegcq7wultsrwlwsiu-holder\"><\/div>",
+        "color_scheme": "accent-1",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "e791962f-c569-4969-ab37-901e8108313d": {
       "type": "multicolumn",
       "blocks": {
@@ -928,6 +937,7 @@
     "shogun-helper",
     "shogun-above",
     "main",
+    "4345ea86-bd75-4bb4-b7d9-ecd4ab3e499e",
     "e791962f-c569-4969-ab37-901e8108313d",
     "eca65864-63bd-4f8d-ae5e-e34d18fb8169",
     "2684f0e8-68c1-412b-8928-c383065eb440",
