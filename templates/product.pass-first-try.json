@@ -3,6 +3,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -48,7 +54,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false,
+            "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
           }
         },
@@ -96,15 +102,10 @@
             "content": "",
             "page": ""
           }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
+        "share",
         "vendor",
         "title",
         "caption",
@@ -117,11 +118,15 @@
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
-        "collapsible-row-3",
-        "share"
+        "collapsible-row-3"
       ],
       "custom_css": [
-        ".product__info-container iframe {aspect-ratio: 16\/9; height: auto;}"
+        ".product__info-container iframe {aspect-ratio: 16\/9; height: auto;}",
+        ".product__title h1 {font-size: x-large; color: #014627;}",
+        ".share-button {margin-top: -15px; font-weight: 500;}",
+        ".installment {margin-top: -17px;}",
+        ".price-item--sale {font-weight: bold; font-size: x-large;}",
+        ".product-form__submit {background-color: #eaef43; --color-base-outline-button-labels: #eaef43; color: #000; font-size: large;}"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -131,11 +136,11 @@
         "gallery_layout": "thumbnail_slider",
         "media_position": "left",
         "image_zoom": "lightbox",
-        "mobile_thumbnails": "show",
+        "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 12
+        "padding_bottom": 28
       }
     },
     "e791962f-c569-4969-ab37-901e8108313d": {
