@@ -167,7 +167,7 @@
         ".share-button {margin: 0px; font-weight: 500;}",
         ".installment {margin-top: -17px;}",
         ".price-item--sale {font-weight: bold; font-size: x-large;}",
-        ".product-form__submit {background-color: #eaef43;}"
+        ".product-form__submit {background-color: #eaef43; --color-base-outline-button-labels: #eaef43;}"
       ],
       "settings": {
         "enable_sticky_info": true,
