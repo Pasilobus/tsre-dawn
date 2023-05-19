@@ -3,6 +3,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -97,15 +103,10 @@
             "content": "",
             "page": ""
           }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
+        "share",
         "vendor",
         "title",
         "caption",
@@ -118,8 +119,7 @@
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
-        "collapsible-row-3",
-        "share"
+        "collapsible-row-3"
       ],
       "custom_css": [
         ".product__title h1 {font-size: x-large; color: #014627;}",
