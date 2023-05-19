@@ -735,6 +735,15 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "f238a154-f771-4262-b3dd-405b8acd6953": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"om-totegcq7wultsrwlwsiu-holder\"><\/div>",
+        "color_scheme": "accent-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -757,6 +766,7 @@
     "12a8abbf-edf1-4411-b6b5-c194d03cb905",
     "35cec08c-8404-4e96-a5da-458b5490fc29",
     "5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6",
-    "f5439a72-b673-40a2-80a7-1553851751d9"
+    "f5439a72-b673-40a2-80a7-1553851751d9",
+    "f238a154-f771-4262-b3dd-405b8acd6953"
   ]
 }
