@@ -49,17 +49,24 @@
             "custom_liquid": "<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?689125e15290349be666ad8057c'><\/script>"
           }
         },
+        "2267bf7f-bd10-4c73-951a-78c7d8dd2df0": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>SALE:<\/strong> Use promo code <a href=\"https:\/\/tampaschoolofrealestate.com\/cart\/33097690349699:1,36655747530911:1,43231747703036:1?discount=VIDEO\" title=\"Register Now for Video On-Demand Real Estate Class with Promo Code Video\"><strong>VIDEO<\/strong><\/a> to <strong>Save 15%<\/strong>",
+            "text_style": "body"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
             "picker_type": "dropdown"
           }
         },
-        "2267bf7f-bd10-4c73-951a-78c7d8dd2df0": {
+        "b757b683-45c1-4489-9efe-08b9b15f572c": {
           "type": "text",
           "settings": {
-            "text": "<strong>SALE:<\/strong> Use promo code <a href=\"https:\/\/tampaschoolofrealestate.com\/cart\/33097690349699:1,36655747530911:1,43231747703036:1?discount=VIDEO\" title=\"Register Now for Video On-Demand Real Estate Class with Promo Code Video\"><strong>VIDEO<\/strong><\/a> to <strong>Save 15%<\/strong>",
-            "text_style": "body"
+            "text": "<a href=\"#packages\" title=\"Real Estate Class Packages\">View Bundle Packages<\/a>",
+            "text_style": "uppercase"
           }
         },
         "quantity_selector": {
@@ -73,13 +80,6 @@
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
-          }
-        },
-        "b757b683-45c1-4489-9efe-08b9b15f572c": {
-          "type": "text",
-          "settings": {
-            "text": "<a href=\"#packages\" title=\"Real Estate Class Packages\">View Bundle Packages<\/a>",
-            "text_style": "body"
           }
         },
         "5004a6a8-9655-418e-8f29-5ed7fa30a159": {
@@ -150,11 +150,11 @@
         "caption",
         "price",
         "c0b8d2bc-4774-4007-86ce-35032e4835fe",
-        "variant_picker",
         "2267bf7f-bd10-4c73-951a-78c7d8dd2df0",
+        "variant_picker",
+        "b757b683-45c1-4489-9efe-08b9b15f572c",
         "quantity_selector",
         "buy_buttons",
-        "b757b683-45c1-4489-9efe-08b9b15f572c",
         "5004a6a8-9655-418e-8f29-5ed7fa30a159",
         "description",
         "collapsible-row-0",
