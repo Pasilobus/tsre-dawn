@@ -10,7 +10,7 @@
     "36b36856-f5d0-46f7-af4f-3f576902470a": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div id=\"reviews\" style=\"max-width:800px;margin: 0 auto\"><h2>Reviews<\/h2>\n<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?b90b3b615a684476ed36c771729'><\/script>\n<a href=\"https:\/\/www.trustindex.io\/reviews\/tampaschoolofrealestate.com\" target=\"_blank\">View All Reviews<\/a>\n<\/div>",
+        "custom_liquid": "<div id=\"reviews\" style=\"max-width:800px;margin: 0 auto\">\n<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?b90b3b615a684476ed36c771729'><\/script>\n<a href=\"https:\/\/www.trustindex.io\/reviews\/tampaschoolofrealestate.com\" target=\"_blank\">View All Reviews<\/a>\n<\/div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
