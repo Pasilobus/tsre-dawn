@@ -92,7 +92,7 @@
       "settings": {
         "title": "<strong>FL Real Estate Classes Online & On-Demand<\/strong>",
         "heading_size": "h2",
-        "description": "<p>Whether you're new to real estate or need to complete your renewal requirements, <strong>TSRE has more course options than any other Florida real estate school.<\/strong> Better yet, all of our classes are backed by our 1-Year Retake Guarantee.<\/p>",
+        "description": "<p>Whether you're new to real estate or just need to complete renewal requirements, <strong>TSRE has more course options than any other Florida real estate school.<\/strong> Better yet, all of our classes are backed by our <strong>1-Year Retake Guarantee.<\/strong><\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "online-courses",
@@ -143,7 +143,7 @@
         "content_alignment": "center",
         "color_scheme": "accent-1",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 32,
         "padding_bottom": 0
       }
     },
