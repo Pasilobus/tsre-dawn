@@ -625,24 +625,6 @@
     "4c191d3d-fec1-4871-8d75-408f33382ceb": {
       "type": "collapsible-content",
       "blocks": {
-        "template--16706509832444__4c191d3d-fec1-4871-8d75-408f33382ceb-1681512236f2d3d139-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What's required to complete your post license requirement in Florida?",
-            "icon": "question_mark",
-            "row_content": "<p>For your first license renewal, you must complete 45 hours of FREC approved post licensing education. <\/p>",
-            "page": ""
-          }
-        },
-        "f5b2c247-bcc7-4c54-a6cb-7bebe5441c7b": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Can I get my complete my real estate post licensing online?",
-            "icon": "question_mark",
-            "row_content": "<p>Yes. You can complete the course and end of course exam online. We'll report your hours to the DBPR. You'll just need to remember to pay your renewal fee with the DBPR before your license expires.<\/p>",
-            "page": ""
-          }
-        },
         "3e922800-6995-43f3-9164-9b213ae0a6f1": {
           "type": "collapsible_row",
           "settings": {
@@ -669,21 +651,29 @@
             "row_content": "<p>Both the class and state exam are 100 question, 4-option (A, B, C, D) multiple choice. You must score at least 70% on the course exam and 75% on the state exam. There are 10 math quetsions, but you may use a calculator for both exams.You will learn everything you need to know in the course, but to focus in on the most important topics in the most streamlined way, we recommend adding the Pass First Try Exam Prep bundle.<\/p>",
             "page": ""
           }
+        },
+        "template--16706509832444__4c191d3d-fec1-4871-8d75-408f33382ceb-1681512236f2d3d139-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What's required to complete your post license requirement in Florida?",
+            "icon": "question_mark",
+            "row_content": "<p>For your first license renewal, you must complete 45 hours of FREC approved post licensing education. <\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
-        "template--16706509832444__4c191d3d-fec1-4871-8d75-408f33382ceb-1681512236f2d3d139-0",
-        "f5b2c247-bcc7-4c54-a6cb-7bebe5441c7b",
         "3e922800-6995-43f3-9164-9b213ae0a6f1",
         "40b21378-1300-4f2e-b44a-b34cbc72b956",
-        "a0349d72-1de4-4599-9b34-0afc267dcd58"
+        "a0349d72-1de4-4599-9b34-0afc267dcd58",
+        "template--16706509832444__4c191d3d-fec1-4871-8d75-408f33382ceb-1681512236f2d3d139-0"
       ],
       "custom_css": [
         ".collapsible-section-layout {padding-top: 1rem; padding-bottom: 1rem;}"
       ],
       "settings": {
         "caption": "",
-        "heading": "Post licensing",
+        "heading": "Licensing",
         "heading_size": "h2",
         "heading_alignment": "left",
         "layout": "section",
@@ -791,7 +781,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Course",
+        "heading": "Shipping",
         "heading_size": "h2",
         "heading_alignment": "left",
         "layout": "section",
@@ -935,6 +925,15 @@
       "type": "shogun-below",
       "settings": {
       }
+    },
+    "2a14fca7-1bc5-4273-bcfb-0e59d1f6cca5": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -958,6 +957,7 @@
     "4cedd084-a584-4349-a5c7-48bba3ee06f7",
     "03871ee9-3224-43f9-9e3b-e3f10e48cf62",
     "related-products",
-    "shogun-below"
+    "shogun-below",
+    "2a14fca7-1bc5-4273-bcfb-0e59d1f6cca5"
   ]
 }
