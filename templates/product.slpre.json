@@ -905,6 +905,15 @@
         "show_text_below": true
       }
     },
+    "b9f8b6f9-d5ca-47c0-8641-ef67905859c7": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"reviews\" style=\"max-width:800px;margin: 0 auto\"><h2>Reviews<\/h2>\n<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?df87c3c15311456b8756f17c575'><\/script>\n<a href=\"\/pages\/reviews\">View More Reviews<\/a><\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "4cedd084-a584-4349-a5c7-48bba3ee06f7": {
       "type": "image-with-text",
       "blocks": {
@@ -1053,6 +1062,7 @@
     "f60efdb7-93cb-4899-a69e-eb71d3b342a0",
     "f707403b-761d-4b4d-a33b-121d16832c9c",
     "0c6bb3aa-25c7-4db0-9553-2b5d2b03b3f2",
+    "b9f8b6f9-d5ca-47c0-8641-ef67905859c7",
     "4cedd084-a584-4349-a5c7-48bba3ee06f7",
     "related-products",
     "03871ee9-3224-43f9-9e3b-e3f10e48cf62"
