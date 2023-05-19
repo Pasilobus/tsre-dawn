@@ -5,27 +5,18 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "3e040e1f-dd6a-42dc-ae3c-883077fae92d": {
+          "type": "announcement",
+          "settings": {
+            "text": "☎ Call or Text: (813) 333-2676",
+            "link": "tel:18133332676"
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
             "text": "💰 Payment Plans Available",
             "link": "shopify:\/\/pages\/shop-pay"
-          }
-        },
-        "208eed6c-dbcd-46d2-a13e-a06d130e0e1f": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "SALE: 15% off Video On-Demand",
-            "link": "shopify:\/\/products\/fl-video-63-hr-pre-licensing-class-online"
-          }
-        },
-        "218f560b-ecb1-4332-b62d-70dfff2618c7": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "SALE: 20% off Exam Prep",
-            "link": "shopify:\/\/collections\/exam-prep"
           }
         },
         "46bc70f6-d6ac-4751-bbb5-c0a59b50446d": {
@@ -44,9 +35,8 @@
         }
       },
       "block_order": [
+        "3e040e1f-dd6a-42dc-ae3c-883077fae92d",
         "announcement-bar-0",
-        "208eed6c-dbcd-46d2-a13e-a06d130e0e1f",
-        "218f560b-ecb1-4332-b62d-70dfff2618c7",
         "46bc70f6-d6ac-4751-bbb5-c0a59b50446d",
         "6237f3b2-8997-44e4-b25d-9464d96f56b2"
       ],
