@@ -797,7 +797,7 @@
     "2a14fca7-1bc5-4273-bcfb-0e59d1f6cca5": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div id=\"reviews\" style=\"max-width:800px;margin: 0 auto\"><h2>Reviews<\/h2>\n<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?45faa5c126fd8117026645f1702'><\/script><\/div>",
+        "custom_liquid": "<div id=\"reviews\" style=\"max-width:800px;margin: 0 auto\"><h2>Reviews<\/h2>\n<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?45faa5c126fd8117026645f1702'><\/script>\n<a href=\"\/pages\/reviews\">View All Reviews<\/a><\/div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 48
