@@ -167,7 +167,7 @@
         ".share-button {margin: 0px; font-weight: 500;}",
         ".installment {margin-top: -17px;}",
         ".price-item--sale {font-weight: bold; font-size: x-large;}",
-        ".product-form__submit {background-color: #eaef43; --color-base-outline-button-labels: #eaef43; color:#000; font-size: large;}"
+        ".product-form__submit {background-color: #eaef43; --color-base-outline-button-labels: #eaef43; color: #000; font-size: large;}"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -177,11 +177,11 @@
         "gallery_layout": "stacked",
         "media_position": "left",
         "image_zoom": "lightbox",
-        "mobile_thumbnails": "show",
+        "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 44,
-        "padding_bottom": 8
+        "padding_bottom": 12
       }
     },
     "4345ea86-bd75-4bb4-b7d9-ecd4ab3e499e": {
