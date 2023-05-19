@@ -1,6 +1,6 @@
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/TSRE_Tampa_School_of_Real_Estate_Logo.png",
+    "logo": "shopify:\/\/shop_images\/TSRE_Tampa_School_of_Real_Estate.svg",
     "logo_width": 200,
     "favicon": "shopify:\/\/shop_images\/Stars_512px.png",
     "colors_solid_button_labels": "#ffffff",
@@ -12,7 +12,7 @@
     "colors_outline_button_labels": "#014627",
     "colors_background_1": "#ffffff",
     "gradient_background_1": "",
-    "colors_background_2": "#fcfcfc",
+    "colors_background_2": "#fdfcfc",
     "gradient_background_2": "",
     "type_header_font": "zurich_extended_n8",
     "heading_scale": 100,
@@ -22,7 +22,7 @@
     "spacing_sections": 0,
     "spacing_grid_horizontal": 28,
     "spacing_grid_vertical": 28,
-    "buttons_border_thickness": 2,
+    "buttons_border_thickness": 5,
     "buttons_border_opacity": 100,
     "buttons_radius": 4,
     "buttons_shadow_opacity": 0,
@@ -31,7 +31,7 @@
     "buttons_shadow_blur": 5,
     "variant_pills_border_thickness": 1,
     "variant_pills_border_opacity": 55,
-    "variant_pills_radius": 40,
+    "variant_pills_radius": 12,
     "variant_pills_shadow_opacity": 0,
     "variant_pills_shadow_horizontal_offset": 0,
     "variant_pills_shadow_vertical_offset": 4,
@@ -43,15 +43,15 @@
     "inputs_shadow_horizontal_offset": 0,
     "inputs_shadow_vertical_offset": 4,
     "inputs_shadow_blur": 5,
-    "card_style": "standard",
+    "card_style": "card",
     "card_image_padding": 0,
-    "card_text_alignment": "center",
+    "card_text_alignment": "left",
     "card_color_scheme": "background-2",
-    "card_border_thickness": 0,
-    "card_border_opacity": 10,
-    "card_corner_radius": 0,
+    "card_border_thickness": 1,
+    "card_border_opacity": 5,
+    "card_corner_radius": 8,
     "card_shadow_opacity": 0,
-    "card_shadow_horizontal_offset": 0,
+    "card_shadow_horizontal_offset": -40,
     "card_shadow_vertical_offset": 4,
     "card_shadow_blur": 5,
     "collection_card_style": "standard",
@@ -103,8 +103,8 @@
     "drawer_shadow_horizontal_offset": 0,
     "drawer_shadow_vertical_offset": 4,
     "drawer_shadow_blur": 5,
-    "badge_position": "bottom left",
-    "badge_corner_radius": 40,
+    "badge_position": "top right",
+    "badge_corner_radius": 0,
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "accent-1",
@@ -119,12 +119,12 @@
     "social_tumblr_link": "",
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
-    "predictive_search_show_vendor": false,
+    "predictive_search_show_vendor": true,
     "predictive_search_show_price": false,
-    "currency_code_enabled": true,
-    "cart_type": "drawer",
-    "show_vendor": false,
-    "show_cart_note": true,
+    "currency_code_enabled": false,
+    "cart_type": "page",
+    "show_vendor": true,
+    "show_cart_note": false,
     "cart_drawer_collection": "top-deals",
     "sections": {
       "main-password-header": {
@@ -144,8 +144,15 @@
 
     ],
     "blocks": {
-      "11656770355074664061": {
-        "type": "shopify:\/\/apps\/pasilobus-google-analytics-4\/blocks\/ga4\/a193266a-8f65-4da8-bcba-d9df8d371e21",
+      "10605408327587305396": {
+        "type": "shopify:\/\/apps\/easygift\/blocks\/app-embed\/0f7d4f74-1e89-4820-aec4-6564d7e535d2",
+        "disabled": false,
+        "settings": {
+          "version": "v3"
+        }
+      },
+      "4551646370426404704": {
+        "type": "shopify:\/\/apps\/pasilobus-turbo-speed-booster\/blocks\/turbo\/b60f64a7-2618-4d56-876c-fcf619939a47",
         "disabled": false,
         "settings": {
         }
@@ -295,7 +302,16 @@
   },
   "platform_customizations": {
     "custom_css": [
-
+      ".cart__checkout-button {background-color: #eaef43; color: #000000; font-weight: bolder; font-style: italic; --buttons-border-width: 0px;}",
+      ".product__tax {display: none;}",
+      ".tax-note {display: none;}",
+      ".cart__ctas {margin-top: 20px; margin-bottom: 30px;}",
+      ".price__badge-sale {background-color: red; border: none;}",
+      ".badge {background-color: red; border: none; font-weight: bold; text-transform: uppercase;}",
+      ".product-form__buttons {font-weight: bolder; font-style: italic;}",
+      ".card__heading {color: #014627;}",
+      ".card__content {padding: 0;}",
+      ".banner__buttons .button--primary{font-weight: 700; padding-left:20px; padding-right:20px;}"
     ]
   }
 }

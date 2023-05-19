@@ -1,0 +1,847 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "7f25d279-9817-4e48-8431-079b27d81de9": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16719126462716__7f25d279-9817-4e48-8431-079b27d81de9-1683682486f44efe67-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https:\/\/tampaschoolofrealestate.com\/pages\/independence-sale#self-63\">Self Guided 63 Hour Pre-Licensing<\/a><\/p><p><a href=\"https:\/\/tampaschoolofrealestate.com\/pages\/independence-sale#instructor-63\">Instructor-Led On Demand 63 Hour Pre-Licensing<\/a><\/p><p><a href=\"https:\/\/tampaschoolofrealestate.com\/pages\/independence-sale#pass-first-try\">Exam Prep Tools<\/a><\/p><p><a href=\"https:\/\/tampaschoolofrealestate.com\/pages\/independence-sale#self-45\">Self Guided 45-Hour Post Licensing<\/a><\/p><p><a href=\"https:\/\/tampaschoolofrealestate.com\/pages\/independence-sale#self-72\">72 Hour Broker Pre-Licensing<\/a><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16719126462716__7f25d279-9817-4e48-8431-079b27d81de9-1683682486f44efe67-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Group_1_019fc9b8-abb0-47c7-8b25-15bae8c02aa2.png",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "f818b4e0-9f64-4235-88bf-782b075813f2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "This weekend only – Save now",
+            "heading_size": "h1"
+          }
+        },
+        "7824603b-aa0e-48dd-979b-c66e6e8f6b16": {
+          "type": "caption",
+          "settings": {
+            "caption": "Saving to help the next step",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Why did we want independence so many years ago? Why did we want to live free?<\/p><p>The same reasons we all want to be free today. But despite living in America, you might not feel like you experience true freedom.<\/p><p>It's comes at a price. We had to fight for our freedom 246 years ago, and we need to fight for it today.<\/p><p>Maybe you want to be more in control of your schedule with the option of unlimited income potential if you want to go all in. Either way you need to take action to make it happen!<\/p><p>Take advantage of these savings and specials available this weekend only on the entire catalog at TampaSchoolofRealEstate.com to help you gain your independece!<\/p><p>We've included the best deals below:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-0",
+        "7824603b-aa0e-48dd-979b-c66e6e8f6b16",
+        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "3952433b-161c-45fb-add4-2aee2a6bec2e": {
+      "type": "rich-text",
+      "blocks": {
+        "f9600351-36d2-4a79-9a14-7765cf21fd54": {
+          "type": "caption",
+          "settings": {
+            "caption": "Self-Guided 63-Hour FL Real Estate",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--16714870161660__3952433b-161c-45fb-add4-2aee2a6bec2e-1682983121c9e42f58-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our biggest savings",
+            "heading_size": "h1"
+          }
+        },
+        "babf7c0e-846b-4c56-98cb-bf1ea22b2a95": {
+          "type": "text",
+          "settings": {
+            "text": "<p>100% Online FREC Required Course Required to Earn Your Florida Real Estate License<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "f9600351-36d2-4a79-9a14-7765cf21fd54",
+        "template--16714870161660__3952433b-161c-45fb-add4-2aee2a6bec2e-1682983121c9e42f58-0",
+        "babf7c0e-846b-4c56-98cb-bf1ea22b2a95"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "889404a3-018d-4fa6-bdf3-b55964bcdeb8": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16719100018940__889404a3-018d-4fa6-bdf3-b55964bcdeb8-16836713978fe608bb-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--16719100018940__889404a3-018d-4fa6-bdf3-b55964bcdeb8-16836713978fe608bb-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "518bc357-e001-4d03-b697-32b89f74fcb9": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>This course includes:<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "9d550b3d-be7f-463f-9918-b5a932da328c": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Concise Text-based Info",
+            "text_style": "body"
+          }
+        },
+        "6b870f9c-c26c-47f9-84fe-60fe858dee42": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Interactive Exercises",
+            "text_style": "body"
+          }
+        },
+        "ebadac68-d759-4ab9-980e-7ffe37ca3380": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Practice Exam & Online Final",
+            "text_style": "body"
+          }
+        },
+        "a5190dc0-3449-4eaf-9cce-c8f61fbd489d": {
+          "type": "text",
+          "settings": {
+            "text": "✅ 100% Mobile Compatible",
+            "text_style": "body"
+          }
+        },
+        "be4dd48a-652e-4f88-b360-a2a0afc1404c": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Student Support Team",
+            "text_style": "body"
+          }
+        },
+        "927679d6-c13a-4eed-b256-f441e56cad44": {
+          "type": "text",
+          "settings": {
+            "text": "✅ 365 Days of Access",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16719100018940__889404a3-018d-4fa6-bdf3-b55964bcdeb8-16836713978fe608bb-2",
+        "template--16719100018940__889404a3-018d-4fa6-bdf3-b55964bcdeb8-16836713978fe608bb-5",
+        "518bc357-e001-4d03-b697-32b89f74fcb9",
+        "9d550b3d-be7f-463f-9918-b5a932da328c",
+        "6b870f9c-c26c-47f9-84fe-60fe858dee42",
+        "ebadac68-d759-4ab9-980e-7ffe37ca3380",
+        "a5190dc0-3449-4eaf-9cce-c8f61fbd489d",
+        "be4dd48a-652e-4f88-b360-a2a0afc1404c",
+        "927679d6-c13a-4eed-b256-f441e56cad44"
+      ],
+      "settings": {
+        "product": "fl-video-63-hr-pre-licensing-class-online",
+        "color_scheme": "accent-1",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "cover",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "306ad6fa-393a-461f-93e4-8304e5689b01": {
+      "type": "rich-text",
+      "blocks": {
+        "5bddfe7f-13b9-4c13-9289-ff658293a250": {
+          "type": "caption",
+          "settings": {
+            "caption": "Instructor-led 63-Hour FL Real Estate",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "141115f5-a662-4261-a295-9eab87a09466": {
+          "type": "heading",
+          "settings": {
+            "heading": "An instructor on your schedule",
+            "heading_size": "h1"
+          }
+        },
+        "f32ab6db-0456-4bc4-8b3e-8b7dac17cc60": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Now you can complete the course in an instructor guided format, online and on your schedule<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "5bddfe7f-13b9-4c13-9289-ff658293a250",
+        "141115f5-a662-4261-a295-9eab87a09466",
+        "f32ab6db-0456-4bc4-8b3e-8b7dac17cc60"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "ce268627-e02a-409e-94fa-9c5eb85ce876": {
+      "type": "featured-product",
+      "blocks": {
+        "28e4cdd7-4622-459e-a208-5fc8370cce6d": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "5a1ba1d2-d418-4c9b-9df8-8c38577cd7cc": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "f86df6cf-65f8-46df-9440-a7a5f53ed212": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>This course includes:<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "5cce919e-48f7-4e51-85fd-29dfda0fe818": {
+          "type": "text",
+          "settings": {
+            "text": "✅ FL Sales Associate Textbook",
+            "text_style": "body"
+          }
+        },
+        "8f79a470-8a0b-4324-98e3-2ce91bb9fdde": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Short, Easy to Follow Videos",
+            "text_style": "body"
+          }
+        },
+        "5b6c96a4-2cea-4cd7-b062-9ba42284c64a": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Quick Knowledge Checkpoints",
+            "text_style": "body"
+          }
+        },
+        "c96e9598-ed42-4577-8584-0b25a354beef": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Practice Exam & Online Final",
+            "text_style": "body"
+          }
+        },
+        "1bb32de9-0e52-4f61-b773-0fceec9f545f": {
+          "type": "text",
+          "settings": {
+            "text": "✅ 100% Mobile Compatible",
+            "text_style": "body"
+          }
+        },
+        "f4fa498d-8a86-4f1b-8f96-d641e422d1bd": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Student Support Team",
+            "text_style": "body"
+          }
+        },
+        "f81f10c4-c34f-4c0a-b7ec-3d04341bd795": {
+          "type": "text",
+          "settings": {
+            "text": "✅ 365 Days of Access",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "28e4cdd7-4622-459e-a208-5fc8370cce6d",
+        "5a1ba1d2-d418-4c9b-9df8-8c38577cd7cc",
+        "f86df6cf-65f8-46df-9440-a7a5f53ed212",
+        "5cce919e-48f7-4e51-85fd-29dfda0fe818",
+        "8f79a470-8a0b-4324-98e3-2ce91bb9fdde",
+        "5b6c96a4-2cea-4cd7-b062-9ba42284c64a",
+        "c96e9598-ed42-4577-8584-0b25a354beef",
+        "1bb32de9-0e52-4f61-b773-0fceec9f545f",
+        "f4fa498d-8a86-4f1b-8f96-d641e422d1bd",
+        "f81f10c4-c34f-4c0a-b7ec-3d04341bd795"
+      ],
+      "settings": {
+        "product": "in-person-or-livestream-sales-associate-pre-licensing-deposit",
+        "color_scheme": "accent-1",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "cover",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "93f369de-c25c-42d6-9547-c5d6855b0e48": {
+      "type": "rich-text",
+      "blocks": {
+        "8e04256c-b873-41e0-aede-704e1055892d": {
+          "type": "caption",
+          "settings": {
+            "caption": "Pass First Try Strategy",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "11d235e7-e38e-4d55-a143-b096cefc060c": {
+          "type": "heading",
+          "settings": {
+            "heading": "Exam Prep Tools",
+            "heading_size": "h1"
+          }
+        },
+        "28c07754-7e6e-4a6d-836a-81465d2d00cb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Save big this weekend only on the tools used by thousands to expedite and streamline their studying for the FL Real Estate Exam<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "8e04256c-b873-41e0-aede-704e1055892d",
+        "11d235e7-e38e-4d55-a143-b096cefc060c",
+        "28c07754-7e6e-4a6d-836a-81465d2d00cb"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "d47d144a-cb95-4870-a487-652130ebb5d1": {
+      "type": "featured-product",
+      "blocks": {
+        "1a3fa4af-92da-4186-8b30-1b0cea2f0ec6": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "31e7eca5-e57f-4b9d-abe4-932e9d2c6afb": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "41f1c752-c9bc-4198-968b-67c103b197c9": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>This package includes:<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "6be03052-45f3-4b0a-b0ea-a3b0f5d9b2ce": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Secrets of the Exam Course",
+            "text_style": "body"
+          }
+        },
+        "832e7751-7997-46fb-9235-a7e3c0d7e1f5": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Online MP3 Audio Review",
+            "text_style": "body"
+          }
+        },
+        "06b97ab2-27d2-44d9-8090-170240d4364d": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Question Simulator",
+            "text_style": "body"
+          }
+        },
+        "0a005ecb-e9a4-447d-95e3-e1f0f1f39996": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Weekend Prep Recording",
+            "text_style": "body"
+          }
+        },
+        "e59a2146-f27d-4913-868b-27709b1965d5": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Weekend Prep Workbook",
+            "text_style": "body"
+          }
+        },
+        "10fe5cab-59b2-43f8-a9e2-278f510b3197": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Student Support Team",
+            "text_style": "body"
+          }
+        },
+        "6e024df3-eb84-4716-bd53-d723377f3a4d": {
+          "type": "text",
+          "settings": {
+            "text": "✅ 180 Days of Access",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1a3fa4af-92da-4186-8b30-1b0cea2f0ec6",
+        "31e7eca5-e57f-4b9d-abe4-932e9d2c6afb",
+        "41f1c752-c9bc-4198-968b-67c103b197c9",
+        "6be03052-45f3-4b0a-b0ea-a3b0f5d9b2ce",
+        "832e7751-7997-46fb-9235-a7e3c0d7e1f5",
+        "06b97ab2-27d2-44d9-8090-170240d4364d",
+        "0a005ecb-e9a4-447d-95e3-e1f0f1f39996",
+        "e59a2146-f27d-4913-868b-27709b1965d5",
+        "10fe5cab-59b2-43f8-a9e2-278f510b3197",
+        "6e024df3-eb84-4716-bd53-d723377f3a4d"
+      ],
+      "settings": {
+        "product": "pass-first-try-exam-prep",
+        "color_scheme": "accent-1",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "cover",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0b76045e-caad-42f8-aec1-a3d9db1f97af": {
+      "type": "rich-text",
+      "blocks": {
+        "5cc919e5-36f0-4db7-bd94-d6c90d461b89": {
+          "type": "caption",
+          "settings": {
+            "caption": "Self Guide Online 45-Hour FL Real Estate",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "752efbbb-bcec-45a6-b3f2-a1177945abed": {
+          "type": "heading",
+          "settings": {
+            "heading": "Post Licensing",
+            "heading_size": "h1"
+          }
+        },
+        "9154b1df-b003-4aff-92a7-2f4812a6144b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>100% Online FREC Required Course Required to Complete Your First Sales Associate License Renewal<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "5cc919e5-36f0-4db7-bd94-d6c90d461b89",
+        "752efbbb-bcec-45a6-b3f2-a1177945abed",
+        "9154b1df-b003-4aff-92a7-2f4812a6144b"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "388bae78-7645-472b-b4be-14183e68cb5c": {
+      "type": "featured-product",
+      "blocks": {
+        "0d2e5da8-c174-4286-a867-2346720d80b4": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "5164b09a-77e4-4bb2-bb42-f34c84fb1bfc": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "8989bf27-52c3-4b33-9f7e-69a96475dbae": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>This course includes:<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "b1171f25-d491-42cd-b074-22e180101335": {
+          "type": "text",
+          "settings": {
+            "text": "✅ 3x15-Hour Mini-Courses",
+            "text_style": "body"
+          }
+        },
+        "cbd9a94f-0ab5-421a-a3a8-26703d319e3f": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Easier to Complete than 1 Long 45-Hour",
+            "text_style": "body"
+          }
+        },
+        "062cf565-c325-4603-b1a0-6af2c01a3813": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Concise Text-Based Info",
+            "text_style": "body"
+          }
+        },
+        "803e49b6-bcda-4d60-8972-66a4c4cecf45": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Interactive Exercises",
+            "text_style": "body"
+          }
+        },
+        "54bff426-2c96-40b3-8f48-0e42502e69d1": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Practice Exam & Online Final",
+            "text_style": "body"
+          }
+        },
+        "53664f49-3631-467f-abc0-7fd847972c12": {
+          "type": "text",
+          "settings": {
+            "text": "✅ 100% Mobile Compatible",
+            "text_style": "body"
+          }
+        },
+        "993a168d-d28e-4f6d-99eb-d7dfa99e164a": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Student Support Team",
+            "text_style": "body"
+          }
+        },
+        "97f19964-a2ac-44c1-aa83-722cbaeb2f43": {
+          "type": "text",
+          "settings": {
+            "text": "✅ 365 Days of Access",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "0d2e5da8-c174-4286-a867-2346720d80b4",
+        "5164b09a-77e4-4bb2-bb42-f34c84fb1bfc",
+        "8989bf27-52c3-4b33-9f7e-69a96475dbae",
+        "b1171f25-d491-42cd-b074-22e180101335",
+        "cbd9a94f-0ab5-421a-a3a8-26703d319e3f",
+        "062cf565-c325-4603-b1a0-6af2c01a3813",
+        "803e49b6-bcda-4d60-8972-66a4c4cecf45",
+        "54bff426-2c96-40b3-8f48-0e42502e69d1",
+        "53664f49-3631-467f-abc0-7fd847972c12",
+        "993a168d-d28e-4f6d-99eb-d7dfa99e164a",
+        "97f19964-a2ac-44c1-aa83-722cbaeb2f43"
+      ],
+      "settings": {
+        "product": "sales-associate-45-hour-post-licensing",
+        "color_scheme": "accent-1",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "cover",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "53ad5b8c-9e1a-4669-9916-2b2ecc134271": {
+      "type": "rich-text",
+      "blocks": {
+        "5467e671-b948-440b-aca4-e2f1fa06fd7d": {
+          "type": "caption",
+          "settings": {
+            "caption": "Self Guide Online 72-Hour FL Real Estate",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "4a9a90f0-6108-4b0e-9d4c-7873168f4950": {
+          "type": "heading",
+          "settings": {
+            "heading": "Broker Pre-Licensing",
+            "heading_size": "h1"
+          }
+        },
+        "53f2a674-8635-4be8-b8c7-447af0ba0a27": {
+          "type": "text",
+          "settings": {
+            "text": "<p>100% Online FREC Required Course Required to Upgrade to a Broker Pre-License<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "5467e671-b948-440b-aca4-e2f1fa06fd7d",
+        "4a9a90f0-6108-4b0e-9d4c-7873168f4950",
+        "53f2a674-8635-4be8-b8c7-447af0ba0a27"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "64d0397b-91da-4ecf-a17e-178bf4000222": {
+      "type": "featured-product",
+      "blocks": {
+        "b6281f8c-eb3e-4abc-b59c-64562a6e9764": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "79cf1693-473d-44dc-8381-93d7281cdec6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "a0d48912-a754-47ef-8729-3836cc237a55": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>This course includes:<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "9fa9c02e-6a5b-414f-b6e8-13ce597580ab": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Concise Text-Based Info",
+            "text_style": "body"
+          }
+        },
+        "6ced28fd-1b4e-49d6-ada2-2cfb56685e94": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Interactive Exercises",
+            "text_style": "body"
+          }
+        },
+        "5c0f1f6c-2fdc-4d9f-8c7d-d1f749538281": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Practice Exam & Online Final",
+            "text_style": "body"
+          }
+        },
+        "f6ede9ab-9ee8-4b4a-b5cc-9d1adf8f358a": {
+          "type": "text",
+          "settings": {
+            "text": "✅ 100% Mobile Compatible",
+            "text_style": "body"
+          }
+        },
+        "11ad1e4b-acd1-44f3-8e65-5f42a9939403": {
+          "type": "text",
+          "settings": {
+            "text": "✅ Student Support Team",
+            "text_style": "body"
+          }
+        },
+        "5608df38-46a3-415a-9d45-0dd96a2b603a": {
+          "type": "text",
+          "settings": {
+            "text": "✅ 365 Days of Access",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "b6281f8c-eb3e-4abc-b59c-64562a6e9764",
+        "79cf1693-473d-44dc-8381-93d7281cdec6",
+        "a0d48912-a754-47ef-8729-3836cc237a55",
+        "9fa9c02e-6a5b-414f-b6e8-13ce597580ab",
+        "6ced28fd-1b4e-49d6-ada2-2cfb56685e94",
+        "5c0f1f6c-2fdc-4d9f-8c7d-d1f749538281",
+        "f6ede9ab-9ee8-4b4a-b5cc-9d1adf8f358a",
+        "11ad1e4b-acd1-44f3-8e65-5f42a9939403",
+        "5608df38-46a3-415a-9d45-0dd96a2b603a"
+      ],
+      "settings": {
+        "product": "fl-72-hr-broker-licensing-self-guided-online-course",
+        "color_scheme": "accent-1",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "cover",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "69d2b457-24c9-4c02-ba2f-434e73ca8fba": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_58a938a5-36ef-4a9a-9075-a4f540f68946.webp",
+            "icon": "",
+            "title": "",
+            "text": "<p>Streamline your learning wherever you have an internet connection<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_1_b9e23cb9-c089-4244-8070-882d6b2db409.webp",
+            "icon": "",
+            "title": "",
+            "text": "<p>Enjoy 24\/7\/365 access so you can study anytime<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "070e406e-cca2-4530-b83e-77a32a618e2c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_2_29ff80c7-c710-457d-b9e3-2dd34e4afd75.webp",
+            "icon": "",
+            "title": "",
+            "text": "<p>Accessible to any devices to ensure you’ll get maximum potential of passing the exam.<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "a3e42bde-6b94-41b7-93f7-3bd98794c22e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_3_36743695-ef80-4c24-a6cf-67c88e705082.webp",
+            "icon": "",
+            "title": "",
+            "text": "<p>Empower your confidence with dowloadable PDFs, infographic materials, and licensing content.<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-0",
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-1",
+        "070e406e-cca2-4530-b83e-77a32a618e2c",
+        "a3e42bde-6b94-41b7-93f7-3bd98794c22e"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 60,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "7f25d279-9817-4e48-8431-079b27d81de9",
+    "f818b4e0-9f64-4235-88bf-782b075813f2",
+    "3952433b-161c-45fb-add4-2aee2a6bec2e",
+    "889404a3-018d-4fa6-bdf3-b55964bcdeb8",
+    "306ad6fa-393a-461f-93e4-8304e5689b01",
+    "ce268627-e02a-409e-94fa-9c5eb85ce876",
+    "93f369de-c25c-42d6-9547-c5d6855b0e48",
+    "d47d144a-cb95-4870-a487-652130ebb5d1",
+    "0b76045e-caad-42f8-aec1-a3d9db1f97af",
+    "388bae78-7645-472b-b4be-14183e68cb5c",
+    "53ad5b8c-9e1a-4669-9916-2b2ecc134271",
+    "64d0397b-91da-4ecf-a17e-178bf4000222",
+    "69d2b457-24c9-4c02-ba2f-434e73ca8fba"
+  ]
+}

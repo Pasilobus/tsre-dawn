@@ -1,0 +1,695 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "3952433b-161c-45fb-add4-2aee2a6bec2e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16714870161660__3952433b-161c-45fb-add4-2aee2a6bec2e-1682983121c9e42f58-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Start your own brokerage",
+            "heading_size": "h1"
+          }
+        },
+        "13e4b314-6561-4988-815b-2eb22ceb2fb3": {
+          "type": "heading",
+          "settings": {
+            "heading": "OBTAIN YOUR FLORIDA BROKER LICENSE",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__3952433b-161c-45fb-add4-2aee2a6bec2e-1682983121c9e42f58-0",
+        "13e4b314-6561-4988-815b-2eb22ceb2fb3"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "30a46a07-42ae-434c-abb8-39a15c55cee8": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/youtu.be\/vax61uLL-nk",
+        "cover_image": "shopify:\/\/shop_images\/hqdefault.jpg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "accent-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "61c0a84d-0c40-4205-95dc-0917e3309992": {
+      "type": "rich-text",
+      "blocks": {
+        "7987b906-3d50-4e93-81e1-dad3edbfa476": {
+          "type": "text",
+          "settings": {
+            "text": "<p>TSRE | Tampa School of Real Estate offers courses required to obtain your Florida real estate broker license.<br\/><br\/>Our courses are approved by the Florida Real Estate Commission to satisfy all pre-licensing education requirements.<\/p>"
+          }
+        },
+        "d820f7b0-b5c5-4ef3-8b76-8bc1bab3120f": {
+          "type": "button",
+          "settings": {
+            "button_label": "Enroll for a live scheduled class",
+            "button_link": "shopify:\/\/collections\/broker-licensing",
+            "button_style_secondary": false,
+            "button_label_2": "Enroll for a self-guided online course",
+            "button_link_2": "shopify:\/\/products\/fl-72-hr-broker-licensing-self-guided-online-course",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "7987b906-3d50-4e93-81e1-dad3edbfa476",
+        "d820f7b0-b5c5-4ef3-8b76-8bc1bab3120f"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "69d2b457-24c9-4c02-ba2f-434e73ca8fba": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-0": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "2,000+",
+            "text": "<p>5 Star Reviews<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-1": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "25,000+",
+            "text": "<p>Trusted by 25K+ Past Students<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-0",
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9e81a78f-4044-4425-af02-99f4acd12a79": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Uprade to a real estate broker license",
+            "heading_size": "h1"
+          }
+        },
+        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you're a real estate agent in Florida, you may be wondering if it's time to upgrade your license. Even if you're not ready to open your own brokerage, you can elevate your status to broker associate at your current firm. We're here to guide you through the Florida Real Estate Commission (FREC) licensing requirements for a broker's license.<\/p><p>To open your own brokerage in Florida or become aa broker associate you'll need a broker licene, which leads us to your next question.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-0",
+        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1b0aa6c4-64c0-4aee-9c1a-ab98554b3172": {
+      "type": "image-with-text",
+      "blocks": {
+        "88aa3b35-467f-4e90-84e1-e8b407a0d44c": {
+          "type": "heading",
+          "settings": {
+            "heading": "Requirements needed:",
+            "heading_size": "h2"
+          }
+        },
+        "535af5d8-497d-4554-a1c4-a8dd1b2daa4c": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>✓ <\/strong>2 Years Experience<\/p><p><strong>✓ <\/strong>18 Years Old<\/p><p><strong>✓ <\/strong>High School Diploma or Equivalent<\/p><p><strong>✓ <\/strong>US Social Security Number<\/p><p><strong>✓ <\/strong>Approval of FL Application<\/p><p><strong>✓ <\/strong>Complete Pre-License Course<\/p><p><strong>✓ <\/strong>Pass Course Exam (70%)<\/p><p><strong>✓ <\/strong>Pass State Exam (75%)<\/p><p><strong>**<\/strong>2 Years of Active License Under Broker within the Last 5 Years. Out-of-State Experience Also Applies!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "88aa3b35-467f-4e90-84e1-e8b407a0d44c",
+        "535af5d8-497d-4554-a1c4-a8dd1b2daa4c"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/download_13ea2f88-06d1-40d4-a120-5cf067711c05.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1925f4d6-dc22-4dfe-be3f-b096e5057a02": {
+      "type": "rich-text",
+      "blocks": {
+        "e6632359-b227-4482-a26f-54851d78f937": {
+          "type": "heading",
+          "settings": {
+            "heading": "Completing These Steps Will Ensure You Get A Florida Real Estate Brokers License:",
+            "heading_size": "h1"
+          }
+        },
+        "6cee5432-d21c-4bb7-aec2-e90c9b74fb87": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>1. Enroll in the Broker Pre-Licensing Course<br\/><\/h3><p>The Florida Real Estate Commission (FREC) requires you to complete the 72-hour Florida broker pre-licensing course. This course can be taken online or in a classroom.<\/p><h3>2. Complete Fingerprinting<br\/><\/h3><p>The FREC will conduct a criminal background check using your fingerprints. Having a criminal history does not immediately disqualify you from licensure. Your application may be reviewed by the FREC.<\/p><h3>3. File DBPR License Application<br\/><\/h3><p>You must apply for your Florida broker license with the Department of Business & Professional Regulation (DBPR).<\/p><h3>4. Schedule State Exam<br\/><\/h3><p>Once your DBPR application is approved, you may schedule your state exam. You'll receive an email from Pearson VUE with your FLREAPP number. You may schedule your exam before you have completed the course.<\/p><h3>5. Pass End of Course Exam<br\/><\/h3><p>The end-of-course exam consists of 100 multiple-choice questions. You must score at least 70% to pass. Upon passing you will be issued the completion certificate required for your state exam.<\/p><h3>6. Pass State Exam<br\/><\/h3><p>The state exam consists of 100 multiple-choice questions. You must score at least 75% to pass. Upon passing you will immediately be issued your Florida real estate broker license.<\/p>"
+          }
+        },
+        "dd4c3e16-f852-4170-a879-d133ba0b1e90": {
+          "type": "button",
+          "settings": {
+            "button_label": "Enroll for a live scheduled class",
+            "button_link": "shopify:\/\/collections\/broker-licensing",
+            "button_style_secondary": false,
+            "button_label_2": "Enroll for a self-guided online course",
+            "button_link_2": "shopify:\/\/products\/fl-72-hr-broker-licensing-self-guided-online-course",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "e6632359-b227-4482-a26f-54851d78f937",
+        "6cee5432-d21c-4bb7-aec2-e90c9b74fb87",
+        "dd4c3e16-f852-4170-a879-d133ba0b1e90"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb": {
+      "type": "rich-text",
+      "blocks": {
+        "b6e581ef-32c1-431e-9f87-18d189bbd46d": {
+          "type": "heading",
+          "settings": {
+            "heading": "See what our past students have to say",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "b6e581ef-32c1-431e-9f87-18d189bbd46d"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "17d48368-71e1-4e96-b00d-431a8b63a632": {
+      "type": "image-with-text",
+      "blocks": {
+        "c0b7beb1-04f5-433a-bfc8-9f829be82e26": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get your Broker's License fast & Easy!",
+            "heading_size": "h1"
+          }
+        },
+        "template--16714870161660__17d48368-71e1-4e96-b00d-431a8b63a632-16830390201a7a9c91-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Tampa School of Real Estate offers the perfect solution for those looking to obtain their broker's license. Our courses are approved by the Florida Real Estate Commission, and we offer a variety of options that will fit your needs.<br\/><br\/>Whether you need to complete a 72-hour broker pre-licensing course or just need a refresher course, we have the perfect solution for you!<br\/><br\/>The course can be taken in a classroom or online. You will learn everything you need to know to pass your exams as well as valuable information for starting your new career!<br\/><br\/>Complete the pre-licensing course in LESS THAN 72-hours!<br\/><br\/>Even though the FREC requires a \"72-hour\" pre-licensing course, most students complete the required course in less time. We've seen students fly through the course in less than 40 hours, or you can take up to one year to complete. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "5942cde5-f79a-47b6-9a74-7d97665c86a0": {
+          "type": "button",
+          "settings": {
+            "button_label": "Enroll for a live scheduled class",
+            "button_link": "shopify:\/\/collections\/broker-licensing"
+          }
+        },
+        "ee0c1dd3-2869-4be0-ae14-1eaa77c075bf": {
+          "type": "button",
+          "settings": {
+            "button_label": "Enroll for a self-guided online course",
+            "button_link": "shopify:\/\/products\/fl-72-hr-broker-licensing-self-guided-online-course"
+          }
+        }
+      },
+      "block_order": [
+        "c0b7beb1-04f5-433a-bfc8-9f829be82e26",
+        "template--16714870161660__17d48368-71e1-4e96-b00d-431a8b63a632-16830390201a7a9c91-1",
+        "5942cde5-f79a-47b6-9a74-7d97665c86a0",
+        "ee0c1dd3-2869-4be0-ae14-1eaa77c075bf"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/download_1_95cc079f-9d97-4af0-ac75-66caeb318683.webp",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "00a63c68-9f60-46e6-8b52-68edd97d9e6d": {
+      "type": "rich-text",
+      "blocks": {
+        "f75affb4-4402-4ac4-a4f9-10bef556baf1": {
+          "type": "heading",
+          "settings": {
+            "heading": "How much does a real estate license cost?",
+            "heading_size": "h1"
+          }
+        },
+        "4ac746ae-14d4-4918-99c4-d59b56e94a4c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This is not a one-time payment. You can start your licensure process by enrolling first on the required pre-license course and pay the necessary fees as you go through on other steps.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "f75affb4-4402-4ac4-a4f9-10bef556baf1",
+        "4ac746ae-14d4-4918-99c4-d59b56e94a4c"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "7c2b1bc3-7e22-4019-8e08-353c06a76b15": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16721221615868__7c2b1bc3-7e22-4019-8e08-353c06a76b15-1684018372559f2014-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_2_db6ba0e6-b301-47f7-9873-4bca4a6cc20a.webp",
+            "icon": "",
+            "title": "",
+            "text": "<p><em>Licensing fees may change periodically.<\/em><\/p><p><em>Please contact us to verify current licensing costs.<\/em><\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16721221615868__7c2b1bc3-7e22-4019-8e08-353c06a76b15-1684018372559f2014-0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a572f4d0-9605-4016-a06b-22bf4f985c88": {
+      "type": "rich-text",
+      "blocks": {
+        "8c373869-b2b1-4b9b-a01f-59e0384bde7c": {
+          "type": "button",
+          "settings": {
+            "button_label": "Enroll for a live scheduled class",
+            "button_link": "shopify:\/\/collections\/broker-licensing",
+            "button_style_secondary": false,
+            "button_label_2": "Enroll for a self-guided online course",
+            "button_link_2": "shopify:\/\/products\/fl-72-hr-broker-licensing-self-guided-online-course",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "8c373869-b2b1-4b9b-a01f-59e0384bde7c"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "09070eea-4000-491d-b4ae-bb0b32413374": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16721221615868__09070eea-4000-491d-b4ae-bb0b32413374-1684018605221e39f2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "See what our past licensees have to say",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--16721221615868__09070eea-4000-491d-b4ae-bb0b32413374-1684018605221e39f2-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 20
+      }
+    },
+    "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_2_0f0688c8-8c56-4022-adee-2b3ec03a21be.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_3_8f92c16e-4f85-46cc-aebb-bd266fdcc0b8.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "50046425-cda1-4c50-9de0-1b17302ec03d": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_4_d775dfd6-863f-41a9-b658-6ddb43862c06.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-0",
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-1",
+        "50046425-cda1-4c50-9de0-1b17302ec03d"
+      ],
+      "custom_css": [
+        ".media {background: transparent;}",
+        ".media > img {object-fit: contain;}"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "63b2512f-43cf-4051-b6d9-4aec028ecbce": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "6b4459c4-9c67-485f-99d8-e71cc6d215ea": {
+      "type": "rich-text",
+      "blocks": {
+        "de0710c0-e7c5-4ff0-83a4-08fd37898cfb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why choose Tampa School of Real Estate?",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "de0710c0-e7c5-4ff0-83a4-08fd37898cfb"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "c4757ff1-d6d6-4299-be62-ef6994e1c1c8": {
+      "type": "multirow",
+      "blocks": {
+        "template--16721221615868__c4757ff1-d6d6-4299-be62-ef6994e1c1c8-1684018682c5bdee71-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_3f507306-cbfe-4d77-b042-6b9bb76788d6.webp",
+            "caption": "",
+            "heading": "Up-to-date content and platform",
+            "text": "<p>Content is the key to your success, and we’re constantly updating our courses to keep up with industry changes. We want you to learn, grow, and succeed through the most revolutionary ideas in education.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "5934a974-2742-428a-9414-714fb1903264": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_1_9a2cac1b-e0e2-416b-bb0b-a31290e7aaa8.webp",
+            "caption": "",
+            "heading": "1 Year retake guarantee",
+            "text": "<p>If you do not score at least 70% on the end-of-course exam, FREC rules require that you wait 30 days before you can retake a different version of the exam. If you do not pass on the second attempt of your exam, FREC rules require that you retake the course in full. Under our 1-Year Retake Guarantee, as long as you retake the course within 1-year of the start date of your course, we do not charge any retake fees. Retakes are subject to space availability.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "5c087153-4498-4cb3-a431-44756989ba09": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_2_357a2bfe-7760-4bb8-b900-29fbec52866f.webp",
+            "caption": "",
+            "heading": "Online and classroom",
+            "text": "<p>Classroom Courses and Online Courses. We’ve built LEAP, our custom online learning solution, to engage students with interactive content featuring real-world scenarios.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "d2b2d1c5-5f93-4a1a-998c-4c02fa61b1a3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_3_a5e0085d-4275-4a4c-afd2-d09a3166a866.webp",
+            "caption": "",
+            "heading": "Schedule",
+            "text": "<p>We know life can get busy. By learning online, you can access your course whenever you want, wherever you are. Have time first thing in the morning? That’s great. Awake at 2 AM? Hop online and pick up where you left off!<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "e93aa4f0-d560-4444-abc1-983c0dcc063a": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_4_6514dc4b-a3d0-4b36-b6c0-5748e227855a.webp",
+            "caption": "",
+            "heading": "Customer service",
+            "text": "<p>Learning online means you can take your course whenever you have the time, so shouldn’t you have support when you need it? We’re here for you 7 days a week via phone, chat, and email.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "6721704c-bb98-44a6-bb5e-57dca3c593d1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_5_44776eea-c887-463b-8a6c-73fd36bc21a4.webp",
+            "caption": "",
+            "heading": "Pass rates",
+            "text": "<p>Most providers don’t publish their students' pass rates. We pride ourselves on having some of the highest pass rates in the industry.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16721221615868__c4757ff1-d6d6-4299-be62-ef6994e1c1c8-1684018682c5bdee71-0",
+        "5934a974-2742-428a-9414-714fb1903264",
+        "5c087153-4498-4cb3-a431-44756989ba09",
+        "d2b2d1c5-5f93-4a1a-998c-4c02fa61b1a3",
+        "e93aa4f0-d560-4444-abc1-983c0dcc063a",
+        "6721704c-bb98-44a6-bb5e-57dca3c593d1"
+      ],
+      "custom_css": [
+        ".media > img {object-fit: contain; padding: 25px;}"
+      ],
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "align-left",
+        "section_color_scheme": "background-2",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a887752b-7095-4abf-8e80-25d69da0f3e4": {
+      "type": "rich-text",
+      "blocks": {
+        "d8d607b1-f9ce-457c-9e97-fde3c29f3383": {
+          "type": "button",
+          "settings": {
+            "button_label": "Enroll for a live scheduled class",
+            "button_link": "shopify:\/\/collections\/broker-licensing",
+            "button_style_secondary": false,
+            "button_label_2": "Enroll for a self-guided online course",
+            "button_link_2": "shopify:\/\/products\/fl-72-hr-broker-licensing-self-guided-online-course",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "d8d607b1-f9ce-457c-9e97-fde3c29f3383"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "3952433b-161c-45fb-add4-2aee2a6bec2e",
+    "30a46a07-42ae-434c-abb8-39a15c55cee8",
+    "61c0a84d-0c40-4205-95dc-0917e3309992",
+    "69d2b457-24c9-4c02-ba2f-434e73ca8fba",
+    "9e81a78f-4044-4425-af02-99f4acd12a79",
+    "1b0aa6c4-64c0-4aee-9c1a-ab98554b3172",
+    "1925f4d6-dc22-4dfe-be3f-b096e5057a02",
+    "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb",
+    "17d48368-71e1-4e96-b00d-431a8b63a632",
+    "00a63c68-9f60-46e6-8b52-68edd97d9e6d",
+    "7c2b1bc3-7e22-4019-8e08-353c06a76b15",
+    "a572f4d0-9605-4016-a06b-22bf4f985c88",
+    "09070eea-4000-491d-b4ae-bb0b32413374",
+    "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7",
+    "63b2512f-43cf-4051-b6d9-4aec028ecbce",
+    "6b4459c4-9c67-485f-99d8-e71cc6d215ea",
+    "c4757ff1-d6d6-4299-be62-ef6994e1c1c8",
+    "a887752b-7095-4abf-8e80-25d69da0f3e4"
+  ]
+}

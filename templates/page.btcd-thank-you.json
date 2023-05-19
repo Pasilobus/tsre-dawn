@@ -1,0 +1,193 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "3952433b-161c-45fb-add4-2aee2a6bec2e": {
+      "type": "rich-text",
+      "blocks": {
+        "13e4b314-6561-4988-815b-2eb22ceb2fb3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Thank you for signing up!",
+            "heading_size": "h1"
+          }
+        },
+        "f4c21b1d-1d01-4d16-b085-d248a6bfbee1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your FREE <strong>Beyond the Closed Deals - Your Real Estate Beginner’s Guide <\/strong>will be emailed to you in a few minutes. We hope you enjoy it!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "13e4b314-6561-4988-815b-2eb22ceb2fb3",
+        "f4c21b1d-1d01-4d16-b085-d248a6bfbee1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "17d48368-71e1-4e96-b00d-431a8b63a632": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16714870161660__17d48368-71e1-4e96-b00d-431a8b63a632-16830390201a7a9c91-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Inside this guide you will be able to identify:<\/p><ul><li>Why Choose Real Estate?<\/li><li>Who Can Do It?<\/li><li>Passing the Exams<\/li><li>Getting Started in Real Estate<\/li><li>How to be Successful as an Agent<\/li><li>Becoming a Broker<\/li><li>Why Tampa School of Real Estate?<\/li><\/ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__17d48368-71e1-4e96-b00d-431a8b63a632-16830390201a7a9c91-1"
+      ],
+      "custom_css": [
+        ".media > img {object-fit: contain;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/download_11_cfc1746f-e6ab-4005-9757-4bc88cb6bde3.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "dfc0ea01-8b73-47de-991b-e72b6fe117db": {
+      "type": "rich-text",
+      "blocks": {
+        "dccd3468-3d68-4f93-a3d2-7f7de4eeec87": {
+          "type": "caption",
+          "settings": {
+            "caption": "When you have finished reading this book, you will be ready to take on the world of real estate success!",
+            "text_style": "subtitle",
+            "text_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "dccd3468-3d68-4f93-a3d2-7f7de4eeec87"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 24
+      }
+    },
+    "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_2_0f0688c8-8c56-4022-adee-2b3ec03a21be.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_3_8f92c16e-4f85-46cc-aebb-bd266fdcc0b8.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "50046425-cda1-4c50-9de0-1b17302ec03d": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_4_d775dfd6-863f-41a9-b658-6ddb43862c06.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-0",
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-1",
+        "50046425-cda1-4c50-9de0-1b17302ec03d"
+      ],
+      "custom_css": [
+        ".media {background: transparent;}",
+        ".media > img {object-fit: contain;}"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "small",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "8358fc50-3234-44ee-9573-0950520b2dbd": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "3952433b-161c-45fb-add4-2aee2a6bec2e",
+    "17d48368-71e1-4e96-b00d-431a8b63a632",
+    "dfc0ea01-8b73-47de-991b-e72b6fe117db",
+    "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7",
+    "8358fc50-3234-44ee-9573-0950520b2dbd"
+  ]
+}

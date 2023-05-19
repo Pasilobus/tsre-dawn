@@ -1,0 +1,601 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "3952433b-161c-45fb-add4-2aee2a6bec2e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16714870161660__3952433b-161c-45fb-add4-2aee2a6bec2e-1682983121c9e42f58-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pass your FL Real Estate Exam",
+            "heading_size": "h1"
+          }
+        },
+        "13e4b314-6561-4988-815b-2eb22ceb2fb3": {
+          "type": "heading",
+          "settings": {
+            "heading": "On your First Try",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__3952433b-161c-45fb-add4-2aee2a6bec2e-1682983121c9e42f58-0",
+        "13e4b314-6561-4988-815b-2eb22ceb2fb3"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "30a46a07-42ae-434c-abb8-39a15c55cee8": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/player.vimeo.com\/video\/571478365?autoplay=0&loop=0",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "accent-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "eda0619c-5f82-4acc-a05f-e3c4844289bc": {
+      "type": "rich-text",
+      "blocks": {
+        "7675b3a3-27da-4d1c-b969-b97b5270b72b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>TSRE | Tampa School of Real Estate has developed the Pass First Try Strategy to help you pass your class and state exams on your first try.It starts with studying the most important topics that will show up on the exam!These lessons are based on our years of experience helping thousands of students pass their exams and start their real estate careers.<\/p>"
+          }
+        },
+        "138cd835-3312-4a68-b158-a94987663a17": {
+          "type": "caption",
+          "settings": {
+            "caption": "Best of all, it's simple, easy-to-follow, and it WORKS!",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "7675b3a3-27da-4d1c-b969-b97b5270b72b",
+        "138cd835-3312-4a68-b158-a94987663a17"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "69d2b457-24c9-4c02-ba2f-434e73ca8fba": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-0": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "2,000+",
+            "text": "<p>5 Star Reviews<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-1": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "25,000+",
+            "text": "<p>Trusted by 25K+ Past Students<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-0",
+        "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9e81a78f-4044-4425-af02-99f4acd12a79": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "\"You're not going to remember everything\"",
+            "heading_size": "h1"
+          }
+        },
+        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>But one of the exam secrets is <strong>you don't have to remember everything!<\/strong><\/p><p>You just need to <strong>remember certain important points<\/strong> and concepts from your course.<\/p><p>The exam prep tools in the Pass First Try strategy bundle will allow you to <strong>focus on building repitition<\/strong> on the topics that are <strong>most likely to be tested<\/strong> on your Florida real estate exam.<\/p><p><strong>Don't waste your time<\/strong> trying to sift though all the information in your course, the reality there is a lot of information that you may never use depending on the type of real estate you will practice.<\/p><p>Use the momentum of passing your exam to launch your new career and start earning commissions faster.<\/p><p> <\/p><p>Get Access Now & Get Ready to Pass Your Exams!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-0",
+        "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "f60ec83a-fc81-4429-b589-dcf5fed6b336": {
+      "type": "rich-text",
+      "blocks": {
+        "35f8e722-4cbf-4668-8394-8e1a530e6e13": {
+          "type": "heading",
+          "settings": {
+            "heading": "What is the first pass strategy?",
+            "heading_size": "h1"
+          }
+        },
+        "70827781-6e1c-4114-b95b-a6a2a87324fd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>It is an innovative approach that gives you the ability to understand how the FL real estate exam works and pass the test in the fastest amount of time possible.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "35f8e722-4cbf-4668-8394-8e1a530e6e13",
+        "70827781-6e1c-4114-b95b-a6a2a87324fd"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "ea743af6-8335-4eaa-99aa-e784b825c671": {
+      "type": "multirow",
+      "blocks": {
+        "template--16715292410108__ea743af6-8335-4eaa-99aa-e784b825c671-168298352462d3b18c-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_5_3e21b229-44f6-4064-b06e-e5d30d0b14ef.webp",
+            "caption": "",
+            "heading": "Step 1: Learn the information",
+            "text": "<h4>FREC Approved Classroom LIVE + Online Classes<br\/><\/h4><p>The Florida Real Estate Commission requires that you take a 63 hour pre-licensing course to be able to take the state-mandated real estate license exam. With classroom and several online formats, no other school offers more options to get your Florida real estate license.<\/p>",
+            "button_label": "View real estate classes",
+            "button_link": "shopify:\/\/collections\/license-classes"
+          }
+        },
+        "template--16715292410108__ea743af6-8335-4eaa-99aa-e784b825c671-168298352462d3b18c-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_6_9251298b-30e3-4d47-8cee-2b7870d9a264.webp",
+            "caption": "",
+            "heading": "Step 2: Reinforce Along the Way",
+            "text": "<h3>MP3 Audio Review<br\/><\/h3><p>Do you know the saying \"if you do not use it, you lose\"? Well, that's especially true for the knowledge required to pass the exams. To maintain all of this new information, it's important to review and reinforce it often, so there is no chance of losing anything!<\/p>",
+            "button_label": "MP3 audio review",
+            "button_link": "shopify:\/\/products\/mp3-audio-review"
+          }
+        },
+        "template--16715292410108__ea743af6-8335-4eaa-99aa-e784b825c671-168298352462d3b18c-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_7.webp",
+            "caption": "",
+            "heading": "Step 3: Test your knowledge",
+            "text": "<h3>Question Simulator<br\/><\/h3><p>The Exam Question Simulator is one of our most powerful tools to pass your exams. The interactive format allows you to test your knowledge before the real exam so you can pinpoint the topics you need to review. With hundreds of practice questions you can simulate the actual 100 question exam or just focus on a particular unit.<\/p>",
+            "button_label": "Exam question simulator",
+            "button_link": "shopify:\/\/pages\/exam-prep-11-bonus-question"
+          }
+        },
+        "873d197d-b7bb-41db-9544-28a61862d7c9": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_7.webp",
+            "caption": "",
+            "heading": "Step 4: Be confident and prepared",
+            "text": "<h3>Weekend prep recording<\/h3><p>Have you ever had that feeling when you're about to take a test, and your stomach starts tying into knots? While there's no 100% cure for the pre-exam jitters, being confident of your knowledge will allow you to perform at your best level on the exam and not get distracted by the wrong answers desinged to make you second guess yourself.<\/p>",
+            "button_label": "Weekend prep recording",
+            "button_link": "shopify:\/\/products\/weekend-prep-recording"
+          }
+        }
+      },
+      "block_order": [
+        "template--16715292410108__ea743af6-8335-4eaa-99aa-e784b825c671-168298352462d3b18c-0",
+        "template--16715292410108__ea743af6-8335-4eaa-99aa-e784b825c671-168298352462d3b18c-1",
+        "template--16715292410108__ea743af6-8335-4eaa-99aa-e784b825c671-168298352462d3b18c-2",
+        "873d197d-b7bb-41db-9544-28a61862d7c9"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "small",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "align-right",
+        "section_color_scheme": "accent-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_2_0f0688c8-8c56-4022-adee-2b3ec03a21be.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_3_8f92c16e-4f85-46cc-aebb-bd266fdcc0b8.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "50046425-cda1-4c50-9de0-1b17302ec03d": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_4_d775dfd6-863f-41a9-b658-6ddb43862c06.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-0",
+        "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-1",
+        "50046425-cda1-4c50-9de0-1b17302ec03d"
+      ],
+      "custom_css": [
+        ".media {background: transparent;}",
+        ".media > img {object-fit: contain;}"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Reviews"
+      }
+    },
+    "d717de3f-b891-4f60-b5cd-a28bcd944e09": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What's Included In Pass First Try Study Tools Bundle?",
+            "heading_size": "h1"
+          }
+        },
+        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>While your pre-licensing course will cover everything, the question is will you remember and be able to apply these concepts on your exam?If you're ready to stop worrying about how to pass your exams, get access today.If you are ready to start building your real estate career, get access today.If you are ready to start earning commission, get access today.If you're sick of waiting, get access today.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-0",
+        "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "bfe3fc83-5e91-42ab-8a62-e7a152181e15": {
+      "type": "multirow",
+      "blocks": {
+        "9b9408bb-e2d9-4999-b637-c16b5b4d3302": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_9.webp",
+            "caption": "",
+            "heading": "Secrets of the Exam",
+            "text": "<p>✔ Test Taking Tips & Exam Strategies<br\/><\/p><p>✔ How to Use the Pass First Try Strategy<br\/><\/p><p>✔ Introduction to the Licensing Process<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "516e7ffb-f71f-4bb5-b434-93611b74286b": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_10.webp",
+            "caption": "",
+            "heading": "MP3 Audio review",
+            "text": "<p>✔ 5-Hour Audio Review to Reinforce Key Points<br\/><\/p><p>✔ Listen Anywhere You Have an Internet Connection<br\/><\/p><p>✔ Broken Down By Unit & Exam Percentages<\/p>",
+            "button_label": "",
+            "button_link": "shopify:\/\/products\/mp3-audio-review"
+          }
+        },
+        "e6bab6cc-3dc6-4c67-922f-7e5d7a99287a": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_7.webp",
+            "caption": "",
+            "heading": "Question Simulator",
+            "text": "<p>✔ 700+ Practice Questions - Test by Unit or Simulate Exam<br\/><\/p><p>✔ Instant Feedback & Explanation After Every Question<br\/><\/p><p>✔ Use Results to Identify Units to Focus<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "af92197e-9159-4269-be8f-ef9a2afb7d77": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_7.webp",
+            "caption": "",
+            "heading": "Weekend Prep Recording",
+            "text": "<p>✔ 16 Hour Recording - Watch by Unit or Full Recording<br\/><\/p><p>✔ Interactive Format - Workbook Included<br\/><\/p><p>✔ Watch from Any Internet Connected Device<br\/><\/p><p>✔ Pause, Rewind & Change Speed<\/p>",
+            "button_label": "Weekend prep recording",
+            "button_link": "shopify:\/\/products\/weekend-prep-recording"
+          }
+        }
+      },
+      "block_order": [
+        "9b9408bb-e2d9-4999-b637-c16b5b4d3302",
+        "516e7ffb-f71f-4bb5-b434-93611b74286b",
+        "e6bab6cc-3dc6-4c67-922f-7e5d7a99287a",
+        "af92197e-9159-4269-be8f-ef9a2afb7d77"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-right",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ec837cc3-e877-41e1-86c0-23a052fbe55f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16715292410108__ec837cc3-e877-41e1-86c0-23a052fbe55f-1682983213062b9e96-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_1b99d828-e783-4554-b488-3c6b74d4490e.webp",
+            "icon": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16715292410108__ec837cc3-e877-41e1-86c0-23a052fbe55f-1682983213062b9e96-0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1b0aa6c4-64c0-4aee-9c1a-ab98554b3172": {
+      "type": "image-with-text",
+      "blocks": {
+        "88aa3b35-467f-4e90-84e1-e8b407a0d44c": {
+          "type": "heading",
+          "settings": {
+            "heading": "When do I need 45-Hour Post Licensing?",
+            "heading_size": "h2"
+          }
+        },
+        "535af5d8-497d-4554-a1c4-a8dd1b2daa4c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✓ Recommended As Soon As Licensed<\/p><p>✓ How to Make Money in Real Estate<\/p><p>✓ Learn Early & Avoid Mistakes<\/p><p>✓ Required by 1st Renewal Deadline<\/p><p>✓  Null & Void if Deadline Missed<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "88aa3b35-467f-4e90-84e1-e8b407a0d44c",
+        "535af5d8-497d-4554-a1c4-a8dd1b2daa4c"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/download_1_c763bf9c-905f-4349-8bbe-467312a558ab.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f818b4e0-9f64-4235-88bf-782b075813f2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Completing Your Florida Post-licensing Requirement Can Be Easy!",
+            "heading_size": "h1"
+          }
+        },
+        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Step 1: Complete FREC Required Post Licensing Course<br\/><\/h2><p>Active or inactive, you're required to complete post-licensing by your first renewal deadline (18-24 months from licensure). Failure to complete the FREC required Post Licensing course by midnight of your expiration will cause your license to become NULL & VOID!<\/p><h2>Step 2: Pass End of Course Exam<br\/><\/h2><p>There is no state exam required for the Post Licensing course. However, you must successfully pass the end-of-course exam with a 75% or higher.<\/p><p>Once you pass the end-of-course exam, we will file your completion with the Florida DBPR. It may take up to 72 hours for completed hours to show in your DBPR portal. Please contact us if your hours are not showing after 72 hours.<\/p><h2>Step 3: Pay Your State Renewal Fee<br\/><\/h2><p>The final step of your license renewal is to pay your renewal fee. The fee is currently $64 to renew your license and can be completed through your online account on the DBPR Website.<\/p><p><strong>Maintain your real estate license and better understand how to practice real estate legally and ethically!<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-0",
+        "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb": {
+      "type": "rich-text",
+      "blocks": {
+        "b6e581ef-32c1-431e-9f87-18d189bbd46d": {
+          "type": "heading",
+          "settings": {
+            "heading": "See what our past students have to say",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "b6e581ef-32c1-431e-9f87-18d189bbd46d"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "00a63c68-9f60-46e6-8b52-68edd97d9e6d": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "main",
+    "3952433b-161c-45fb-add4-2aee2a6bec2e",
+    "30a46a07-42ae-434c-abb8-39a15c55cee8",
+    "eda0619c-5f82-4acc-a05f-e3c4844289bc",
+    "69d2b457-24c9-4c02-ba2f-434e73ca8fba",
+    "9e81a78f-4044-4425-af02-99f4acd12a79",
+    "f60ec83a-fc81-4429-b589-dcf5fed6b336",
+    "ea743af6-8335-4eaa-99aa-e784b825c671",
+    "d4e6276f-6b9d-4a8e-a9b0-626e41267ef7",
+    "d717de3f-b891-4f60-b5cd-a28bcd944e09",
+    "bfe3fc83-5e91-42ab-8a62-e7a152181e15",
+    "ec837cc3-e877-41e1-86c0-23a052fbe55f",
+    "1b0aa6c4-64c0-4aee-9c1a-ab98554b3172",
+    "f818b4e0-9f64-4235-88bf-782b075813f2",
+    "6eb99dc2-ede3-4ccf-96bf-fef8f26a41eb",
+    "00a63c68-9f60-46e6-8b52-68edd97d9e6d"
+  ]
+}

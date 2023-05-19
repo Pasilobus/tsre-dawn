@@ -5,29 +5,56 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "3e040e1f-dd6a-42dc-ae3c-883077fae92d": {
+          "type": "announcement",
+          "settings": {
+            "text": "Call or Text:  (813) 333-2676",
+            "link": "tel:18133332676"
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Payment Plans Available",
+            "text": "💰 Payment Plans Available",
             "link": "shopify:\/\/pages\/shop-pay"
+          }
+        },
+        "46bc70f6-d6ac-4751-bbb5-c0a59b50446d": {
+          "type": "announcement",
+          "settings": {
+            "text": "🇺🇸 MEMORIAL DAY SALE",
+            "link": "shopify:\/\/pages\/sale"
+          }
+        },
+        "6237f3b2-8997-44e4-b25d-9464d96f56b2": {
+          "type": "announcement",
+          "settings": {
+            "text": "⏰ Register Before Midnight to Save",
+            "link": "shopify:\/\/pages\/sale"
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "3e040e1f-dd6a-42dc-ae3c-883077fae92d",
+        "announcement-bar-0",
+        "46bc70f6-d6ac-4751-bbb5-c0a59b50446d",
+        "6237f3b2-8997-44e4-b25d-9464d96f56b2"
       ],
       "custom_css": [
-        "p {color: #0f4529;}"
+
       ],
       "settings": {
-        "color_scheme": "accent-2",
+        "color_scheme": "accent-1",
         "show_line_separator": true,
-        "auto_rotate": false,
-        "change_slides_speed": 5
+        "auto_rotate": true,
+        "change_slides_speed": 3
       }
     },
     "header": {
       "type": "header",
+      "custom_css": [
+        ".header__inline-menu {margin-top: 0 !important;}"
+      ],
       "settings": {
         "logo_position": "top-center",
         "menu": "main-menu",
@@ -39,8 +66,8 @@
         "enable_language_selector": false,
         "mobile_logo_position": "center",
         "margin_bottom": 0,
-        "padding_top": 16,
-        "padding_bottom": 16
+        "padding_top": 12,
+        "padding_bottom": 8
       }
     }
   },

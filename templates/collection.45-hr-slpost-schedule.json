@@ -113,7 +113,8 @@
             "title": "",
             "text": "<h6>Six Figures in my first year!<\/h6><h3>If you're looking to get into real estate, I highly recommend it! My instructor made it easy to comprehend.<\/h3><p>- David Cribs<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         },
         "0e769e98-f557-4357-a418-9d9ec03732a5": {
@@ -123,7 +124,8 @@
             "title": "",
             "text": "<h6>Passed my state exam on the first try!<\/h6><h3>Tampa School of Real Estate gave me the knowledge, tools, and the confidence!<\/h3><p>- Rhonda Elias Spurling<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         },
         "fdfd7915-e882-4d91-8854-4cbc8b0e186d": {
@@ -133,7 +135,8 @@
             "title": "",
             "text": "<h6>Passed my state exam today!<\/h6><h3>The instructor kept the material interesting and easy to understand. Highly Recommend!<\/h3><p>- Christopher Foottit<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         }
       },
@@ -194,7 +197,7 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
-        "products_per_page": 16,
+        "products_per_page": 8,
         "columns_desktop": 1,
         "image_ratio": "square",
         "image_shape": "default",
@@ -224,22 +227,22 @@
         "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-0": {
           "type": "heading",
           "settings": {
-            "heading": "Self-Guided Online Course",
+            "heading": "On-Demand Online Course",
             "heading_size": "h2"
           }
         },
         "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Try our online real estate post license course instead.<\/p><p>This will provide the 45 hour credit required by the Florida Real Estate Commission for a first time renewal of a Florida real estate sales associate license.<\/p>",
+            "text": "<p>The video on-demand post-licensing course allows you to complete your 45-hour sales associate renewal requirement from anywhere at any time.<\/p>",
             "text_style": "body"
           }
         },
         "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-2": {
           "type": "button",
           "settings": {
-            "button_label": "Learn more",
-            "button_link": "shopify:\/\/products\/sales-associate-45-hour-post-licensing"
+            "button_label": "VIEW On-Demand Course",
+            "button_link": "shopify:\/\/products\/video-fl-45-hour-post-license-course"
           }
         }
       },
@@ -253,7 +256,7 @@
         ".image-with-text__media-item {z-index: 2;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/fl-45-hour-sales-associate-post-licensing-online-course-slpost-online-leap-111456_1000x_f2fe699e-14ca-4d41-a038-b81b8dabcec3.webp",
+        "image": "shopify:\/\/shop_images\/pre-order-instructor-led-fl-45-hour-sales-associate-post-licensing-video-based-online-class-slpost-online-tsre-tampa-school-of-real-estate-509084.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",

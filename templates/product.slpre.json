@@ -3,6 +3,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -22,15 +28,34 @@
             "text_style": "subtitle"
           }
         },
+        "ba97551a-9e52-49c7-801e-8f0ff0458d77": {
+          "type": "sku",
+          "settings": {
+            "text_style": "uppercase"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
+          }
+        },
+        "586745e2-4d3f-40a5-9b30-a7487f97eaf1": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?689125e15290349be666ad8057c'><\/script>\n<div style=\"font-size: small;margin-top: -20px;padding-left:7px;\"><a href=\"#reviews\" >View Reviews<\/a><\/div>"
           }
         },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
             "picker_type": "dropdown"
+          }
+        },
+        "97d69151-3a06-4c5b-a98a-266c76d716d7": {
+          "type": "text",
+          "settings": {
+            "text": "<a href=\"#packages\" title=\"#packages\">View Bundle Packages<\/a>",
+            "text_style": "uppercase"
           }
         },
         "quantity_selector": {
@@ -90,42 +115,55 @@
             "content": "",
             "page": ""
           }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
+        "share",
         "vendor",
         "title",
         "caption",
+        "ba97551a-9e52-49c7-801e-8f0ff0458d77",
         "price",
+        "586745e2-4d3f-40a5-9b30-a7487f97eaf1",
         "variant_picker",
+        "97d69151-3a06-4c5b-a98a-266c76d716d7",
         "quantity_selector",
         "buy_buttons",
         "description",
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
-        "collapsible-row-3",
-        "share"
+        "collapsible-row-3"
+      ],
+      "custom_css": [
+        ".product__title h1 {font-size: x-large; color: #014627;}",
+        ".share-button {margin-top: -15px; font-weight: 500;}",
+        ".installment {margin-top: -17px;}",
+        ".price-item--sale {font-weight: bold; font-size: x-large;}",
+        ".product-form__submit {background-color: #eaef43; --color-base-outline-button-labels: #eaef43; color: #000; font-size: large;}"
       ],
       "settings": {
         "enable_sticky_info": true,
         "media_size": "small",
         "constrain_to_viewport": false,
         "media_fit": "contain",
-        "gallery_layout": "thumbnail_slider",
+        "gallery_layout": "stacked",
         "media_position": "left",
         "image_zoom": "lightbox",
-        "mobile_thumbnails": "show",
+        "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 12
+      }
+    },
+    "674018fd-14f0-4947-abde-005d88299cbe": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"om-totegcq7wultsrwlwsiu-holder\"><\/div>",
+        "color_scheme": "accent-1",
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "e791962f-c569-4969-ab37-901e8108313d": {
@@ -139,7 +177,8 @@
             "title": "FREC Approved School",
             "text": "<p>At TSRE, our school and all of our instructors are Florida Real Estate Commission Approved. <\/p><p>All Pre-Licensing, Post Licensing & Continuing Education course also maintain FREC Approval. <\/p><p><a href=\"https:\/\/www.myfloridalicense.com\/LicenseDetail.asp?SID=&id=4F3D91AAE03039862C0A9E9F33D69463\" target=\"_blank\" title=\"https:\/\/www.myfloridalicense.com\/LicenseDetail.asp?SID=&id=4F3D91AAE03039862C0A9E9F33D69463\">TSRE School License: #<strong>ZH1002233<\/strong><\/a><\/p><p><\/p><p><\/p><p><\/p><p><\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         },
         "template--16706509832444__e791962f-c569-4969-ab37-901e8108313d-1681517474f61b0990-1": {
@@ -149,7 +188,8 @@
             "title": "Trusted by 25,000+",
             "text": "<p>Since it's founding in 2007 TSRE has been trusted by over 25,000+ past students to launch and build their real estate empires.<\/p><p>At the Tampa School of Real Estate, your success is our success.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         },
         "template--16706509832444__e791962f-c569-4969-ab37-901e8108313d-1681517474f61b0990-2": {
@@ -159,7 +199,8 @@
             "title": "Student Success Team",
             "text": "<p>Your Success is Our Success<\/p><p>Our Student Success team is here to answer your questions and ensure you get the most out of your courses and study tools. <\/p><p>Available by phone, text, chat or email.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         }
       },
@@ -185,13 +226,22 @@
         "padding_bottom": 36
       }
     },
+    "0bb10596-51c2-4470-90de-13818331e956": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?8daff0b147764067396654ea1d6'><\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "eca65864-63bd-4f8d-ae5e-e34d18fb8169": {
       "type": "image-with-text",
       "blocks": {
         "template--16705787953404__eca65864-63bd-4f8d-ae5e-e34d18fb8169-1681478257a7bb11ec-0": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>REAL ESTATE LICENSE<\/strong>",
+            "heading": "<strong>1-Year Retake Guarantee<\/strong>",
             "heading_size": "h2"
           }
         },
@@ -209,7 +259,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/1-YEAR_RETAKE_GUARANTEE.png",
-        "height": "small",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
@@ -224,6 +274,7 @@
     },
     "5bc84c94-85b6-4328-a06a-0522f59deb82": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "9f5012c3-685d-43ec-9c0e-516db5b4bb2d": {
           "type": "caption",
@@ -271,6 +322,107 @@
         "padding_bottom": 0
       }
     },
+    "7ef2d02a-94c6-4369-9bc9-952473f72b78": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"packages\"><br \/><\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "de3330ab-12db-47ef-9905-5ae410aec7d8": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16706592669948__de3330ab-12db-47ef-9905-5ae410aec7d8-16815196615497c0fd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Real Estate Course Bundle Packages",
+            "heading_size": "h2"
+          }
+        },
+        "template--16706592669948__de3330ab-12db-47ef-9905-5ae410aec7d8-16815196615497c0fd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Choose the right course bundle to start your new career!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16706592669948__de3330ab-12db-47ef-9905-5ae410aec7d8-16815196615497c0fd-0",
+        "template--16706592669948__de3330ab-12db-47ef-9905-5ae410aec7d8-16815196615497c0fd-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "3ed12cd3-b5ac-43ec-99ec-e0d2158a9579": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16706592669948__3ed12cd3-b5ac-43ec-99ec-e0d2158a9579-1681518423160efce1-0": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "Accelerate your Career",
+            "text": "<h2><strong>Complete Jumpstart Bundle<\/strong><\/h2><h6><strong>+ Post licensing to jumpstart your career<\/strong><\/h6><h4><strong>$597<\/strong><\/h4><p><em>or 4 Payments of <\/em><strong>$149.25!<\/strong><\/p><h5><strong>FREC Course + Jumpstart Bundle<\/strong><\/h5><ul><li><strong>Video On-Demand FL 63-Hour Sales Associate Pre-Licensing Online Course<\/strong><\/li><li><strong>Short Easy to Follow Videos<\/strong><\/li><li><strong>Desktop or Mobile<\/strong><\/li><li><strong>Textbook Included<\/strong><\/li><li><strong>1-Year Retake Guarantee<\/strong><\/li><\/ul><h5><strong>Includes all Exam Prep<\/strong><\/h5><ul><li><strong>Pass First Try Exam Prep<\/strong><\/li><li><strong>MP3 Online Audio Review<\/strong><\/li><li><strong>Question Simulator<\/strong><\/li><li><strong>Prep Recordings<\/strong><\/li><li><strong>Exam Prep Workbook<\/strong><\/li><li><strong>Secrets of the Exam<\/strong><\/li><\/ul><h5><strong>Required after licensed<\/strong><\/h5><ul><li><strong>Instructor-Led On-Demand FL 45-Hour Sales Associate Post Licensing Online Course<\/strong><\/li><li><strong>Pre-Registration Savings<\/strong><\/li><\/ul>",
+            "link_label": "Jumpstart your career",
+            "link": "\/cart\/33480025636995:1,33097690349699:1,36655747530911:1,43289174835452:1,36758906306719:1,43231747703036:1",
+            "link_style": "primary"
+          }
+        },
+        "b9089a79-e102-4517-af8a-595db37d2492": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "Ace the exams",
+            "text": "<h2><strong>Pass First Try Bundle<\/strong><\/h2><h6><strong>+ Prep tools to ace the exam<\/strong><\/h6><h4><strong>$497<\/strong><\/h4><p><em>or 4 Payments of <\/em><strong>$124.25!<\/strong><\/p><h5><strong>Includes all exam prep<\/strong><\/h5><ul><li><strong>Pass First Try Exam Prep<\/strong><\/li><li><strong>MP3 Online Audio Review<\/strong><\/li><li><strong>Question Simulator<\/strong><\/li><li><strong>Prep Recordings<\/strong><\/li><li><strong>Exam Prep Workbook<\/strong><\/li><li><strong>Secrets of the Exam<\/strong><\/li><\/ul><h5><strong>FREC course included<\/strong><\/h5><ul><li><strong>Video On-Demand FL 63-Hour Sales Associate Pre-Licensing Online Course<\/strong><\/li><li><strong>Desktop or Mobile<\/strong><\/li><li><strong>Textbook Included<\/strong><\/li><\/ul>",
+            "link_label": "Jumpstart your career",
+            "link": "\/cart\/33480025636995:1,33097690349699:1,36655747530911:1,36758906306719:1,43231747703036:1",
+            "link_style": "primary"
+          }
+        },
+        "6d8d9a63-bb89-45ad-a0ac-d8ef8c6831ac": {
+          "type": "column",
+          "settings": {
+            "icon": "",
+            "title": "Get started",
+            "text": "<h2><strong>Course Essentials<\/strong><\/h2><h6><strong>Course + textbook<\/strong><\/h6><h4><strong>$347<\/strong><\/h4><p><em>or 4 Payments of <\/em><strong>$86.75!<\/strong><\/p><h5><strong>FREC course included<\/strong><\/h5><ul><li><strong>Video On-Demand FL 63-Hour Sales Associate Pre-Licensing Online Course<\/strong><\/li><li><strong>Desktop or Mobile<\/strong><\/li><li><strong>Textbook Included<\/strong><\/li><\/ul><h5><strong>Bonus exam prep<\/strong><\/h5><ul><li><strong>Secrets of the Exam<\/strong><\/li><\/ul>",
+            "link_label": "Jumpstart your career",
+            "link": "\/cart\/33480025636995:1,33097690349699:1,36655747530911:1,36758906306719:1,43231747703036:1",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16706592669948__3ed12cd3-b5ac-43ec-99ec-e0d2158a9579-1681518423160efce1-0",
+        "b9089a79-e102-4517-af8a-595db37d2492",
+        "6d8d9a63-bb89-45ad-a0ac-d8ef8c6831ac"
+      ],
+      "custom_css": [
+        ".rte ul {list-style: outside;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "2684f0e8-68c1-412b-8928-c383065eb440": {
       "type": "image-with-text",
       "blocks": {
@@ -285,7 +437,7 @@
         "190f0058-a8fb-4367-8448-f9cb823799c0": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>1-YEAR RETAKE GUARANTEE<\/strong>",
+            "heading": "<strong>REAL ESTATE LICENSE<\/strong>",
             "heading_size": "h2"
           }
         },
@@ -320,95 +472,6 @@
         "padding_bottom": 36
       }
     },
-    "de3330ab-12db-47ef-9905-5ae410aec7d8": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16706592669948__de3330ab-12db-47ef-9905-5ae410aec7d8-16815196615497c0fd-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Start your Florida Real State Career",
-            "heading_size": "h2"
-          }
-        },
-        "template--16706592669948__de3330ab-12db-47ef-9905-5ae410aec7d8-16815196615497c0fd-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Choose the right course bundle to start your new career!<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16706592669948__de3330ab-12db-47ef-9905-5ae410aec7d8-16815196615497c0fd-0",
-        "template--16706592669948__de3330ab-12db-47ef-9905-5ae410aec7d8-16815196615497c0fd-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "3ed12cd3-b5ac-43ec-99ec-e0d2158a9579": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16706592669948__3ed12cd3-b5ac-43ec-99ec-e0d2158a9579-1681518423160efce1-0": {
-          "type": "column",
-          "settings": {
-            "icon": "",
-            "title": "Accelerate your Career",
-            "text": "<h2><strong>Complete Jumpstart Bundle<\/strong><\/h2><h6><strong>+ Post licensing to jumpstart your career<\/strong><\/h6><h4><strong>$597<\/strong><\/h4><p><em>or 4 Payments of <\/em><strong>$149.25!<\/strong><\/p><h5><strong>FREC Course + Jumpstart Bundle<\/strong><\/h5><ul><li><strong>Video On-Demand FL 63-Hour Sales Associate Pre-Licensing Online Course<\/strong><\/li><li><strong>Short Easy to Follow Videos<\/strong><\/li><li><strong>Desktop or Mobile<\/strong><\/li><li><strong>Textbook Included<\/strong><\/li><li><strong>1-Year Retake Guarantee<\/strong><\/li><\/ul><h5><strong>Includes all Exam Prep<\/strong><\/h5><ul><li><strong>Pass First Try Exam Prep<\/strong><\/li><li><strong>MP3 Online Audio Review<\/strong><\/li><li><strong>Question Simulator<\/strong><\/li><li><strong>Prep Recordings<\/strong><\/li><li><strong>Exam Prep Workbook<\/strong><\/li><li><strong>Secrets of the Exam<\/strong><\/li><\/ul><h5><strong>Required after licensed<\/strong><\/h5><ul><li><strong>Instructor-Led On-Demand FL 45-Hour Sales Associate Post Licensing Online Course<\/strong><\/li><li><strong>Pre-Registration Savings<\/strong><\/li><\/ul>",
-            "link_label": "Jumpstart your career",
-            "link": "\/cart\/33480025636995:1,33097690349699:1,36655747530911:1,43289174835452:1,36758906306719:1,43231747703036:1"
-          }
-        },
-        "b9089a79-e102-4517-af8a-595db37d2492": {
-          "type": "column",
-          "settings": {
-            "icon": "",
-            "title": "Ace the exams",
-            "text": "<h2><strong>Pass First Try Bundle<\/strong><\/h2><h6><strong>+ Prep tools to ace the exam<\/strong><\/h6><h4><strong>$497<\/strong><\/h4><p><em>or 4 Payments of <\/em><strong>$124.25!<\/strong><\/p><h5><strong>Includes all exam prep<\/strong><\/h5><ul><li><strong>Pass First Try Exam Prep<\/strong><\/li><li><strong>MP3 Online Audio Review<\/strong><\/li><li><strong>Question Simulator<\/strong><\/li><li><strong>Prep Recordings<\/strong><\/li><li><strong>Exam Prep Workbook<\/strong><\/li><li><strong>Secrets of the Exam<\/strong><\/li><\/ul><h5><strong>FREC course included<\/strong><\/h5><ul><li><strong>Video On-Demand FL 63-Hour Sales Associate Pre-Licensing Online Course<\/strong><\/li><li><strong>Desktop or Mobile<\/strong><\/li><li><strong>Textbook Included<\/strong><\/li><\/ul>",
-            "link_label": "Jumpstart your career",
-            "link": "\/cart\/33480025636995:1,33097690349699:1,36655747530911:1,36758906306719:1,43231747703036:1"
-          }
-        },
-        "6d8d9a63-bb89-45ad-a0ac-d8ef8c6831ac": {
-          "type": "column",
-          "settings": {
-            "icon": "",
-            "title": "Get started",
-            "text": "<h2><strong>Course Essentials<\/strong><\/h2><h6><strong>Course + textbook<\/strong><\/h6><h4><strong>$347<\/strong><\/h4><p><em>or 4 Payments of <\/em><strong>$86.75!<\/strong><\/p><h5><strong>FREC course included<\/strong><\/h5><ul><li><strong>Video On-Demand FL 63-Hour Sales Associate Pre-Licensing Online Course<\/strong><\/li><li><strong>Desktop or Mobile<\/strong><\/li><li><strong>Textbook Included<\/strong><\/li><\/ul><h5><strong>Bonus exam prep<\/strong><\/h5><ul><li><strong>Secrets of the Exam<\/strong><\/li><\/ul>",
-            "link_label": "Jumpstart your career",
-            "link": "\/cart\/33480025636995:1,33097690349699:1,36655747530911:1,36758906306719:1,43231747703036:1"
-          }
-        }
-      },
-      "block_order": [
-        "template--16706592669948__3ed12cd3-b5ac-43ec-99ec-e0d2158a9579-1681518423160efce1-0",
-        "b9089a79-e102-4517-af8a-595db37d2492",
-        "6d8d9a63-bb89-45ad-a0ac-d8ef8c6831ac"
-      ],
-      "custom_css": [
-        ".rte ul {list-style: outside;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "accent-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
     "63ae9922-8628-48c2-8dea-60f718fe5f2c": {
       "type": "rich-text",
       "blocks": {
@@ -423,7 +486,7 @@
         "template--16706625896700__63ae9922-8628-48c2-8dea-60f718fe5f2c-16815314938855be0a-0": {
           "type": "heading",
           "settings": {
-            "heading": "FL Real State License",
+            "heading": "FL Real Estate License",
             "heading_size": "h1"
           }
         }
@@ -816,6 +879,7 @@
     },
     "0c6bb3aa-25c7-4db0-9553-2b5d2b03b3f2": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--16706625896700__0c6bb3aa-25c7-4db0-9553-2b5d2b03b3f2-168153174346105a99-1": {
           "type": "text",
@@ -848,6 +912,15 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "b9f8b6f9-d5ca-47c0-8641-ef67905859c7": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"reviews\" style=\"max-width:800px;margin: 0 auto\"><h2>Reviews<\/h2>\n<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?df87c3c15311456b8756f17c575'><\/script>\n<a href=\"\/pages\/reviews\">View More Reviews<\/a><\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "4cedd084-a584-4349-a5c7-48bba3ee06f7": {
@@ -980,12 +1053,15 @@
   },
   "order": [
     "main",
+    "674018fd-14f0-4947-abde-005d88299cbe",
     "e791962f-c569-4969-ab37-901e8108313d",
+    "0bb10596-51c2-4470-90de-13818331e956",
     "eca65864-63bd-4f8d-ae5e-e34d18fb8169",
     "5bc84c94-85b6-4328-a06a-0522f59deb82",
-    "2684f0e8-68c1-412b-8928-c383065eb440",
+    "7ef2d02a-94c6-4369-9bc9-952473f72b78",
     "de3330ab-12db-47ef-9905-5ae410aec7d8",
     "3ed12cd3-b5ac-43ec-99ec-e0d2158a9579",
+    "2684f0e8-68c1-412b-8928-c383065eb440",
     "63ae9922-8628-48c2-8dea-60f718fe5f2c",
     "131abab7-dd88-40af-84ea-d224f9a286f0",
     "image-with-text",
@@ -996,6 +1072,7 @@
     "f60efdb7-93cb-4899-a69e-eb71d3b342a0",
     "f707403b-761d-4b4d-a33b-121d16832c9c",
     "0c6bb3aa-25c7-4db0-9553-2b5d2b03b3f2",
+    "b9f8b6f9-d5ca-47c0-8641-ef67905859c7",
     "4cedd084-a584-4349-a5c7-48bba3ee06f7",
     "related-products",
     "03871ee9-3224-43f9-9e3b-e3f10e48cf62"

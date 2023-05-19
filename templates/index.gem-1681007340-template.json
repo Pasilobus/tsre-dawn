@@ -1,0 +1,762 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "454ef1be-6f4b-4385-b2da-53796917e86a": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>Real Estate Classes Online + LIVE<\/h5>",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "THE TOP FLORIDA REAL ESTATE SCHOOL",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>A Career in Real Estate, Easy as 1, 2, 3! <\/h3>",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Become a Real Estate Agent",
+            "button_link_1": "shopify:\/\/pages\/florida-real-estate-license",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "454ef1be-6f4b-4385-b2da-53796917e86a",
+        "heading",
+        "text",
+        "button"
+      ],
+      "custom_css": [
+        ".button {background: #e3ec4d; border: none !important; text-transform: uppercase;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/sales-associate-licensing-guide-2160x777.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>Florida Real Estate License Classes<\/strong>",
+        "heading_size": "h2",
+        "description": "<p>Reserve Your Seat in an upcoming class with a $57 deposit, or take advantage of financing options to fund your real estate education!<br\/><strong>Limited Class Sizes - Reserve Now<\/strong><\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "license-classes",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "36e69bd3-6da8-43a1-8311-46e7861d9ea1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>FL Real Estate Classes Online & On-Demand<\/strong>",
+        "heading_size": "h2",
+        "description": "<p>Whether you're new to real estate or need to complete your renewal requirements, <strong>TSRE has more course options than any other Florida real estate school.<\/strong> Better yet, all of our classes are backed by our 1-Year Retake Guarantee.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "online-courses",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "c683541c-d64e-4561-b9c2-ec8dbd34300a": {
+      "type": "rich-text",
+      "blocks": {
+        "aa76d70d-1832-414f-9fd9-3ac0b193c651": {
+          "type": "caption",
+          "settings": {
+            "caption": "How to Become a Real State Agent",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--16705787363580__c683541c-d64e-4561-b9c2-ec8dbd34300a-1681443817d4e91d48-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FL Real Estate License Guide",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "aa76d70d-1832-414f-9fd9-3ac0b193c651",
+        "template--16705787363580__c683541c-d64e-4561-b9c2-ec8dbd34300a-1681443817d4e91d48-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 28
+      }
+    },
+    "54014787-4d67-449d-9028-a85d1558d513": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Exam Prep – Pass First Try",
+        "heading_size": "h1",
+        "description": "<p>Take time out of the equation with the tools trusted by thousands to pass on their first try.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "exam-prep",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "777d0bbb-5660-4d59-8926-49146595b02c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>45-HR: Post License<\/strong>",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "sales-post-licensing",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "32c5e410-519b-4259-806f-f0d0724afe16": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>72-HR: Broker Pre-License<\/strong>",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "broker-licensing",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "d51ce574-b4cb-4630-9f1c-418e14aa1c68": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<div id=\"om-totegcq7wultsrwlwsiu-holder\"><\/div>",
+        "color_scheme": "accent-1",
+        "padding_top": 28,
+        "padding_bottom": 52
+      }
+    },
+    "c9c92a5f-daed-4130-b975-a416e8cb2efb": {
+      "type": "image-with-text",
+      "blocks": {
+        "5c04568e-d355-450a-be7d-b99d4bc59d9b": {
+          "type": "caption",
+          "settings": {
+            "caption": "Backed by the TSRE Retake Guarantee",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--16705787363580__c9c92a5f-daed-4130-b975-a416e8cb2efb-168144390525dde2fa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "1-Year Retake Guarantee",
+            "heading_size": "h1"
+          }
+        },
+        "template--16705787363580__c9c92a5f-daed-4130-b975-a416e8cb2efb-168144390525dde2fa-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you don't pass your end-of-course exam <strong>you're backed by our 1-Year Retake Guarantee. <\/strong>The FREC will require you to wait 30 days before re-testing (no waiting period for post licensing & CE courses!) If you still don't pass after retesting, you are able to retake at no charge within 1-year of your registration date.<br\/><br\/><strong>Trying to pass on the first try? <\/strong>Rest assured, this typically isn't a concern <strong>with our course pass rates above 90%!<\/strong><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "5c04568e-d355-450a-be7d-b99d4bc59d9b",
+        "template--16705787363580__c9c92a5f-daed-4130-b975-a416e8cb2efb-168144390525dde2fa-0",
+        "template--16705787363580__c9c92a5f-daed-4130-b975-a416e8cb2efb-168144390525dde2fa-1"
+      ],
+      "custom_css": [
+        ".media > img {object-fit: contain;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1-YEAR_RETAKE_GUARANTEE.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b002e3c7-3e24-4679-aac9-8a7b4aa8e7ab": {
+      "type": "rich-text",
+      "blocks": {
+        "0e804ba5-22ad-492f-8303-2023b86ea8db": {
+          "type": "caption",
+          "settings": {
+            "caption": "Become the next success story",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--16705787363580__b002e3c7-3e24-4679-aac9-8a7b4aa8e7ab-1681443817d4e91d48-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "TSRE Reviews",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "0e804ba5-22ad-492f-8303-2023b86ea8db",
+        "template--16705787363580__b002e3c7-3e24-4679-aac9-8a7b4aa8e7ab-1681443817d4e91d48-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "422beed6-4b00-4b21-b2ee-245427b6c88b": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script defer async src=\"https:\/\/cdn.trustindex.io\/loader.js?8824a1512a428172f3664d8cda4\"><\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 28,
+        "padding_bottom": 52
+      }
+    },
+    "1a79dca4-04c4-4566-a56b-61eaa6718f6e": {
+      "type": "image-with-text",
+      "blocks": {
+        "44697073-34d1-49de-9efd-3432f4036198": {
+          "type": "caption",
+          "settings": {
+            "caption": "Become a Real State Agent in Florida",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--16705787363580__1a79dca4-04c4-4566-a56b-61eaa6718f6e-168144390525dde2fa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FL Real Estate License",
+            "heading_size": "h1"
+          }
+        },
+        "template--16705787363580__1a79dca4-04c4-4566-a56b-61eaa6718f6e-168144390525dde2fa-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Ready to become a real estate agent?<\/strong> <\/p><p>Learn the steps and requirements to earn your Florida Real Estate License. Get answers to questions about the courses, fingerprinting, application, exams, and launching your real estate career.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16705787363580__1a79dca4-04c4-4566-a56b-61eaa6718f6e-168144390525dde2fa-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View License Steps",
+            "button_link": "shopify:\/\/pages\/florida-real-estate-license"
+          }
+        }
+      },
+      "block_order": [
+        "44697073-34d1-49de-9efd-3432f4036198",
+        "template--16705787363580__1a79dca4-04c4-4566-a56b-61eaa6718f6e-168144390525dde2fa-0",
+        "template--16705787363580__1a79dca4-04c4-4566-a56b-61eaa6718f6e-168144390525dde2fa-1",
+        "template--16705787363580__1a79dca4-04c4-4566-a56b-61eaa6718f6e-168144390525dde2fa-2"
+      ],
+      "custom_css": [
+        ".media > img {object-fit: contain;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/TSRE_Grads.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b40ea024-b685-4855-916b-942c87260d31": {
+      "type": "rich-text",
+      "blocks": {
+        "29a9accf-aabe-4c99-a024-f2170b7cedfb": {
+          "type": "caption",
+          "settings": {
+            "caption": "Become a Florida Real State Agent",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--16705787363580__b40ea024-b685-4855-916b-942c87260d31-1681443817d4e91d48-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Start Your Real Estate Career",
+            "heading_size": "h1"
+          }
+        },
+        "template--16705787363580__b40ea024-b685-4855-916b-942c87260d31-1681443817d4e91d48-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Starting a real estate career can be a life-changing decision and has the potential to <strong>open a world of possibilities for your future. <\/strong>A career in real estate is more than just getting paid for selling homes; it provides an opportunity to <strong>establish financial independence, build relationships and make an impact on people’s lives.<\/strong><\/p><p>You don't need to wait until you have all the answers or hit certain milestones; the best time to start is now! With our online classes, you can undertake your education and get licensed to become a Florida realtor quickly and easily, so take advantage of this opportunity now and <strong>begin writing your success story!<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "29a9accf-aabe-4c99-a024-f2170b7cedfb",
+        "template--16705787363580__b40ea024-b685-4855-916b-942c87260d31-1681443817d4e91d48-0",
+        "template--16705787363580__b40ea024-b685-4855-916b-942c87260d31-1681443817d4e91d48-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "c37dc7cc-73dc-4287-bcea-741bf6053695": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16705787363580__c37dc7cc-73dc-4287-bcea-741bf6053695-16814445942eed14d9-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dbpr.png",
+            "icon": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        },
+        "template--16705787363580__c37dc7cc-73dc-4287-bcea-741bf6053695-16814445942eed14d9-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/21fcd92d-90f7-464a-b661-369238197720.png",
+            "icon": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "link_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16705787363580__c37dc7cc-73dc-4287-bcea-741bf6053695-16814445942eed14d9-0",
+        "template--16705787363580__c37dc7cc-73dc-4287-bcea-741bf6053695-16814445942eed14d9-1"
+      ],
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "title": "FLORIDA REAL ESTATE COMMISSION APPROVED COURSES, INSTRUCTORS & SCHOOL",
+        "heading_size": "h2",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "39408e0c-072f-4275-8acd-92b8c5858aab": {
+      "type": "image-banner",
+      "blocks": {
+        "d6a0f6a0-c008-4745-a351-de8be8148a11": {
+          "type": "caption",
+          "settings": {
+            "caption": "OUR RECOMMENDED STRATEGY TO PASS YOUR CLASS & STATE EXAMSON THE FIRST TRY",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--16705787363580__39408e0c-072f-4275-8acd-92b8c5858aab-1681444744e3c2dd7d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pass First Try Exam Prep Tools",
+            "heading_size": "h1"
+          }
+        },
+        "template--16705787363580__39408e0c-072f-4275-8acd-92b8c5858aab-1681444744e3c2dd7d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "View exam prep strategy",
+            "button_link_1": "shopify:\/\/pages\/pass-first-try-fl-exam-prep-study-guide",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "d6a0f6a0-c008-4745-a351-de8be8148a11",
+        "template--16705787363580__39408e0c-072f-4275-8acd-92b8c5858aab-1681444744e3c2dd7d-0",
+        "template--16705787363580__39408e0c-072f-4275-8acd-92b8c5858aab-1681444744e3c2dd7d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/exam-prep-banner-desktop.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "21eac033-428f-42d9-8a6b-94cf2311d87d": {
+      "type": "rich-text",
+      "blocks": {
+        "95c89195-15b6-4bb5-ae48-e0a6e27f58c7": {
+          "type": "caption",
+          "settings": {
+            "caption": "Don't waist time and money retaking exams",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pass First Try Exam Prep",
+            "heading_size": "h1"
+          }
+        },
+        "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you want to become a licensed real estate agent in Florida, the <strong>Tampa School of Real Estate's Pass First Try Exam Prep Bundle is your best option to fast-track your licensing. <\/strong>Our years of experience and knowledge have gone into creating these exam prep tools that will help you get licensed quickly and easily.<\/p><p>Start by watching our <a href=\"https:\/\/tsre-us.myshopify.com\/products\/secrets-of-the-exam\" title=\"Secrets of the Exam\"><strong>Secrets of the Exam<\/strong><\/a> video-based course to learn tips and strategies for passing the state exam. Then use the <a href=\"https:\/\/tsre-us.myshopify.com\/products\/mp3-audio-review\" title=\"MP3 Audio Review\"><strong>MP3 Audio Review<\/strong><\/a> to condense 63 hours of material into just 5 hours of simplified key points.<\/p><p>Test your knowledge with our <a href=\"https:\/\/tsre-us.myshopify.com\/products\/question-simulator\" title=\"Question Simulator\"><strong>Question Simulator<\/strong><\/a> so you can identify which areas you need to focus on further. Finally, feel confident and prepared before taking your exam with the <a href=\"https:\/\/tsre-us.myshopify.com\/products\/weekend-prep-recording\" title=\"Weekend Prep Recording\"><strong>Weekend Prep Recording<\/strong><\/a><strong>.<\/strong><\/p><p><strong>Thousands have used this program to pass their exams on the first try in as little as 30 days<\/strong> - don't miss out on this opportunity! <em>Purchase the Pass First Try Exam Prep bundle today!<\/em><\/p>"
+          }
+        },
+        "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get the Pass First Try Bundle",
+            "button_link": "shopify:\/\/products\/pass-first-try-exam-prep",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "95c89195-15b6-4bb5-ae48-e0a6e27f58c7",
+        "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-0",
+        "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-1",
+        "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "12a8abbf-edf1-4411-b6b5-c194d03cb905": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "template--16705787363580__12a8abbf-edf1-4411-b6b5-c194d03cb905-1681444775ee066080-1": {
+          "type": "product",
+          "settings": {
+            "product": "weekend-prep-workbook",
+            "second_image": false
+          }
+        },
+        "305bfe24-cdd5-498b-bf44-c8d932fef7a5": {
+          "type": "product",
+          "settings": {
+            "product": "weekend-prep-recording",
+            "second_image": false
+          }
+        },
+        "933f7b5b-415d-4ed9-96e5-bb5efa98df69": {
+          "type": "product",
+          "settings": {
+            "product": "question-simulator",
+            "second_image": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16705787363580__12a8abbf-edf1-4411-b6b5-c194d03cb905-1681444775ee066080-1",
+        "305bfe24-cdd5-498b-bf44-c8d932fef7a5",
+        "933f7b5b-415d-4ed9-96e5-bb5efa98df69"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "none",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "35cec08c-8404-4e96-a5da-458b5490fc29": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "3eed5a37-268e-4fb4-b804-636b35c338ef": {
+          "type": "product",
+          "settings": {
+            "product": "mp3-audio-review",
+            "second_image": false
+          }
+        },
+        "d0e8b159-a74c-496d-858a-dbd4b9c469de": {
+          "type": "product",
+          "settings": {
+            "product": "secrets-of-the-exam",
+            "second_image": false
+          }
+        },
+        "c99e5e56-1ba4-4280-a1cb-86bcf2377a26": {
+          "type": "product",
+          "settings": {
+            "product": "pass-first-try-exam-prep",
+            "second_image": false
+          }
+        }
+      },
+      "block_order": [
+        "3eed5a37-268e-4fb4-b804-636b35c338ef",
+        "d0e8b159-a74c-496d-858a-dbd4b9c469de",
+        "c99e5e56-1ba4-4280-a1cb-86bcf2377a26"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "right",
+        "mobile_layout": "collage",
+        "card_styles": "none",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16705787363580__5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6-1681445926bc637787-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to TSRE",
+            "heading_size": "h1"
+          }
+        },
+        "template--16705787363580__5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6-1681445926bc637787-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>"
+          }
+        },
+        "template--16705787363580__5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6-1681445926bc637787-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16705787363580__5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6-1681445926bc637787-0",
+        "template--16705787363580__5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6-1681445926bc637787-1",
+        "template--16705787363580__5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6-1681445926bc637787-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "f5439a72-b673-40a2-80a7-1553851751d9": {
+      "type": "rich-text",
+      "blocks": {
+        "3c9d51ec-5061-4664-b5a7-79b60f1ee2c3": {
+          "type": "caption",
+          "settings": {
+            "caption": "Set yourself apart as a TSRE alumni",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--16705787363580__f5439a72-b673-40a2-80a7-1553851751d9-1681443817d4e91d48-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "TSRE Advantage",
+            "heading_size": "h1"
+          }
+        },
+        "template--16705787363580__f5439a72-b673-40a2-80a7-1553851751d9-1681443817d4e91d48-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our comprehensive course curriculum covers the topics you need to know in order to become a successful real estate agent and provides ongoing support for any questions you may have.<br\/><br\/>We understand that starting a new career can be intimidating, but there’s no need to worry! The courses are designed with beginners in mind, so even if you don’t have prior experience, you can get the skills and knowledge needed to make a name for yourself in real estate.<br\/><\/p><p>So what are you waiting for? Become a licensed Florida Realtor today and start making an impact on people’s lives! Register now to begin your journey with TSRE! With our knowledgeable community of professionals, you’ll be on your way to success in no time.<\/p><p>We look forward to having you join us. We know that starting a real estate career can seem overwhelming at times. That’s why we provide personalized mentorship and guidance every step of the way.<\/p><p>Our instructors are experienced in the field and passionate about helping others acquire the skills needed to succeed. We pride ourselves on providing quality real estate education so you can feel confident in your investments, decisions, and future success. With our courses, you’ll learn everything from how to find properties and secure deals to managing customers and closing transactions.<\/p><p>Get started with the basics in your pre-licensing course, but as soon as you're licensed, you can enroll in post-licensing to start learning more about building your real estate business.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "3c9d51ec-5061-4664-b5a7-79b60f1ee2c3",
+        "template--16705787363580__f5439a72-b673-40a2-80a7-1553851751d9-1681443817d4e91d48-0",
+        "template--16705787363580__f5439a72-b673-40a2-80a7-1553851751d9-1681443817d4e91d48-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "featured_collection",
+    "36e69bd3-6da8-43a1-8311-46e7861d9ea1",
+    "c683541c-d64e-4561-b9c2-ec8dbd34300a",
+    "54014787-4d67-449d-9028-a85d1558d513",
+    "777d0bbb-5660-4d59-8926-49146595b02c",
+    "32c5e410-519b-4259-806f-f0d0724afe16",
+    "d51ce574-b4cb-4630-9f1c-418e14aa1c68",
+    "c9c92a5f-daed-4130-b975-a416e8cb2efb",
+    "b002e3c7-3e24-4679-aac9-8a7b4aa8e7ab",
+    "422beed6-4b00-4b21-b2ee-245427b6c88b",
+    "1a79dca4-04c4-4566-a56b-61eaa6718f6e",
+    "b40ea024-b685-4855-916b-942c87260d31",
+    "c37dc7cc-73dc-4287-bcea-741bf6053695",
+    "39408e0c-072f-4275-8acd-92b8c5858aab",
+    "21eac033-428f-42d9-8a6b-94cf2311d87d",
+    "12a8abbf-edf1-4411-b6b5-c194d03cb905",
+    "35cec08c-8404-4e96-a5da-458b5490fc29",
+    "5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6",
+    "f5439a72-b673-40a2-80a7-1553851751d9"
+  ]
+}

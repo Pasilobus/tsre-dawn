@@ -6,32 +6,32 @@
         "454ef1be-6f4b-4385-b2da-53796917e86a": {
           "type": "text",
           "settings": {
-            "text": "<h5>Real Estate License Classes Online + LIVE<\/h5>",
+            "text": "<h5>Real Estate Classes Online + LIVE<\/h5>",
             "text_style": "caption-with-letter-spacing"
           }
         },
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "THE TOP FLORIDA REAL ESTATE SCHOOL",
+            "heading": "Start Your Real Estate Career",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<h3>A Career in Real Estate, Easy as 1, 2, 3! <\/h3><p>View our Step by Step Guide to Become a Real Estate Agent in Florida.<\/p><p><strong>Have Questions?<\/strong> Chat with an Advisor<br\/>Call or Text <a href=\"tel:18133332676\" title=\"tel:18133332676\">(813) 333-2676<\/a><\/p>",
+            "text": "<h3>Easy as 1, 2, 3! <\/h3>",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "How to Get a Real Estate License",
+            "button_label_1": "Become Real Estate Agent",
             "button_link_1": "shopify:\/\/pages\/florida-real-estate-license",
             "button_style_secondary_1": false,
             "button_label_2": "",
-            "button_link_2": "",
+            "button_link_2": "shopify:\/\/collections\/license-classes",
             "button_style_secondary_2": false
           }
         }
@@ -43,20 +43,76 @@
         "button"
       ],
       "custom_css": [
-        ".button {background: #e3ec4d; border: none !important; text-transform: uppercase;}"
+
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/sales-associate-licensing-guide-2160x777.jpg",
+        "image": "shopify:\/\/shop_images\/real-estate-school-tampa-florida.jpg",
         "image_overlay_opacity": 20,
-        "image_height": "adapt",
+        "image_height": "small",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
+        "color_scheme": "background-1",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "left",
         "stack_images_on_mobile": false,
         "show_text_below": false
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>Florida Real Estate License Classes<\/strong>",
+        "heading_size": "h2",
+        "description": "<p>Reserve Your Seat in a class with a $57 deposit, or use financing options to fund your real estate education!<br\/><strong>Limited Class Sizes - Reserve Now<\/strong><\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "license-classes",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "36e69bd3-6da8-43a1-8311-46e7861d9ea1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>FL Real Estate Classes Online & On-Demand<\/strong>",
+        "heading_size": "h2",
+        "description": "<p>Whether you're new to real estate or just need to complete renewal requirements, <strong>TSRE has more course options than any other Florida real estate school.<\/strong> Better yet, all of our classes are backed by our <strong>1-Year Retake Guarantee.<\/strong><\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "online-courses",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 32,
+        "padding_bottom": 20
       }
     },
     "c683541c-d64e-4561-b9c2-ec8dbd34300a": {
@@ -65,7 +121,7 @@
         "aa76d70d-1832-414f-9fd9-3ac0b193c651": {
           "type": "caption",
           "settings": {
-            "caption": "How to Become a Real State Agent",
+            "caption": "How to Become a Real Estate Agent",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -74,7 +130,7 @@
           "type": "heading",
           "settings": {
             "heading": "FL Real Estate License Guide",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         }
       },
@@ -87,24 +143,33 @@
         "content_alignment": "center",
         "color_scheme": "accent-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 28
+        "padding_top": 32,
+        "padding_bottom": 0
       }
     },
-    "featured_collection": {
+    "f238a154-f771-4262-b3dd-405b8acd6953": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"om-totegcq7wultsrwlwsiu-holder\"><\/div>",
+        "color_scheme": "accent-1",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "54014787-4d67-449d-9028-a85d1558d513": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>Florida Real Estate License Classes<\/strong>",
+        "title": "Exam Prep – Pass First Try Strategy",
         "heading_size": "h2",
-        "description": "<p>Reserve Your Seat in an upcoming class with a $57 deposit, or take advantage of financing options to fund your real estate education!<br\/><strong>Limited Class Sizes - Reserve Now<\/strong><\/p>",
+        "description": "<p>Take time out of the equation with the tools trusted by thousands to pass on their first try.<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "license-classes",
+        "collection": "exam-prep",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
-        "view_all_style": "solid",
+        "view_all_style": "link",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "square",
@@ -115,52 +180,24 @@
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 28,
-        "padding_bottom": 0
-      }
-    },
-    "36e69bd3-6da8-43a1-8311-46e7861d9ea1": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "<strong>FL Real Estate Classes Online & On-Demand<\/strong>",
-        "heading_size": "h2",
-        "description": "<p>Whether you're new to real estate or need to complete your renewal requirements, <strong>TSRE has more course options than any other Florida real estate school.<\/strong> Better yet, all of our classes are backed by our 1-Year Retake Guarantee.<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "online-courses",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 28,
-        "padding_bottom": 0
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "777d0bbb-5660-4d59-8926-49146595b02c": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>45-HR: Post License<\/strong>",
+        "title": "<strong>45-Hour Post Licensing<\/strong>",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p><strong>Required for first license renewal<\/strong> as a sales associate. <strong>Enroll as soon as you're licensed<\/strong> to learn real-world business information and jumpstart your career.<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "sales-post-licensing",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
+        "show_view_all": true,
+        "view_all_style": "link",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "square",
@@ -178,17 +215,17 @@
     "32c5e410-519b-4259-806f-f0d0724afe16": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>72-HR: Broker Pre-License<\/strong>",
+        "title": "<strong>72-Hour Broker Pre-Licensing<\/strong>",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p><strong>Have an active license for at least 2 years in the last 5?<\/strong><br\/>Upgrade to a broker license with the option to stay with your current office as a broker associate or open your own real estate office.<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "broker-licensing",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
+        "show_view_all": true,
+        "view_all_style": "link",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "square",
@@ -258,7 +295,7 @@
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "padding_top": 36,
+        "padding_top": 32,
         "padding_bottom": 36
       }
     },
@@ -410,7 +447,8 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         },
         "template--16705787363580__c37dc7cc-73dc-4287-bcea-741bf6053695-16814445942eed14d9-1": {
@@ -421,7 +459,8 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "link_style": "primary"
           }
         }
       },
@@ -709,9 +748,11 @@
   },
   "order": [
     "image_banner",
-    "c683541c-d64e-4561-b9c2-ec8dbd34300a",
     "featured_collection",
     "36e69bd3-6da8-43a1-8311-46e7861d9ea1",
+    "c683541c-d64e-4561-b9c2-ec8dbd34300a",
+    "f238a154-f771-4262-b3dd-405b8acd6953",
+    "54014787-4d67-449d-9028-a85d1558d513",
     "777d0bbb-5660-4d59-8926-49146595b02c",
     "32c5e410-519b-4259-806f-f0d0724afe16",
     "d51ce574-b4cb-4630-9f1c-418e14aa1c68",

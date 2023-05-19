@@ -1,0 +1,113 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "13613b9e-246e-4183-8537-80f7f348cb3e": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16719132688636__13613b9e-246e-4183-8537-80f7f348cb3e-168368531468a583be-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tampa School of Real Estate",
+            "heading_size": "h1"
+          }
+        },
+        "4398480f-bf9d-4e3c-939a-5c7b437f15af": {
+          "type": "heading",
+          "settings": {
+            "heading": "Highwoods Preserve",
+            "heading_size": "h1"
+          }
+        },
+        "template--16719132688636__13613b9e-246e-4183-8537-80f7f348cb3e-168368531468a583be-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>18101 Highwoods Preserve Pkwy 220 2nd Floor, Tampa, FL 33647, United States<\/strong><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16719132688636__13613b9e-246e-4183-8537-80f7f348cb3e-168368531468a583be-0",
+        "4398480f-bf9d-4e3c-939a-5c7b437f15af",
+        "template--16719132688636__13613b9e-246e-4183-8537-80f7f348cb3e-168368531468a583be-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/highwoods-preserve-classroom.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "29102c26-2802-47b3-be34-42a997defe59": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16719132688636__29102c26-2802-47b3-be34-42a997defe59-1683685394a7beb41b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Thanks for completing the survey",
+            "heading_size": "h1"
+          }
+        },
+        "template--16719132688636__29102c26-2802-47b3-be34-42a997defe59-1683685394a7beb41b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your feedback is very important to us, and we cannot thank you enough for completing the end of course survey.<\/p><p> <\/p><p><strong>Would you be willing to share you experience in a review?<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "31a4ebce-18dd-436a-a724-ee389a415566": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<img width=\"155\" height=\"112\" alt=\"Google Verified Reviews Badge\" loading=\"lazy\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0318\/3371\/8915\/files\/download_7_b1a5a191-f253-453a-a54c-eaa4bf385a21.webp?v=1683685853\">"
+          }
+        },
+        "template--16719132688636__29102c26-2802-47b3-be34-42a997defe59-1683685394a7beb41b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Yes, I'll write a review",
+            "button_link": "https:\/\/search.google.com\/local\/writereview?placeid=ChIJVeSZ3NLZwogRWWs4tIMd7gM"
+          }
+        }
+      },
+      "block_order": [
+        "template--16719132688636__29102c26-2802-47b3-be34-42a997defe59-1683685394a7beb41b-0",
+        "template--16719132688636__29102c26-2802-47b3-be34-42a997defe59-1683685394a7beb41b-1",
+        "31a4ebce-18dd-436a-a724-ee389a415566",
+        "template--16719132688636__29102c26-2802-47b3-be34-42a997defe59-1683685394a7beb41b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/download_6_7d1a1614-d9f8-4ae1-9e0c-fe4547b1c2d1.webp",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "13613b9e-246e-4183-8537-80f7f348cb3e",
+    "29102c26-2802-47b3-be34-42a997defe59"
+  ]
+}
