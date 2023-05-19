@@ -485,6 +485,7 @@
     },
     "3ed12cd3-b5ac-43ec-99ec-e0d2158a9579": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--16706592669948__3ed12cd3-b5ac-43ec-99ec-e0d2158a9579-1681518423160efce1-0": {
           "type": "column",
@@ -513,7 +514,7 @@
           "settings": {
             "icon": "",
             "title": "Get started",
-            "text": "<h2><strong>Course Essentials<\/strong><\/h2><h6><strong>Course + textbook<\/strong><\/h6><h4><strong>$347<\/strong><\/h4><p><em>or 4 Payments of <\/em><strong>$86.75!<\/strong><\/p><h5><strong>FREC course included<\/strong><\/h5><ul><li><strong>Video On-Demand FL 63-Hour Sales Associate Pre-Licensing Online Course<\/strong><\/li><li><strong>Desktop or Mobile<\/strong><\/li><li><strong>Textbook Included<\/strong><\/li><\/ul><h5><strong>Bonus exam prep<\/strong><\/h5><ul><li><strong>Secrets of the Exam<\/strong><\/li><\/ul>",
+            "text": "<h2><strong>Course Essentials<\/strong><\/h2><h6><strong>Course + textbook<\/strong><\/h6><h4><strong>$347<\/strong><\/h4><p><em>or 4 Payments of <\/em><strong>$86.75!<\/strong><\/p><h5><strong>FREC course included<\/strong><\/h5><ul><li><strong>Video On-Demand FL 63-Hour Sales Associate Pre-Licensing Online Course<\/strong><\/li><li><strong>Desktop or Mobile<\/strong><\/li><\/ul>",
             "link_label": "Jumpstart your career",
             "link": "\/cart\/33480025636995:1,33097690349699:1,36655747530911:1,36758906306719:1,43231747703036:1",
             "link_style": "primary"
