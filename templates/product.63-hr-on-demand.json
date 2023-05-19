@@ -794,6 +794,15 @@
         "padding_bottom": 36
       }
     },
+    "2a14fca7-1bc5-4273-bcfb-0e59d1f6cca5": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?45faa5c126fd8117026645f1702'><\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "4cedd084-a584-4349-a5c7-48bba3ee06f7": {
       "type": "image-with-text",
       "blocks": {
@@ -925,15 +934,6 @@
       "type": "shogun-below",
       "settings": {
       }
-    },
-    "2a14fca7-1bc5-4273-bcfb-0e59d1f6cca5": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -954,10 +954,10 @@
     "4c191d3d-fec1-4871-8d75-408f33382ceb",
     "f60efdb7-93cb-4899-a69e-eb71d3b342a0",
     "f707403b-761d-4b4d-a33b-121d16832c9c",
+    "2a14fca7-1bc5-4273-bcfb-0e59d1f6cca5",
     "4cedd084-a584-4349-a5c7-48bba3ee06f7",
     "03871ee9-3224-43f9-9e3b-e3f10e48cf62",
     "related-products",
-    "shogun-below",
-    "2a14fca7-1bc5-4273-bcfb-0e59d1f6cca5"
+    "shogun-below"
   ]
 }
