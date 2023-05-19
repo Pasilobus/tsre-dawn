@@ -3,6 +3,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -96,15 +102,10 @@
             "content": "",
             "page": ""
           }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
+        "share",
         "vendor",
         "title",
         "caption",
@@ -117,8 +118,7 @@
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
-        "collapsible-row-3",
-        "share"
+        "collapsible-row-3"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -133,6 +133,15 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 12
+      }
+    },
+    "20af1fd2-a2cb-417d-80db-c9114baf1065": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"om-totegcq7wultsrwlwsiu-holder\"><\/div>",
+        "color_scheme": "accent-1",
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "e791962f-c569-4969-ab37-901e8108313d": {
@@ -967,6 +976,7 @@
   },
   "order": [
     "main",
+    "20af1fd2-a2cb-417d-80db-c9114baf1065",
     "e791962f-c569-4969-ab37-901e8108313d",
     "eca65864-63bd-4f8d-ae5e-e34d18fb8169",
     "2684f0e8-68c1-412b-8928-c383065eb440",
