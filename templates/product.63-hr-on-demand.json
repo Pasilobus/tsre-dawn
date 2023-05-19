@@ -46,7 +46,7 @@
         "c0b8d2bc-4774-4007-86ce-35032e4835fe": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?689125e15290349be666ad8057c'><\/script>\n<div style=\"font-size:x-small;margin-top:-20px;\"><a href=\"#reviews\" >View Reviews<\/a><\/div>"
+            "custom_liquid": "<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?689125e15290349be666ad8057c'><\/script>\n<div style=\"font-size: small;margin-top:-20px;\"><a href=\"#reviews\" >View Reviews<\/a><\/div>"
           }
         },
         "2267bf7f-bd10-4c73-951a-78c7d8dd2df0": {
