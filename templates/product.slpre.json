@@ -108,12 +108,6 @@
             "content": "",
             "page": ""
           }
-        },
-        "b668b4a6-c809-4237-8fd0-ceaa54ce1b36": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div id=\"om-totegcq7wultsrwlwsiu-holder\"><\/div>"
-          }
         }
       },
       "block_order": [
@@ -131,8 +125,7 @@
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
-        "collapsible-row-3",
-        "b668b4a6-c809-4237-8fd0-ceaa54ce1b36"
+        "collapsible-row-3"
       ],
       "custom_css": [
         ".product__title h1 {font-size: large; color: #014627;}",
@@ -153,6 +146,15 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 12
+      }
+    },
+    "674018fd-14f0-4947-abde-005d88299cbe": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"om-totegcq7wultsrwlwsiu-holder\"><\/div>",
+        "color_scheme": "accent-1",
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "e791962f-c569-4969-ab37-901e8108313d": {
@@ -1024,6 +1026,7 @@
   },
   "order": [
     "main",
+    "674018fd-14f0-4947-abde-005d88299cbe",
     "e791962f-c569-4969-ab37-901e8108313d",
     "0bb10596-51c2-4470-90de-13818331e956",
     "eca65864-63bd-4f8d-ae5e-e34d18fb8169",
