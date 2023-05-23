@@ -51,13 +51,6 @@
             "custom_liquid": "<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?689125e15290349be666ad8057c'><\/script>\n<div style=\"font-size: small;margin-top: -20px;padding-left:7px;\"><a href=\"#reviews\" >View Reviews<\/a><\/div>"
           }
         },
-        "2267bf7f-bd10-4c73-951a-78c7d8dd2df0": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>SALE:<\/strong> Use promo code <a href=\"\/cart\/33097690349699:1,36655747530911:1,44390369820924:1?discount=STARS\" title=\"Register Now with 20% off STARS Promo\"><strong>STARS<\/strong><\/a> to <strong>Save 20%<\/strong>",
-            "text_style": "body"
-          }
-        },
         "36066bb5-3dbc-48bc-aa43-fb86bd1dd76d": {
           "type": "custom_liquid",
           "settings": {
@@ -158,7 +151,6 @@
         "caption",
         "price",
         "c0b8d2bc-4774-4007-86ce-35032e4835fe",
-        "2267bf7f-bd10-4c73-951a-78c7d8dd2df0",
         "36066bb5-3dbc-48bc-aa43-fb86bd1dd76d",
         "variant_picker",
         "b757b683-45c1-4489-9efe-08b9b15f572c",
