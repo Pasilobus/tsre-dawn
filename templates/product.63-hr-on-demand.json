@@ -53,6 +53,7 @@
         },
         "36066bb5-3dbc-48bc-aa43-fb86bd1dd76d": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<span style=\"color:red;\"><strong>SALE:<\/strong> Use promo code <a href=\"\/cart\/33097690349699:1,36655747530911:1,44390369820924:1?discount=STARS\" style=\"color:red;\"><strong>STARS<\/strong><\/a> to <strong>Save 20%<\/strong><\/span>"
           }
