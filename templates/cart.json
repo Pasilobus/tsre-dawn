@@ -1,5 +1,14 @@
 {
   "sections": {
+    "95a83882-cd68-4914-aece-b4bdaa3e084d": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"sr-cartReserved-holder\"><\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "cart-items": {
       "type": "main-cart-items",
       "settings": {
@@ -101,6 +110,7 @@
     }
   },
   "order": [
+    "95a83882-cd68-4914-aece-b4bdaa3e084d",
     "cart-items",
     "cart-footer",
     "b7959f7a-2a98-43b7-9b93-af25f8f968e5"
