@@ -41,7 +41,7 @@
         "6237f3b2-8997-44e4-b25d-9464d96f56b2"
       ],
       "custom_css": [
-        ".announcement-bar {background-color: #b22126;}"
+
       ],
       "settings": {
         "color_scheme": "accent-1",
@@ -69,10 +69,20 @@
         "padding_top": 12,
         "padding_bottom": 8
       }
+    },
+    "7351e2f6-9cf1-40e2-87cd-f9781b7ce113": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "7351e2f6-9cf1-40e2-87cd-f9781b7ce113"
   ]
 }
