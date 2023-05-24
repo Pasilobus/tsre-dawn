@@ -16,6 +16,28 @@
         "padding_bottom": 0
       }
     },
+    "01661441-d451-4d38-98e5-a4939e446fa6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16712638562556__01661441-d451-4d38-98e5-a4939e446fa6-1684950416a68358af-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Enter Promo Code at Checkout<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16712638562556__01661441-d451-4d38-98e5-a4939e446fa6-1684950416a68358af-1"
+      ],
+      "settings": {
+        "desktop_content_position": "right",
+        "content_alignment": "right",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "cart-footer": {
       "type": "main-cart-footer",
       "blocks": {
@@ -112,6 +134,7 @@
   "order": [
     "95a83882-cd68-4914-aece-b4bdaa3e084d",
     "cart-items",
+    "01661441-d451-4d38-98e5-a4939e446fa6",
     "cart-footer",
     "b7959f7a-2a98-43b7-9b93-af25f8f968e5"
   ]
