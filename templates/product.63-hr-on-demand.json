@@ -446,8 +446,14 @@
         "padding_bottom": 0
       }
     },
+    "cf21d68a-b284-4b2e-8e91-db9df3ecf701": {
+      "type": "shogun-custom-646e81fe7ed0ee00c8128df9",
+      "settings": {
+      }
+    },
     "de3330ab-12db-47ef-9905-5ae410aec7d8": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--16706592669948__de3330ab-12db-47ef-9905-5ae410aec7d8-16815196615497c0fd-0": {
           "type": "heading",
@@ -478,6 +484,7 @@
     },
     "3ed12cd3-b5ac-43ec-99ec-e0d2158a9579": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--16706592669948__3ed12cd3-b5ac-43ec-99ec-e0d2158a9579-1681518423160efce1-0": {
           "type": "column",
@@ -949,6 +956,7 @@
     "eedef890-7ec1-4438-9623-85064295f882",
     "68c47d31-68ab-4abf-9c3d-04c8537c1303",
     "7ad9b457-829e-4454-b0b9-b4e43255f240",
+    "cf21d68a-b284-4b2e-8e91-db9df3ecf701",
     "de3330ab-12db-47ef-9905-5ae410aec7d8",
     "3ed12cd3-b5ac-43ec-99ec-e0d2158a9579",
     "16b56042-9cf4-42b6-abd4-ddac5ae26abc",
