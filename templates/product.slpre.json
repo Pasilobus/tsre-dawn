@@ -53,7 +53,6 @@
         },
         "97d69151-3a06-4c5b-a98a-266c76d716d7": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "<a href=\"#packages\" title=\"#packages\">View Bundle Packages<\/a>",
             "text_style": "uppercase"
