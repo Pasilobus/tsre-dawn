@@ -41,7 +41,7 @@
         "6237f3b2-8997-44e4-b25d-9464d96f56b2"
       ],
       "custom_css": [
-
+        ".announcement-bar {background-color: #b22126;}"
       ],
       "settings": {
         "color_scheme": "accent-1",
