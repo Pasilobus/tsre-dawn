@@ -89,7 +89,7 @@
     "d325a32f-3e4c-43ab-9f67-d166279e7d5e": {
       "type": "custom-liquid",
       "custom_css": [
-        "iframe {border: none; width: 100%;}"
+
       ],
       "settings": {
         "custom_liquid": "<div style=\"max-width:800px; margin 0 auto;\"><script type=\"text\/javascript\" src=\"https:\/\/tampaschool.formstack.com\/forms\/js.php\/careers\"><\/script><noscript><a href=\"https:\/\/tampaschool.formstack.com\/forms\/careers\" title=\"Online Form\">Online Form - Employment Application<\/a><\/noscript><\/div>",
