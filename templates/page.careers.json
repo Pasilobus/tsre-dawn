@@ -92,7 +92,7 @@
         "iframe {border: none; width: 100%;}"
       ],
       "settings": {
-        "custom_liquid": "<div style=\"max-width:800px; margin 0 auto;\"><script type=\"text\/javascript\" src=\"https:\/\/tampaschool.formstack.com\/forms\/js.php\/careers\"><\/script><noscript><a href=\"https:\/\/tampaschool.formstack.com\/forms\/careers\" title=\"Online Form\">Online Form - Employment Application<\/a><\/noscript>",
+        "custom_liquid": "<div style=\"max-width:800px; margin 0 auto;\"><script type=\"text\/javascript\" src=\"https:\/\/tampaschool.formstack.com\/forms\/js.php\/careers\"><\/script><noscript><a href=\"https:\/\/tampaschool.formstack.com\/forms\/careers\" title=\"Online Form\">Online Form - Employment Application<\/a><\/noscript><\/div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
