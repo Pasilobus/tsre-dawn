@@ -1,5 +1,27 @@
 {
   "sections": {
+    "4c6b774b-b14e-4c37-8571-61f43ce024f9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16712638660860__4c6b774b-b14e-4c37-8571-61f43ce024f9-1685197005a2b0e8a7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/collections\/license-classes\" title=\"SLPRE - Schedule\">← Back to Schedule<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16712638660860__4c6b774b-b14e-4c37-8571-61f43ce024f9-1685197005a2b0e8a7-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 8,
+        "padding_bottom": 0
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -153,8 +175,8 @@
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 12
+        "padding_top": 20,
+        "padding_bottom": 8
       }
     },
     "674018fd-14f0-4947-abde-005d88299cbe": {
@@ -511,32 +533,6 @@
         "padding_bottom": 0
       }
     },
-    "131abab7-dd88-40af-84ea-d224f9a286f0": {
-      "type": "newsletter",
-      "blocks": {
-        "template--16706625896700__131abab7-dd88-40af-84ea-d224f9a286f0-16815313259c0269ac-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<h3>LAUNCH YOUR REAL ESTATE CAREER<\/h3><p>Get our step-by-step guide to obtain your real estate license.<\/p>"
-          }
-        },
-        "template--16706625896700__131abab7-dd88-40af-84ea-d224f9a286f0-16815313259c0269ac-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--16706625896700__131abab7-dd88-40af-84ea-d224f9a286f0-16815313259c0269ac-1",
-        "template--16706625896700__131abab7-dd88-40af-84ea-d224f9a286f0-16815313259c0269ac-2"
-      ],
-      "settings": {
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 4,
-        "padding_bottom": 52
-      }
-    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -774,116 +770,6 @@
         "padding_bottom": 36
       }
     },
-    "f60efdb7-93cb-4899-a69e-eb71d3b342a0": {
-      "type": "collapsible-content",
-      "disabled": true,
-      "blocks": {
-        "502c1f0c-5dee-404a-9ff2-c62b950351eb": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How long before I can access the course?",
-            "icon": "question_mark",
-            "row_content": "<p>Course access is granted within minutes of ordering. You will recieve an email with login information to your online learning portal.<\/p>",
-            "page": ""
-          }
-        },
-        "7604fa53-3862-4d11-8187-a92a970aa35f": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Is the course narrated?",
-            "icon": "question_mark",
-            "row_content": "<p>Yes, but this isn't like a book on tape! Your course will consist primarily of many short instructor-led videos that cover all of the topics on FREC Syllabus I in a consise and simplified manner. You will encouter case studies as well as other examples along with interactive exercises and practice questions to ensure your comprehension of the material.<\/p>",
-            "page": ""
-          }
-        },
-        "ac363c5e-9eef-4dd2-8a5f-51bb4f58eda5": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How long will I have access to the course?",
-            "icon": "question_mark",
-            "row_content": "<p><strong>365 Days. <\/strong>Course access if good for one year even after you complete the course so you may revisit the material as necessary to prepare for your state exam.<\/p>",
-            "page": ""
-          }
-        },
-        "c388670b-2690-413b-8120-a45a1abe1453": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What if I don't pass the end of course exam?",
-            "icon": "question_mark",
-            "row_content": "<p><strong>You're covered by the TSRE 1-Year Retake Guarantee! <\/strong><\/p><p>If you don't pass the end of course exam on the first try, the Florida Real Estate Commission (FREC) requires you to wait 30 days and then attempt exam version B. If you do not pass exam B, the FREC requires you to retake the course in full.<\/p><p>As long as this is done within one year of registration, you may repeat the course as many times as necessary. However, with our high pass rates, this is typically not a concern.<\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "502c1f0c-5dee-404a-9ff2-c62b950351eb",
-        "7604fa53-3862-4d11-8187-a92a970aa35f",
-        "ac363c5e-9eef-4dd2-8a5f-51bb4f58eda5",
-        "c388670b-2690-413b-8120-a45a1abe1453"
-      ],
-      "custom_css": [
-        ".collapsible-section-layout {padding-top: 1rem; padding-bottom: 1rem;}"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "Course",
-        "heading_size": "h2",
-        "heading_alignment": "left",
-        "layout": "section",
-        "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "f707403b-761d-4b4d-a33b-121d16832c9c": {
-      "type": "collapsible-content",
-      "disabled": true,
-      "blocks": {
-        "c78e4efa-750b-417b-87d5-df2b9b238c24": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Do you ship overseas?",
-            "icon": "question_mark",
-            "row_content": "<p>Yes, we ship all over the world. Shipping costs available at checkout.<\/p>",
-            "page": ""
-          }
-        },
-        "a5f59f0c-ff70-4a18-ad1d-b7cab6020ef1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How long will it take to get my book?",
-            "icon": "question_mark",
-            "row_content": "<p>Depending on your location, students close to our HQ in Tampa will typically get their books within 1-2 business days. Expedited and worldwide shipping available.<\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "c78e4efa-750b-417b-87d5-df2b9b238c24",
-        "a5f59f0c-ff70-4a18-ad1d-b7cab6020ef1"
-      ],
-      "custom_css": [
-        ".collapsible-section-layout {padding-top: 1rem; padding-bottom: 1rem;}"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "Course",
-        "heading_size": "h2",
-        "heading_alignment": "left",
-        "layout": "section",
-        "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "0c6bb3aa-25c7-4db0-9553-2b5d2b03b3f2": {
       "type": "image-banner",
       "disabled": true,
@@ -1059,6 +945,7 @@
     }
   },
   "order": [
+    "4c6b774b-b14e-4c37-8571-61f43ce024f9",
     "main",
     "674018fd-14f0-4947-abde-005d88299cbe",
     "e791962f-c569-4969-ab37-901e8108313d",
@@ -1071,14 +958,11 @@
     "00e4842d-9a75-43ba-895e-3dd9b9cb27f5",
     "2684f0e8-68c1-412b-8928-c383065eb440",
     "63ae9922-8628-48c2-8dea-60f718fe5f2c",
-    "131abab7-dd88-40af-84ea-d224f9a286f0",
     "image-with-text",
     "eedef890-7ec1-4438-9623-85064295f882",
     "68c47d31-68ab-4abf-9c3d-04c8537c1303",
     "16b56042-9cf4-42b6-abd4-ddac5ae26abc",
     "4c191d3d-fec1-4871-8d75-408f33382ceb",
-    "f60efdb7-93cb-4899-a69e-eb71d3b342a0",
-    "f707403b-761d-4b4d-a33b-121d16832c9c",
     "0c6bb3aa-25c7-4db0-9553-2b5d2b03b3f2",
     "b9f8b6f9-d5ca-47c0-8641-ef67905859c7",
     "4cedd084-a584-4349-a5c7-48bba3ee06f7",
