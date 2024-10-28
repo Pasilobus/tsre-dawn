@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
@@ -6,7 +15,7 @@
         "454ef1be-6f4b-4385-b2da-53796917e86a": {
           "type": "text",
           "settings": {
-            "text": "<h5>Real Estate Classes Online + LIVE<\/h5>",
+            "text": "<h5>Real Estate Classes Online + LIVE</h5>",
             "text_style": "caption-with-letter-spacing"
           }
         },
@@ -20,7 +29,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<h3>Easy as 1, 2, 3! <\/h3>",
+            "text": "<h3>Easy as 1, 2, 3! </h3>",
             "text_style": "body"
           }
         },
@@ -28,10 +37,10 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Become Real Estate Agent",
-            "button_link_1": "shopify:\/\/pages\/florida-real-estate-license",
+            "button_link_1": "shopify://pages/florida-real-estate-license",
             "button_style_secondary_1": false,
             "button_label_2": "",
-            "button_link_2": "shopify:\/\/collections\/license-classes",
+            "button_link_2": "shopify://collections/license-classes",
             "button_style_secondary_2": false
           }
         }
@@ -46,7 +55,7 @@
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/real-estate-school-tampa-florida.jpg",
+        "image": "shopify://shop_images/real-estate-school-tampa-florida.jpg",
         "image_overlay_opacity": 20,
         "image_height": "small",
         "desktop_content_position": "middle-left",
@@ -62,9 +71,9 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>Florida Real Estate License Classes<\/strong>",
+        "title": "<strong>Florida Real Estate License Classes</strong>",
         "heading_size": "h2",
-        "description": "<p>Reserve Seat in class with $57 deposit, or use <a href=\"\/pages\/shop-pay\" title=\"Shop Pay | Tampa School Of Real Estate\">ShopPay financing<\/a> to fund your real estate education!<br\/><strong>Limited Class Sizes - Reserve Now<\/strong><\/p>",
+        "description": "<p>Reserve Seat in class with $57 deposit, or use <a href=\"/pages/shop-pay\" title=\"Shop Pay | Tampa School Of Real Estate\">ShopPay financing</a> to fund your real estate education!<br/><strong>Limited Class Sizes - Reserve Now</strong></p>",
         "show_description": false,
         "description_style": "body",
         "collection": "license-classes",
@@ -90,9 +99,9 @@
     "36e69bd3-6da8-43a1-8311-46e7861d9ea1": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>On-Demand Online Courses<\/strong>",
+        "title": "<strong>On-Demand Online Courses</strong>",
         "heading_size": "h2",
-        "description": "<p>Complete your FREC required courses from anywhere at anytime.<\/p>",
+        "description": "<p>Complete your FREC required courses from anywhere at anytime.</p>",
         "show_description": false,
         "description_style": "body",
         "collection": "online-courses",
@@ -150,7 +159,7 @@
     "f238a154-f771-4262-b3dd-405b8acd6953": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div id=\"om-totegcq7wultsrwlwsiu-holder\"><\/div>",
+        "custom_liquid": "<div id=\"om-totegcq7wultsrwlwsiu-holder\"></div>",
         "color_scheme": "accent-1",
         "padding_top": 0,
         "padding_bottom": 20
@@ -161,7 +170,7 @@
       "settings": {
         "title": "Exam Prep – Pass First Try Strategy",
         "heading_size": "h2",
-        "description": "<p>Take time out of the equation with the tools trusted by thousands to pass on their first try.<\/p>",
+        "description": "<p>Take time out of the equation with the tools trusted by thousands to pass on their first try.</p>",
         "show_description": false,
         "description_style": "body",
         "collection": "exam-prep",
@@ -187,9 +196,9 @@
     "777d0bbb-5660-4d59-8926-49146595b02c": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>45-Hour Post Licensing<\/strong>",
+        "title": "<strong>45-Hour Post Licensing</strong>",
         "heading_size": "h2",
-        "description": "<p><strong>Required for first license renewal<\/strong> as a sales associate. <strong>Enroll as soon as you're licensed<\/strong> to learn real-world business information and jumpstart your career.<\/p>",
+        "description": "<p><strong>Required for first license renewal</strong> as a sales associate. <strong>Enroll as soon as you're licensed</strong> to learn real-world business information and jumpstart your career.</p>",
         "show_description": false,
         "description_style": "body",
         "collection": "sales-post-licensing",
@@ -215,9 +224,9 @@
     "32c5e410-519b-4259-806f-f0d0724afe16": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>72-Hour Broker Pre-Licensing<\/strong>",
+        "title": "<strong>72-Hour Broker Pre-Licensing</strong>",
         "heading_size": "h2",
-        "description": "<p><strong>Have an active license for at least 2 years in the last 5?<\/strong><br\/>Upgrade to a broker license with the option to stay with your current office as a broker associate or open your own real estate office.<\/p>",
+        "description": "<p><strong>Have an active license for at least 2 years in the last 5?</strong><br/>Upgrade to a broker license with the option to stay with your current office as a broker associate or open your own real estate office.</p>",
         "show_description": false,
         "description_style": "body",
         "collection": "broker-licensing",
@@ -244,7 +253,7 @@
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "<div id=\"om-totegcq7wultsrwlwsiu-holder\"><\/div>",
+        "custom_liquid": "<div id=\"om-totegcq7wultsrwlwsiu-holder\"></div>",
         "color_scheme": "accent-1",
         "padding_top": 28,
         "padding_bottom": 52
@@ -271,7 +280,7 @@
         "template--16705787363580__c9c92a5f-daed-4130-b975-a416e8cb2efb-168144390525dde2fa-1": {
           "type": "text",
           "settings": {
-            "text": "<p>If you don't pass your end-of-course exam <strong>you're backed by our 1-Year Retake Guarantee. <\/strong>The FREC will require you to wait 30 days before re-testing (no waiting period for post licensing & CE courses!) If you still don't pass after retesting, you are able to retake at no charge within 1-year of your registration date.<br\/><br\/><strong>Trying to pass on the first try? <\/strong>Rest assured, this typically isn't a concern <strong>with our course pass rates above 90%!<\/strong><\/p>",
+            "text": "<p>If you don't pass your end-of-course exam <strong>you're backed by our 1-Year Retake Guarantee. </strong>The FREC will require you to wait 30 days before re-testing (no waiting period for post licensing & CE courses!) If you still don't pass after retesting, you are able to retake at no charge within 1-year of your registration date.<br/><br/><strong>Trying to pass on the first try? </strong>Rest assured, this typically isn't a concern <strong>with our course pass rates above 90%!</strong></p>",
             "text_style": "body"
           }
         }
@@ -285,7 +294,7 @@
         ".media > img {object-fit: contain;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1-YEAR_RETAKE_GUARANTEE.png",
+        "image": "shopify://shop_images/1-YEAR_RETAKE_GUARANTEE.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -334,7 +343,7 @@
     "422beed6-4b00-4b21-b2ee-245427b6c88b": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<script defer async src='https:\/\/cdn.trustindex.io\/loader.js?8824a1512a428172f3664d8cda4'><\/script>",
+        "custom_liquid": "<script defer async src='https://cdn.trustindex.io/loader.js?8824a1512a428172f3664d8cda4'></script>",
         "color_scheme": "background-1",
         "padding_top": 28,
         "padding_bottom": 52
@@ -361,7 +370,7 @@
         "template--16705787363580__1a79dca4-04c4-4566-a56b-61eaa6718f6e-168144390525dde2fa-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Ready to become a real estate agent?<\/strong> <\/p><p>Learn the steps and requirements to earn your Florida Real Estate License. Get answers to questions about the courses, fingerprinting, application, exams, and launching your real estate career.<\/p>",
+            "text": "<p><strong>Ready to become a real estate agent?</strong> </p><p>Learn the steps and requirements to earn your Florida Real Estate License. Get answers to questions about the courses, fingerprinting, application, exams, and launching your real estate career.</p>",
             "text_style": "body"
           }
         },
@@ -369,7 +378,7 @@
           "type": "button",
           "settings": {
             "button_label": "View License Steps",
-            "button_link": "shopify:\/\/pages\/florida-real-estate-license"
+            "button_link": "shopify://pages/florida-real-estate-license"
           }
         }
       },
@@ -383,7 +392,7 @@
         ".media > img {object-fit: contain;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/TSRE_Grads.jpg",
+        "image": "shopify://shop_images/TSRE_Grads.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -418,7 +427,7 @@
         "template--16705787363580__b40ea024-b685-4855-916b-942c87260d31-1681443817d4e91d48-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Starting a real estate career can be a life-changing decision and has the potential to <strong>open a world of possibilities for your future. <\/strong>A career in real estate is more than just getting paid for selling homes; it provides an opportunity to <strong>establish financial independence, build relationships and make an impact on people’s lives.<\/strong><\/p><p>You don't need to wait until you have all the answers or hit certain milestones; the best time to start is now! With our online classes, you can undertake your education and get licensed to become a Florida realtor quickly and easily, so take advantage of this opportunity now and <strong>begin writing your success story!<\/strong><\/p>"
+            "text": "<p>Starting a real estate career can be a life-changing decision and has the potential to <strong>open a world of possibilities for your future. </strong>A career in real estate is more than just getting paid for selling homes; it provides an opportunity to <strong>establish financial independence, build relationships and make an impact on people’s lives.</strong></p><p>You don't need to wait until you have all the answers or hit certain milestones; the best time to start is now! With our online classes, you can undertake your education and get licensed to become a Florida realtor quickly and easily, so take advantage of this opportunity now and <strong>begin writing your success story!</strong></p>"
           }
         }
       },
@@ -442,7 +451,7 @@
         "template--16705787363580__c37dc7cc-73dc-4287-bcea-741bf6053695-16814445942eed14d9-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/dbpr.png",
+            "image": "shopify://shop_images/dbpr.png",
             "icon": "",
             "title": "",
             "text": "",
@@ -454,7 +463,7 @@
         "template--16705787363580__c37dc7cc-73dc-4287-bcea-741bf6053695-16814445942eed14d9-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/21fcd92d-90f7-464a-b661-369238197720.png",
+            "image": "shopify://shop_images/21fcd92d-90f7-464a-b661-369238197720.png",
             "icon": "",
             "title": "",
             "text": "",
@@ -510,7 +519,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "View exam prep strategy",
-            "button_link_1": "shopify:\/\/pages\/pass-first-try-fl-exam-prep-study-guide",
+            "button_link_1": "shopify://pages/pass-first-try-fl-exam-prep-study-guide",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -524,7 +533,7 @@
         "template--16705787363580__39408e0c-072f-4275-8acd-92b8c5858aab-1681444744e3c2dd7d-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/exam-prep-banner-desktop.jpg",
+        "image": "shopify://shop_images/exam-prep-banner-desktop.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "bottom-center",
@@ -558,14 +567,14 @@
         "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-1": {
           "type": "text",
           "settings": {
-            "text": "<p>If you want to become a licensed real estate agent in Florida, the <strong>Tampa School of Real Estate's Pass First Try Exam Prep Bundle is your best option to fast-track your licensing. <\/strong>Our years of experience and knowledge have gone into creating these exam prep tools that will help you get licensed quickly and easily.<\/p><p>Start by watching our <a href=\"https:\/\/tsre-us.myshopify.com\/products\/secrets-of-the-exam\" title=\"Secrets of the Exam\"><strong>Secrets of the Exam<\/strong><\/a> video-based course to learn tips and strategies for passing the state exam. Then use the <a href=\"https:\/\/tsre-us.myshopify.com\/products\/mp3-audio-review\" title=\"MP3 Audio Review\"><strong>MP3 Audio Review<\/strong><\/a> to condense 63 hours of material into just 5 hours of simplified key points.<\/p><p>Test your knowledge with our <a href=\"https:\/\/tsre-us.myshopify.com\/products\/question-simulator\" title=\"Question Simulator\"><strong>Question Simulator<\/strong><\/a> so you can identify which areas you need to focus on further. Finally, feel confident and prepared before taking your exam with the <a href=\"https:\/\/tsre-us.myshopify.com\/products\/weekend-prep-recording\" title=\"Weekend Prep Recording\"><strong>Weekend Prep Recording<\/strong><\/a><strong>.<\/strong><\/p><p><strong>Thousands have used this program to pass their exams on the first try in as little as 30 days<\/strong> - don't miss out on this opportunity! <em>Purchase the Pass First Try Exam Prep bundle today!<\/em><\/p>"
+            "text": "<p>If you want to become a licensed real estate agent in Florida, the <strong>Tampa School of Real Estate's Pass First Try Exam Prep Bundle is your best option to fast-track your licensing. </strong>Our years of experience and knowledge have gone into creating these exam prep tools that will help you get licensed quickly and easily.</p><p>Start by watching our <a href=\"https://tsre-us.myshopify.com/products/secrets-of-the-exam\" title=\"Secrets of the Exam\"><strong>Secrets of the Exam</strong></a> video-based course to learn tips and strategies for passing the state exam. Then use the <a href=\"https://tsre-us.myshopify.com/products/mp3-audio-review\" title=\"MP3 Audio Review\"><strong>MP3 Audio Review</strong></a> to condense 63 hours of material into just 5 hours of simplified key points.</p><p>Test your knowledge with our <a href=\"https://tsre-us.myshopify.com/products/question-simulator\" title=\"Question Simulator\"><strong>Question Simulator</strong></a> so you can identify which areas you need to focus on further. Finally, feel confident and prepared before taking your exam with the <a href=\"https://tsre-us.myshopify.com/products/weekend-prep-recording\" title=\"Weekend Prep Recording\"><strong>Weekend Prep Recording</strong></a><strong>.</strong></p><p><strong>Thousands have used this program to pass their exams on the first try in as little as 30 days</strong> - don't miss out on this opportunity! <em>Purchase the Pass First Try Exam Prep bundle today!</em></p>"
           }
         },
         "template--16705787363580__21eac033-428f-42d9-8a6b-94cf2311d87d-1681443817d4e91d48-2": {
           "type": "button",
           "settings": {
             "button_label": "Get the Pass First Try Bundle",
-            "button_link": "shopify:\/\/products\/pass-first-try-exam-prep",
+            "button_link": "shopify://products/pass-first-try-exam-prep",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -590,7 +599,6 @@
     },
     "12a8abbf-edf1-4411-b6b5-c194d03cb905": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "template--16705787363580__12a8abbf-edf1-4411-b6b5-c194d03cb905-1681444775ee066080-1": {
           "type": "product",
@@ -602,7 +610,7 @@
         "305bfe24-cdd5-498b-bf44-c8d932fef7a5": {
           "type": "product",
           "settings": {
-            "product": "weekend-prep-recording",
+            "product": "exam-cram-videos",
             "second_image": false
           }
         },
@@ -619,6 +627,7 @@
         "305bfe24-cdd5-498b-bf44-c8d932fef7a5",
         "933f7b5b-415d-4ed9-96e5-bb5efa98df69"
       ],
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -632,7 +641,6 @@
     },
     "35cec08c-8404-4e96-a5da-458b5490fc29": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "3eed5a37-268e-4fb4-b804-636b35c338ef": {
           "type": "product",
@@ -661,6 +669,7 @@
         "d0e8b159-a74c-496d-858a-dbd4b9c469de",
         "c99e5e56-1ba4-4280-a1cb-86bcf2377a26"
       ],
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -685,7 +694,7 @@
         "template--16705787363580__5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6-1681445926bc637787-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>"
+            "text": "<p>Promotions, new products and sales. Directly to your inbox.</p>"
           }
         },
         "template--16705787363580__5f71085d-7ef2-4bc7-a2b0-cc3c9a777ca6-1681445926bc637787-2": {
@@ -727,7 +736,7 @@
         "template--16705787363580__f5439a72-b673-40a2-80a7-1553851751d9-1681443817d4e91d48-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our comprehensive course curriculum covers the topics you need to know in order to become a successful real estate agent and provides ongoing support for any questions you may have.<br\/><br\/>We understand that starting a new career can be intimidating, but there’s no need to worry! The courses are designed with beginners in mind, so even if you don’t have prior experience, you can get the skills and knowledge needed to make a name for yourself in real estate.<br\/><\/p><p>So what are you waiting for? Become a licensed Florida Realtor today and start making an impact on people’s lives! Register now to begin your journey with TSRE! With our knowledgeable community of professionals, you’ll be on your way to success in no time.<\/p><p>We look forward to having you join us. We know that starting a real estate career can seem overwhelming at times. That’s why we provide personalized mentorship and guidance every step of the way.<\/p><p>Our instructors are experienced in the field and passionate about helping others acquire the skills needed to succeed. We pride ourselves on providing quality real estate education so you can feel confident in your investments, decisions, and future success. With our courses, you’ll learn everything from how to find properties and secure deals to managing customers and closing transactions.<\/p><p>Get started with the basics in your pre-licensing course, but as soon as you're licensed, you can enroll in post-licensing to start learning more about building your real estate business.<\/p>"
+            "text": "<p>Our comprehensive course curriculum covers the topics you need to know in order to become a successful real estate agent and provides ongoing support for any questions you may have.<br/><br/>We understand that starting a new career can be intimidating, but there’s no need to worry! The courses are designed with beginners in mind, so even if you don’t have prior experience, you can get the skills and knowledge needed to make a name for yourself in real estate.<br/></p><p>So what are you waiting for? Become a licensed Florida Realtor today and start making an impact on people’s lives! Register now to begin your journey with TSRE! With our knowledgeable community of professionals, you’ll be on your way to success in no time.</p><p>We look forward to having you join us. We know that starting a real estate career can seem overwhelming at times. That’s why we provide personalized mentorship and guidance every step of the way.</p><p>Our instructors are experienced in the field and passionate about helping others acquire the skills needed to succeed. We pride ourselves on providing quality real estate education so you can feel confident in your investments, decisions, and future success. With our courses, you’ll learn everything from how to find properties and secure deals to managing customers and closing transactions.</p><p>Get started with the basics in your pre-licensing course, but as soon as you're licensed, you can enroll in post-licensing to start learning more about building your real estate business.</p>"
           }
         }
       },

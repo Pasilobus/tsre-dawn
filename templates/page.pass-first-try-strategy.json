@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -45,7 +54,7 @@
         "heading": "",
         "heading_size": "h1",
         "enable_video_looping": false,
-        "video_url": "https:\/\/player.vimeo.com\/video\/571478365?autoplay=0&loop=0",
+        "video_url": "https://player.vimeo.com/video/571478365?autoplay=0&loop=0",
         "description": "",
         "full_width": false,
         "color_scheme": "accent-1",
@@ -59,7 +68,7 @@
         "7675b3a3-27da-4d1c-b969-b97b5270b72b": {
           "type": "text",
           "settings": {
-            "text": "<p>TSRE | Tampa School of Real Estate has developed the Pass First Try Strategy to help you pass your class and state exams on your first try.It starts with studying the most important topics that will show up on the exam!These lessons are based on our years of experience helping thousands of students pass their exams and start their real estate careers.<\/p>"
+            "text": "<p>TSRE | Tampa School of Real Estate has developed the Pass First Try Strategy to help you pass your class and state exams on your first try.It starts with studying the most important topics that will show up on the exam!These lessons are based on our years of experience helping thousands of students pass their exams and start their real estate careers.</p>"
           }
         },
         "138cd835-3312-4a68-b158-a94987663a17": {
@@ -92,7 +101,7 @@
           "settings": {
             "icon": "",
             "title": "2,000+",
-            "text": "<p>5 Star Reviews<\/p>",
+            "text": "<p>5 Star Reviews</p>",
             "link_label": "",
             "link": "",
             "link_style": "primary"
@@ -103,7 +112,7 @@
           "settings": {
             "icon": "",
             "title": "25,000+",
-            "text": "<p>Trusted by 25K+ Past Students<\/p>",
+            "text": "<p>Trusted by 25K+ Past Students</p>",
             "link_label": "",
             "link": "",
             "link_style": "primary"
@@ -144,7 +153,7 @@
         "template--16714870161660__9e81a78f-4044-4425-af02-99f4acd12a79-1682983121c9e42f58-1": {
           "type": "text",
           "settings": {
-            "text": "<p>But one of the exam secrets is <strong>you don't have to remember everything!<\/strong><\/p><p>You just need to <strong>remember certain important points<\/strong> and concepts from your course.<\/p><p>The exam prep tools in the Pass First Try strategy bundle will allow you to <strong>focus on building repitition<\/strong> on the topics that are <strong>most likely to be tested<\/strong> on your Florida real estate exam.<\/p><p><strong>Don't waste your time<\/strong> trying to sift though all the information in your course, the reality there is a lot of information that you may never use depending on the type of real estate you will practice.<\/p><p>Use the momentum of passing your exam to launch your new career and start earning commissions faster.<\/p><p> <\/p><p>Get Access Now & Get Ready to Pass Your Exams!<\/p>"
+            "text": "<p>But one of the exam secrets is <strong>you don't have to remember everything!</strong></p><p>You just need to <strong>remember certain important points</strong> and concepts from your course.</p><p>The exam prep tools in the Pass First Try strategy bundle will allow you to <strong>focus on building repitition</strong> on the topics that are <strong>most likely to be tested</strong> on your Florida real estate exam.</p><p><strong>Don't waste your time</strong> trying to sift though all the information in your course, the reality there is a lot of information that you may never use depending on the type of real estate you will practice.</p><p>Use the momentum of passing your exam to launch your new career and start earning commissions faster.</p><p> </p><p>Get Access Now & Get Ready to Pass Your Exams!</p>"
           }
         }
       },
@@ -174,7 +183,7 @@
         "70827781-6e1c-4114-b95b-a6a2a87324fd": {
           "type": "text",
           "settings": {
-            "text": "<p>It is an innovative approach that gives you the ability to understand how the FL real estate exam works and pass the test in the fastest amount of time possible.<\/p>"
+            "text": "<p>It is an innovative approach that gives you the ability to understand how the FL real estate exam works and pass the test in the fastest amount of time possible.</p>"
           }
         }
       },
@@ -197,45 +206,45 @@
         "template--16715292410108__ea743af6-8335-4eaa-99aa-e784b825c671-168298352462d3b18c-0": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_5_3e21b229-44f6-4064-b06e-e5d30d0b14ef.webp",
+            "image": "shopify://shop_images/download_5_3e21b229-44f6-4064-b06e-e5d30d0b14ef.webp",
             "caption": "",
             "heading": "Step 1: Learn the information",
-            "text": "<h4>FREC Approved Classroom LIVE + Online Classes<br\/><\/h4><p>The Florida Real Estate Commission requires that you take a 63 hour pre-licensing course to be able to take the state-mandated real estate license exam. With classroom and several online formats, no other school offers more options to get your Florida real estate license.<\/p>",
+            "text": "<h4>FREC Approved Classroom LIVE + Online Classes<br/></h4><p>The Florida Real Estate Commission requires that you take a 63 hour pre-licensing course to be able to take the state-mandated real estate license exam. With classroom and several online formats, no other school offers more options to get your Florida real estate license.</p>",
             "button_label": "View real estate classes",
-            "button_link": "shopify:\/\/collections\/license-classes"
+            "button_link": "shopify://collections/license-classes"
           }
         },
         "template--16715292410108__ea743af6-8335-4eaa-99aa-e784b825c671-168298352462d3b18c-1": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_6_9251298b-30e3-4d47-8cee-2b7870d9a264.webp",
+            "image": "shopify://shop_images/download_6_9251298b-30e3-4d47-8cee-2b7870d9a264.webp",
             "caption": "",
             "heading": "Step 2: Reinforce Along the Way",
-            "text": "<h3>MP3 Audio Review<br\/><\/h3><p>Do you know the saying \"if you do not use it, you lose\"? Well, that's especially true for the knowledge required to pass the exams. To maintain all of this new information, it's important to review and reinforce it often, so there is no chance of losing anything!<\/p>",
+            "text": "<h3>MP3 Audio Review<br/></h3><p>Do you know the saying \"if you do not use it, you lose\"? Well, that's especially true for the knowledge required to pass the exams. To maintain all of this new information, it's important to review and reinforce it often, so there is no chance of losing anything!</p>",
             "button_label": "MP3 audio review",
-            "button_link": "shopify:\/\/products\/mp3-audio-review"
+            "button_link": "shopify://products/mp3-audio-review"
           }
         },
         "template--16715292410108__ea743af6-8335-4eaa-99aa-e784b825c671-168298352462d3b18c-2": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_7.webp",
+            "image": "shopify://shop_images/download_7.webp",
             "caption": "",
             "heading": "Step 3: Test your knowledge",
-            "text": "<h3>Question Simulator<br\/><\/h3><p>The Exam Question Simulator is one of our most powerful tools to pass your exams. The interactive format allows you to test your knowledge before the real exam so you can pinpoint the topics you need to review. With hundreds of practice questions you can simulate the actual 100 question exam or just focus on a particular unit.<\/p>",
+            "text": "<h3>Question Simulator<br/></h3><p>The Exam Question Simulator is one of our most powerful tools to pass your exams. The interactive format allows you to test your knowledge before the real exam so you can pinpoint the topics you need to review. With hundreds of practice questions you can simulate the actual 100 question exam or just focus on a particular unit.</p>",
             "button_label": "Exam question simulator",
-            "button_link": "shopify:\/\/pages\/exam-prep-11-bonus-question"
+            "button_link": "shopify://pages/exam-prep-11-bonus-question"
           }
         },
         "873d197d-b7bb-41db-9544-28a61862d7c9": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_7.webp",
+            "image": "shopify://shop_images/download_7.webp",
             "caption": "",
             "heading": "Step 4: Be confident and prepared",
-            "text": "<h3>Weekend prep recording<\/h3><p>Have you ever had that feeling when you're about to take a test, and your stomach starts tying into knots? While there's no 100% cure for the pre-exam jitters, being confident of your knowledge will allow you to perform at your best level on the exam and not get distracted by the wrong answers desinged to make you second guess yourself.<\/p>",
+            "text": "<h3>Weekend prep recording</h3><p>Have you ever had that feeling when you're about to take a test, and your stomach starts tying into knots? While there's no 100% cure for the pre-exam jitters, being confident of your knowledge will allow you to perform at your best level on the exam and not get distracted by the wrong answers desinged to make you second guess yourself.</p>",
             "button_label": "Weekend prep recording",
-            "button_link": "shopify:\/\/products\/weekend-prep-recording"
+            "button_link": "shopify://products/exam-cram-videos"
           }
         }
       },
@@ -267,7 +276,7 @@
         "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_2_0f0688c8-8c56-4022-adee-2b3ec03a21be.webp",
+            "image": "shopify://shop_images/download_2_0f0688c8-8c56-4022-adee-2b3ec03a21be.webp",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -285,7 +294,7 @@
         "template--16714870161660__d4e6276f-6b9d-4a8e-a9b0-626e41267ef7-1683039487d6a7af73-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_3_8f92c16e-4f85-46cc-aebb-bd266fdcc0b8.webp",
+            "image": "shopify://shop_images/download_3_8f92c16e-4f85-46cc-aebb-bd266fdcc0b8.webp",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -303,7 +312,7 @@
         "50046425-cda1-4c50-9de0-1b17302ec03d": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_4_d775dfd6-863f-41a9-b658-6ddb43862c06.webp",
+            "image": "shopify://shop_images/download_4_d775dfd6-863f-41a9-b658-6ddb43862c06.webp",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -352,7 +361,7 @@
         "template--16714870161660__d717de3f-b891-4f60-b5cd-a28bcd944e09-1682983121c9e42f58-1": {
           "type": "text",
           "settings": {
-            "text": "<p>While your pre-licensing course will cover everything, the question is will you remember and be able to apply these concepts on your exam?If you're ready to stop worrying about how to pass your exams, get access today.If you are ready to start building your real estate career, get access today.If you are ready to start earning commission, get access today.If you're sick of waiting, get access today.<\/p>"
+            "text": "<p>While your pre-licensing course will cover everything, the question is will you remember and be able to apply these concepts on your exam?If you're ready to stop worrying about how to pass your exams, get access today.If you are ready to start building your real estate career, get access today.If you are ready to start earning commission, get access today.If you're sick of waiting, get access today.</p>"
           }
         }
       },
@@ -378,10 +387,10 @@
         "9b9408bb-e2d9-4999-b637-c16b5b4d3302": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_9.webp",
+            "image": "shopify://shop_images/download_9.webp",
             "caption": "",
             "heading": "Secrets of the Exam",
-            "text": "<p>✔ Test Taking Tips & Exam Strategies<br\/><\/p><p>✔ How to Use the Pass First Try Strategy<br\/><\/p><p>✔ Introduction to the Licensing Process<\/p>",
+            "text": "<p>✔ Test Taking Tips & Exam Strategies<br/></p><p>✔ How to Use the Pass First Try Strategy<br/></p><p>✔ Introduction to the Licensing Process</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -389,21 +398,21 @@
         "516e7ffb-f71f-4bb5-b434-93611b74286b": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_10.webp",
+            "image": "shopify://shop_images/download_10.webp",
             "caption": "",
             "heading": "MP3 Audio review",
-            "text": "<p>✔ 5-Hour Audio Review to Reinforce Key Points<br\/><\/p><p>✔ Listen Anywhere You Have an Internet Connection<br\/><\/p><p>✔ Broken Down By Unit & Exam Percentages<\/p>",
+            "text": "<p>✔ 5-Hour Audio Review to Reinforce Key Points<br/></p><p>✔ Listen Anywhere You Have an Internet Connection<br/></p><p>✔ Broken Down By Unit & Exam Percentages</p>",
             "button_label": "",
-            "button_link": "shopify:\/\/products\/mp3-audio-review"
+            "button_link": "shopify://products/mp3-audio-review"
           }
         },
         "e6bab6cc-3dc6-4c67-922f-7e5d7a99287a": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_7.webp",
+            "image": "shopify://shop_images/download_7.webp",
             "caption": "",
             "heading": "Question Simulator",
-            "text": "<p>✔ 700+ Practice Questions - Test by Unit or Simulate Exam<br\/><\/p><p>✔ Instant Feedback & Explanation After Every Question<br\/><\/p><p>✔ Use Results to Identify Units to Focus<\/p>",
+            "text": "<p>✔ 700+ Practice Questions - Test by Unit or Simulate Exam<br/></p><p>✔ Instant Feedback & Explanation After Every Question<br/></p><p>✔ Use Results to Identify Units to Focus</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -411,12 +420,12 @@
         "af92197e-9159-4269-be8f-ef9a2afb7d77": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_7.webp",
+            "image": "shopify://shop_images/download_7.webp",
             "caption": "",
             "heading": "Weekend Prep Recording",
-            "text": "<p>✔ 16 Hour Recording - Watch by Unit or Full Recording<br\/><\/p><p>✔ Interactive Format - Workbook Included<br\/><\/p><p>✔ Watch from Any Internet Connected Device<br\/><\/p><p>✔ Pause, Rewind & Change Speed<\/p>",
+            "text": "<p>✔ 16 Hour Recording - Watch by Unit or Full Recording<br/></p><p>✔ Interactive Format - Workbook Included<br/></p><p>✔ Watch from Any Internet Connected Device<br/></p><p>✔ Pause, Rewind & Change Speed</p>",
             "button_label": "Weekend prep recording",
-            "button_link": "shopify:\/\/products\/weekend-prep-recording"
+            "button_link": "shopify://products/exam-cram-videos"
           }
         }
       },
@@ -448,7 +457,7 @@
         "template--16715292410108__ec837cc3-e877-41e1-86c0-23a052fbe55f-1682983213062b9e96-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_1b99d828-e783-4554-b488-3c6b74d4490e.webp",
+            "image": "shopify://shop_images/download_1b99d828-e783-4554-b488-3c6b74d4490e.webp",
             "icon": "",
             "title": "",
             "text": "",
@@ -491,7 +500,7 @@
         "535af5d8-497d-4554-a1c4-a8dd1b2daa4c": {
           "type": "text",
           "settings": {
-            "text": "<p>✓ Recommended As Soon As Licensed<\/p><p>✓ How to Make Money in Real Estate<\/p><p>✓ Learn Early & Avoid Mistakes<\/p><p>✓ Required by 1st Renewal Deadline<\/p><p>✓  Null & Void if Deadline Missed<\/p>",
+            "text": "<p>✓ Recommended As Soon As Licensed</p><p>✓ How to Make Money in Real Estate</p><p>✓ Learn Early & Avoid Mistakes</p><p>✓ Required by 1st Renewal Deadline</p><p>✓  Null & Void if Deadline Missed</p>",
             "text_style": "body"
           }
         }
@@ -501,7 +510,7 @@
         "535af5d8-497d-4554-a1c4-a8dd1b2daa4c"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/download_1_c763bf9c-905f-4349-8bbe-467312a558ab.webp",
+        "image": "shopify://shop_images/download_1_c763bf9c-905f-4349-8bbe-467312a558ab.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -528,7 +537,7 @@
         "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Step 1: Complete FREC Required Post Licensing Course<br\/><\/h2><p>Active or inactive, you're required to complete post-licensing by your first renewal deadline (18-24 months from licensure). Failure to complete the FREC required Post Licensing course by midnight of your expiration will cause your license to become NULL & VOID!<\/p><h2>Step 2: Pass End of Course Exam<br\/><\/h2><p>There is no state exam required for the Post Licensing course. However, you must successfully pass the end-of-course exam with a 75% or higher.<\/p><p>Once you pass the end-of-course exam, we will file your completion with the Florida DBPR. It may take up to 72 hours for completed hours to show in your DBPR portal. Please contact us if your hours are not showing after 72 hours.<\/p><h2>Step 3: Pay Your State Renewal Fee<br\/><\/h2><p>The final step of your license renewal is to pay your renewal fee. The fee is currently $64 to renew your license and can be completed through your online account on the DBPR Website.<\/p><p><strong>Maintain your real estate license and better understand how to practice real estate legally and ethically!<\/strong><\/p>"
+            "text": "<h2>Step 1: Complete FREC Required Post Licensing Course<br/></h2><p>Active or inactive, you're required to complete post-licensing by your first renewal deadline (18-24 months from licensure). Failure to complete the FREC required Post Licensing course by midnight of your expiration will cause your license to become NULL & VOID!</p><h2>Step 2: Pass End of Course Exam<br/></h2><p>There is no state exam required for the Post Licensing course. However, you must successfully pass the end-of-course exam with a 75% or higher.</p><p>Once you pass the end-of-course exam, we will file your completion with the Florida DBPR. It may take up to 72 hours for completed hours to show in your DBPR portal. Please contact us if your hours are not showing after 72 hours.</p><h2>Step 3: Pay Your State Renewal Fee<br/></h2><p>The final step of your license renewal is to pay your renewal fee. The fee is currently $64 to renew your license and can be completed through your online account on the DBPR Website.</p><p><strong>Maintain your real estate license and better understand how to practice real estate legally and ethically!</strong></p>"
           }
         }
       },
