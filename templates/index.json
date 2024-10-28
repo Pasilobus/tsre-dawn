@@ -37,7 +37,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Become Real Estate Agent",
-            "button_link_1": "shopify://pages/florida-real-estate-license",
+            "button_link_1": "shopify://pages/florida-license",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "shopify://collections/license-classes",
@@ -378,7 +378,7 @@
           "type": "button",
           "settings": {
             "button_label": "View License Steps",
-            "button_link": "shopify://pages/florida-real-estate-license"
+            "button_link": "shopify://pages/florida-license"
           }
         }
       },
