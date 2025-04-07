@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -30,7 +39,7 @@
         "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Reserve su asiento con un depósito de $57 hoy.<\/p>",
+            "text": "<p>Reserve su asiento con un depósito de $57 hoy.</p>",
             "text_style": "body"
           }
         },
@@ -53,7 +62,7 @@
         "template--16708547870972__7e16b57a-8c15-449f-9696-da181d49cfa6-16818600808fc61356-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/sales-associate-licensing-guide-2160x777.jpg",
+        "image": "shopify://shop_images/sales-associate-licensing-guide-2160x777.jpg",
         "image_overlay_opacity": 30,
         "image_height": "small",
         "desktop_content_position": "middle-left",
@@ -68,7 +77,6 @@
     },
     "fb558bb9-22af-4dd3-8456-1b7229e75fe2": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "8a4e1f25-4ad0-4fed-ba80-8574e265218b": {
           "type": "caption",
@@ -88,7 +96,7 @@
         "69048707-f7b5-444f-b609-1452eca9802f": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>✓ At Least 18 Years Old<\/strong><\/p><p><strong>✓ High School Diploma or Equivalent<\/strong><\/p><p><strong>✓ US Social Security Number <\/strong><em>(<\/em><a href=\"https:\/\/www.ssa.gov\/forms\/ss-5.pdf\" target=\"_blank\" title=\"https:\/\/www.ssa.gov\/forms\/ss-5.pdf\"><em>Apply for US SSN Here<\/em><\/a><em>)<\/em><\/p><p><strong>✓ Fulfill Licensing Requirements<\/strong><\/p><p><strong>✓ <\/strong>Florida Residency <strong>NOT<\/strong> Required<\/p>",
+            "text": "<p><strong>✓ At Least 18 Years Old</strong></p><p><strong>✓ High School Diploma or Equivalent</strong></p><p><strong>✓ US Social Security Number </strong><em>(</em><a href=\"https://www.ssa.gov/forms/ss-5.pdf\" target=\"_blank\" title=\"https://www.ssa.gov/forms/ss-5.pdf\"><em>Apply for US SSN Here</em></a><em>)</em></p><p><strong>✓ Fulfill Licensing Requirements</strong></p><p><strong>✓ </strong>Florida Residency <strong>NOT</strong> Required</p>",
             "text_style": "body"
           }
         }
@@ -98,8 +106,9 @@
         "dae2c75a-490a-4020-b707-fde3786b5a16",
         "69048707-f7b5-444f-b609-1452eca9802f"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/TSRE_Grads.jpg",
+        "image": "shopify://shop_images/TSRE_Grads.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -134,7 +143,7 @@
         "7b19ec37-1619-49e3-a045-0c81e3ca4a55": {
           "type": "text",
           "settings": {
-            "text": "<p>En la Escuela de Bienes Raíces de Tampa, estamos aquí para ser más que una clase obligatoria. Queremos ayudarlo a aprobar su primer intento, impulsar su carrera y construir su imperio inmobiliario ... ¡su éxito es nuestro éxito!<\/p>",
+            "text": "<p>En la Escuela de Bienes Raíces de Tampa, estamos aquí para ser más que una clase obligatoria. Queremos ayudarlo a aprobar su primer intento, impulsar su carrera y construir su imperio inmobiliario ... ¡su éxito es nuestro éxito!</p>",
             "text_style": "body"
           }
         },
@@ -154,7 +163,7 @@
         "925f4b35-dde2-453b-bed6-3be669d3eb10"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/tampa-real-estate-classes_a1af6d84-e21e-4a3c-a49e-7d708f4d7c87.jpg",
+        "image": "shopify://shop_images/tampa-real-estate-classes_a1af6d84-e21e-4a3c-a49e-7d708f4d7c87.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -170,12 +179,11 @@
     },
     "8f9600e6-79bb-4f46-9839-60060e6c13e2": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/slpre-45th-edition-textbook-included-1200-x-600-px-2_1200x_89f99f28-459b-422a-8147-dd4f1ceabf82.webp",
+            "image": "shopify://shop_images/slpre-45th-edition-textbook-included-1200-x-600-px-2_1200x_89f99f28-459b-422a-8147-dd4f1ceabf82.webp",
             "icon": "",
             "title": "",
             "text": "",
@@ -187,7 +195,7 @@
         "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/sales-associate-digital-materials-1200-x-600-px.webp",
+            "image": "shopify://shop_images/sales-associate-digital-materials-1200-x-600-px.webp",
             "icon": "",
             "title": "",
             "text": "",
@@ -199,7 +207,7 @@
         "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/secrets-of-the-exam-included_1200x_64c88b4a-c026-4c94-8ad6-4d7f73c0224f.webp",
+            "image": "shopify://shop_images/secrets-of-the-exam-included_1200x_64c88b4a-c026-4c94-8ad6-4d7f73c0224f.webp",
             "icon": "",
             "title": "",
             "text": "",
@@ -214,6 +222,7 @@
         "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-1",
         "template--16708624843004__8f9600e6-79bb-4f46-9839-60060e6c13e2-16818722279e2e38f9-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "What's Included?",
         "heading_size": "h1",
@@ -233,14 +242,13 @@
     },
     "d42e1d33-cfa6-4126-b88a-19f64ee9a25a": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--16708547870972__d42e1d33-cfa6-4126-b88a-19f64ee9a25a-1681860317d7b8a10f-0": {
           "type": "column",
           "settings": {
             "icon": "quote",
             "title": "",
-            "text": "<h6>Six Figures in my first year!<\/h6><h3>If you're looking to get into real estate, I highly recommend it! My instructor made it easy to comprehend.<\/h3><p>- David Cribs<\/p>",
+            "text": "<h6>Six Figures in my first year!</h6><h3>If you're looking to get into real estate, I highly recommend it! My instructor made it easy to comprehend.</h3><p>- David Cribs</p>",
             "link_label": "",
             "link": "",
             "link_style": "primary"
@@ -251,7 +259,7 @@
           "settings": {
             "icon": "quote",
             "title": "",
-            "text": "<h6>Passed my state exam on the first try!<\/h6><h3>Tampa School of Real Estate gave me the knowledge, tools, and the confidence!<\/h3><p>- Rhonda Elias Spurling<\/p>",
+            "text": "<h6>Passed my state exam on the first try!</h6><h3>Tampa School of Real Estate gave me the knowledge, tools, and the confidence!</h3><p>- Rhonda Elias Spurling</p>",
             "link_label": "",
             "link": "",
             "link_style": "primary"
@@ -262,7 +270,7 @@
           "settings": {
             "icon": "quote",
             "title": "",
-            "text": "<h6>Passed my state exam today!<\/h6><h3>The instructor kept the material interesting and easy to understand. Highly Recommend!<\/h3><p>- Christopher Foottit<\/p>",
+            "text": "<h6>Passed my state exam today!</h6><h3>The instructor kept the material interesting and easy to understand. Highly Recommend!</h3><p>- Christopher Foottit</p>",
             "link_label": "",
             "link": "",
             "link_style": "primary"
@@ -274,6 +282,7 @@
         "0e769e98-f557-4357-a418-9d9ec03732a5",
         "fdfd7915-e882-4d91-8854-4cbc8b0e186d"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -293,7 +302,6 @@
     },
     "6bd4c738-f286-45c0-8043-accad6dffabe": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "faa1de5f-bbd0-47fe-8e0f-09bca42e7c53": {
           "type": "caption",
@@ -313,7 +321,7 @@
         "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>If you don't pass your end-of-course exam <strong>you're backed by our 1-Year Retake Guarantee. <\/strong>The FREC will require you to wait 30 days before re-testing (no waiting period for post licensing & CE courses!) If you still don't pass after retesting, you are able to retake at no charge within 1-year of your registration date.<br\/><br\/><strong>Trying to pass on the first try? <\/strong>Rest assured, this typically isn't a concern <strong>with our course pass rates above 90%!<\/strong><\/p>",
+            "text": "<p>If you don't pass your end-of-course exam <strong>you're backed by our 1-Year Retake Guarantee. </strong>The FREC will require you to wait 30 days before re-testing (no waiting period for post licensing & CE courses!) If you still don't pass after retesting, you are able to retake at no charge within 1-year of your registration date.<br/><br/><strong>Trying to pass on the first try? </strong>Rest assured, this typically isn't a concern <strong>with our course pass rates above 90%!</strong></p>",
             "text_style": "body"
           }
         }
@@ -323,11 +331,12 @@
         "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-0",
         "template--16708516184316__6bd4c738-f286-45c0-8043-accad6dffabe-16818544704ed1167d-1"
       ],
+      "disabled": true,
       "custom_css": [
         ".media > img {object-fit: contain;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1-YEAR_RETAKE_GUARANTEE.png",
+        "image": "shopify://shop_images/1-YEAR_RETAKE_GUARANTEE.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -397,7 +406,6 @@
     },
     "32ba5ff4-c6d3-48ad-b68e-2e31f71c3423": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "f5a8de3d-b36a-4ead-b042-23f725486b27": {
           "type": "caption",
@@ -417,7 +425,7 @@
         "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Complete the course <strong>on your own schedule <\/strong>with Instructor <strong>Jon Carissimo <\/strong>as he guides you through the <strong>essential topics <\/strong>for your new career and exam.<\/p><p>This course satisfies the <strong>Florida Real Estate Commission (FREC) 63 Hour Sales Associate<\/strong> requirement to sit for the state exam.<\/p>",
+            "text": "<p>Complete the course <strong>on your own schedule </strong>with Instructor <strong>Jon Carissimo </strong>as he guides you through the <strong>essential topics </strong>for your new career and exam.</p><p>This course satisfies the <strong>Florida Real Estate Commission (FREC) 63 Hour Sales Associate</strong> requirement to sit for the state exam.</p>",
             "text_style": "body"
           }
         },
@@ -425,7 +433,7 @@
           "type": "button",
           "settings": {
             "button_label": "Learn more",
-            "button_link": "shopify:\/\/products\/fl-video-63-hr-pre-licensing-class-online"
+            "button_link": "shopify://products/florida-real-estate-license-online-course"
           }
         }
       },
@@ -435,11 +443,12 @@
         "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-1",
         "template--16708547870972__32ba5ff4-c6d3-48ad-b68e-2e31f71c3423-16818700232091b639-2"
       ],
+      "disabled": true,
       "custom_css": [
         ".image-with-text__media-item {z-index: 2;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/on-demand-self-guided-slpre-1000-x-1000-px-750-x-5.jpg",
+        "image": "shopify://shop_images/on-demand-self-guided-slpre-1000-x-1000-px-750-x-5.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -14,7 +23,7 @@
         "template--16719126462716__7f25d279-9817-4e48-8431-079b27d81de9-1683682486f44efe67-1": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"https:\/\/tampaschoolofrealestate.com\/pages\/independence-sale#self-63\">Self Guided 63 Hour Pre-Licensing<\/a><\/p><p><a href=\"https:\/\/tampaschoolofrealestate.com\/pages\/independence-sale#instructor-63\">Instructor-Led On Demand 63 Hour Pre-Licensing<\/a><\/p><p><a href=\"https:\/\/tampaschoolofrealestate.com\/pages\/independence-sale#pass-first-try\">Exam Prep Tools<\/a><\/p><p><a href=\"https:\/\/tampaschoolofrealestate.com\/pages\/independence-sale#self-45\">Self Guided 45-Hour Post Licensing<\/a><\/p><p><a href=\"https:\/\/tampaschoolofrealestate.com\/pages\/independence-sale#self-72\">72 Hour Broker Pre-Licensing<\/a><\/p>",
+            "text": "<p><a href=\"https://tampaschoolofrealestate.com/pages/independence-sale#self-63\">Self Guided 63 Hour Pre-Licensing</a></p><p><a href=\"https://tampaschoolofrealestate.com/pages/independence-sale#instructor-63\">Instructor-Led On Demand 63 Hour Pre-Licensing</a></p><p><a href=\"https://tampaschoolofrealestate.com/pages/independence-sale#pass-first-try\">Exam Prep Tools</a></p><p><a href=\"https://tampaschoolofrealestate.com/pages/independence-sale#self-45\">Self Guided 45-Hour Post Licensing</a></p><p><a href=\"https://tampaschoolofrealestate.com/pages/independence-sale#self-72\">72 Hour Broker Pre-Licensing</a></p>",
             "text_style": "body"
           }
         }
@@ -23,7 +32,7 @@
         "template--16719126462716__7f25d279-9817-4e48-8431-079b27d81de9-1683682486f44efe67-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Group_1_019fc9b8-abb0-47c7-8b25-15bae8c02aa2.png",
+        "image": "shopify://shop_images/Group_1_019fc9b8-abb0-47c7-8b25-15bae8c02aa2.png",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
@@ -57,7 +66,7 @@
         "template--16714870161660__f818b4e0-9f64-4235-88bf-782b075813f2-1682983121c9e42f58-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Why did we want independence so many years ago? Why did we want to live free?<\/p><p>The same reasons we all want to be free today. But despite living in America, you might not feel like you experience true freedom.<\/p><p>It's comes at a price. We had to fight for our freedom 246 years ago, and we need to fight for it today.<\/p><p>Maybe you want to be more in control of your schedule with the option of unlimited income potential if you want to go all in. Either way you need to take action to make it happen!<\/p><p>Take advantage of these savings and specials available this weekend only on the entire catalog at TampaSchoolofRealEstate.com to help you gain your independece!<\/p><p>We've included the best deals below:<\/p>"
+            "text": "<p>Why did we want independence so many years ago? Why did we want to live free?</p><p>The same reasons we all want to be free today. But despite living in America, you might not feel like you experience true freedom.</p><p>It's comes at a price. We had to fight for our freedom 246 years ago, and we need to fight for it today.</p><p>Maybe you want to be more in control of your schedule with the option of unlimited income potential if you want to go all in. Either way you need to take action to make it happen!</p><p>Take advantage of these savings and specials available this weekend only on the entire catalog at TampaSchoolofRealEstate.com to help you gain your independece!</p><p>We've included the best deals below:</p>"
           }
         }
       },
@@ -96,7 +105,7 @@
         "babf7c0e-846b-4c56-98cb-bf1ea22b2a95": {
           "type": "text",
           "settings": {
-            "text": "<p>100% Online FREC Required Course Required to Earn Your Florida Real Estate License<\/p>"
+            "text": "<p>100% Online FREC Required Course Required to Earn Your Florida Real Estate License</p>"
           }
         }
       },
@@ -119,8 +128,7 @@
       "blocks": {
         "template--16719100018940__889404a3-018d-4fa6-bdf3-b55964bcdeb8-16836713978fe608bb-2": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "template--16719100018940__889404a3-018d-4fa6-bdf3-b55964bcdeb8-16836713978fe608bb-5": {
           "type": "buy_buttons",
@@ -131,7 +139,7 @@
         "518bc357-e001-4d03-b697-32b89f74fcb9": {
           "type": "text",
           "settings": {
-            "text": "<strong>This course includes:<\/strong>",
+            "text": "<strong>This course includes:</strong>",
             "text_style": "body"
           }
         },
@@ -190,7 +198,7 @@
         "927679d6-c13a-4eed-b256-f441e56cad44"
       ],
       "settings": {
-        "product": "fl-video-63-hr-pre-licensing-class-online",
+        "product": "florida-real-estate-license-online-course",
         "color_scheme": "accent-1",
         "secondary_background": false,
         "media_size": "small",
@@ -225,7 +233,7 @@
         "f32ab6db-0456-4bc4-8b3e-8b7dac17cc60": {
           "type": "text",
           "settings": {
-            "text": "<p>Now you can complete the course in an instructor guided format, online and on your schedule<\/p>"
+            "text": "<p>Now you can complete the course in an instructor guided format, online and on your schedule</p>"
           }
         }
       },
@@ -248,8 +256,7 @@
       "blocks": {
         "28e4cdd7-4622-459e-a208-5fc8370cce6d": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "5a1ba1d2-d418-4c9b-9df8-8c38577cd7cc": {
           "type": "buy_buttons",
@@ -260,7 +267,7 @@
         "f86df6cf-65f8-46df-9440-a7a5f53ed212": {
           "type": "text",
           "settings": {
-            "text": "<strong>This course includes:<\/strong>",
+            "text": "<strong>This course includes:</strong>",
             "text_style": "body"
           }
         },
@@ -362,7 +369,7 @@
         "28c07754-7e6e-4a6d-836a-81465d2d00cb": {
           "type": "text",
           "settings": {
-            "text": "<p>Save big this weekend only on the tools used by thousands to expedite and streamline their studying for the FL Real Estate Exam<\/p>"
+            "text": "<p>Save big this weekend only on the tools used by thousands to expedite and streamline their studying for the FL Real Estate Exam</p>"
           }
         }
       },
@@ -385,8 +392,7 @@
       "blocks": {
         "1a3fa4af-92da-4186-8b30-1b0cea2f0ec6": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "31e7eca5-e57f-4b9d-abe4-932e9d2c6afb": {
           "type": "buy_buttons",
@@ -397,7 +403,7 @@
         "41f1c752-c9bc-4198-968b-67c103b197c9": {
           "type": "text",
           "settings": {
-            "text": "<strong>This package includes:<\/strong>",
+            "text": "<strong>This package includes:</strong>",
             "text_style": "body"
           }
         },
@@ -499,7 +505,7 @@
         "9154b1df-b003-4aff-92a7-2f4812a6144b": {
           "type": "text",
           "settings": {
-            "text": "<p>100% Online FREC Required Course Required to Complete Your First Sales Associate License Renewal<\/p>"
+            "text": "<p>100% Online FREC Required Course Required to Complete Your First Sales Associate License Renewal</p>"
           }
         }
       },
@@ -522,8 +528,7 @@
       "blocks": {
         "0d2e5da8-c174-4286-a867-2346720d80b4": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "5164b09a-77e4-4bb2-bb42-f34c84fb1bfc": {
           "type": "buy_buttons",
@@ -534,7 +539,7 @@
         "8989bf27-52c3-4b33-9f7e-69a96475dbae": {
           "type": "text",
           "settings": {
-            "text": "<strong>This course includes:<\/strong>",
+            "text": "<strong>This course includes:</strong>",
             "text_style": "body"
           }
         },
@@ -644,7 +649,7 @@
         "53f2a674-8635-4be8-b8c7-447af0ba0a27": {
           "type": "text",
           "settings": {
-            "text": "<p>100% Online FREC Required Course Required to Upgrade to a Broker Pre-License<\/p>"
+            "text": "<p>100% Online FREC Required Course Required to Upgrade to a Broker Pre-License</p>"
           }
         }
       },
@@ -667,8 +672,7 @@
       "blocks": {
         "b6281f8c-eb3e-4abc-b59c-64562a6e9764": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "79cf1693-473d-44dc-8381-93d7281cdec6": {
           "type": "buy_buttons",
@@ -679,7 +683,7 @@
         "a0d48912-a754-47ef-8729-3836cc237a55": {
           "type": "text",
           "settings": {
-            "text": "<strong>This course includes:<\/strong>",
+            "text": "<strong>This course includes:</strong>",
             "text_style": "body"
           }
         },
@@ -758,10 +762,10 @@
         "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_58a938a5-36ef-4a9a-9075-a4f540f68946.webp",
+            "image": "shopify://shop_images/download_58a938a5-36ef-4a9a-9075-a4f540f68946.webp",
             "icon": "",
             "title": "",
-            "text": "<p>Streamline your learning wherever you have an internet connection<\/p>",
+            "text": "<p>Streamline your learning wherever you have an internet connection</p>",
             "link_label": "",
             "link": "",
             "link_style": "primary"
@@ -770,10 +774,10 @@
         "template--16714870161660__69d2b457-24c9-4c02-ba2f-434e73ca8fba-1682983213062b9e96-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_1_b9e23cb9-c089-4244-8070-882d6b2db409.webp",
+            "image": "shopify://shop_images/download_1_b9e23cb9-c089-4244-8070-882d6b2db409.webp",
             "icon": "",
             "title": "",
-            "text": "<p>Enjoy 24\/7\/365 access so you can study anytime<\/p>",
+            "text": "<p>Enjoy 24/7/365 access so you can study anytime</p>",
             "link_label": "",
             "link": "",
             "link_style": "primary"
@@ -782,10 +786,10 @@
         "070e406e-cca2-4530-b83e-77a32a618e2c": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_2_29ff80c7-c710-457d-b9e3-2dd34e4afd75.webp",
+            "image": "shopify://shop_images/download_2_29ff80c7-c710-457d-b9e3-2dd34e4afd75.webp",
             "icon": "",
             "title": "",
-            "text": "<p>Accessible to any devices to ensure you’ll get maximum potential of passing the exam.<\/p>",
+            "text": "<p>Accessible to any devices to ensure you’ll get maximum potential of passing the exam.</p>",
             "link_label": "",
             "link": "",
             "link_style": "primary"
@@ -794,10 +798,10 @@
         "a3e42bde-6b94-41b7-93f7-3bd98794c22e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_3_36743695-ef80-4c24-a6cf-67c88e705082.webp",
+            "image": "shopify://shop_images/download_3_36743695-ef80-4c24-a6cf-67c88e705082.webp",
             "icon": "",
             "title": "",
-            "text": "<p>Empower your confidence with dowloadable PDFs, infographic materials, and licensing content.<\/p>",
+            "text": "<p>Empower your confidence with dowloadable PDFs, infographic materials, and licensing content.</p>",
             "link_label": "",
             "link": "",
             "link_style": "primary"
